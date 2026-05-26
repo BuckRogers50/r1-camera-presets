@@ -1,16 +1,11 @@
-[
-  {
-    "Name": "Sentient Corporate Synergy Slime Mold",
-    "Category": "Humor",
-    "Description": "Transforms the image into a hyper-detailed, surrealist conceptual illustration.",
-    "Prompt": "Take a picture and radically transform it into a hyper-detailed, surrealist conceptual illustration showing a modern corporate office structure that has been entirely consumed and assimilated by a sentient, neon-colored bio-hazard slime mold. The main subjects and objects in the frame must look as though they are halfway through a horrifying metamorphosis, melting into a single, interconnected web of vibrant, bubbling goo. Desktop computers, office chairs, and human limbs should be visibly fusing together, with half-dissolved keyboards and corporate lanyards sticking out of the pulsating organic mass. The texture of the slime must look glistening, wet, and highly toxic, pulsing with veins of neon pink and electric yellow. In the background, ensure the sleek glass windows and gray cubicle walls are dripping with fungal spores and mossy overgrowth. The entire composition should feel incredibly over-saturated, chaotic, and darkly humorous, perfectly capturing a literal, biological interpretation of a toxic corporate culture absorbing everything in its path.",
-    "Preview": "public/sentient-corporate.jpg"
-  },
-  {
-    "Name": "1920s German Expressionist Silent Film Glitch",
-    "Category": "Humor",
-    "Description": "Turns the scene into a chaotic, jagged frame from a lost 1920s German Expressionist film.",
-    "Prompt": "Take a picture and completely overwrite its visual style to mimic a chaotic, jagged frame from a lost 1920s German Expressionist silent horror film. Everything in the frame must be distorted using sharp, aggressive geometric angles, highly exaggerated proportions, and violent, non-linear perspectives. The subjects must be transformed into pale, heavily shadowed characters wearing thick, melting theatrical makeup with dark, sunken eyes and elongated, claw-like fingers clutched to their chests in a state of perpetual shock. The background should feature impossibly tilted walls, crooked doorways, and jagged staircases that defy gravity and architecture, painted in stark, high-contrast black and white. Infuse the entire image with a heavy, flickering silver-halide film texture, vertical scratches, and dense charcoal-like soot overlays. There should be zero soft gradients; instead, utilize aggressive, slashed shadows that cut across the subjects' faces like knives, creating a deeply psychological, claustrophobic, and manic atmosphere of early cinema madness.",
-    "Preview": "public/german-expressionist.jpg"
-  }
-]
+{
+  "presets": [
+    {
+      "name": "Sentient Corporate Synergy Slime Mold",
+      "category": "Humor",
+      "description": "Transforms the image into a hyper-detailed, surrealist conceptual illustration.",
+      "prompt": "Take a picture and radically transform it into a hyper-detailed, surrealist conceptual illustration showing a modern corporate office structure that has been entirely consumed and assimilated by a sentient, neon-colored bio-hazard slime mold. The main subjects and objects in the frame must look as though they are halfway through a horrifying metamorphosis, melting into a single, interconnected web of vibrant, bubbling goo. Desktop computers, office chairs, and human limbs should be visibly fusing together, with half-dissolved keyboards and corporate lanyards sticking out of the pulsating organic mass. The texture of the slime must look glistening, wet, and highly toxic, pulsing with veins of neon pink and electric yellow. In the background, ensure the sleek glass windows and gray cubicle walls are dripping with fungal spores and mossy overgrowth. The entire composition should feel incredibly over-saturated, chaotic, and darkly humorous, perfectly capturing a literal, biological interpretation of a toxic corporate culture absorbing everything in its path.",
+      "preview": "public/sentient-corporate.jpg"
+    }
+  ]
+}
