@@ -1,11 +1,12 @@
-{
-  "presets": [
-    {
-      "name": "Sentient Corporate Synergy Slime Mold",
-      "category": "Humor",
-      "description": "Transforms the image into a hyper-detailed, surrealist conceptual illustration.",
-      "prompt": "Take a picture and radically transform it into a hyper-detailed, surrealist conceptual illustration showing a modern corporate office structure that has been entirely consumed and assimilated by a sentient, neon-colored bio-hazard slime mold. The main subjects and objects in the frame must look as though they are halfway through a horrifying metamorphosis, melting into a single, interconnected web of vibrant, bubbling goo. Desktop computers, office chairs, and human limbs should be visibly fusing together, with half-dissolved keyboards and corporate lanyards sticking out of the pulsating organic mass. The texture of the slime must look glistening, wet, and highly toxic, pulsing with veins of neon pink and electric yellow. In the background, ensure the sleek glass windows and gray cubicle walls are dripping with fungal spores and mossy overgrowth. The entire composition should feel incredibly over-saturated, chaotic, and darkly humorous, perfectly capturing a literal, biological interpretation of a toxic corporate culture absorbing everything in its path.",
-      "preview": "public/sentient-corporate.jpg"
-    }
-  ]
-}
+[
+  {
+    "name": "Slime Mold",
+    "category": "Humor",
+    "prompt": "Take a picture and radically transform it into a hyper-detailed surrealist illustration of an office consumed by neon slime mold."
+  },
+  {
+    "name": "Silent Film",
+    "category": "Humor",
+    "prompt": "Take a picture and overwrite its visual style to mimic a jagged frame from a lost 1920s German Expressionist silent horror film."
+  }
+]
