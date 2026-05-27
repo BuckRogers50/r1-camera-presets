@@ -1,0 +1,61 @@
+[
+  {
+    "name": "AMERICAN HERO",
+    "category": [
+      "HUMOR",
+      "FUN AND CREATIVE",
+      "SOCIAL MEDIA"
+    ],
+    "message": "Take a picture and style it to look like a live-action still frame from the 1981 television series \"The Greatest American Hero\". The primary subject must be outfitted in a vibrant, slightly ill-fitting bright red superhero costume featuring a prominent, stylized black-and-white alien symbol on a white chest emblem.",
+    "options": [],
+    "randomizeOptions": false,
+    "additionalInstructions": "[Photorealistic] The image must capture the distinct, sunny look of early-1980s Los Angeles television production. The lighting should be bright, high-key outdoor sunlight with a soft contrast. The final output must include a subtle analog video grain, slight lens blooming, and a touch of comedic, mid-air awkwardness or slight motion blur, as if the subject is still learning how to fly without the instruction manual."
+  },
+  {
+    "name": "VOYAGERS OMNI",
+    "category": [
+      "TRAVEL",
+      "HISTORICAL",
+      "SCI-FI"
+    ],
+    "message": "Take a picture and recreate the scene as if it is being viewed through the spinning, golden temporal vortex of the Omni device from the 1982 time-travel television series \"Voyagers!\". The edges of the image must warp, blur, and spiral outward into a swirling tunnel of brass, gold, and amber light.",
+    "options": [],
+    "randomizeOptions": false,
+    "additionalInstructions": "The central subject remains clear but inherits a warm, sepia-toned vintage film quality, while the surrounding background dissolves into a kinetic mix of historic artifacts, old clock gears, and cascading light trails. The overall aesthetic should perfectly mimic early 1982 television practical effects, complete with soft focus, high analog bloom, and a warm, nostalgic hue."
+  },
+  {
+    "name": "STREET HAWK",
+    "category": [
+      "PHOTOGRAPHY",
+      "TECHNOLOGY"
+    ],
+    "message": "Take a picture and apply the dark, high-speed, techno-noir style of the 1985 TV series \"Street Hawk\". The environment must be transformed into a slick, rain-washed metropolitan city at midnight, with all elements cast in deep shadows and stark, high-contrast lighting.",
+    "options": [],
+    "randomizeOptions": false,
+    "additionalInstructions": "Apply dramatic cinematic lighting with strong directional light sources, deep shadows, and rich contrast. Infuse the scene with long, dramatic motion-blur light streaks from oncoming traffic and glowing red taillights, simulating a high-speed \"Hyperthrust\" chase sequence. The central subject should be illuminated by sharp, cool-blue neon streetlights and the intense beam of a single, powerful motorcycle headlight cutting through the dark. The entire image should look like it was shot on high-grain 35mm film."
+  },
+  {
+    "name": "GALAXY RANGER",
+    "category": [
+      "SCI-FI",
+      "ART STYLE",
+      "HISTORICAL"
+    ],
+    "message": "Take a picture and transform the subject into a stylized character from the 1986 space-western animated series \"Adventures of the Galaxy Rangers\". The art style must feature sharp, hand-drawn ink lines, cinematic shadows, and a gritty, high-noon desert-futurism aesthetic.",
+    "options": [],
+    "randomizeOptions": false,
+    "additionalInstructions": "The character should be outfitted with a high-tech star badge, futuristic cybernetic armor plates, and 1980s-stylized hair. The color palette must lean into retro-futuristic tones: dusty oranges, electric blues, and metallic grays. The background should be a desolate, alien desert planet with twin suns, rendered in the classic, textured gouache style of 80s animation background paintings."
+  },
+  {
+    "name": "SILVERHAWKS METAL",
+    "category": [
+      "SCI-FI",
+      "FANTASY",
+      "ANIMATION"
+    ],
+    "message": "Take a picture and transform the entire scene into the sleek, metallic space-opera art style of the 1986 Rankin/Bass animated series \"SilverHawks\". The central subject and major elements must be converted into gleaming, polished cybernetic armor with reflective chrome, brilliant silver, and metallic copper finishes.",
+    "options": [],
+    "randomizeOptions": false,
+    "additionalInstructions": "Apply dramatic cinematic lighting with strong directional light sources, deep shadows, and rich contrast. Set the scene against a deep-space backdrop filled with swirling cosmic nebulas in shades of magenta, hot pink, and dark violet. Every metallic surface must catch the ambient starlight, creating brilliant lens flares, sharp specular highlights, and a radiant, retro-futuristic glow. The overall texture should look like high-quality, hand-painted animation cels from the mid-1980s."
+  }
+]
