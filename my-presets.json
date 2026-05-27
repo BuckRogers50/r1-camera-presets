@@ -1,5 +1,108 @@
 [
   {
+    "name": "GPK GENERATOR",
+    "category": [
+      "ART STYLE",
+      "SATIRE",
+      "HUMOR",
+      "PORTRAIT"
+    ],
+    "message": "[Transform Subject] Take a picture and transform the central person into an authentic, hand-painted 1980s \"Garbage Pail Kids\" trading card sticker. The subject must be rendered with chubby, soft Cabbage Patch-style anatomy, large glossy eyes, and a mischievous expression. The art style must flawlessly mimic the vintage 1985 Topps airbrushed gouache and oil technique: smooth gradient shading, warm lighting, and thick analog textures. Place the character against a flat, solid-colored background with a soft drop shadow, framed inside a classic die-cut white sticker border with a bold, hand-drawn name banner at the bottom.",
+    "randomizeOptions": true,
+    "optionGroups": [
+      {
+        "title": "THE VINTAGE CLASSICS (10 ICONIC ORIGINALS)",
+        "options": [
+          {
+            "id": "001",
+            "text": "Modify the character so they are sitting on the ground wearing a blue school suit, holding a dual-button remote detonator. The entire top of their skull has exploded into a massive, highly detailed, fiery orange and yellow nuclear mushroom cloud with a tiny face in the smoke."
+          },
+          {
+            "id": "002",
+            "text": "Modify the character into a classic kid vampire with slicked-back widow's peak hair, a high-collared black and red cape, and sharp fangs dripping with blood. They are aggressively biting the neck of a plastic fashion doll."
+          },
+          {
+            "id": "003",
+            "text": "Modify the character into a rotting, pale-green zombie boy with a wild grin, crawling out of an open dirt grave under a pale blue full moon. Earthworms are visibly coiling through holes in his clothes and flesh."
+          },
+          {
+            "id": "004",
+            "text": "Modify the character to have visibly terrible teeth and a green, toxic, swirling cloud of vapor erupting from their wide-open mouth. In the background, a small cartoon bird is dropping dead mid-air and a houseplant is actively wilting from the fumes."
+          },
+          {
+            "id": "005",
+            "text": "Modify the character to look like a cool 1980s punk kid with a messy black mohawk, sunglasses, and a leather jacket. They are joyfully spray-painting neon graffiti directly onto the inside surface of the card's frame."
+          },
+          {
+            "id": "006",
+            "text": "Modify the character so they are strapped into a wooden electric chair, wearing a black-and-white striped prison uniform. Intense blue electric currents are arcing off their body, lighting up their skeleton through their skin with a cartoonish look of shock."
+          },
+          {
+            "id": "007",
+            "text": "Modify the character to look like a vintage paper doll with heavy dotted lines running down their body. They are holding a massive, blunt pair of safety scissors and have clumsily cut off their own arm or leg along the dotted line."
+          },
+          {
+            "id": "008",
+            "text": "Modify the character to be wearing a classic yellow paper army hat. They have blown a pink bubblegum bubble so colossally large that it has exploded, plastering thick, gooey pink latex gum across their entire face, hair, and shoulders."
+          },
+          {
+            "id": "009",
+            "text": "Modify the character to have a look of sheer, boiling rage. The entire top of their head has transformed into a glowing, red-hot volcanic crater erupting with molten lava, dark soot, and flying sparks."
+          },
+          {
+            "id": "010",
+            "text": "Modify the character into a retro sci-fi alien kid, featuring an exposed, oversized glowing pink brain under a clear glass space helmet, wearing a bright green retro space suit with a ray gun strapped to their hip."
+          }
+        ]
+      },
+      {
+        "title": "THE 2020S ANCHORS",
+        "options": [
+          {
+            "id": "011",
+            "text": "Modify the character so they are sitting cross-legged in a pitch-black bedroom, their face ghastly illuminated by the intense blue light of a smartphone. Their thumbs are swollen to the size of watermelons from infinite scrolling, and their eyeballs are literally melting out of their sockets and dripping onto the screen."
+          },
+          {
+            "id": "012",
+            "text": "Modify the character to look like a smug \"tech bro\" wearing a fleece vest, whose body is physically shattering into thousands of volatile, jagged, digital pixel blocks. They are holding a physical gold coin that is actively dissolving into green digital sludge pouring through their fingers."
+          },
+          {
+            "id": "013",
+            "text": "Modify the character so they are holding a phone out for a selfie. Their physical face is a distorted, melting mass of flesh that is being violently sucked and warped upward into a giant, hovering, neon holographic \"Beauty Filter\" grid floating above them, leaving a grotesque blank canvas underneath."
+          },
+          {
+            "id": "014",
+            "text": "Modify the character so they are wearing a massive, clunky virtual reality headset. While they are smiling blissfully, a swarm of digital pixelated leeches and fiber-optic cables are burrowing out from the back of the headset directly into their skull, draining their thoughts into a glowing data server on the floor."
+          },
+          {
+            "id": "015",
+            "text": "Modify the character so they are sitting in front of a computer. Their body is a horrific, anatomical anomaly caused by an AI rendering error—they have seven fingers on each hand, three mismatched ears sprouting from their neck, and a face made of beautifully painted but completely jumbled facial features."
+          },
+          {
+            "id": "016",
+            "text": "Modify the character to look like a trendy internet influencer standing in front of a ring light. They are aggressively crying giant, fake, cartoonish puddles of tears into a tiny microphone while a tidal wave of physical, spike-covered thumbs-down icons and red angry-face emojis break through the background to bury them alive."
+          },
+          {
+            "id": "017",
+            "text": "Modify the character into an exhausted gig-economy delivery worker. They are buried alive up to their neck under a mountain of insulation bags, bursting grocery containers, and tangled charging cords, while ten different smartphone screens attached to their arms flash red overdue notifications."
+          },
+          {
+            "id": "018",
+            "text": "Modify the character to have a veins-popping, screaming face, holding a smartphone recording a video. Their mouth has transformed into a literal, mechanical police siren that is blaring bright red and blue light waves, fracturing the card's frame with sheer acoustic volume."
+          },
+          {
+            "id": "019",
+            "text": "Modify the character so they are ecstatically cutting open a delivery box. The moment the tape breaks, a violent, high-pressure geyser of static packing peanuts, bubble wrap, and cardboard flaps explodes from the box, completely inflating their body like a giant balloon full of packaging materials."
+          },
+          {
+            "id": "020",
+            "text": "Modify the character so they are sitting in front of an oversized studio microphone. Their tongue has transformed into a literal, sizzling-hot, rusted metal clothing iron that is burning through their bottom lip and sending smoke plumes into the air as they speak."
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "VISUAL METAPHOR",
     "category": [
       "ART STYLE",
