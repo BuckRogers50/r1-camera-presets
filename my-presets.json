@@ -1,5 +1,65 @@
 [
   {
+    "name": "VISUAL METAPHOR",
+    "category": [
+      "ART STYLE",
+      "PHOTOGRAPHY",
+      "ABSTRACT"
+    ],
+    "message": "[Transform Subject] Take a picture and transform the central subject or object into a clever, conceptual visual metaphor. The subject must be cross-pollinated or merged with a completely unrelated object in a highly clean, seamless, literal fashion to convey a smart, singular message without needing words (e.g., a car key shaped like a city skyline, or a coffee splash shaped like an alarm clock).",
+    "options": [],
+    "randomizeOptions": false,
+    "additionalInstructions": "[Photorealistic] The composite object must look absolutely real, tactile, and physically tangible, avoiding surreal fantasy art styles. Use studio-quality product lighting with soft, elegant drop shadows against a neutral, high-end studio backdrop. The execution must look hyper-deliberate, high-concept, and brilliantly executed, allowing the visual punchline to be instantly understood."
+  },
+  {
+    "name": "AMBIENT ACTIVATION",
+    "category": [
+      "PHOTOGRAPHY",
+      "FUN AND CREATIVE",
+      "TRAVEL"
+    ],
+    "message": "[Recreate] Take a picture and recreate the entire scene to look like a documentary or case-study photograph of a guerrilla marketing activation in a public space (like a subway station, city street corner, or public park). The original subject must be seamlessly integrated into the environment as a clever, large-scale physical installation or structural modification.",
+    "options": [],
+    "randomizeOptions": false,
+    "additionalInstructions": "[Cinematic Lighting] The entire image must be framed from a candid, natural angle, capturing passersby interacting with or looking at the installation. The lighting should look like authentic ambient city light, and the photo texture should have the slightly unpolished, documentary film grain of a live activation photo found in an agency's award submission deck."
+  },
+  {
+    "name": "OOH IMPACT BILLBOARD",
+    "category": [
+      "PHOTOGRAPHY",
+      "CREATIVE EFFECTIVENESS",
+      "PORTRAIT"
+    ],
+    "message": "[Transform] Take a picture and transform the scene into a high-impact, minimalist public transit poster or urban billboard campaign. The central subject must be isolated with maximum contrast against a bold, completely flat, single-color background—such as a vibrant primary red, a stark industrial yellow, or a deep matte black.",
+    "options": [],
+    "randomizeOptions": false,
+    "additionalInstructions": "[Photorealistic] Treat the subject with crisp, hyper-detailed commercial photography lighting, removing all distracting background elements. The framing must be exceptionally clean and direct, designed to be read instantly from a distance. The overall image must possess the confident, hyper-focused simplicity of a Gold Pencil-winning outdoor campaign."
+  },
+  {
+    "name": "COPY HEAVY ANNUAL",
+    "category": [
+      "OPTIONS",
+      "HISTORICAL",
+      "SOCIAL MEDIA"
+    ],
+    "message": "[Convert] Take a picture and convert the scene into a classic, editorial-style, copy-heavy magazine spread advertisement. The layout must features a strong, multi-column block of elegant, perfectly justified serif body copy text taking up a major portion of the frame, underneath a bold, provocative, large-set headline.",
+    "options": [],
+    "randomizeOptions": false,
+    "additionalInstructions": "The original picture must be treated as a single, poignant, beautifully lit illustrative element or photo insert seamlessly embedded within the text layout (such as a centered top-half image or a striking full-bleed background with crisp text overlays). The paper texture should have a slight matte, premium print-stock finish, evoking the raw, smart, narrative-driven tone of legendary print campaigns."
+  },
+  {
+    "name": "ONE SHOW MINIMAL",
+    "category": [
+      "DESIGN IN ADVERTISING",
+      "ARCHITECTURE",
+      "ART STYLE"
+    ],
+    "message": "[Style] Take a picture and style the scene as a museum-grade, high-end print advertisement from a premium design festival. The image must be strictly organized on a stark, asymmetrical Swiss graphic design grid with a generous amount of deliberate negative space (at least 50% solid off-white, matte black, or muted charcoal gray).",
+    "options": [],
+    "randomizeOptions": false,
+    "additionalInstructions": "[Composition Rules] Crop and frame the original subject tightly or position it as a single, flawless, geometric focal point. All structural elements must align perfectly with a modern architectural layout. The aesthetic must rely on absolute premium minimalism: sharp lines, high design sophistication, and no digital clutter, ensuring it looks like an award-winning layout for an elite luxury, tech, or automotive brand."
+  },
+  {
     "name": "AMERICAN HERO",
     "category": [
       "HUMOR",
