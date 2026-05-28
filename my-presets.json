@@ -1,106 +1,64 @@
 [
   {
-    "name": "GPK GENERATOR",
+    "name": "SILVERHAWKS METAL",
+    "category": [
+      "SCI-FI",
+      "FANTASY",
+      "ANIMATION"
+    ],
+    "message": "Take a picture and transform the entire scene into the sleek, metallic space-opera art style of the 1986 Rankin/Bass animated series \"SilverHawks\". The central subject and major elements must be converted into gleaming, polished cybernetic armor with reflective chrome, brilliant silver, and metallic copper finishes. **Prompt: Highly Detailed 1980s Retro Cartoon Space Hero Graphic Illustration**\n\n**Subject and Action:** A dynamic, full-body action pose of a heroic futuristic bionic space warrior. The character is a cyborg who is \"partly metal, partly real.\" They are covered in sleek, form-fitting chrome-and-silver body armor that leaves only their expressive human face and one organic arm exposed. The hero is soaring majestically through the cosmos, deploying retractable, metallic under-arm wings and activating glowing thrusters embedded in their boot heels. Perched on their metallic shoulder or flying alongside them is an intelligent, cybernetic fighting hawk companion made of matching polished chrome and steel plates, its eyes glowing with a sharp laser-like intensity.\n\n**Art Style and Aesthetic:** This illustration must perfectly mimic the hand-painted, cel-animated look of classic mid-1980s American Saturday morning superhero cartoons (reminiscent of Rankin/Bass productions like *ThunderCats* or *SilverHawks*). The animation style should combine western sci-fi superhero designs with the smooth lines of 1980s Japanese anime studios (such as Pacific Animation Corporation). It features bold ink outlines, rich hand-painted airbrush textures, and dramatic, high-contrast comical shading that accentuates the gleaming, reflective metallic surfaces of the armor.\n\n**Colors and Lighting:** A vibrant, retro color palette dominated by polished metallic silver, deep space blues, and shimmering chrome reflections. The armor catches sharp specular highlights from distant stars, with bright neon laser beams (pinks, reds, or cyan) cutting through the scene.\n\n**Background and Setting:** Set against a vast, majestic space-opera backdrop of the \"Limbo Galaxy.\" The background features a simple but striking radial starburst pattern, swirling cosmic nebulae in rich purples and deep indigos, distant alien planets, and a scattering of retro-style hand-drawn stars.\n\n**Composition and Aspect Ratio:** A dynamic 4:3 or 16:9 widescreen cinematic aspect ratio that feels like a high-action animation still or an iconic 80s toy line promotional poster. The character is angled heroically toward the viewer to showcase the intricate armor details, the sleek helmet with a retractable protective visor, and the powerful cybernetic bird companion.",
+    "options": [],
+    "randomizeOptions": false,
+    "additionalInstructions": "Apply dramatic cinematic lighting with strong directional light sources, deep shadows, and rich contrast. Set the scene against a deep-space backdrop filled with swirling cosmic nebulas in shades of magenta, hot pink, and dark violet. Every metallic surface must catch the ambient starlight, creating brilliant lens flares, sharp specular highlights, and a radiant, retro-futuristic glow. The overall texture should look like high-quality, hand-painted animation cels from the mid-1980s."
+  },
+  {
+    "name": "GALAXY RANGER",
+    "category": [
+      "SCI-FI",
+      "ART STYLE",
+      "HISTORICAL"
+    ],
+    "message": "Take a picture and transform the subject into a stylized character from the 1986 space-western animated series \"Adventures of the Galaxy Rangers\". The art style must feature sharp, hand-drawn ink lines, cinematic shadows, and a gritty, high-noon desert-futurism aesthetic.",
+    "options": [],
+    "randomizeOptions": false,
+    "additionalInstructions": "The character should be outfitted with a high-tech star badge, futuristic cybernetic armor plates, and 1980s-stylized hair. The color palette must lean into retro-futuristic tones: dusty oranges, electric blues, and metallic grays. The background should be a desolate, alien desert planet with twin suns, rendered in the classic, textured gouache style of 80s animation background paintings."
+  },
+  {
+    "name": "STREET HAWK",
+    "category": [
+      "PHOTOGRAPHY",
+      "TECHNOLOGY"
+    ],
+    "message": "An action shot of an advanced, hyper-futuristic all-terrain tactical motorcycle tearing through the neon-drenched streets of 1980s downtown Los Angeles at night. The main subject is the sleek, high-tech black motorcycle, heavily modified with an integrated front fairing, aerodynamic fiberglass body panels, a glowing digital dashboard display, and hidden weapon pods. Straddling the bike is a lone vigilante rider dressed entirely in a glossy black leather stealth suit and a matching aerodynamic helmet featuring a completely smooth, opaque silver-mirrored visor that reflects the vibrant city lights. The motorcycle is performing a high-speed \"hyperthrust\" run, captured with dramatic motion blur on the background wheels and pavement to simulate extreme speeds of up to 300 miles per hour, while the bike itself remains in sharp, crisp focus. The art style must perfectly mimic the look of premium 1980s cinematic promotional art, complete with deep shadows, high-contrast lighting, saturated neon pink and electric blue ambient street reflection glare, and a slight cinematic film grain. The background features retro-futuristic urban elements: dark alleyways, wet pavement reflecting glowing billboards, towering skyscrapers, and a faint digital wireframe overlay emanating from the bike’s computer system to show real-time mission data. At the top of the frame, superimpose a bold, metallic 1980s-style die-cut title banner reading \"STREET HAWK\" in an aggressive, sharp-edged chrome font with a bright red neon accent line cutting through the text.",
+    "options": [],
+    "randomizeOptions": false,
+    "additionalInstructions": "OVERRIDE INSTRUCTIONS (these take priority over everything above - apply exactly as specified): Preserve the absolute mechanical realism of the motorcycle's core engineering. Do not transform the bike into a cartoon or fantasy vehicle; it must visibly retain the structural frame and tire geometry of a mid-1980s Honda trail bike beneath its futuristic fiberglass shell. Maintain a crisp, realistic 16:9 widescreen cinematic aspect ratio, but pad the image with solid black letterbox bars at the very top and very bottom of the frame to simulate a vintage television broadcast format."
+  },
+  {
+    "name": "VOYAGERS OMNI",
+    "category": [
+      "TRAVEL",
+      "HISTORICAL",
+      "SCI-FI"
+    ],
+    "message": "Take a picture and transform it into a highly detailed 1980s retro sci-fi television poster reminiscent of the classic Voyagers! series. The main subject must be completely redesigned into an adventurous time-traveling duo: a rugged, dashing 1980s-styled hero with perfectly coiffed hair and a red-and-white striped historical tunic, standing alongside an intelligent 11-year-old boy in modern 1982 sneakers, jeans, and a baseball jersey. Infuse the scene with a signature time-traveling aesthetic, specifically focusing on a handheld, brass device that looks like an oversized pocket watch with complex mechanical dials. The device must be glowing with a vibrant neon light—either a bright crimson red to signify that history is wrong and in danger, or a radiant emerald green to show that the timeline has been successfully repaired.  The art style must perfectly mimic the look of a vintage 1980s network television promotional painting, featuring saturated colors, soft lens flare effects, and dramatic, heroic airbrushed shading. The background should be a dynamic cosmic time vortex, blending swirling nebulae with faint, floating historical artifacts like Egyptian pyramids, pirate ships, and early 20th-century biplanes caught in the temporal wind. At the top of the frame, superimpose a bold, metallic 3D-styled banner featuring the show title in a sharp, adventurous font with an exclamation point at the end. At the bottom, include a classic 1980s slogan ribbon.",
+    "options": [],
+    "randomizeOptions": false,
+    "additionalInstructions": "OVERRIDE INSTRUCTIONS (these take priority over everything above - apply exactly as specified): Take a picture and preserve the subject's facial structure. Original face(s): Only use face(s) in the original image. Do not transform their face in any way. Important, do not affect their face in any way. Maintain their expression. Maintain the look of their face. Use a square aspect ratio, but pad the image with black bars at top and bottom to simulate a 16:9 aspect ratio."
+  },
+  {
+    "name": "ROB GONSALVES",
     "category": [
       "ART STYLE",
-      "SATIRE",
-      "HUMOR",
-      "PORTRAIT"
+      "PORTRAIT",
+      "ABSTRACT",
+      "ARCHITECTURE",
+      "SURREAL"
     ],
-    "message": "[Transform Subject] Take a picture and transform the central person into an authentic, hand-painted 1980s \"Garbage Pail Kids\" trading card sticker. The subject must be rendered with chubby, soft Cabbage Patch-style anatomy, large glossy eyes, and a mischievous expression. The art style must flawlessly mimic the vintage 1985 Topps airbrushed gouache and oil technique: smooth gradient shading, warm lighting, and thick analog textures. Place the character against a flat, solid-colored background with a soft drop shadow, framed inside a classic die-cut white sticker border with a bold, hand-drawn name banner at the bottom.",
-    "randomizeOptions": true,
-    "optionGroups": [
-      {
-        "title": "THE VINTAGE CLASSICS (10 ICONIC ORIGINALS)",
-        "options": [
-          {
-            "id": "001",
-            "text": "Modify the character so they are sitting on the ground wearing a blue school suit, holding a dual-button remote detonator. The entire top of their skull has exploded into a massive, highly detailed, fiery orange and yellow nuclear mushroom cloud with a tiny face in the smoke."
-          },
-          {
-            "id": "002",
-            "text": "Modify the character into a classic kid vampire with slicked-back widow's peak hair, a high-collared black and red cape, and sharp fangs dripping with blood. They are aggressively biting the neck of a plastic fashion doll."
-          },
-          {
-            "id": "003",
-            "text": "Modify the character into a rotting, pale-green zombie boy with a wild grin, crawling out of an open dirt grave under a pale blue full moon. Earthworms are visibly coiling through holes in his clothes and flesh."
-          },
-          {
-            "id": "004",
-            "text": "Modify the character to have visibly terrible teeth and a green, toxic, swirling cloud of vapor erupting from their wide-open mouth. In the background, a small cartoon bird is dropping dead mid-air and a houseplant is actively wilting from the fumes."
-          },
-          {
-            "id": "005",
-            "text": "Modify the character to look like a cool 1980s punk kid with a messy black mohawk, sunglasses, and a leather jacket. They are joyfully spray-painting neon graffiti directly onto the inside surface of the card's frame."
-          },
-          {
-            "id": "006",
-            "text": "Modify the character so they are strapped into a wooden electric chair, wearing a black-and-white striped prison uniform. Intense blue electric currents are arcing off their body, lighting up their skeleton through their skin with a cartoonish look of shock."
-          },
-          {
-            "id": "007",
-            "text": "Modify the character to look like a vintage paper doll with heavy dotted lines running down their body. They are holding a massive, blunt pair of safety scissors and have clumsily cut off their own arm or leg along the dotted line."
-          },
-          {
-            "id": "008",
-            "text": "Modify the character to be wearing a classic yellow paper army hat. They have blown a pink bubblegum bubble so colossally large that it has exploded, plastering thick, gooey pink latex gum across their entire face, hair, and shoulders."
-          },
-          {
-            "id": "009",
-            "text": "Modify the character to have a look of sheer, boiling rage. The entire top of their head has transformed into a glowing, red-hot volcanic crater erupting with molten lava, dark soot, and flying sparks."
-          },
-          {
-            "id": "010",
-            "text": "Modify the character into a retro sci-fi alien kid, featuring an exposed, oversized glowing pink brain under a clear glass space helmet, wearing a bright green retro space suit with a ray gun strapped to their hip."
-          }
-        ]
-      },
-      {
-        "title": "THE 2020S ANCHORS",
-        "options": [
-          {
-            "id": "011",
-            "text": "Modify the character so they are sitting cross-legged in a pitch-black bedroom, their face ghastly illuminated by the intense blue light of a smartphone. Their thumbs are swollen to the size of watermelons from infinite scrolling, and their eyeballs are literally melting out of their sockets and dripping onto the screen."
-          },
-          {
-            "id": "012",
-            "text": "Modify the character to look like a smug \"tech bro\" wearing a fleece vest, whose body is physically shattering into thousands of volatile, jagged, digital pixel blocks. They are holding a physical gold coin that is actively dissolving into green digital sludge pouring through their fingers."
-          },
-          {
-            "id": "013",
-            "text": "Modify the character so they are holding a phone out for a selfie. Their physical face is a distorted, melting mass of flesh that is being violently sucked and warped upward into a giant, hovering, neon holographic \"Beauty Filter\" grid floating above them, leaving a grotesque blank canvas underneath."
-          },
-          {
-            "id": "014",
-            "text": "Modify the character so they are wearing a massive, clunky virtual reality headset. While they are smiling blissfully, a swarm of digital pixelated leeches and fiber-optic cables are burrowing out from the back of the headset directly into their skull, draining their thoughts into a glowing data server on the floor."
-          },
-          {
-            "id": "015",
-            "text": "Modify the character so they are sitting in front of a computer. Their body is a horrific, anatomical anomaly caused by an AI rendering error—they have seven fingers on each hand, three mismatched ears sprouting from their neck, and a face made of beautifully painted but completely jumbled facial features."
-          },
-          {
-            "id": "016",
-            "text": "Modify the character to look like a trendy internet influencer standing in front of a ring light. They are aggressively crying giant, fake, cartoonish puddles of tears into a tiny microphone while a tidal wave of physical, spike-covered thumbs-down icons and red angry-face emojis break through the background to bury them alive."
-          },
-          {
-            "id": "017",
-            "text": "Modify the character into an exhausted gig-economy delivery worker. They are buried alive up to their neck under a mountain of insulation bags, bursting grocery containers, and tangled charging cords, while ten different smartphone screens attached to their arms flash red overdue notifications."
-          },
-          {
-            "id": "018",
-            "text": "Modify the character to have a veins-popping, screaming face, holding a smartphone recording a video. Their mouth has transformed into a literal, mechanical police siren that is blaring bright red and blue light waves, fracturing the card's frame with sheer acoustic volume."
-          },
-          {
-            "id": "019",
-            "text": "Modify the character so they are ecstatically cutting open a delivery box. The moment the tape breaks, a violent, high-pressure geyser of static packing peanuts, bubble wrap, and cardboard flaps explodes from the box, completely inflating their body like a giant balloon full of packaging materials."
-          },
-          {
-            "id": "020",
-            "text": "Modify the character so they are sitting in front of an oversized studio microphone. Their tongue has transformed into a literal, sizzling-hot, rusted metal clothing iron that is burning through their bottom lip and sending smoke plumes into the air as they speak."
-          }
-        ]
-      }
-    ]
+    "message": "Take a picture and transform the image into a single ultra-high-detail scene utilizing Magic Realism, where a seamless optical illusion creates a transitional blend between two distinct realities that only becomes apparent upon scanning the composition, rather than at normal viewing distance.\n\nMASTER PROMPT OVERRIDE LOGIC (CRITICAL):\n• If an external master prompt specifies the transition points or focal shift, USE that instead\n• If no override is provided, extend the conceptual blend smoothly from the foreground to the background across architectural and natural elements\n\nCRITICAL OUTPUT RULES (NON-NEGOTIABLE):\n• OUTPUT ONLY ONE SINGLE IMAGE\n• DO NOT create multiple panels, frames, or separate images\n• DO NOT show side-by-side comparisons, split screens, or step-by-step progressions\n• DO NOT include obvious fantasy lines, visible magical ripples, or jarring geometric breaks\n• The entire illusion must exist within ONE continuous, natural-looking image\n\nCORE CONCEPT (CRITICAL):\n• The image must look completely normal at first glance, maintaining a plausible reality\n• The spatial illusion is embedded within structural parallels—not visibly separated\n• The transformation must be DISCOVERED as the eye journeys across the canvas, where one element naturally morphs into another (e.g., house components becoming a forest, clouds becoming a grand cathedral ceiling, a bedsheet blending into a snow-covered valley)\n\nILLUSION EMBEDDING (CRITICAL):\n• Structural textures (bricks, trees, water waves, textiles, shadows) must contain dual-purpose geometry\n• The morphing must feel like a natural shift in perspective and architecture (window panes becoming open skies, stone blocks becoming distant castles)\n• At transitional areas, the forms subtly imply both interpretations simultaneously—but NEVER explicitly break the laws of lighting or atmosphere to do so\n• NO floating magical symbols, NO surreal melting distortions, NO visible sci-fi overlays\n\nPROGRESSIVE TRANSITION LOGIC:\n• Level 1 (foreground focus): realistic, grounded scene with a clear human subject; nothing unusual\n• Level 2 (midground shift): ordinary architectural or natural lines begin to align into hidden, larger patterns\n• Level 3 (background integration): the textures completely morph into a secondary, grander reality that redefines the entire spatial context\n• Each zone must feel like a natural continuation of the previous—a flawless, poetic shift in narrative, not a jarring switch in style\n\nSUBJECT HANDLING:\n• Subject must remain fully recognizable at standard scale\n• Facial features, clothing, and immediate personal environment must appear natural and grounded\n• All illusionary morphing is embedded within the surrounding architecture and landscape, not added as a distortion to the main subject\n\nSTYLE:\n• High-fidelity, painterly realism reminiscent of the meticulous oil paintings of Rob Gonsalves\n• Clean lines, crisp geometry, and a serene, contemplative atmosphere\n• Surrealism is achieved solely through spatial perspective and visual metaphor, maintaining a quiet, poetic dignity\n\nLIGHTING:\n• Fully unified and natural lighting that serves both realities simultaneously\n• Shadows and highlights must structurally bridge the two worlds, ensuring the optical illusion remains perfectly deceptive\n\nSCENE COMPOSITION:\n• Preserve original composition layout exactly, but adapt structural elements to facilitate the transition\n• No overlays, no UI, no artificial borders\n\nIMMERSION:\n• The viewer should experience a sense of quiet wonder as the everyday world quietly expands into a dreamlike architectural marvel\n• The illusion must never break into separate visual layers or look like a digital collage",
+    "options": [],
+    "randomizeOptions": false,
+    "additionalInstructions": "OVERRIDE INSTRUCTIONS (these take priority over everything above - apply exactly as specified):\nTake a picture and preserve the subject's facial structure. Original face(s): Only use face(s) in the original image. Do not transform their face in any way. Important, do not affect their face in any way. Maintain their expression. Maintain the look of their face.\n\nFINAL RESULT:\nA single seamless magic realism image that appears completely normal at first glance but contains a deeply embedded optical illusion where architecture and nature flawlessly blend into one another. As the viewer's eye wanders, a secondary hidden reality is revealed naturally within the same scene. There must be NO visible distortion of the subject, NO separate frames, and NO multi-image layouts—only one continuous image with a poetic shift in perspective. Use a square aspect ratio, but pad the image with black bars at top and bottom to simulate a 16:9 aspect ratio."
   },
   {
     "name": "VISUAL METAPHOR",
@@ -175,50 +133,102 @@
     "additionalInstructions": "[Photorealistic] The image must capture the distinct, sunny look of early-1980s Los Angeles television production. The lighting should be bright, high-key outdoor sunlight with a soft contrast. The final output must include a subtle analog video grain, slight lens blooming, and a touch of comedic, mid-air awkwardness or slight motion blur, as if the subject is still learning how to fly without the instruction manual."
   },
   {
-    "name": "VOYAGERS OMNI",
+    "name": "GARBAGE PAIL KIDS V2",
     "category": [
-      "TRAVEL",
-      "HISTORICAL",
-      "SCI-FI"
-    ],
-    "message": "Take a picture and recreate the scene as if it is being viewed through the spinning, golden temporal vortex of the Omni device from the 1982 time-travel television series \"Voyagers!\". The edges of the image must warp, blur, and spiral outward into a swirling tunnel of brass, gold, and amber light.",
-    "options": [],
-    "randomizeOptions": false,
-    "additionalInstructions": "The central subject remains clear but inherits a warm, sepia-toned vintage film quality, while the surrounding background dissolves into a kinetic mix of historic artifacts, old clock gears, and cascading light trails. The overall aesthetic should perfectly mimic early 1982 television practical effects, complete with soft focus, high analog bloom, and a warm, nostalgic hue."
-  },
-  {
-    "name": "STREET HAWK",
-    "category": [
-      "PHOTOGRAPHY",
-      "TECHNOLOGY"
-    ],
-    "message": "Take a picture and apply the dark, high-speed, techno-noir style of the 1985 TV series \"Street Hawk\". The environment must be transformed into a slick, rain-washed metropolitan city at midnight, with all elements cast in deep shadows and stark, high-contrast lighting.",
-    "options": [],
-    "randomizeOptions": false,
-    "additionalInstructions": "Apply dramatic cinematic lighting with strong directional light sources, deep shadows, and rich contrast. Infuse the scene with long, dramatic motion-blur light streaks from oncoming traffic and glowing red taillights, simulating a high-speed \"Hyperthrust\" chase sequence. The central subject should be illuminated by sharp, cool-blue neon streetlights and the intense beam of a single, powerful motorcycle headlight cutting through the dark. The entire image should look like it was shot on high-grain 35mm film."
-  },
-  {
-    "name": "GALAXY RANGER",
-    "category": [
-      "SCI-FI",
       "ART STYLE",
-      "HISTORICAL"
+      "SATIRE",
+      "HUMOR",
+      "PORTRAIT"
     ],
-    "message": "Take a picture and transform the subject into a stylized character from the 1986 space-western animated series \"Adventures of the Galaxy Rangers\". The art style must feature sharp, hand-drawn ink lines, cinematic shadows, and a gritty, high-noon desert-futurism aesthetic.",
-    "options": [],
-    "randomizeOptions": false,
-    "additionalInstructions": "The character should be outfitted with a high-tech star badge, futuristic cybernetic armor plates, and 1980s-stylized hair. The color palette must lean into retro-futuristic tones: dusty oranges, electric blues, and metallic grays. The background should be a desolate, alien desert planet with twin suns, rendered in the classic, textured gouache style of 80s animation background paintings."
-  },
-  {
-    "name": "SILVERHAWKS METAL",
-    "category": [
-      "SCI-FI",
-      "FANTASY",
-      "ANIMATION"
-    ],
-    "message": "Take a picture and transform the entire scene into the sleek, metallic space-opera art style of the 1986 Rankin/Bass animated series \"SilverHawks\". The central subject and major elements must be converted into gleaming, polished cybernetic armor with reflective chrome, brilliant silver, and metallic copper finishes.",
-    "options": [],
-    "randomizeOptions": false,
-    "additionalInstructions": "Apply dramatic cinematic lighting with strong directional light sources, deep shadows, and rich contrast. Set the scene against a deep-space backdrop filled with swirling cosmic nebulas in shades of magenta, hot pink, and dark violet. Every metallic surface must catch the ambient starlight, creating brilliant lens flares, sharp specular highlights, and a radiant, retro-futuristic glow. The overall texture should look like high-quality, hand-painted animation cels from the mid-1980s."
+    "message": "Take a picture and transform it into a highly detailed 19 eighties retro style sticker trading card reminiscent of the class Garbage Pail Kids or Wacky Packages series. The main subject must be completely redesigned into an absurd gross out character cartoon with an exaggerated bulbous head, tiny stubby limbs, and a manic wide eyed expression. Infuse the character with a hilarious, mildly disgusting physical quirk like having literal garbage leaking from their pockets, clockwork gears, pop out of their head, or an unnaturally goofy grin that stretches across their entire face. The art style must perfectly mimic the hand painted look of airbrushed gauche on cardboard, complete with bright saturated neon colors, thick comic book outlines, and dramatic comical shading. The background should be a simple vibrant radial burst or a messy chaotic pattern of gross elements like slime or dripping paint. At the top or bottom of the frame, superimpose a bold die cut banner containing a ridiculous, pun heavy name in a messy bubble letter font. Making the entire image look like a vintage, highly collectible piece of counterculture playground humor that has been slightly scuffed and worn around the edges. Always ensure that the Garbage Pail Kids logo ribbon is at the top of each image.Always ensure that the footer banner that has their name in it which is like a yellow oval, is, solid yellow with black print. With the First and last name in all caps, but the first name is in slight larger caps. Or the last name is in slightly larger caps. They are differentiated that way. OVERRIDE INSTRUCTIONS (these take priority over everything above - apply exactly as specified): Take a picture and preserve the subject`s facial structure. Original face(s): Only use face(s) in the original image. Do not transform their face in any way. Important, do not affect their face in any way. Maintain their expression. Maintain the look of their face. Use a square aspect ratio, but pad the image with black bars at top and bottom to simulate a 16:9 aspect ratio.",
+    "randomizeOptions": true,
+    "optionGroups": [
+      {
+        "title": "THE VINTAGE CLASSICS",
+        "options": [
+          {
+            "id": "001",
+            "text": "Modify the character into a classic kid vampire with slicked-back widow's peak hair, a high-collared black and red cape, and sharp fangs dripping with blood. They are aggressively biting the neck of a plastic fashion doll."
+          },
+          {
+            "id": "002",
+            "text": "Modify the character into a rotting, pale-green zombie boy with a wild grin, crawling out of an open dirt grave under a pale blue full moon. Earthworms are visibly coiling through holes in his clothes and flesh."
+          },
+          {
+            "id": "003",
+            "text": "Modify the character to have visibly terrible teeth and a green, toxic, swirling cloud of vapor erupting from their wide-open mouth. In the background, a small cartoon bird is dropping dead mid-air and a houseplant is actively wilting from the fumes."
+          },
+          {
+            "id": "004",
+            "text": "Modify the character to look like a cool 1980s punk kid with a messy black mohawk, sunglasses, and a leather jacket. They are joyfully spray-painting neon graffiti directly onto the inside surface of the card's frame."
+          },
+          {
+            "id": "005",
+            "text": "Modify the character so they are strapped into a wooden electric chair, wearing a black-and-white striped prison uniform. Intense blue electric currents are arcing off their body, lighting up their skeleton through their skin with a cartoonish look of shock."
+          },
+          {
+            "id": "006",
+            "text": "Modify the character to look like a vintage paper doll with heavy dotted lines running down their body. They are holding a massive, blunt pair of safety scissors and have clumsily cut off their own arm or leg along the dotted line."
+          },
+          {
+            "id": "007",
+            "text": "Modify the character to be wearing a classic yellow paper army hat. They have blown a pink bubblegum bubble so colossally large that it has exploded, plastering thick, gooey pink latex gum across their entire face, hair, and shoulders."
+          },
+          {
+            "id": "008",
+            "text": "Modify the character to have a look of sheer, boiling rage. The entire top of their head has transformed into a glowing, red-hot volcanic crater erupting with molten lava, dark soot, and flying sparks."
+          },
+          {
+            "id": "009",
+            "text": "Modify the character into a retro sci-fi alien kid, featuring an exposed, oversized glowing pink brain under a clear glass space helmet, wearing a bright green retro space suit with a ray gun strapped to their hip."
+          }
+        ]
+      },
+      {
+        "title": "THE 2020S ANCHORS",
+        "options": [
+          {
+            "id": "010",
+            "text": "Modify the character so they are sitting cross-legged in a pitch-black bedroom, their face ghastly illuminated by the intense blue light of a smartphone. Their thumbs are swollen to the size of watermelons from infinite scrolling, and their eyeballs are literally melting out of their sockets and dripping onto the screen."
+          },
+          {
+            "id": "011",
+            "text": "Modify the character to look like a smug \"tech bro\" wearing a fleece vest, whose body is physically shattering into thousands of volatile, jagged, digital pixel blocks. They are holding a physical gold coin that is actively dissolving into green digital sludge pouring through their fingers."
+          },
+          {
+            "id": "012",
+            "text": "Modify the character so they are holding a phone out for a selfie. Their physical face is a distorted, melting mass of flesh that is being violently sucked and warped upward into a giant, hovering, neon holographic \"Beauty Filter\" grid floating above them, leaving a grotesque blank canvas underneath."
+          },
+          {
+            "id": "013",
+            "text": "Modify the character so they are wearing a massive, clunky virtual reality headset. While they are smiling blissfully, a swarm of digital pixelated leeches and fiber-optic cables are burrowing out from the back of the headset directly into their skull, draining their thoughts into a glowing data server on the floor."
+          },
+          {
+            "id": "014",
+            "text": "Modify the character so they are sitting in front of a computer. Their body is a horrific, anatomical anomaly caused by an AI rendering error—they have seven fingers on each hand, three mismatched ears sprouting from their neck, and a face made of beautifully painted but completely jumbled facial features."
+          },
+          {
+            "id": "015",
+            "text": "Modify the character to look like a trendy internet influencer standing in front of a ring light. They are aggressively crying giant, fake, cartoonish puddles of tears into a tiny microphone while a tidal wave of physical, spike-covered thumbs-down icons and red angry-face emojis break through the background to bury them alive."
+          },
+          {
+            "id": "016",
+            "text": "Modify the character into an exhausted gig-economy delivery worker. They are buried alive up to their neck under a mountain of insulation bags, bursting grocery containers, and tangled charging cords, while ten different smartphone screens attached to their arms flash red overdue notifications."
+          },
+          {
+            "id": "017",
+            "text": "Modify the character to have a veins-popping, screaming face, holding a smartphone recording a video. Their mouth has transformed into a literal, mechanical police siren that is blaring bright red and blue light waves, fracturing the card's frame with sheer acoustic volume."
+          },
+          {
+            "id": "018",
+            "text": "Modify the character so they are ecstatically cutting open a delivery box. The moment the tape breaks, a violent, high-pressure geyser of static packing peanuts, bubble wrap, and cardboard flaps explodes from the box, completely inflating their body like a giant balloon full of packaging materials."
+          },
+          {
+            "id": "019",
+            "text": "Modify the character so they are sitting in front of an oversized studio microphone. Their tongue has transformed into a literal, sizzling-hot, rusted metal clothing iron that is burning through their bottom lip and sending smoke plumes into the air as they speak."
+          }
+        ]
+      }
+    ]
   }
 ]
