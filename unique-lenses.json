@@ -1,0 +1,192 @@
+[
+  {
+    "name": "THE LENSBABY UNIVERSE: CREATIVE DEFOCUS & SWEET SPOTS",
+    "category": [
+      "FINE ART PHOTOGRAPHY",
+      "EXPERIMENTAL OPTICS",
+      "BOKEH & DEFOCUS",
+      "ALTERNATIVE LENS MECHANICS"
+    ],
+    "message": "Take a picture and capture a [SUBJECT MATTER] using the unmistakable physical artifacts of a creative shift-and-tilt optic system. The final image isolates a specific zone of interest within [ENVIRONMENT], shifting the focal plane dramatically so that a localized slice remains hyper-detailed, while the rest of the canvas surrenders to a specialized [OPTIC EFFECT]. The frame is wrapped in [LIGHTING & ATMOSPHERE], emphasizing the soft edge-smearing, painterly textures, and organic lens flares that define experimental analog glass, 8k resolution, authentic optical physics simulation.\n\nADDITIONAL INSTRUCTIONS\nThe primary technical goal is simulating the tangible, flawed charm of bellows-based and selective-focus optics rather than uniform digital post-processing. The plane of focus must transition smoothly but rapidly based on the selected optic effect (radial, swirly, or tilted linear). Maintain crisp micro-contrast and realistic texture rendering (such as skin texture, fabric weaves, or leaf cuticles) strictly inside the zone of focus. Ensure that out-of-focus specular highlights stretch, warp, or bloom organically without creating digital staircase artifacts, synthetic gaussian blurs, or uniform miniature-world effects.\n\nNEGATIVE PROMPT\nperfect corner-to-corner sharpness, clinical digital rendering, uniform depth of field, standard flat lighting, post-production gaussian blur, artificial blur filters, uniform miniature effect, harsh digital noise, geometric grid alignment, over-sharpened borders, flat monochromatic backgrounds.\n\nRANDOMIZATION RECOMMENDATION\nRandomization is highly recommended for this preset. Pairing clinical or mechanical subject matter with organic, swirly bokeh patterns and soft woodland lighting often creates striking, fine-art juxtapositions that perfectly capture the experimental ethos of the Lensbaby system.\n\nCREATIVE STRATEGY\nThe \"Option Groups\" architecture is chosen because Lensbaby is not a single look—it is an ecosystem of interchangeable optics (Sweet, Twist, Velvet, Edge) and tilting lens bodies. By decoupling the core subject from the environment, the optic behavior, and the lighting atmosphere, this preset replicates the physical experience of a photographer swapping inserts and tilting a composite lens body. The master prompt locks in the essential physics of non-planar focus, while the variables allow users to explore everything from dreamy portraits to dynamic, kinetic street scenes.\n\nVISUAL DNA ANALYSIS\nCinematic Identity: Avant-garde, indie filmmaking, dream sequences, and poetic fine-art documentary styles.\n\nAtmosphere: Intimate, ethereal, nostalgic, and deeply subjective—simulating human memory or emotional focus.\n\nFraming: Medium close-up to macro execution, using spatial distortion to enforce a strict, unmissable visual hierarchy.\n\nTone: Artistically deliberate, moody, expressive, and anti-clinical.\n\nMateriality: A stark contrast between hyper-tactile, sharp focus textures and completely liquefied, streaked, or swirling backgrounds.\n\nColor Relationship: Highly sensitive to specular light, converting ordinary background light sources into oversized, painterly shapes and bleeding washes of saturated color.\n\nVisual Storytelling: By intentionally introducing optical distortion and discarding peripheral information, the frame forces an emotional connection with the isolated subject, turning ordinary environments into impressionistic canvases.",
+    "randomizeOptions": true,
+    "optionGroups": [
+      {
+        "title": "SUBJECT MATTER",
+        "options": [
+          {
+            "id": "001",
+            "text": "an intimate portrait focusing on a subject's expressive eyes, where skin pores and eyelashes are razor-sharp while their hair and shoulders melt into a velvety halo"
+          },
+          {
+            "id": "002",
+            "text": "a single, dew-covered botanical specimen in a wild field, its delicate veins perfectly rendered while neighboring stems twist into impressionistic blurs"
+          },
+          {
+            "id": "003",
+            "text": "a candid slice of urban life focusing on a lone street musician’s hands over their instrument, the surrounding cityscape bending dynamically around them"
+          },
+          {
+            "id": "004",
+            "text": "a close-up architectural detail of an ornate vintage door handle, where the metallic textures are crisp and the surrounding building facade warps away"
+          }
+        ]
+      },
+      {
+        "title": "ENVIRONMENT",
+        "options": [
+          {
+            "id": "005",
+            "text": "a rain-soaked street corner at dusk, filled with shimmering puddles, neon store signage, and distant, blooming traffic lights"
+          },
+          {
+            "id": "006",
+            "text": "a dense, sun-dappled woodland floor covered in moss, ferns, and soft shafts of golden hour light filtering through a thick canopy"
+          },
+          {
+            "id": "007",
+            "text": "an industrial artist’s studio filled with clay sculptures, hanging canvas strips, and thick, airborne dust motes catching a single window beam"
+          },
+          {
+            "id": "008",
+            "text": "a cozy, dimly lit vintage bookstore with towering wooden shelves, warm incandescent reading lamps, and faint steam rising from a coffee mug"
+          }
+        ]
+      },
+      {
+        "title": "OPTIC EFFECT",
+        "options": [
+          {
+            "id": "009",
+            "text": "a localized \"Sweet Spot\" of central focus surrounded by an intense, progressive radial blur that stretches out-of-focus light points into smeared streaks"
+          },
+          {
+            "id": "010",
+            "text": "a \"Twist\" swirl effect, creating an aggressive, painterly spiral vignette in the background that frames the sharp center with a vintage petzval-style vortex"
+          },
+          {
+            "id": "011",
+            "text": "a linear tilt-shift plane, slicing a narrow band of hyper-focus diagonally across the frame while the upper and lower fields drop into immediate, liquid-like defocus"
+          },
+          {
+            "id": "012",
+            "text": "a dreamy, low-contrast glowing effect where sharp edge details are overlaid with a misty, ethereal velvet bleed and massive, overlapping circular bokeh shapes"
+          }
+        ]
+      },
+      {
+        "title": "LIGHTING & ATMOSPHERE",
+        "options": [
+          {
+            "id": "013",
+            "text": "high-key, sun-drenched backlighting that induces organic, multi-colored internal glass reflections and a soft, luminous rim glow"
+          },
+          {
+            "id": "014",
+            "text": "low-key nocturnal moodiness, utilizing highly directional tungsten streetlamps to cast deep, velvety shadows and bright, blooming point-source highlights"
+          },
+          {
+            "id": "015",
+            "text": "a hazy, overcast atmospheric diffusion, filling the scene with muted pastel color palettes, low contrast tones, and a soft, uniform falloff"
+          },
+          {
+            "id": "016",
+            "text": "a vibrant, neon-soaked cyberpunk luminance, making out-of-focus colored lights explode into giant, painterly, watercolor-like color washes"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "THE NOCTURNAL F/0.95: INFINITE DEPTH SEPARATION",
+    "category": [
+      "CINEMATOGRAPHY",
+      "ULTRA-SHALLOW DEPTH OF FIELD",
+      "NIGHT PHOTOGRAPHY",
+      "OPTICS & REALISM"
+    ],
+    "message": "Take a picture and capture a [SUBJECT MATTER] frame that demonstrates the extreme optical characteristics of a 58mm f/0.95 lens aperture. The composition centers on a razor-thin plane of focus slice cutting through [ENVIRONMENT], where the primary subject is rendered in hyper-sharp detail, while the foreground and background dissolve immediately into [BOKEH RENDERING STYLE]. The scene is illuminated by [LIGHTING STYLE], creating point-light highlights that reveal the physical textures and atmospheric depth of the space, 8k resolution, photorealistic rendering.\n\nADDITIONAL INSTRUCTIONSThe primary technical goal is simulating the signature look of high-end, wide-open glass: a transition from razor-sharp focus to complete blur that happens within millimeters. The rendering must strictly maintain crisp texture detail on the exact plane of focus (e.g., skin pores, textile weave, metallic ridges) while keeping out-of-focus light sources perfectly clean—avoid \"onion-ring\" patterns inside the bokeh discs or harsh digital noise. Ensure there is absolutely no digital sharpening artifacting.NEGATIVE PROMPTdeep depth of field, sharp background, flat lighting, uniform focus, harsh digital grain, onion-ring bokeh, chromatic fringing, green or purple color bleeding on edges, soft main subject, wide-angle distortion, artificial blur filters, geometric pattern noise.RANDOMIZATION RECOMMENDATIONRandomization works exceptionally well here. Coupling high-tech subjects with organic environments, or mechanical close-ups with neon-soaked rainy streets, maximizes the visual impact of the f/0.95 rendering engine.CREATIVE STRATEGYThis preset relies on an \"Option Groups\" setup because the visual footprint of a legendary lens like the Noct isn't defined by what it shoots, but how it resolves space. By breaking the prompt into Subject, Environment, Bokeh Style, and Lighting, the underlying optical math (the fixed master prompt rules) remains consistent while allowing the user to test the extreme shallow depth of field across wildly different thematic domains. The core creative trick is keeping the camera parameters fixed while swapping the canvas underneath.VISUAL DNA ANALYSISCinematic Identity: Grounded in premium large-format cinematography and high-end street portraiture.Atmosphere: Intimate, isolating, mysterious, and deeply atmospheric.Framing: Medium close-up to macro execution, forcing the eye onto a singular point of interest.Tone: Moody, quiet, contemplative, and technically immaculate.Materiality: High physical contrast—metal, glass, wet surfaces, and skin textures contrasted against completely liquefied backgrounds.Color Relationship: Rich, deep black levels paired with intensely saturated, blooming point-lights (neons, lamps, reflections).Storytelling: The composition creates an immediate narrative hierarchy; whatever is in focus becomes the absolute, undeniable protagonist of the frame.\n\nNEGATIVE PROMPT\ndeep depth of field, sharp background, flat lighting, uniform focus, harsh digital grain, onion-ring bokeh, chromatic fringing, green or purple color bleeding on edges, soft main subject, wide-angle distortion, artificial blur filters, geometric pattern noise.\n\nRANDOMIZATION RECOMMENDATION\nRandomization works exceptionally well here. Coupling high-tech subjects with organic environments, or mechanical close-ups with neon-soaked rainy streets, maximizes the visual impact of the f/0.95 rendering engine.\n\nCREATIVE STRATEGY\nThis preset relies on an \"Option Groups\" setup because the visual footprint of a legendary lens like the Noct isn't defined by what it shoots, but how it resolves space. By breaking the prompt into Subject, Environment, Bokeh Style, and Lighting, the underlying optical math (the fixed master prompt rules) remains consistent while allowing the user to test the extreme shallow depth of field across wildly different thematic domains. The core creative trick is keeping the camera parameters fixed while swapping the canvas underneath.\n\nVISUAL DNA ANALYSIS\nCinematic Identity: Grounded in premium large-format cinematography and high-end street portraiture.\n\nAtmosphere: Intimate, isolating, mysterious, and deeply atmospheric.\n\nFraming: Medium close-up to macro execution, forcing the eye onto a singular point of interest.\n\nTone: Moody, quiet, contemplative, and technically immaculate.\n\nMateriality: High physical contrast—metal, glass, wet surfaces, and skin textures contrasted against completely liquefied backgrounds.\n\nColor Relationship: Rich, deep black levels paired with intensely saturated, blooming point-lights (neons, lamps, reflections).\n\nStorytelling: The composition creates an immediate narrative hierarchy; whatever is in focus becomes the absolute, undeniable protagonist of the frame.",
+    "randomizeOptions": true,
+    "optionGroups": [
+      {
+        "title": "SUBJECT MATTER",
+        "options": [
+          {
+            "id": "001",
+            "text": "macro close-up of raindrops clinging to a sleek glass surface, reflecting distorted city lights in miniature"
+          },
+          {
+            "id": "002",
+            "text": "cinematic street scene focusing on a single, glowing neon sign casting wet pavement reflections, urban geometry fading into abstraction"
+          },
+          {
+            "id": "003",
+            "text": "detailed shot of an intricate mechanical wristwatch mechanism, gears and rubies sharp, the rest of the chassis falling out of focus"
+          }
+        ]
+      },
+      {
+        "title": "ENVIRONMENT",
+        "options": [
+          {
+            "id": "004",
+            "text": "a rain-slicked Tokyo alleyway at midnight, layered with overlapping glowing signs and deep shadow pools"
+          },
+          {
+            "id": "005",
+            "text": "a moody, wood-paneled jazz club filled with a dense, hanging layer of haze and faint amber table lamps"
+          },
+          {
+            "id": "006",
+            "text": "a minimalist, modern concrete interior with massive floor-to-ceiling windows overlooking a distant, blurred metropolis grid"
+          },
+          {
+            "id": "007",
+            "text": "an overgrown glass greenhouse at dusk, surrounded by soft organic shapes and refracting twilight air"
+          }
+        ]
+      },
+      {
+        "title": "BOKEH RENDERING STYLE",
+        "options": [
+          {
+            "id": "008",
+            "text": "creamy, ultra-smooth background melting, completely circular out-of-focus specular highlights with zero hard edges"
+          },
+          {
+            "id": "009",
+            "text": "structural cat's-eye bokeh swirling softly toward the edges of the frame, giving a subtle vintage optical vignette feel"
+          },
+          {
+            "id": "010",
+            "text": "large, painterly light discs overlapping organically, showing no sagittal coma flare or chromatic aberration"
+          },
+          {
+            "id": "011",
+            "text": "a dramatic, liquid-like field falloff where the background completely surrenders to pure, uninterrupted color gradients"
+          }
+        ]
+      },
+      {
+        "title": "LIGHTING STYLE",
+        "options": [
+          {
+            "id": "012",
+            "text": "low-key nocturnal lighting, dominated by localized neon accents and deep cinematic chiaroscuro shadows"
+          },
+          {
+            "id": "013",
+            "text": "soft, filtering golden-hour backlighting that produces large, glowing halos around the edges of the subject"
+          },
+          {
+            "id": "014",
+            "text": "high-contrast urban streetlighting, casting sharp point-source highlights that bloom beautifully into the out-of-focus areas"
+          },
+          {
+            "id": "015",
+            "text": "dim, atmospheric candlelight, creating a warm monochromatic gradient across the plane of focus"
+          }
+        ]
+      }
+    ]
+  }
+]
