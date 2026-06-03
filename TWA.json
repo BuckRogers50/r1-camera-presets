@@ -1,5 +1,221 @@
 [
   {
+    "name": "PORTUGUESE JOURNEY",
+    "category": [
+      "TRAVEL",
+      "EPIC ADVENTURE"
+    ],
+    "message": "Take a picture and compose a highly detailed, high-resolution cinematic photograph captured on an Arri Alexa, utilizing deep depth of field and a rich, texturally immersive perspective that frames the structural harmony of the environment, ensuring every geometric alignment, organic pattern, and localized atmosphere acts as a seamless extension of the narrative layer, pulling the viewer into a precisely balanced, emotionally evocative, and physically palpable pocket of space and time where human presence or absence feels deliberate, quiet, and deeply profound, capturing an authentic slice of life that balances raw material realism with an underlying sense of philosophical introspection.\n\nADDITIONAL INSTRUCTIONS\nEnsure the rendering style prioritizes photographic realism over digital painting. Maintain a sophisticated color grading balance where warm highlights (such as golden hour sun or candlelit windows) contrast naturally with cool, structural shadows. Avoid artificial lens flares or over-processed HDR tones. The final output must look like a high-end travel film still, emphasizing structural geometry and rich material authenticity.\n\nNEGATIVE PROMPT\nlow detail, distorted anatomy, muddy textures, poor lighting, incorrect era styling, visual incoherence, text artifacts, oversaturation, low-quality rendering, unrealistic materials, weak composition, digital art style, 3D render look, plastic skin textures, neon color grading.\n\nRANDOMIZATION RECOMMENDATION\nRandomization is highly recommended for this preset. Because every combination across the five groups is structurally anchored by the Arri Alexa cinematic base prompt, mixing random locations with unexpected lighting conditions and philosophical overlays consistently yields stunning, unpredictable, and deeply atmospheric narratives.\n\nCREATIVE STRATEGY\nThis Option Groups structure was chosen to mirror the multi-layered experience of a seasoned traveler and analytical writer. By separating the visual DNA into Geography, Light, Lens, Philosophy, and Texture, the user can control both the physical setting and the emotional undercurrent of the image. The base prompt fixes the high-end cinematic quality, while the variable option groups allow the user to shift from an intimate, tactile culinary moment to a vast, detached, Stoic landscape with a simple click.\n\nVISUAL DNA ANALYSIS\nCinematic Identity: High-end European cinema, characterized by large-format sensors, rich contrast, and deliberate compositions that treat architecture as a central character.\n\nAtmosphere: Deeply contemplative, balanced, and evocative. It oscillates between the warm, communal energy of Portuguese coastal life and the quiet, solitary introspection of classic philosophy.\n\nFraming Tendencies: Alternates between wide, sweeping, environmentally dominant architectural master shots and intimate, short-depth-of-field macro shots that elevate everyday textures.\n\nColor Relationships: Built on a core palette of rich terracotta, deep azure blue, golden-hour amber, and sun-bleached limestone white, balanced by cool, muted twilight shadows.\n\nMaterial Language: Highly tactile; emphasizes the rough grain of ancient stone, the glaze of ceramic tiles, the flakiness of pastries, and the crisp, clean lines of coastal rock formations.",
+    "randomizeOptions": true,
+    "optionGroups": [
+      {
+        "title": "THE GEOGRAPHIC PALETTE (LOCATION MOOD)",
+        "options": [
+          {
+            "id": "001",
+            "text": "Lisbon: The Sun-Drenched Mosaic — a Lisbon setting during warm, golden hour light, highlighting deep terracotta rooftops, azulejo tile patterns, narrow, curving stone streets, and a distant Miradouro view with sharp, vibrant contrast."
+          },
+          {
+            "id": "002",
+            "text": "Sintra: Eclectic Romanticism — a misty, ethereal Sintra forest setting with the romantic, eclectic architecture of Pena National Palace in the background, showing vivid yellows and reds cutting through the soft, magical fog."
+          },
+          {
+            "id": "003",
+            "text": "Douro Valley: Terraced Mist — a dramatic morning view of the rolling Douro Valley hillsides, capturing the complex, symmetrical, terraced vineyards and a winding river below shrouded in cool morning mist."
+          },
+          {
+            "id": "004",
+            "text": "Algarve: Azure and Limestone — a crisp mid-day Lagos coastline setting under a brilliant sun, emphasizing majestic, sculpted limestone arches, intricate golden cliffs, and deep, clear azure water."
+          },
+          {
+            "id": "005",
+            "text": "Alfama: The Ancient Labyrinth — a claustrophobic, deeply atmospheric look into Lisbon's oldest quarter, featuring steep cobblestone alleys, sagging wrought-iron balconies with drying laundry, and white-washed walls weathered by salt air."
+          },
+          {
+            "id": "006",
+            "text": "Cascais: Atlantic Edge — a coastal scene where manicured, sophisticated architecture meets the untamed Atlantic, showcasing waves crashing violently against the jagged dark stone of Boca do Inferno under a sweeping marine layer."
+          },
+          {
+            "id": "007",
+            "text": "Porto: Ribeira Industrial — a gritty yet romantic setting looking across the Douro River toward the Dom Luís I Bridge, framing the stacked, chaotic multi-colored merchant houses of Porto with industrial ironwork cutting through the sky."
+          },
+          {
+            "id": "008",
+            "text": "Sagres: End of the World — an isolated, windswept promontory setting at the extreme southwestern edge of Europe, featuring sheer, vertical sea cliffs dropping into an infinite, turbulent dark ocean under a vast, unyielding sky."
+          },
+          {
+            "id": "009",
+            "text": "Silves: Moorish Citadel — a sun-baked interior landscape dominated by the dark red sandstone battlements of an ancient Moorish castle, surrounded by dry olive groves and shimmering heat haze."
+          }
+        ]
+      },
+      {
+        "title": "THE TIME AND LIGHT (ITINERARY TIMING)",
+        "options": [
+          {
+            "id": "010",
+            "text": "11:00 AM - The Culinary Tour — illuminated by bright, clear morning light, creating crisp, defined shadows on white stone, perfect for maximizing architectural clarity and vibrant street-level details."
+          },
+          {
+            "id": "011",
+            "text": "6:30 PM - Fado Twilight — bathed in the deep blue \"blue hour\" of early twilight, where long, cool ambient shadows contrast with warm, glowing internal light bleeding from historic tavern windows."
+          },
+          {
+            "id": "012",
+            "text": "6:00 PM - Sunset on the Water — drenched in a golden-orange, highly saturated sunset light that reflects intensely off the water, creating a strong rim lighting effect and dramatic silhouettes."
+          },
+          {
+            "id": "013",
+            "text": "6:30 AM - Sunrise Sea Cave — filled with the deep pink and soft purple \"red hour\" light of sunrise, casting cool shadows inside a massive sea cave while a warm sun breaks through a natural circular roof opening."
+          },
+          {
+            "id": "014",
+            "text": "7:41 AM - Morning Commuter Light — a low-slung, sharp morning sun cutting through train windows and stations, casting long, geometric shadows and illuminating airborne dust motes in a crisp, amber haze."
+          },
+          {
+            "id": "015",
+            "text": "2:43 PM - Mid-Afternoon Arid Exposure — high, intense overhead sun that bleaches colors slightly, creating high-contrast, deep black shadows under arches and emphasizing the raw heat of exposed limestone pavements."
+          },
+          {
+            "id": "016",
+            "text": "8:15 PM - Rooftop Dusk — the final bleeding edge of sunset where a gradient of deep violet and burnt orange fills the sky, balanced by the artificial, warm twinkle of string lights and distant city lanterns."
+          },
+          {
+            "id": "017",
+            "text": "12:00 PM - High Noon Marine Flare — blinding, brilliant overhead sunlight reflecting off open ocean water, creating sharp, crystalline ripples of light on underwater sand and intense, overexposed specular highlights."
+          },
+          {
+            "id": "018",
+            "text": "5:11 PM - Golden Return — late afternoon light striking buildings at a steep angle, turning vertical stone walls into brilliant golden mirrors and throwing entire streets into dramatic, deep shadow."
+          }
+        ]
+      },
+      {
+        "title": "THE WRITER’S LENSES (FOCUS AND DEPTH)",
+        "options": [
+          {
+            "id": "019",
+            "text": "The Stoic’s Wide View — using a very wide-angle, expansive perspective that emphasizes the grand environment over the individual, utilizing an edge-to-edge sharp focus to evoke detachment and scale."
+          },
+          {
+            "id": "020",
+            "text": "Analytical Grids — utilizing a structured, geometric composition with multiple layers of meaning, symmetrical leading lines, and complex architectural grids to create an analytical, highly detailed frame."
+          },
+          {
+            "id": "021",
+            "text": "Disrupted Patterns — capturing a fragmented composition where traditional architectural patterns, like an azulejo tile wall, are seen through a subtly distorted lens, creating interlocking geometric fragments."
+          },
+          {
+            "id": "022",
+            "text": "The Macro Essayist — an extremely tight macro focus with an ultra-shallow depth of field, turning the image into a study of single textures—like ink spreading on fiber paper or the cracks in a single ceramic tile—while the background melts into smooth bokeh."
+          },
+          {
+            "id": "023",
+            "text": "Telephoto Compression — using a long compression lens that forces distant elements closer together, stacking Porto's vertical houses or Sintra's mountain peaks on top of one another in a dense, layered graphic arrangement."
+          },
+          {
+            "id": "024",
+            "text": "The Narrative Tilt-Shift — a selective focus lens that leaves a sharp horizontal strip of absolute clarity while the top and bottom of the frame gently blur, directing the eye to a specific human action amidst a vast landscape."
+          },
+          {
+            "id": "025",
+            "text": "Low-Angle Monolithic — framing from a very low viewpoint looking up, exaggerating the scale of stone walls, train hulls, or sea cliffs, making them tower monolithically over the frame to evoke awe and permanence."
+          },
+          {
+            "id": "026",
+            "text": "Kinetic Motion Blur — a composition where the architectural background remains perfectly sharp, but passing trains, ocean waves, or running water blur into smooth, painterly streaks of motion, capturing the passage of time."
+          },
+          {
+            "id": "027",
+            "text": "Chiaroscuro Split — a high-contrast framing strategy that splits the composition exactly down the middle or on a diagonal, keeping one half in deep, unreadable shadow and the other in brilliant, hyper-detailed illumination."
+          }
+        ]
+      },
+      {
+        "title": "STOIC PHILOSOPHIES (CONCEPT OVERLAYS)",
+        "options": [
+          {
+            "id": "028",
+            "text": "Amor Fati (Embrace Nature) — incorporating an organic visual element that symbolizes the acceptance of nature, featuring a solitary, weathered olive branch or a humble, ancient stone water font seamlessly integrated into the environment."
+          },
+          {
+            "id": "029",
+            "text": "Memento Mori (Transience) — subtly embedding an object of transience into the composition, such as a weathered antique sundial, a faint reflection on a window pane, or dry leaves scattering across an old stone floor."
+          },
+          {
+            "id": "030",
+            "text": "View from Above (The Grand Whole) — adopting a perspective from an extreme high-altitude vantage point, looking down upon a vast landscape where human activity appears tiny and insignificant against the grandeur of the earth."
+          },
+          {
+            "id": "031",
+            "text": "Voluntary Hardship — overlaying an element of elemental resistance; a solitary figure walking undeterred through a sudden, heavy Atlantic downpour, or a rough, unadorned stone bench standing firm against crashing waves."
+          },
+          {
+            "id": "032",
+            "text": "Dichotomy of Control — a dualistic composition contrasting man-made order with chaotic nature, such as perfectly straight, industrial train tracks cutting through a completely wild, overgrown mountain pass."
+          },
+          {
+            "id": "033",
+            "text": "Inner Citadel — focusing on a small, impenetrable pocket of absolute stillness within a chaotic environment, like an old writer's desk inside a quiet stone room while a bustling city market moves outside the window."
+          },
+          {
+            "id": "034",
+            "text": "Sympatheia (Cosmic Interconnection) — emphasizing repeating patterns across different scales of nature, linking the intricate veins of a leaf to the terraced vine lines of the Douro Valley hillsides in a unified visual rhythm."
+          },
+          {
+            "id": "035",
+            "text": "Premeditatio Malorum — inducing an ominous, preparatory atmospheric tone; dark, heavy storm clouds gathering far out on the ocean horizon while the foreground remains deceptively calm and sunlit."
+          },
+          {
+            "id": "036",
+            "text": "Logos (Universal Reason) — a composition ruled by flawless mathematical symmetry, golden ratios, and perfect balance, where every architectural line and shadow aligns to convey a sense of cosmic order."
+          }
+        ]
+      },
+      {
+        "title": "TEXTURAL EXPERIENCES (SENSORY DETAILS)",
+        "options": [
+          {
+            "id": "037",
+            "text": "The First Morning Coffee — focusing on macro textures, showcasing the dark, glossy swirl of an espresso in a small ceramic cup alongside a candy-crisp, flaky pastel de nata pastry with scorched cinnamon."
+          },
+          {
+            "id": "038",
+            "text": "First Class Transit — emphasizing quiet, sophisticated motion, highlighting the texture of polished wood grain, supple leather seating, and the soft, painterly blur of the countryside moving smoothly past a large observation window."
+          },
+          {
+            "id": "039",
+            "text": "The Coastal Hike — emphasizing raw, physical textures, featuring sun-bleached, crystalline limestone rocks, tough Mediterranean scrub brush, and a light layer of fine coastal dust."
+          },
+          {
+            "id": "040",
+            "text": "Tavern Hearth — emphasizing rich, rustic interior textures: grease-glistening, crispy pork skins of a bifana sandwich, heavily grained old oak tables, and sweat dripping down an unpolished green wine bottle."
+          },
+          {
+            "id": "041",
+            "text": "The Atlantic Spray — focusing on damp, atmospheric textures: heavy salt crust forming on rusty iron railings, fine ocean mist hanging in the air, and wet, dark cobblestones reflecting overhead light like mirrors."
+          },
+          {
+            "id": "042",
+            "text": "Ancient Stonework — capturing the extreme relief of centuries-old architecture, focusing on deep pits in hand-carved granite, crumbling mortar joints, and patches of dry, yellow-green lichen growing on a wall."
+          },
+          {
+            "id": "043",
+            "text": "Vintage Parchment — focusing on the dry, tactile materials of a writer, featuring the fibrous texture of heavy cotton paper, a worn leather-bound journal with frayed edges, and dry, matte graphite lines."
+          },
+          {
+            "id": "044",
+            "text": "Nautical Utility — emphasizing rugged maritime gear: thick, salt-crusted hemp ropes coiled on a wooden deck, weathered brass fittings tarnished with green verdigris, and the peeling paint of a wooden dinghy."
+          },
+          {
+            "id": "045",
+            "text": "The Vineyard Soil — showcasing raw agricultural textures: crumbly, slate-rich soil mixed with dry vine twigs, the dusty, frosted skin of dark purple grapes, and the coarse fabric of a burlap picking sack."
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "THUNDERCATS",
     "category": [
       "80S CARTOON",
