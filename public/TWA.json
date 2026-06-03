@@ -1,0 +1,224 @@
+[
+  {
+    "name": "THUNDERCATS",
+    "category": [
+      "80S CARTOON",
+      "SWORD AND PLANET",
+      "EPIC ADVENTURE"
+    ],
+    "message": "Take a picture and capture an epic, sweeping cinematic frame set on Third Earth, depicting {SCENE_ENVIRONMENT}. The shot features a powerful humanoid hero, specifically Lion-O, with dynamic posture, holding {WEAPON_OBJECT}, clad in stylized sleek metallic leotards, heavy chrome bracers, and a prominent feline crest emblem. The surrounding team members include {GROUP_MEMBERS}, bathed in {LIGHTING_ATMOSPHERE}. The entire image maintains a gorgeous 1980s cel-animated aesthetic, featuring hand-painted gouache background textures, sharp ink outlines, and a {COLOR_PALETTE} that evokes the golden era of cosmic action-adventure television. Wide-angle anamorphic framing, subtle retro film grain, and painted practical lighting effects.\n\nADDITIONAL INSTRUCTIONS\nEnsure the final output strictly mirrors the visual feel of a premium, restored 1980s animated feature film rather than a 3D render. Backgrounds should look like physical, hand-painted gouache on illustration board, while characters should possess the clean, distinct ink lines of hand-drawn cell animation. Keep the visual language focused specifically on the ThunderCats mythology, architecture, and technology.\n\nNEGATIVE PROMPT\nmodern 3D digital rendering, Pixar style, photorealism, photorealistic skin textures, raytracing, CGI, blurry linework, modern tactical gear, desaturated gritty military palettes, text, watermarks, bad anatomy, deformed hands, real-world branding.\n\nRANDOMIZATION RECOMMENDATION\nRandomization is highly recommended. Combining the raw, natural environments of Third Earth with contrasting high-tech ThunderCats costumes and intense cosmic lighting yields dynamic, unpredictable frames that capture the perfect \"Sword and Planet\" storytelling ethos.\n\nCREATIVE STRATEGY\nThis \"Option Groups\" preset structure is tailor-made to handle the imaginative hybrid world of 1980s space-fantasy illustration and explicitly defines the ThunderCats universe. By separating the Third Earth landscape, the hero's key object, specific teammates, the atmospheric lighting, and the distinct color palettes, the user can instantly pivot between staging an heroic stand, a daring mission, or a confrontation with Mumm-Ra. The fixed elements ensure that no matter what combination is chosen, the nostalgic, hand-painted cell animation identity and ThunderCats theme remain flawlessly intact.\n\nVISUAL DNA ANALYSIS\nCinematic Identity: 1980s cosmic fantasy, nostalgic Saturday-morning action epics, heavy illustration-board depth, explicit ThunderCats iconography.\n\nAtmosphere: Utopian yet perilous, mythic, highly stylized, filled with technological magic and planetary romance.\n\nFraming Tendencies: Wide shots, low-angle heroic power-poses, dramatic multi-layered compositions with clear foreground, midground, and background separation.\n\nMaterial Language: Hand-painted matte backgrounds, flat cel-shaded fills, ink outlines, polished chrome, rugged leather, and glowing energy effects.\n\nColor Relationships: High-energy primary colors juxtaposed against deeply saturated, surreal alien environments.",
+    "randomizeOptions": true,
+    "optionGroups": [
+      {
+        "title": "SCENE_ENVIRONMENT",
+        "options": [
+          {
+            "id": "001",
+            "text": "a jagged, alien volcanic crag under a sky dominated by two massive, glowing ringed planets"
+          },
+          {
+            "id": "002",
+            "text": "the high-tech interior of a futuristic cat-shaped citadel, Cat's Lair, lined with glowing control panels and limestone walls"
+          },
+          {
+            "id": "003",
+            "text": "a dense, bioluminescent primordial jungle filled with strange towering flora and misty, ancient ruins"
+          },
+          {
+            "id": "004",
+            "text": "the barren, windswept desert dunes of an ancient planet, featuring a crumbling obsidian pyramid in the distance"
+          },
+          {
+            "id": "005",
+            "text": "the exterior of Mumm-Ra's Black Pyramid, surrounded by shadows and toxic green fog"
+          }
+        ]
+      },
+      {
+        "title": "WEAPON_OBJECT",
+        "options": [
+          {
+            "id": "006",
+            "text": "the glowing Sword of Omens held aloft"
+          },
+          {
+            "id": "007",
+            "text": "the expanded, shimmering Sword of Omens, pointed forward in a defensive stance"
+          },
+          {
+            "id": "008",
+            "text": "the Claw Shield, worn on the gauntlet, deflecting energy bolts"
+          },
+          {
+            "id": "009",
+            "text": "the inactive Sword of Omens in its sheath, while Lion-O uses the Claw Shield"
+          }
+        ]
+      },
+      {
+        "title": "GROUP_MEMBERS",
+        "options": [
+          {
+            "id": "010",
+            "text": "the agile Cheetara running at superspeed in the foreground"
+          },
+          {
+            "id": "011",
+            "text": "the intelligent Tygra aiming his bolo whip from a rocky outcrop"
+          },
+          {
+            "id": "012",
+            "text": "the powerful Panthro piloting the ThunderTank"
+          },
+          {
+            "id": "013",
+            "text": "the playful WilyKit and WilyKat riding their hoverboards through the jungle"
+          },
+          {
+            "id": "014",
+            "text": "the cowardly Snarf peeking from behind Lion-O"
+          }
+        ]
+      },
+      {
+        "title": "LIGHTING_ATMOSPHERE",
+        "options": [
+          {
+            "id": "015",
+            "text": "dramatic, high-contrast backlit rim lighting from a dying alien sun, creating deep stylized shadows"
+          },
+          {
+            "id": "016",
+            "text": "vibrant, cosmic neon crackle with brilliant electric-blue lightning illuminating the sky"
+          },
+          {
+            "id": "017",
+            "text": "a soft, atmospheric haze mixed with golden hour sunbeams slicing through a canopy"
+          },
+          {
+            "id": "018",
+            "text": "ominous, low-key under-lighting sourced from bubbling pools of glowing radioactive magma"
+          }
+        ]
+      },
+      {
+        "title": "COLOR_PALETTE",
+        "options": [
+          {
+            "id": "019",
+            "text": "bold primary tones, contrasting fiery orange hair against deep cerulean blue and matte grays"
+          },
+          {
+            "id": "020",
+            "text": "a sinister mix of toxic purples, muted bone-whites, and deep obsidian blacks"
+          },
+          {
+            "id": "021",
+            "text": "a retro pastel blend of soft teals, warm ambers, and desaturated earthy browns"
+          },
+          {
+            "id": "022",
+            "text": "electric gradients of magenta, neon pink, and deep twilight indigo violet"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "TWA MID-CENTURY JET AGE AESTHETIC",
+    "category": [
+      "MID-CENTURY MODERN",
+      "FUTURIST ARCHITECTURE",
+      "JET AGE",
+      "CINEMATIC RETRO"
+    ],
+    "message": "Take a picture and capture the iconic architectural spirit of Eero Saarinen’s 1962 TWA Flight Center, {ARCH_ENVIRONMENT}, bathed in {LIGHTING_ATMOSPHERE}. The scene features a sleek, high-fashion cinematic aesthetic, incorporating {MATERIAL_DETAIL} and {COLOR_PALETTE} to evoke the glamour of the golden age of air travel. High-fidelity rendering, 35mm film grain, soft lens flares, sharp architectural lines, wide-angle cinematic framing.\n\nADDITIONAL INSTRUCTIONS\nFocus on the interplay between organic, flowing architectural shapes and rigid, precise technical details. Maintain a photographic quality that bridges the gap between historical archival imagery and modern cinematic production. Use wide-angle perspectives (14mm to 24mm) to emphasize the grandeur of the terminal architecture.\n\nNEGATIVE PROMPT\nmodern corporate clutter, garish neon, distorted concrete curves, inconsistent scale, low-resolution textures, flat lighting, digital-looking gradients, text, watermarks, grainy low-quality film, busy background noise, people in modern casual clothing.\n\nRANDOMIZATION RECOMMENDATION\nRandomization is highly recommended. Mixing the \"Architectural Environment\" with contrasting \"Lighting\" and \"Material\" options will produce the most compelling, varied results for this unique aesthetic.\n\nCREATIVE STRATEGY\nThis preset utilizes an \"Option Groups\" structure to allow for modular combinations of architecture, light, and material. By decoupling the environment (the terminal's iconic structure) from the atmospheric lighting and surface materials, users can toggle between different \"moods\" of the same space—ranging from a crisp, architectural daylight study to a moody, cinematic period piece—while maintaining the core visual identity of Saarinen’s design.\n\nVISUAL DNA ANALYSIS\nCinematic Identity: 1960s Jet Age, high-fashion travel, utopian futurism.\n\nAtmosphere: Sophisticated, nostalgic, expansive, airy yet grounded in period-accurate luxury.\n\nFraming Tendencies: Wide-angle, sweeping architectural compositions, low-angle shots emphasizing vaulted ceilings and curved forms.\n\nMaterial Language: Concrete, terrazzo, polished chrome, red carpet, walnut veneer.\n\nColor Relationships: High-contrast pops of vibrant \"TWA Red\" against minimalist, organic white and gray foundations.",
+    "randomizeOptions": true,
+    "optionGroups": [
+      {
+        "title": "ARCH_ENVIRONMENT",
+        "options": [
+          {
+            "id": "001",
+            "text": "the sweeping, curvaceous concrete curves of the main terminal lobby"
+          },
+          {
+            "id": "002",
+            "text": "the iconic red-carpeted flight tube leading into the terminal"
+          },
+          {
+            "id": "003",
+            "text": "the vintage 1958 Lockheed Constellation 'Connie' cocktail lounge exterior"
+          },
+          {
+            "id": "004",
+            "text": "the retro-modern Sunken Lounge with its iconic Solari departure board"
+          }
+        ]
+      },
+      {
+        "title": "LIGHTING_ATMOSPHERE",
+        "options": [
+          {
+            "id": "005",
+            "text": "soft, golden-hour ambient sunlight streaming through floor-to-ceiling glass"
+          },
+          {
+            "id": "006",
+            "text": "moody, low-key evening atmosphere with cinematic interior accent lighting"
+          },
+          {
+            "id": "007",
+            "text": "crisp, bright high-contrast morning light revealing clean geometric shadows"
+          },
+          {
+            "id": "008",
+            "text": "ethereal, soft-focus diffusion with subtle vintage lens flares"
+          }
+        ]
+      },
+      {
+        "title": "MATERIAL_DETAIL",
+        "options": [
+          {
+            "id": "009",
+            "text": "polished terrazzo flooring and smooth, organic white concrete curves"
+          },
+          {
+            "id": "010",
+            "text": "plush, vibrant red upholstery and deep-pile carpeting textures"
+          },
+          {
+            "id": "011",
+            "text": "gleaming polished aluminum, riveted aircraft skin, and retro-chrome accents"
+          },
+          {
+            "id": "012",
+            "text": "rich, warm walnut wood paneling and retro-modern leather furniture"
+          }
+        ]
+      },
+      {
+        "title": "COLOR_PALETTE",
+        "options": [
+          {
+            "id": "013",
+            "text": "bold TWA-red accents against warm off-white and cool concrete grays"
+          },
+          {
+            "id": "014",
+            "text": "muted 1960s Technicolor, desaturated pastels with deep primary pops"
+          },
+          {
+            "id": "015",
+            "text": "warm, nostalgic amber and golden sepia tones"
+          },
+          {
+            "id": "016",
+            "text": "cool-toned mid-century palette with sky-blue and slate-gray highlights"
+          }
+        ]
+      }
+    ]
+  }
+]
