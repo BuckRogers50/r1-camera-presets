@@ -1,0 +1,99 @@
+[
+  {
+    "name": "TWA MID-CENTURY JET AGE AESTHETIC",
+    "category": [
+      "MID-CENTURY MODERN",
+      "FUTURIST ARCHITECTURE",
+      "JET AGE",
+      "CINEMATIC RETRO"
+    ],
+    "message": "Take a picture and capture the iconic architectural spirit of Eero Saarinen’s 1962 TWA Flight Center, {ARCH_ENVIRONMENT}, bathed in {LIGHTING_ATMOSPHERE}. The scene features a sleek, high-fashion cinematic aesthetic, incorporating {MATERIAL_DETAIL} and {COLOR_PALETTE} to evoke the glamour of the golden age of air travel. High-fidelity rendering, 35mm film grain, soft lens flares, sharp architectural lines, wide-angle cinematic framing.\n\nADDITIONAL INSTRUCTIONS\nFocus on the interplay between organic, flowing architectural shapes and rigid, precise technical details. Maintain a photographic quality that bridges the gap between historical archival imagery and modern cinematic production. Use wide-angle perspectives (14mm to 24mm) to emphasize the grandeur of the terminal architecture.\n\nNEGATIVE PROMPT\nmodern corporate clutter, garish neon, distorted concrete curves, inconsistent scale, low-resolution textures, flat lighting, digital-looking gradients, text, watermarks, grainy low-quality film, busy background noise, people in modern casual clothing.\n\nRANDOMIZATION RECOMMENDATION\nRandomization is highly recommended. Mixing the \"Architectural Environment\" with contrasting \"Lighting\" and \"Material\" options will produce the most compelling, varied results for this unique aesthetic.\n\nCREATIVE STRATEGY\nThis preset utilizes an \"Option Groups\" structure to allow for modular combinations of architecture, light, and material. By decoupling the environment (the terminal's iconic structure) from the atmospheric lighting and surface materials, users can toggle between different \"moods\" of the same space—ranging from a crisp, architectural daylight study to a moody, cinematic period piece—while maintaining the core visual identity of Saarinen’s design.\n\nVISUAL DNA ANALYSIS\nCinematic Identity: 1960s Jet Age, high-fashion travel, utopian futurism.\n\nAtmosphere: Sophisticated, nostalgic, expansive, airy yet grounded in period-accurate luxury.\n\nFraming Tendencies: Wide-angle, sweeping architectural compositions, low-angle shots emphasizing vaulted ceilings and curved forms.\n\nMaterial Language: Concrete, terrazzo, polished chrome, red carpet, walnut veneer.\n\nColor Relationships: High-contrast pops of vibrant \"TWA Red\" against minimalist, organic white and gray foundations.",
+    "randomizeOptions": true,
+    "optionGroups": [
+      {
+        "title": "ARCH_ENVIRONMENT",
+        "options": [
+          {
+            "id": "001",
+            "text": "the sweeping, curvaceous concrete curves of the main terminal lobby"
+          },
+          {
+            "id": "002",
+            "text": "the iconic red-carpeted flight tube leading into the terminal"
+          },
+          {
+            "id": "003",
+            "text": "the vintage 1958 Lockheed Constellation 'Connie' cocktail lounge exterior"
+          },
+          {
+            "id": "004",
+            "text": "the retro-modern Sunken Lounge with its iconic Solari departure board"
+          }
+        ]
+      },
+      {
+        "title": "LIGHTING_ATMOSPHERE",
+        "options": [
+          {
+            "id": "005",
+            "text": "soft, golden-hour ambient sunlight streaming through floor-to-ceiling glass"
+          },
+          {
+            "id": "006",
+            "text": "moody, low-key evening atmosphere with cinematic interior accent lighting"
+          },
+          {
+            "id": "007",
+            "text": "crisp, bright high-contrast morning light revealing clean geometric shadows"
+          },
+          {
+            "id": "008",
+            "text": "ethereal, soft-focus diffusion with subtle vintage lens flares"
+          }
+        ]
+      },
+      {
+        "title": "MATERIAL_DETAIL",
+        "options": [
+          {
+            "id": "009",
+            "text": "polished terrazzo flooring and smooth, organic white concrete curves"
+          },
+          {
+            "id": "010",
+            "text": "plush, vibrant red upholstery and deep-pile carpeting textures"
+          },
+          {
+            "id": "011",
+            "text": "gleaming polished aluminum, riveted aircraft skin, and retro-chrome accents"
+          },
+          {
+            "id": "012",
+            "text": "rich, warm walnut wood paneling and retro-modern leather furniture"
+          }
+        ]
+      },
+      {
+        "title": "COLOR_PALETTE",
+        "options": [
+          {
+            "id": "013",
+            "text": "bold TWA-red accents against warm off-white and cool concrete grays"
+          },
+          {
+            "id": "014",
+            "text": "muted 1960s Technicolor, desaturated pastels with deep primary pops"
+          },
+          {
+            "id": "015",
+            "text": "warm, nostalgic amber and golden sepia tones"
+          },
+          {
+            "id": "016",
+            "text": "cool-toned mid-century palette with sky-blue and slate-gray highlights"
+          }
+        ]
+      }
+    ]
+  }
+]
