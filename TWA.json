@@ -1,5 +1,232 @@
 [
   {
+    "name": "ENTERPRISE 1701: CHRISTENING DAY",
+    "category": [
+      "SCI-FI",
+      "STAR TREK",
+      "MID-CENTURY MODERN",
+      "PRISTINE",
+      "OPTIMISTIC FUTURISM"
+    ],
+    "message": "Take a picture and render a hyper-realistic, high-fidelity scene capturing the monumental \"Christening Day\" of the USS Enterprise NCC-1701. The environment is brand new, immaculate, and vibrating with the optimistic energy of a maiden voyage. Every surface must gleam with factory-fresh perfection: polished chrome, brushed aluminum without a single scratch, and vibrant, unblemished plastics in bold primary colors. The lighting is bright, even, and clinical, simulating the soft, shadowless glow of high-end, early 1960s television studio production design. Capture the bustling yet orderly atmosphere of a ship just coming to life, with crisp, sharp details on every console, tactile button, and instrument panel. The composition should feel wide, heroic, and celebratory, utilizing clean, symmetrical lines that emphasize the architectural elegance and ergonomic grace of the original 1960s aesthetic. Everything should appear untouched, monumental, and filled with the promise of exploration, avoiding any hint of decay or grit.\n\nADDITIONAL INSTRUCTIONS\nMaintain extreme focus on \"factory-new\" quality. Every surface must appear as if it has just left the assembly line. Use sharp focus and high depth of field to capture every small button and indicator light. Lighting must prioritize brightness and clarity to accentuate the optimism of the scene. Avoid all textures related to dust, scratches, or wear.\n\nNEGATIVE PROMPT\nabandoned, dirty, dusty, rust, corroded, flickering lights, shadows, dark, oppressive, derelict, worn, peeling paint, flickering, static, grime, smudges, broken buttons, desaturated, dim, gloomy, messy, cluttered, haunted, decaying, vintage filter, film grain, lens distortion.\n\nRANDOMIZATION RECOMMENDATION\nRandomization is recommended to create a dynamic survey of the ship’s maiden state. Mixing different Locations with various Population or Atmosphere settings will generate a consistent, celebratory narrative of the ship's first day in service.\n\nCREATIVE STRATEGY\nThis preset structure creates a perfect thematic inversion of the \"abandoned\" concept. By standardizing \"Location\" (the structural setting) with \"Material Finishes\" (the perfect texture state) and \"Technology Focus\" (the operational state), the user can generate a highly cohesive, high-energy portfolio. The focus remains on \"Optimistic Futurism\"—a vision where the future is bright, clean, and entirely under control.\n\nVISUAL DNA ANALYSIS\nCinematic Identity: 1960s Technicolor optimism, \"Space Age\" architecture, Eames-era functional design.\n\nAtmosphere: Celebratory, pristine, efficient, and welcoming.\n\nFraming: Symmetrical, heroic, clean, and balanced.\n\nMaterial Language: Brushed steel, primary-colored plastics, smooth glass, glowing energy components.\n\nColor Relationship: High-contrast white and gray base, punctuated by vibrant yellow, blue, and red control indicators.\n\nStorytelling: Environmental storytelling that relies on the \"newness\" of the ship to signal beginning, potential, and success.",
+    "randomizeOptions": true,
+    "optionGroups": [
+      {
+        "title": "LOCATION",
+        "options": [
+          {
+            "id": "001",
+            "text": "The Bridge: Pristine command center, all lights active, viewscreen displaying a beautiful, colorful nebula."
+          },
+          {
+            "id": "002",
+            "text": "Main Engineering: Brightly lit, polished pipes and machinery, crew in crisp yellow uniforms working at stations."
+          },
+          {
+            "id": "003",
+            "text": "Shuttle Bay: The Galileo II sitting on a gleaming floor, a large, celebratory \"USS Enterprise NCC-1701\" banner hanging overhead."
+          },
+          {
+            "id": "004",
+            "text": "Observation Lounge: Floor-to-ceiling windows showing a bright, star-filled void, clean conference table, white walls."
+          },
+          {
+            "id": "005",
+            "text": "Sick Bay: Spotless white walls, shining metal instruments, perfectly arranged diagnostic beds."
+          },
+          {
+            "id": "006",
+            "text": "Captain's Quarters: Unblemished, organized, bright, modern mid-century aesthetic with a neatly made bed."
+          },
+          {
+            "id": "007",
+            "text": "Commissary: Bright, white dining area, clean tables, stainless steel accents, vibrant lighting."
+          },
+          {
+            "id": "008",
+            "text": "Transporter Room: Polished gold and copper accents, pristine platform, vibrant blue light emanations."
+          },
+          {
+            "id": "009",
+            "text": "Corridor Junction: High-key lighting, perfectly clean floor stripes, sharp, legible signage."
+          },
+          {
+            "id": "010",
+            "text": "Auxiliary Control: Secondary bridge with glowing, multi-colored buttons, fully operational and bright."
+          }
+        ]
+      },
+      {
+        "title": "ATMOSPHERE",
+        "options": [
+          {
+            "id": "011",
+            "text": "\"The Launch\": Warm, celebratory lighting with soft highlights reflecting off all metallic surfaces."
+          },
+          {
+            "id": "012",
+            "text": "\"Full Operational\": Cool, bright, high-energy lighting where every status indicator is active and glowing."
+          },
+          {
+            "id": "013",
+            "text": "\"Ceremonial\": Soft, diffused light creating a gentle, reverent aura throughout the room."
+          },
+          {
+            "id": "014",
+            "text": "\"Clear Space\": High contrast, emphasizing the absolute cleanliness and sharp edges of the ship’s interior."
+          },
+          {
+            "id": "015",
+            "text": "\"New Horizon\": A golden, optimistic light shift suggesting the ship is moving toward a bright star."
+          },
+          {
+            "id": "016",
+            "text": "\"Studio Sharp\": Perfectly flat, high-definition lighting that emphasizes the quality of every material."
+          },
+          {
+            "id": "017",
+            "text": "\"Operational Haze\": A very subtle, clean atmospheric glow around active, high-tech machinery."
+          }
+        ]
+      },
+      {
+        "title": "POPULATION & ACTIVITY",
+        "options": [
+          {
+            "id": "018",
+            "text": "The Bridge: Command crew standing at attention, looking toward the main viewscreen."
+          },
+          {
+            "id": "019",
+            "text": "Engineering: Crew technicians adjusting controls, focused on the warp core."
+          },
+          {
+            "id": "020",
+            "text": "Shuttle Bay: Dignitaries and officers gathered for a dedication ceremony."
+          },
+          {
+            "id": "021",
+            "text": "Commissary: A few officers sharing a drink, enjoying the quiet before the journey."
+          },
+          {
+            "id": "022",
+            "text": "Observation Lounge: Officers in discussion, reviewing flight paths on a transparent display."
+          },
+          {
+            "id": "023",
+            "text": "Corridor: An officer in a crisp uniform walking briskly with a PADD in hand."
+          },
+          {
+            "id": "024",
+            "text": "Sick Bay: A medical officer finishing a final equipment inspection."
+          },
+          {
+            "id": "025",
+            "text": "Transporter Room: A technician testing the glowing transporter energy stream."
+          },
+          {
+            "id": "026",
+            "text": "Auxiliary Control: A crew member monitoring data streams, standing straight and tall."
+          },
+          {
+            "id": "027",
+            "text": "General: An empty but fully energized room, emphasizing the ship's readiness."
+          }
+        ]
+      },
+      {
+        "title": "MATERIAL FINISHES",
+        "options": [
+          {
+            "id": "028",
+            "text": "Mirror-polished chrome accents on all chairs and railing."
+          },
+          {
+            "id": "029",
+            "text": "Satin-finish brushed aluminum bulkheads, perfectly clean."
+          },
+          {
+            "id": "030",
+            "text": "Vivid, saturated primary-colored plastic buttons and toggles."
+          },
+          {
+            "id": "031",
+            "text": "Crisp, white, matte-finish wall paneling."
+          },
+          {
+            "id": "032",
+            "text": "Glowing, translucent colored indicator lights and panels."
+          },
+          {
+            "id": "033",
+            "text": "Pristine, smooth-textured industrial carpeting."
+          },
+          {
+            "id": "034",
+            "text": "High-gloss finish on all computer screen housings."
+          },
+          {
+            "id": "035",
+            "text": "Perfectly clean glass port windows."
+          },
+          {
+            "id": "036",
+            "text": "Polished, non-marred metallic floor plates."
+          },
+          {
+            "id": "037",
+            "text": "Sharp, crisp black-and-white warning labels and stencils."
+          }
+        ]
+      },
+      {
+        "title": "TECHNOLOGY FOCUS",
+        "options": [
+          {
+            "id": "038",
+            "text": "The Main Viewscreen: Bright, clear imagery of deep space."
+          },
+          {
+            "id": "039",
+            "text": "Command Consoles: Active, flickering, multicolored light sequences."
+          },
+          {
+            "id": "040",
+            "text": "The Warp Core: Glowing with a steady, strong, blue-white energy."
+          },
+          {
+            "id": "041",
+            "text": "Tricorder/PADD units: High-resolution, crisp interface displays."
+          },
+          {
+            "id": "042",
+            "text": "The Transporter Pad: Active, glowing, and pristine."
+          },
+          {
+            "id": "043",
+            "text": "Intercom Panels: Shiny, modern-looking, functional."
+          },
+          {
+            "id": "044",
+            "text": "Diagnostic Monitors: Sharp, legible, high-tech graphics."
+          },
+          {
+            "id": "045",
+            "text": "Control Knobs & Levers: Gleaming, solid, precise-looking hardware."
+          },
+          {
+            "id": "046",
+            "text": "Lighting Panels: Diffused, bright, and uniform across the ceiling."
+          },
+          {
+            "id": "047",
+            "text": "Scanner Arrays: Small, blinking, high-tech signal lights."
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "AMERICAN EXPRESS CENTURION LOUNGE",
     "category": [
       "INTERIOR DESIGN",
