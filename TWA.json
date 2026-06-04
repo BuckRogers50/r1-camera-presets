@@ -1,5 +1,244 @@
 [
   {
+    "name": "AMERICAN EXPRESS CENTURION LOUNGE",
+    "category": [
+      "INTERIOR DESIGN",
+      "ARCHITECTURE",
+      "LUXURY",
+      "OPTICS & REALISM",
+      "REALISM"
+    ],
+    "message": "Take a picture and compose a highly detailed, high-resolution cinematic architectural photograph captured on a technical tilt-shift lens, utilizing a balanced, wide-angle composition and an immersive textural perspective that frames an ultra-luxury airport lounge sanctuary. The shot must explicitly focus on crisp structural symmetry, premium raw materials, and exclusive mid-century modern upscale hospitality aesthetics that convey a profound sense of elite global travel, absolute environmental serenity, and executive privacy completely cut off from the surrounding terminal chaos. Every element within the frame must feel deliberately curated and mathematically balanced, capturing the interplay between rich organic textures and sharp, clean-lined industrial geometry. The camera must preserve an edge-to-edge crystalline clarity, mapping the subtle gradations of soft ambient glow as it catches polished surfaces, premium textile weaves, and structural glass boundaries, transforming a transitory airport environment into a permanent, monumental space of quiet wealth, architectural distinction, high-status isolation, and deep contemplative comfort.\n\nADDITIONAL INSTRUCTIONS\nThe final image must prioritize elite-level commercial interior photography aesthetics. Surfaces must look immaculately clean but texturally authentic—avoid synthetic, plastic, or overly glossy artificial finishes. Maintain absolute straightness in all vertical lines, mimicking high-end architectural photography. The color grading must be sophisticated: suppress cheap neon saturation, allow the signature blue tones to remain deep and regal, and ensure warm lighting looks expensive and amber rather than harsh or yellow.\n\nNEGATIVE PROMPT\nairport terminal chaos, crowds, messy interiors, low detail, cheap plastic furniture, airport signs, luggage carts, neon digital noise, blurry windows, distorted perspective, oversaturated colors, cheap laminate wood, messy wires, fluorescent office lighting, dirty floors, artifacting, 3D render look.\n\nRANDOMIZATION RECOMMENDATION\nRandomization is highly effective for this preset. Because the master prompt locks in the high-end Arri Alexa camera with technical tilt-shift geometry, combining any random Spatial Zone with unexpected Lighting Profiles and Material Groups will consistently generate pristine, magazine-ready luxury interior designs.\n\nCREATIVE STRATEGY\nThis Option Groups structure was meticulously selected to replicate the multi-million dollar design language of ultra-premium airport hospitality. By decoupling the spatial architecture from the lighting and material systems, users can instantly change the mood of the sanctuary—shifting effortlessly from an intimate, twilight-soaked cocktail lounge to a bright, sun-flooded morning workspace while preserving the core luxury travel identity.\n\nVISUAL DNA ANALYSIS\nCinematic Identity: Elite architectural editorial, defined by large-format clarity, geometric rectitude, and premium hospitality lighting design.\n\nAtmosphere: Exclusive, serene, whisper-quiet, and highly protective; a sanctuary of high status isolated completely from the stress of global transit.\n\nFraming Tendencies: Perfectly leveled, wide-angle master shots mixed with highly graphic, short-depth-of-field macro studies of premium material finishes.\n\nColor Relationships: Centered around a sophisticated core palette of signature Centurion cobalt blue, deep emerald/olive tones, rich saddle-brown leathers, and the bright metallic gleam of brushed brass.\n\nMaterial Language: Hyper-luxurious and multi-textured; heavy emphasis on the interplay between cool veined marbles, rich natural wood grains, deeply piled velvets, and matte metals.",
+    "randomizeOptions": true,
+    "optionGroups": [
+      {
+        "title": "SPATIAL ZONES (ENVIRONMENT & LAYOUT)",
+        "options": [
+          {
+            "id": "001",
+            "text": "The Signature Blue Gallery — an expansive lounge gallery anchored by a monolithic, back-lit deep cobalt blue accent wall, featuring low-slung velvet armchairs, clean-lined structural pillars, and bespoke geometric divider screens."
+          },
+          {
+            "id": "002",
+            "text": "The Executive Cocktail Bar — a striking, upscale bar zone anchored by a highly polished marble counter, reflecting rows of amber spirit bottles on illuminated floating shelves, accented by brass fixtures and plush leather barstools."
+          },
+          {
+            "id": "003",
+            "text": "The Dining Atelier — a sophisticated, intimate dining area with private booth seating upholstered in premium leather, dark wood tables set with minimal porcelain, and warm architectural track lighting highlighting custom abstract artwork."
+          },
+          {
+            "id": "004",
+            "text": "The Private Workspace Nook — a high-end personal terminal carrel featuring olive-green leather acoustic shielding walls, a solid walnut desk surface, integrated brass charging ports, and a minimalist task lamp casting a sharp pool of light."
+          },
+          {
+            "id": "005",
+            "text": "The Wellness Oasis — a serene, low-traffic relaxation zone defined by light oak wood slats, moss-green textile panels, soft recessed warm lighting, and deep, ergonomic chaise lounges designed for restorative stillness."
+          },
+          {
+            "id": "006",
+            "text": "The Entry Portal — a dramatic reception threshold featuring a massive vertical living moss wall framed by dark oxidized steel plates, a minimalist monolithic stone desk, and a stark, warm-toned back-lit brand crest."
+          },
+          {
+            "id": "007",
+            "text": "The Micro-Theater Salon — a quiet, dimly lit media room with deep-set plush tier seating in charcoal mohair, fabric-wrapped acoustic wall panels, and low-intensity recessed step lighting casting a soft floor glow."
+          },
+          {
+            "id": "008",
+            "text": "The High-Trunk Library — a sophisticated library space with floor-to-ceiling dark walnut bookshelves displaying curated art volumes, inset brass accent lighting, and a massive central communal table in cross-cut solid oak."
+          },
+          {
+            "id": "009",
+            "text": "The Barista Corner — a sleek, high-traffic specialty coffee station crafted entirely from matte black basalt stone, featuring a brushed-chrome commercial espresso machine, floating glass shelves, and minimalist stools."
+          },
+          {
+            "id": "010",
+            "text": "The Observation Gallery — a premier seating zone positioned directly along a massive glass curtain wall, featuring rotating high-back leather captain's chairs facing the airport tarmac, partitioned by low marble planters."
+          }
+        ]
+      },
+      {
+        "title": "LIGHTING PROFILES (ATMOSPHERIC GLOW)",
+        "options": [
+          {
+            "id": "011",
+            "text": "Golden Hour Apron Glow — dramatic, low-angle late-afternoon sunlight flooding through expansive double-pane terminal windows, cutting long geometric shadows across the floor carpet and casting sharp specular highlights on metallic finishes."
+          },
+          {
+            "id": "012",
+            "text": "Twilight Mood Indigo — an elegant, late-evening ambience dominated by cool, moody indigo and violet tones from hidden LED light tracks, contrasted sharply with pools of intensely warm candle-like glow from low-level table lamps."
+          },
+          {
+            "id": "013",
+            "text": "High-Noon Diffusion — clean, even, and bright daylight diffused through massive floor-to-ceiling glass panes, creating a bright, crisp, and analytical environment where white marbles and brass elements pop with crystalline clarity."
+          },
+          {
+            "id": "014",
+            "text": "Midnight Executive Intimacy — a deeply atmospheric, highly selective lighting scheme where the lounge is plunged into soft shadow, illuminated only by individual desk lamps, back-lit liquor bottles, and the distant neon tarmac lights outside."
+          },
+          {
+            "id": "015",
+            "text": "Warm Amber Incandescence — a rich, highly saturated golden lighting profile pouring from custom mid-century ceiling fixtures, enveloping the leather, wood, and brass surfaces in a luxurious, welcoming, and high-status warmth."
+          },
+          {
+            "id": "016",
+            "text": "Pre-Dawn Blue Hour — a cool, tranquil, and ethereal dim morning light filling the lounge from the exterior, balanced subtly by the internal crisp white illumination of under-counter task lights and LED linear bars."
+          },
+          {
+            "id": "017",
+            "text": "Chiaroscuro Beam Profile — a high-contrast lighting arrangement where sharp, tightly focused spotlights cut through a darkened room, illuminating only specific seating clusters while leaving corridors in deep mystery."
+          },
+          {
+            "id": "018",
+            "text": "Scattered Tarmac Reflections — a dynamic lighting atmosphere where the ambient internal room light is mixed with the colorful, dancing red, green, and white neon reflections bleeding from the active runways outside."
+          },
+          {
+            "id": "019",
+            "text": "Soft Architectural Wash — a completely indirect lighting strategy where all illumination bounces softly off vertical fluted panels and ceiling coves, creating an shadowless, cloud-like, and highly relaxing interior atmosphere."
+          },
+          {
+            "id": "020",
+            "text": "Matte Overcast Sullenness — a muted, sophisticated gray light filtering in from an overcast sky, softening all hard reflections and emphasizing the true, unadulterated color and texture of the wood and leather elements."
+          }
+        ]
+      },
+      {
+        "title": "PREMIUM TEXTURES (MATERIAL LANGUAGE)",
+        "options": [
+          {
+            "id": "021",
+            "text": "Polished Marble & Tufted Velvet — emphasizing macro material contrast: a seamless white Calacatta marble floor with crisp gray veining running parallel to the plush, light-absorbing micro-texture of deep navy tufted velvet upholstery."
+          },
+          {
+            "id": "022",
+            "text": "Fluted Walnut & Brushed Brass — focusing on rich architectural finishes: vertical fluted walnut wall panels casting rhythmic micro-shadows, met by the soft, directional matte sheen of inlaid brushed brass trim."
+          },
+          {
+            "id": "023",
+            "text": "Full-Grain Leather & Ribbed Glass — highlighting tactile executive materials: supple, saddle-brown full-grain leather seating with perfect double-stitching, seen through a translucent partition of heavy ribbed glass."
+          },
+          {
+            "id": "024",
+            "text": "Terrazzo & Olive Textiles — capturing a clean modern palette: smooth, multi-tonal aggregate terrazzo tiling underfoot, contrasted against the rougher, organic weave of premium olive-green wool textile wall coverings."
+          },
+          {
+            "id": "025",
+            "text": "Matte Black Steel & Smoked Oak — prioritizing a moody, contemporary texture profile: stark, clean lines of powder-coated matte black steel framing rich, open-grain smoked oak tabletops that carry a faint satin wax sheen."
+          },
+          {
+            "id": "026",
+            "text": "Brushed Travertine & Nubuck — a study in dry, high-end organic textures: raw, unpolished ivory travertine stone walls with natural pitting, contrasted against incredibly soft, matte slate-gray nubuck leather cushions."
+          },
+          {
+            "id": "027",
+            "text": "Polished Terrazzo & Copper Inlays — showcasing a mid-century luxury floor treatment: mirror-polished dark gray terrazzo containing tiny flecks of quartz, segmented by thin, gleaming strips of hand-laid copper."
+          },
+          {
+            "id": "028",
+            "text": "Venetian Plaster & Corduroy — a tactile, retro-modern wall and furniture combination: smooth, troweled charcoal-colored Venetian plaster walls catching directional light, next to a deep forest green corduroy accent chair."
+          },
+          {
+            "id": "029",
+            "text": "Oxidized Bronze & Cast Glass — a heavy, industrial-luxury material pairing: thick, textured partitions of kiln-cast bubbly glass held securely by substantial, oil-rubbed oxidized bronze brackets and framing pillars."
+          },
+          {
+            "id": "030",
+            "text": "Zebrawood Veneer & Silk Shag — an extravagant, high-contrast texture profile: exotic zebrawood wall paneling showing bold linear grain patterns, grounding a thick, dense, light-reflective silk-blend plush area rug."
+          }
+        ]
+      },
+      {
+        "title": "STRATEGIC ACCENTS (SENSORY IDENTITY)",
+        "options": [
+          {
+            "id": "031",
+            "text": "The Bespoke Coffee Service — a tight macro focus on an artisan espresso service featuring dark, glossy crema in a matte ceramic demitasse cup, a perfectly folded linen napkin, and a sleek silver spoon resting on a polished stone tabletop."
+          },
+          {
+            "id": "032",
+            "text": "The Curated Aviation Read — a quiet lifestyle detail showcasing a premium travel and design magazine open on a low coffee table, revealing high-quality matte paper pages alongside a designer fountain pen."
+          },
+          {
+            "id": "033",
+            "text": "The Crafted Old Fashioned — a sophisticated cocktail accent capturing a heavy crystal rocks glass filled with amber bourbon, a single clear hand-cut ice sphere, an orange peel twist, resting on a leather coaster."
+          },
+          {
+            "id": "034",
+            "text": "The Botanical Harmony — a natural design detail featuring a minimal matte ceramic vase holding structural, architectural flora like monstera leaves or eucalyptus branches, cutting a clean silhouette against a blue backdrop."
+          },
+          {
+            "id": "035",
+            "text": "The Elite Passage Passport — a subtle nod to global travel featuring a leather passport wallet and a premium metal credit card resting loosely on a dark wood valet tray, capturing a momentary pause in a journey."
+          },
+          {
+            "id": "036",
+            "text": "The High-End Timepiece — a close-up lifestyle shot focusing on a luxury mechanical watch resting loosely next to a half-filled crystal sparkling water tumbler on a brushed brass side table."
+          },
+          {
+            "id": "037",
+            "text": "The Gourmet Amuse-Bouche — a culinary micro-shot displaying a small, perfectly plated architectural appetizer on a dark slate tile, showing textures of micro-greens, sea salt crystals, and a glossy reduction swirl."
+          },
+          {
+            "id": "038",
+            "text": "The Executive Briefcase — a smart travel accent featuring a distressed full-grain leather attaché case leaning neatly against the base of a fluted walnut column, suggesting a traveler who has just stepped in."
+          },
+          {
+            "id": "039",
+            "text": "The Designer Headphones — a tech-luxury detail showing sleek, matte-aluminum over-ear noise-canceling headphones resting on a velvet chair cushion, catching a sliver of terminal window light."
+          },
+          {
+            "id": "040",
+            "text": "The Crystal Decanter Set — a heavy bar accent featuring a trio of geometric crystal spirit decanters filled with varied shades of amber liquid, catching intense backlighting on a polished marble credenza."
+          }
+        ]
+      },
+      {
+        "title": "COMPOSITION & PERSPECTIVE (CAMERA EYE)",
+        "options": [
+          {
+            "id": "041",
+            "text": "Symmetrical One-Point Perspective — a rigid, perfectly centered composition aligned precisely down the middle of a grand lounge corridor, creating flawless balance and a monumental, architectural sense of space."
+          },
+          {
+            "id": "042",
+            "text": "The Low-Angle Intimate Frame — a camera position lowered to the height of the lounge chairs, looking across coffee tables toward a wide background, establishing a cozy, highly immersive, and deeply grounded point of view."
+          },
+          {
+            "id": "043",
+            "text": "Tilt-Shift Terminal Juxtaposition — utilizing a technical tilt-shift lens to keep interior walls perfectly parallel, framing a sharp, hyper-detailed foreground lounge while the chaotic airport terminal outside the glass is compressed into smooth bokeh."
+          },
+          {
+            "id": "044",
+            "text": "The Geometric Corner Cut — an off-center composition using the dynamic diagonals of custom shelving units or wall partitions to slice the frame, emphasizing the modern, layered architectural depth of the space."
+          },
+          {
+            "id": "045",
+            "text": "Flat-Lay Macro Detail — an overhead, architectural flat-lay or high-angle detail shot looking straight down onto a curated arrangement of furniture, contrasting shapes, textures, and shadows like an interior design lookbook."
+          },
+          {
+            "id": "046",
+            "text": "The Cinematic Wide Tracking Shot — a sweeping, grand aspect ratio composition that frames the lounge as a vast, cinematic movie set, utilizing dramatic leading lines and deep layers of foreground, midground, and background."
+          },
+          {
+            "id": "047",
+            "text": "Through-the-Partition Peek — a clever framing technique where the camera shoots through the gaps of a geometric brass screen or ribbed glass pane, creating a multi-layered, highly exclusive, and private visual depth."
+          },
+          {
+            "id": "048",
+            "text": "The Isometric Telephoto Crop — a tight, highly organized composition shot from a distance using a telephoto lens, flattening the perspective to turn chairs, tables, and lamps into a graphic, painting-like geometric design."
+          },
+          {
+            "id": "049",
+            "text": "The Tarmac Reflection Overlay — a complex double-layered composition where the camera focuses on the interior lounge furniture, but the glass window overlay acts as a clean mirror, superimposing a sharp reflection of an airplane tail."
+          },
+          {
+            "id": "050",
+            "text": "Extreme Close-Up Material Abstract — a bold, macro compositional choice focusing purely on the intersection where two premium materials meet—such as brass inlay cutting directly through raw travertine stone—leaving the rest of the space to the imagination."
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "PORTUGUESE JOURNEY",
     "category": [
       "TRAVEL",
@@ -432,6 +671,357 @@
           {
             "id": "016",
             "text": "cool-toned mid-century palette with sky-blue and slate-gray highlights"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "LIMINAL 1701",
+    "category": [
+      "SCI-FI",
+      "FANTASY",
+      "LIMINAL",
+      "MID-CENTURY MODERN",
+      "ABANDONED",
+      "CINEMATIC RETRO",
+      "RETRO CINEMATIC"
+    ],
+    "message": "Take a picture and render a hyper-realistic, abandoned, and hauntingly silent environment aboard the 1960s USS Enterprise 1701, capturing the stark, melancholic essence of a vessel frozen in time. The aesthetic is a precise collision of mid-century modern design principles—characterized by Eames-era curved plastics, clean geometric lines, and ergonomic space-age shapes—with a desolate, decaying, and forgotten atmosphere. Every frame must emphasize the \"liminal space\" quality: vast, empty, institutional hallways that feel simultaneously familiar and deeply unsettling, bathed in the hum of flickering fluorescent light panels and the pervasive silence of a ship that has long since lost its crew. The imagery should feature high-fidelity, photorealistic textures: layers of fine gray dust settling over brushed aluminum bulkheads, weathered plastics, and discolored command consoles; the harsh, high-contrast shadows of 1960s practical set lighting, where pools of amber and cyan light fight against oppressive darkness; and a cinematic, wide-angle lens perspective that stretches the curvature of the corridors and the depth of the bridge, making the emptiness feel monumental. Incorporate subtle, haunting details like abandoned PADDs, flickering status indicator lights that serve as the ship's only heartbeat, and the cold, unyielding metal surfaces that define the 23rd-century vision of the future. The composition must be stark and static, evoking a sense of profound transience, as if the viewer has stumbled into a quiet, spectral museum of a future that never truly happened.\n\nADDITIONAL INSTRUCTIONS\nFocus on technical realism: render surfaces as brushed aluminum, worn plastics, and textured fabrics typical of the 1960s. Use wide-angle, cinematic depth of field to emphasize the scale of empty corridors. Favor practical, era-appropriate lighting—fluorescents, glowing indicator buttons, and diffused overhead panels—rather than modern neon or high-energy digital glows.\n\nNEGATIVE PROMPT\nbright, cheerful, busy, crew, people, humans, futuristic holographic, sharp neon, high-saturation, vibrant, digital artifacts, low-detail, messy rendering, cartoonish, oversaturated, modern sleekness, clean, polished, pristine, lens flare, motion blur, CGI-looking, over-exposed.\n\nRANDOMIZATION RECOMMENDATION\nRandomization is highly encouraged. Shuffling the Location and Atmosphere groups will yield a vast, non-repeating survey of the ship, allowing you to build a cohesive narrative of a derelict vessel through diverse, atmospheric vignettes.\n\nCREATIVE STRATEGY\nThis structure treats the Enterprise as a architectural character rather than a stage. By decoupling \"Location\" (the structural setting) from \"Atmosphere\" (the lighting and mood) and adding granular \"Material Decay\" and \"Anomaly Effects\" groups, the user can dial in the specific intensity of the ship's abandonment. This is designed for building a consistent, evocative \"ghost ship\" portfolio where every room feels like a forgotten piece of history.\n\nVISUAL DNA ANALYSIS\nCinematic Identity: 1960s New Hollywood science fiction, Mid-Century Modernism, Brutalist architecture.\n\nAtmosphere: Liminal, hollow, reverent, and slightly ominous.\n\nFraming: Wide-angle, static compositions that highlight empty negative space.\n\nMaterial Language: Brushed steel, matte plastics, woven textiles, aged circuitry, heavy dust.\n\nColor Relationship: A palette of muted beiges, grays, and metallic silvers, accented by dying amber/green indicator lights.\n\nStorytelling: Environmental storytelling that relies on the absence of human life to suggest a sudden, eerie departure.",
+    "randomizeOptions": true,
+    "optionGroups": [
+      {
+        "title": "LOCATION",
+        "options": [
+          {
+            "id": "001",
+            "text": "The desolate Bridge with an empty, spotlighted command chair surrounded by dark, glowing consoles."
+          },
+          {
+            "id": "002",
+            "text": "A cramped, dust-covered corridor with repeating curved bulkheads and flickering, dim emergency lighting."
+          },
+          {
+            "id": "003",
+            "text": "The abandoned Sick Bay featuring sterile, unlit bio-beds and scattered, antiquated medical instruments."
+          },
+          {
+            "id": "004",
+            "text": "Captain Kirk’s quarters, appearing lived-in but suddenly deserted, with dim, ambient warm lighting."
+          },
+          {
+            "id": "005",
+            "text": "The cavernous, echoing Shuttle Bay with the Galileo II sitting dormant in the center of the dark expanse."
+          },
+          {
+            "id": "006",
+            "text": "A silent, dimly lit Commissary featuring stark, empty dining booths and cold, metallic surfaces."
+          },
+          {
+            "id": "007",
+            "text": "The Engineering room dominated by massive, silent industrial machinery and shadowed, intricate power conduits."
+          },
+          {
+            "id": "008",
+            "text": "The Botanical Gardens dome with withered, desiccated, and dust-covered plant life."
+          },
+          {
+            "id": "009",
+            "text": "Rec Deck 1 featuring empty pool tables, dusty shuffleboard, and decaying leisure equipment."
+          },
+          {
+            "id": "010",
+            "text": "Deck 14 Aux Control: A secondary, forgotten auxiliary bridge, even more derelict and ancient."
+          },
+          {
+            "id": "011",
+            "text": "Transporter Room 2 with a silent transporter pad, platforms slightly misaligned, dust motes dancing in weak light."
+          },
+          {
+            "id": "012",
+            "text": "The Observation Lounge featuring wraparound port windows showing vast space, empty seats, and faint hull vibration."
+          },
+          {
+            "id": "013",
+            "text": "Science Lab 1 with empty beakers, broken glass, derelict equipment, and years of accumulated dust."
+          },
+          {
+            "id": "014",
+            "text": "Secondary Hull Primary Observation Deck: A key panoramic viewpoint showing the curvature of the main saucer."
+          },
+          {
+            "id": "015",
+            "text": "Warp Core Chamber: A very specific, focused view of the warp core machinery in silent stasis."
+          }
+        ]
+      },
+      {
+        "title": "ATMOSPHERE",
+        "options": [
+          {
+            "id": "016",
+            "text": "\"Static Decay\": Fine, aged film grain, dust motes dancing in light shafts, cold, desaturated colors."
+          },
+          {
+            "id": "017",
+            "text": "\"Emergency Pulse\": Intense rim lighting with harsh, high-contrast shadows and deep, oppressive blacks."
+          },
+          {
+            "id": "018",
+            "text": "\"Ghostly Echo\": Hazy, soft-focus diffusion with cool blue undertones, dreamlike and unsettling."
+          },
+          {
+            "id": "019",
+            "text": "\"The Void\": Total pitch blackness, punctuated only by a single, focused light beam illuminating one object."
+          },
+          {
+            "id": "020",
+            "text": "\"Hiss of Static\": Intermittent electronic noise represented by color fringing and subtle visual artifacts."
+          },
+          {
+            "id": "021",
+            "text": "\"Thermal Decay\": Textures showing slight frost or condensation, with a chilling overall temperature palette."
+          },
+          {
+            "id": "022",
+            "text": "\"Temporal Bleed\": Subtle optical distortions and repeated echoes in the air."
+          },
+          {
+            "id": "023",
+            "text": "\"Spectral Flicker\": The entire grid of lights flickers in a slow, hypnotic, unsettling pattern."
+          },
+          {
+            "id": "024",
+            "text": "\"The Whimper\": Pervasive silence amplified, making even faint internal machinery hum feel monumental."
+          },
+          {
+            "id": "025",
+            "text": "\"Dust Moteriffic\": Heavy concentration of dancing dust motes catching the few light shafts."
+          }
+        ]
+      },
+      {
+        "title": "OBJECTS & ARTIFACTS",
+        "options": [
+          {
+            "id": "026",
+            "text": "A single, overturned coffee mug with a faded Starfleet Command (SCC) logo."
+          },
+          {
+            "id": "027",
+            "text": "A personal tricorder, powered down and derelict, its strap hanging."
+          },
+          {
+            "id": "028",
+            "text": "A decaying, mid-century modern crewman's lounge chair (the 'Eames' inspiration)."
+          },
+          {
+            "id": "029",
+            "text": "An old, unspooled data-tape cartridge, looking like vintage magnetic tape."
+          },
+          {
+            "id": "030",
+            "text": "Scattered PADD components and circuit boards."
+          },
+          {
+            "id": "031",
+            "text": "A discarded red shirt uniform, severely faded and dust-covered."
+          },
+          {
+            "id": "032",
+            "text": "An open Starfleet toolbox containing antiquated mechanical hand tools."
+          },
+          {
+            "id": "033",
+            "text": "A silent wall intercom unit with a single, blinking red light."
+          },
+          {
+            "id": "034",
+            "text": "A dusty, incomplete star chart map showing uncharted territory."
+          },
+          {
+            "id": "035",
+            "text": "A broken, classic Star Trek communicator with exposed circuitry."
+          }
+        ]
+      },
+      {
+        "title": "MATERIAL DECAY",
+        "options": [
+          {
+            "id": "036",
+            "text": "Microscopic pitting on otherwise polished metallic bulkhead surfaces."
+          },
+          {
+            "id": "037",
+            "text": "Faint patina of oxidation creeping over copper or bronze fixtures."
+          },
+          {
+            "id": "038",
+            "text": "Delicate, spiderweb fractures spreading across aged plastic panels."
+          },
+          {
+            "id": "039",
+            "text": "Deep sun bleaching on previously vibrant colored fabrics in quarters."
+          },
+          {
+            "id": "040",
+            "text": "Flaking, dried, brittle paint on older structural elements and pipes."
+          },
+          {
+            "id": "041",
+            "text": "Crumbling, powdery insulation material exposed near conduits."
+          },
+          {
+            "id": "042",
+            "text": "Warped, water-damaged wooden accents in high-ranking officer staterooms."
+          },
+          {
+            "id": "043",
+            "text": "Cracked and brittle electrical insulation, revealing bare wires."
+          },
+          {
+            "id": "044",
+            "text": "Moss or mildew growth (non-botanical decay) in damp, dark engineering corners."
+          },
+          {
+            "id": "045",
+            "text": "General pervasive 'shadow layer' of deep grime covering all buttons and dials."
+          }
+        ]
+      },
+      {
+        "title": "CORRIDOR DETAILS",
+        "options": [
+          {
+            "id": "046",
+            "text": "A cracked ceiling light panel with exposed, ancient wiring visible."
+          },
+          {
+            "id": "047",
+            "text": "A large, complex hydraulic lift platform showing years of wear and rust."
+          },
+          {
+            "id": "048",
+            "text": "Faded floor marking stripes with unreadable script or numbers."
+          },
+          {
+            "id": "049",
+            "text": "Scattered insulation foam pieces lying undisturbed on the floor."
+          },
+          {
+            "id": "050",
+            "text": "Repeating patterns of small, open utility access hatches."
+          },
+          {
+            "id": "051",
+            "text": "A wall-mounted emergency fire suppression unit, looking ancient and corroded."
+          },
+          {
+            "id": "052",
+            "text": "Faint, repeating electronic symbols stenciled onto the hull paneling."
+          },
+          {
+            "id": "053",
+            "text": "Disused cable runners with masses of wires pooling in the corner."
+          },
+          {
+            "id": "054",
+            "text": "A slow-moving, non-functional maintenance drone in a hallway pocket."
+          },
+          {
+            "id": "055",
+            "text": "A series of small, empty, and open crew storage lockers."
+          }
+        ]
+      },
+      {
+        "title": "ANOMALY EFFECTS",
+        "options": [
+          {
+            "id": "056",
+            "text": "A subtle shimmering effect, like heat haze, localized at a critical juncture."
+          },
+          {
+            "id": "057",
+            "text": "A visual representation of a low-frequency hum: subtle color saturation shifts."
+          },
+          {
+            "id": "058",
+            "text": "Intermittent, silent, transparent 'echoes' of previous crew activity captured in light."
+          },
+          {
+            "id": "059",
+            "text": "Reflections in reflective surfaces displaying a different state of the ship (e.g., active)."
+          },
+          {
+            "id": "060",
+            "text": "Objects that appear slightly translucent or desaturated of color."
+          },
+          {
+            "id": "061",
+            "text": "Subtle visual distortions localized around specialized or dangerous equipment."
+          },
+          {
+            "id": "062",
+            "text": "Perceived non-Euclidean angles suggested by odd shadows and forced perspectives."
+          },
+          {
+            "id": "063",
+            "text": "Faint, unidentifiable spectral colors (like deep violet or moss green) bleeding into the scene."
+          },
+          {
+            "id": "064",
+            "text": "Unnatural light patterns that move in ways normal physical sources cannot."
+          },
+          {
+            "id": "065",
+            "text": "Subtle, repeating geometric light patterns embedded in the background noise or static."
+          }
+        ]
+      },
+      {
+        "title": "HULL & EXTERIOR VIEWS",
+        "options": [
+          {
+            "id": "066",
+            "text": "Looking through a port window at the curvature of a barren, unlit planet."
+          },
+          {
+            "id": "067",
+            "text": "Extreme close-up on the Enterprise's hull plating, emphasizing pitting."
+          },
+          {
+            "id": "068",
+            "text": "A high-vantage viewpoint looking down onto the primary saucer section's perimeter."
+          },
+          {
+            "id": "069",
+            "text": "A view down the length of a massive warp nacelle in partial shadow."
+          },
+          {
+            "id": "070",
+            "text": "The closed main shuttle bay doors, seen from a maintenance access platform."
+          },
+          {
+            "id": "071",
+            "text": "View from an observation lounge showing a dense field of distant space debris."
+          },
+          {
+            "id": "072",
+            "text": "The Enterprise reflecting the cold, cool light of a distant, massive nebula."
+          },
+          {
+            "id": "073",
+            "text": "An exterior umbilical cable port, seemingly disconnected and severed."
+          },
+          {
+            "id": "074",
+            "text": "The primary scanner dish, seemingly still but slightly active with an odd glow."
+          },
+          {
+            "id": "075",
+            "text": "A view down the structural beam connecting the saucer and engineering sections."
           }
         ]
       }
