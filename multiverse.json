@@ -1,5 +1,15 @@
 [
   {
+    "name": "NATURAL SELFIE",
+    "category": [
+      "PHOTOGRAPHY"
+    ],
+    "message": "Take a picture and transform the composition into a candid, handheld, first-person perspective selfie. The framing should feature an outstretched arm extending toward the subjects, capturing them from a slightly elevated, wide-angle lens viewpoint. Include natural, slight motion blur, authentic lens distortion characteristic of a modern high-end smartphone camera, and a casual, spontaneous expression on the faces of the subjects who are looking directly into the lens. The background should maintain the original context of the scene but appear slightly out of focus due to the shallow depth of field typical of smartphone portrait mode.\n\nADDITIONAL INSTRUCTIONS\nTo ensure the \"selfie\" effect is convincing, prioritize a slightly high-angle composition. The lighting should mimic ambient, real-world conditions rather than professional studio setups. If the input image has specific subjects, ensure their gaze is locked onto the camera lens. Use high-frequency details like subtle skin textures and natural light glints in the eyes to enhance the realism of the handheld capture.\n\nNEGATIVE PROMPT\n[professional lighting, tripod, wide-shot, cinematic framing, studio equipment, unnatural poses, looking away from camera, flat lighting, high-end photography aesthetic, oversaturated colors, extreme digital filters, perfect symmetry, staged composition]\n\nRANDOMIZATION RECOMMENDATION\nNot recommended. This preset is designed for a consistent, specific transformation.\n\nCREATIVE STRATEGY\nThis preset was selected as a \"Simple\" type because its objective is a specific structural transformation—re-framing a standard image into a first-person handheld perspective. By fixing the \"outstretched arm\" and \"wide-angle lens\" variables, the preset ensures that any input image is consistently forced into the selfie geometry. It relies on the model’s internal understanding of \"smartphone photography\" to replace the original framing with a dynamic, casual, and intimate composition.\n\nVISUAL DNA ANALYSIS\nCinematic Identity: Candid, documentary, social media vernacular.\n\nAtmosphere: Casual, intimate, spontaneous, real-time.\n\nFraming Tendencies: Tight, slightly distorted, high-angle, \"arm-extended\" geometry.\n\nEmotional Tone: Personal, relatable, authentic.\n\nMaterial Language: Digital sensor noise, smartphone lens distortion, natural ambient light.\n\nColor Relationships: Unfiltered, true-to-life, natural skin tones.\n\nVisual Storytelling Characteristics: The camera itself becomes an invisible character, establishing a direct connection between the viewer and the subjects.",
+    "options": [],
+    "randomizeOptions": false,
+    "additionalInstructions": ""
+  },
+  {
     "name": "THE MULTIVERSE LENS",
     "category": [
       "PORTRAIT",
