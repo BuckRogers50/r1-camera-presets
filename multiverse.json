@@ -1,0 +1,123 @@
+[
+  {
+    "name": "THE MULTIVERSE LENS",
+    "category": [
+      "PORTRAIT",
+      "REALISM",
+      "FUN AND CREATIVE",
+      "OPTICS & REALISM"
+    ],
+    "message": "Take a picture and transform the scene into a crisp, high-fidelity capture reminiscent of contemporary computational photography, utilizing high dynamic range processing, naturalistic edge sharpness, and the authentic color science of a flagship smartphone to render the moment with impeccable clarity and depth.\n\nADDITIONAL INSTRUCTIONS\nPrioritize extreme image clarity and realistic texture reproduction. Avoid synthetic, painted, or \"AI-looking\" surfaces. The rendering should feel captured, not generated, emphasizing the modern, sharp, and highly intelligent processing of a high-end smartphone camera system.\n\nNEGATIVE PROMPT\nlow resolution, painterly, over-smoothed skin, unnatural color banding, heavy chromatic aberration, lens distortion, pixelation, film grain, vintage degradation, dreamy soft-focus, blurry edges, artistic stylized filters, oversaturated HDR.\n\nRANDOMIZATION RECOMMENDATION\nRecommended: Yes. Enabling randomization for the first three groups will generate a diverse \"camera roll\" of varied, authentic-feeling shots.\n\nCREATIVE STRATEGY\nThis preset structure is designed to mimic the \"everyday epic\" of modern smartphone photography. By keeping the \"Optical Character\" fixed to a specific technical profile, we ensure the image always feels like it originated from a modern lens, while the other groups provide the flexibility of a professional photographer on location. The groups are built to be combinatorial—allowing you to mix a \"Wide Lens\" with \"Candid Interaction\" to create a story, or a \"Macro Detail\" with \"Golden Hour Glow\" for aesthetic focus.\n\nVISUAL DNA ANALYSIS\nCinematic Identity: Modern computational photography.\n\nAtmosphere: High-clarity, objective, and contemporary.\n\nFraming Tendencies: Versatile, ranging from practical documentary to portraiture.\n\nEmotional Tone: Grounded, relatable, and immediate.\n\nMaterial Language: Sharp, high-resolution, and color-accurate.\n\nColor Relationships: Vibrant P3-gamut colors, balanced skin tones, and intelligent auto-white balance.\n\nVisual Storytelling: Authentic, \"I was there\" documentary style.",
+    "randomizeOptions": true,
+    "optionGroups": [
+      {
+        "title": "PROXIMITY & SCALE",
+        "options": [
+          {
+            "id": "001",
+            "text": "Wide Lens (1x): A balanced, versatile perspective capturing the subject within their full environmental context, mimicking a standard 26mm wide field of view."
+          },
+          {
+            "id": "002",
+            "text": "Ultra-Wide (0.5x): A sweeping, expansive view capturing dramatic architecture or vast landscapes, emphasizing a 13mm equivalent field of view."
+          },
+          {
+            "id": "003",
+            "text": "Standard Portrait: Focused framing that isolates the subject, utilizing soft, natural bokeh to create professional depth and separation."
+          },
+          {
+            "id": "004",
+            "text": "Macro Detail: An extreme close-up focusing on intricate textures—fabric weave, skin pores, or environmental debris—rendered with tack-sharp focus."
+          },
+          {
+            "id": "005",
+            "text": "Telephoto (2x/3x): A compressed, tight perspective that pulls the background forward, focusing on emotional intimacy and facial structure."
+          },
+          {
+            "id": "006",
+            "text": "Street Snapshot: An candid, eye-level angle that mimics a quick, spontaneous capture of a fleeting moment in a public space."
+          },
+          {
+            "id": "007",
+            "text": "Low-Angle Perspective: A dynamic, heroic angle looking upward at the subject, emphasizing presence and scale against the sky or overhead structures."
+          }
+        ]
+      },
+      {
+        "title": "NARRATIVE MOTION",
+        "options": [
+          {
+            "id": "008",
+            "text": "Candid Interaction: The subjects are captured in a spontaneous, genuine moment of connection or movement, full of naturalistic, unfiltered energy."
+          },
+          {
+            "id": "009",
+            "text": "Quiet Introspection: A serene, still moment where the subject is lost in thought or reflection, emphasizing emotional stillness and peace."
+          },
+          {
+            "id": "010",
+            "text": "Action-Frozen: A high-speed, sharp capture of an active moment (e.g., a child running, a hand gesture) frozen in time with perfect clarity."
+          },
+          {
+            "id": "011",
+            "text": "The Gaze: Subjects engaged in intense, direct eye contact or focused observation of something specific, creating a narrative focal point."
+          },
+          {
+            "id": "012",
+            "text": "Environmental Engagement: Subjects interacting with their surroundings—touching a surface, looking out a window, or navigating a path."
+          },
+          {
+            "id": "013",
+            "text": "Shared Discovery: Two or more subjects reacting together to a shared experience or object, highlighting group dynamics and empathy."
+          },
+          {
+            "id": "014",
+            "text": "Momentum Captured: A slight motion blur on secondary elements while the primary subject remains sharp, conveying a sense of ongoing physical movement."
+          }
+        ]
+      },
+      {
+        "title": "CINEMATIC LIGHTING & ATMOSPHERE",
+        "options": [
+          {
+            "id": "015",
+            "text": "Smart-HDR Daylight: A perfectly balanced scene with high dynamic range, ensuring no crushed shadows or blown-out highlights; bright, even, and clear."
+          },
+          {
+            "id": "016",
+            "text": "Soft Window Diffusion: Gentle, directional light filtered through interior window glass, creating flattering, soft skin tones and clean shadows."
+          },
+          {
+            "id": "017",
+            "text": "Golden Hour Glow: The warm, saturated hues of late afternoon sun, creating a vibrant and nostalgic atmosphere with long, dramatic shadows."
+          },
+          {
+            "id": "018",
+            "text": "Low-Light Night Mode: A clean, noise-reduced rendering of a dim environment, preserving highlight detail and shadow texture with artificial light enhancement."
+          },
+          {
+            "id": "019",
+            "text": "Cool Fluorescent Interior: A sharp, clinical, and clean lighting environment typical of modern offices or public transit, emphasizing white balance accuracy."
+          },
+          {
+            "id": "020",
+            "text": "High-Contrast Silhouette: Bold, back-lit scenes where the subject appears as a detailed, dark form against a bright, luminous background."
+          },
+          {
+            "id": "021",
+            "text": "Practical Lighting: Lighting driven by visible sources within the frame—lamps, screens, or neon signage—creating localized, moody highlights."
+          }
+        ]
+      },
+      {
+        "title": "OPTICAL CHARACTER",
+        "options": [
+          {
+            "id": "022",
+            "text": "iPhone 14 Computational Engine: A high-fidelity, crisp rendering characterized by advanced sensor-shift stabilization, 12MP/48MP quad-pixel detail, \"Photonic Engine\" color science, wide P3 color gamut, and natural-looking digital sharpening typical of flagship Apple hardware."
+          }
+        ]
+      }
+    ]
+  }
+]
