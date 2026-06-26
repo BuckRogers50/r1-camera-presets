@@ -1,0 +1,131 @@
+[
+  {
+    "name": "URBAN HEATWAVE: LONDON & PARIS 2026",
+    "category": [
+      "URBAN"
+    ],
+    "message": "Take a picture and capture the sweltering, sun-drenched atmosphere of a record-breaking summer day in {LOCATION_SETTING}, featuring sharp focus, authentic street-level textures, and a cinematic documentary aesthetic. In the background, emphasize {DRAMATIC_REACTION} of local Londoners, Parisians, or tourists as they collectively lament the oppressive heat. The imagery should highlight contemporary summer fashion, the shimmering haze of heat rising from the pavement, and the contrast between iconic city landmarks and the exhausted, theatrical misery of the populace under the relentless sun of 2026.\n\nADDITIONAL INSTRUCTIONS\nEnsure the rendering prioritizes \"2026-era\" urban details: sleek modern mobile devices, current summer fashion trends, and high-fidelity architectural textures. The emotional tone must be \"hilariously dramatic\"—the subjects should appear physically exhausted but in an exaggerated, stage-play fashion. Maintain a sharp focus on the faces of those lamenting the heat to capture the nuanced expressions of urban suffering.\n\nNEGATIVE PROMPT\ncool weather, rain, umbrellas, comfortable people, happy/relaxed expressions, winter clothing, distorted faces, low-resolution textures, muddy colors, cartoonish stylization, out-of-focus subjects, text artifacts, watermark, blurred architectural lines, jackets, scarves.\n\nRANDOMIZATION RECOMMENDATION\nHighly recommended. Randomizing the DRAMATIC_REACTION and LOCATION_SETTING groups is essential to ensure the comedic, theatrical element remains fresh and diverse across multiple generations.\n\nCREATIVE STRATEGY\nThis structure uses \"Option Groups\" to pair specific, iconic locations with highly specific, absurd human behaviors. By isolating the DRAMATIC_REACTION, the preset ensures that every image contains a \"protagonist of misery,\" turning a standard travel photo into a narrative-driven piece of satire. The CINEMATIC LIGHTING is tuned specifically to emphasize the \"heatwave\" theme, utilizing harshness and haze to sell the story of an uncomfortable summer.\n\nVISUAL DNA ANALYSIS\nCinematic Identity: High-fidelity documentary satire.\n\nAtmosphere: Oppressive, sweltering, theatrical, and humorously intense.\n\nFraming: Candid street-level perspectives that capture the \"background performer\" in their moment of peak discomfort.\n\nEmotional Tone: A blend of aspirational travel beauty and absurd, performative urban agitation.\n\nMaterial Language: Sun-bleached limestone, shimmering asphalt, damp fabric, melting ice cream, and heat-haze.\n\nColor Relationships: Saturated heat palettes (blinding whites, scorched earth browns, vibrant heat-stressed greens, and sky-fire blues).\n\nVisual Storytelling: Focuses on the juxtaposition of beautiful, historic architecture against the comedic frailty of humans in extreme weather.",
+    "randomizeOptions": true,
+    "optionGroups": [
+      {
+        "title": "LOCATION_SETTING",
+        "options": [
+          {
+            "id": "001",
+            "text": "The South Bank of the Thames in London, with the Shard piercing a bleached, blinding blue sky."
+          },
+          {
+            "id": "002",
+            "text": "The Le Marais district in Paris, focusing on narrow cobblestone streets where the heat seems trapped."
+          },
+          {
+            "id": "003",
+            "text": "The Champ de Mars in Paris, looking toward the Eiffel Tower, with wilted greenery and scorched grass."
+          },
+          {
+            "id": "004",
+            "text": "The Covent Garden Piazza in London, featuring crowded, overheated street corners and stagnant air."
+          },
+          {
+            "id": "005",
+            "text": "The bustling exterior of the Louvre, with the pyramid reflecting harsh, unforgiving sunlight."
+          },
+          {
+            "id": "006",
+            "text": "The Victorian Gothic arches of the Palace of Westminster, looking hazy and oppressive under the noon sun."
+          },
+          {
+            "id": "007",
+            "text": "The manicured gardens of the Luxembourg Palace, filled with visitors seeking shade under sparse, sun-stressed trees."
+          },
+          {
+            "id": "008",
+            "text": "The iconic Tower Bridge, with heat haze distorting the city skyline in the background."
+          },
+          {
+            "id": "009",
+            "text": "The steps of the Sacré-Cœur, where the stone is visibly baking in the relentless heat."
+          },
+          {
+            "id": "010",
+            "text": "The lively, packed interior of a London borough market, with visible humidity and wilting produce stalls."
+          }
+        ]
+      },
+      {
+        "title": "DRAMATIC_REACTION",
+        "options": [
+          {
+            "id": "011",
+            "text": "A posh Londoner in a damp linen suit dramatically fanning himself with a newspaper while staring accusingly at the sun."
+          },
+          {
+            "id": "012",
+            "text": "A Parisian local theatrically slumping against a limestone facade, clutching a melting artisanal gelato in performative despair."
+          },
+          {
+            "id": "013",
+            "text": "A group of tourists in neon-colored summer gear collapsing onto a bench in unison, looking like extras in a tragic opera about humidity."
+          },
+          {
+            "id": "014",
+            "text": "A disgruntled commuter sweating through a shirt, gesturing wildly at a thermometer display, embodying the sheer absurdity of the heatwave."
+          },
+          {
+            "id": "015",
+            "text": "An artist on the banks of the Seine, theatrically wiping sweat from their brow with a paintbrush, looking utterly defeated by the temperature."
+          },
+          {
+            "id": "016",
+            "text": "A group of friends sharing a tiny, inadequate portable fan, staring into the lens with expressions of absolute, comedic exhaustion."
+          },
+          {
+            "id": "017",
+            "text": "A businessman with his tie loosened and jacket discarded, reclining on a public fountain's edge with eyes closed in performative fainting."
+          },
+          {
+            "id": "018",
+            "text": "A street performer who has stopped their act to drape a wet cloth over their head, looking like a weary explorer in a desert."
+          },
+          {
+            "id": "019",
+            "text": "A couple sitting at a cafe table, each holding an empty water glass in a gesture of dramatic, thirst-stricken longing."
+          },
+          {
+            "id": "020",
+            "text": "A fashion-conscious teenager in oversized sunglasses, dramatically posing while visibly wilting in the heat of a crowded plaza."
+          }
+        ]
+      },
+      {
+        "title": "CINEMATIC LIGHTING",
+        "options": [
+          {
+            "id": "021",
+            "text": "Brutal high-noon sun, harsh crisp shadows, and a blinding, overexposed lens flare that emphasizes the stifling heat."
+          },
+          {
+            "id": "022",
+            "text": "Oppressive late-afternoon golden hour, where the light is thick, warm, and hazy, making the city look like it is melting."
+          },
+          {
+            "id": "023",
+            "text": "Blown-out, high-contrast daylight, emphasizing the shimmering air distortion and the scorched, dry urban textures."
+          },
+          {
+            "id": "024",
+            "text": "Sharp, directional sunlight creating dramatic high-contrast silhouettes against white limestone architecture."
+          },
+          {
+            "id": "025",
+            "text": "Hazy, diffuse summer light that creates a \"steam-room\" atmosphere across the entire city vista."
+          },
+          {
+            "id": "026",
+            "text": "Overexposed, \"sun-blind\" aesthetic where highlights are completely blown out to convey intense heat."
+          }
+        ]
+      }
+    ]
+  }
+]
