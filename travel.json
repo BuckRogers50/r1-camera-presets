@@ -1,0 +1,217 @@
+[
+  {
+    "name": "FORMOSAN AQUATICS (TAIPEI AND TAIWAN)",
+    "category": [
+      "TRAVEL"
+    ],
+    "message": "Take a picture and compose a highly detailed, high-resolution cinematic photograph captured on a medium format camera with a crisp, wide-angle lens, utilizing brilliant daylight exposure and a rich, texturally immersive perspective that frames the vibrant, water-centric ecology of northern Taiwan, ensuring every glistening aquatic surface, sun-drenched natural texture, and humid, atmosphere-softened horizon acts as a seamless extension of a bright, serene, and deeply detailed visual exploration of a land shaped by currents, rivers, and clear Pacific light.\n\nADDITIONAL INSTRUCTIONS\nThe visual style must emulate premium, large-format documentary photography (such as National Geographic or high-end travel journalism). Avoid the dark, desaturated, moody tones of urban cyberpunk. Color grading should prioritize warm, luminous skin tones, vibrant sub-tropical greens, deep saturated azures, and crisp, brilliant whites. Water must never look stagnant or flat; it must possess physical depth, transparency, and high specular reflectivity. Ensure all whites bloom naturally without clipping.\n\nNEGATIVE PROMPT\nlow detail, distorted anatomy, muddy textures, dark moody lighting, cyberpunk aesthetic, neon signs, rainy night, depressing atmosphere, desaturated colors, urban decay, artificial lens flares, over-processed HDR tones, digital painting look, 3D render look, plastic textures, text artifacts, smog, industrial pollution.\n\nRANDOMIZATION RECOMMENDATION\nRandomization is highly encouraged for this preset. Because the Arri/medium-format master prompt locks in a premium, daylight-oriented photographic quality, shuffling the location, light quality, and fluid textures will reliably yield breathtaking, unexpected combinations—matching a mountain gorge with sunrise steam, or a lake mirror with mid-century maritime elements.\n\nCREATIVE STRATEGY\nThis Option Groups configuration is engineered to break away from the dark, neon-soaked tropes of East Asian photography, celebrating Taiwan’s true nature as a brilliant, sun-drenched subtropical island. By separating the visual engine into Water Bodies, Light States, Hydrological Optics, Cultural Overlays, and Textures, the user can accurately synthesize the complex relationship between water and light. The master prompt enforces a clean, high-clarity documentary look, while the options allow the user to pivot from wide-open ocean landscapes to intimate, wet macro textures with zero friction.\n\nVISUAL DNA ANALYSIS\nCinematic Identity: Premium large-format travel cinematography and high-end nature documentaries, defined by edge-to-edge sharpness, natural color fidelity, and an open, airy frame.\n\nAtmosphere: Serene, revitalizing, luminous, and deeply tied to the natural world. It evokes the feeling of fresh air, moving water, and the warmth of a bright subtropical sun.\n\nFraming Tendencies: Dominated by sweeping, grand wide-angle compositions that emphasize land-and-water geography, balanced by precise split-level or macro water shots that showcase natural mechanics.\n\nColor Relationships: A bright, high-energy palette anchored by deep marine blues, brilliant turquoise, rich jade greens, honey-colored rocks, and golden sand, punctuated by blinding white crests of water.\n\nMaterial Language: Hyper-focused on fluid states and natural weathering; highlights include polished river stones beneath flowing water, waxy leaves repelling droplets, sun-bleached wood, and glistening, wet stone.",
+    "randomizeOptions": true,
+    "optionGroups": [
+      {
+        "title": "THE AQUATIC PALETTE (WATER BODIES & PLACES)",
+        "options": [
+          {
+            "id": "001",
+            "text": "Tamsui River: Estuary Sunchaser — a sweeping viewpoint looking down the wide Tamsui River estuary at late morning, featuring glistening, sun-dappled currents, passing passenger ferries leaving long white wakes, and the lush, green mangrove forests of Guandu lining the banks."
+          },
+          {
+            "id": "002",
+            "text": "Sun Moon Lake: Alpine Jade — an elevated, serene perspective of Sun Moon Lake under a high cloudless sky, showcasing the vast expanse of absolute jewel-toned jade and turquoise alpine water, framed by distant, soft blue mountain ridges and floating boathouses."
+          },
+          {
+            "id": "003",
+            "text": "Northeast Coast: Pacific Surge — a dramatic coastal vista where the brilliant blue Pacific Ocean meets the unique, honey-colored sedimentary rock formations of Yeliu or Nanya, capturing crystalline waves exploding into brilliant white sea foam against the shore under full midday sun."
+          },
+          {
+            "id": "004",
+            "text": "Pingxi: Mountain Stream Cascade — a lush, deep valley scene focusing on a clear, rushing mountain stream cascading over slick, moss-lined black boulders, creating soft waterfalls that spray fine mist into the bright, sun-pierced jungle canopy."
+          },
+          {
+            "id": "005",
+            "text": "Dadaocheng Pier: Tidal Shimmer — a low-angle viewpoint right at the water's edge of the river pier during mid-afternoon, where the choppy, silt-rich tidal waters reflect an intense, shimmering silver and gold light from a high, blazing sun."
+          },
+          {
+            "id": "006",
+            "text": "Keelung Harbor: Maritime Gateway — a wide, active harbor setting framed by bright blue sky, showcasing massive ocean-bound container vessels, white cruise ships cutting through deep navy water, and the sun-bleached concrete docks of the northern port."
+          },
+          {
+            "id": "007",
+            "text": "Wulai: Turquoise Gorge — a breathtaking gorge perspective featuring the roaring, milk-blue turquoise waters of the Nanshi River rushing through a steep canyon of sheer, dense-green vertical cliffs under a brilliant afternoon sky."
+          },
+          {
+            "id": "008",
+            "text": "Fulong: Golden Sand Estuary — the scenic confluence where a calm, mirror-flat coastal river loop meets the rolling surf of the ocean, separated by a long, pristine spit of blazing, sun-bleached golden sand beneath a pale azure horizon."
+          },
+          {
+            "id": "009",
+            "text": "Bitan: Emerald Pleasure Lake — a classic riverside scene framing the calm, wide, deep-emerald green waters of the Xindian River, dotted with bright white swan-shaped pedal boats drifting beneath a giant, sunlit suspension bridge."
+          }
+        ]
+      },
+      {
+        "title": "THE QUALITY OF LIGHT (SUNLIGHT & WATER STATE)",
+        "options": [
+          {
+            "id": "010",
+            "text": "10:00 AM - Crystalline High Sun — intense, direct morning sunlight that penetrates straight down into shallow waters, revealing underwater river stones or sand ripples with absolute clarity and casting razor-sharp, dark shadows."
+          },
+          {
+            "id": "011",
+            "text": "3:30 PM - Saturated Golden Flare — low-slung, warm afternoon light striking water surfaces at a steep angle, transforming the river or sea into a blinding sheet of liquid gold while creating a soft, humid ambient bloom in the background air."
+          },
+          {
+            "id": "012",
+            "text": "12:00 PM - Polarized Blue — high-noon sunlight under a perfectly clear sky, utilizing a polarized filter effect that deepens the blues of the ocean and sky to an extreme, hyper-real saturation while cutting out surface glare."
+          },
+          {
+            "id": "013",
+            "text": "7:00 AM - Dew-Drop Dawn — soft, clean, pale yellow morning light filtering through high altitude mist, illuminating thousands of tiny glistening water droplets resting on sub-tropical broadleaf ferns and riverbank grasses."
+          },
+          {
+            "id": "014",
+            "text": "5:00 PM - Coastal Pastel — the soft, diffused, post-sunset glow where the entire sky acts as a massive softbox, painting calm water surfaces with a smooth, mirror-like gradient of pale pink, lavender, and soft orange."
+          },
+          {
+            "id": "015",
+            "text": "1:30 PM - Cloud-Shadow Dapple — shifting, dynamic midday light where massive, puffy white cumulus clouds cast large, slow-moving shadows across a vast body of water, creating alternating patches of dark navy and brilliant, sun-lit teal."
+          },
+          {
+            "id": "016",
+            "text": "8:30 AM - Thermal Steam Shimmer — crisp, warm morning sun striking cool mountain rapids, causing thin, wispy trails of transparent vapor to rise off the water's surface, illuminated beautifully by backlighting."
+          },
+          {
+            "id": "017",
+            "text": "2:00 PM - White-Hot Reflection — an aggressive, high-contrast summer sun that produces intense, starburst-like specular highlights off the crests of ocean waves or river ripples, emphasizing raw solar energy."
+          },
+          {
+            "id": "018",
+            "text": "4:00 PM - Humid Haze Diffusion — a thick, warm subtropical moisture layer in the late afternoon air that gently softens distant landscapes into painterly layers of blue and green, while the immediate foreground remains tack-sharp and brightly lit."
+          }
+        ]
+      },
+      {
+        "title": "THE HYDROLOGICAL LENS (COMPOSITION & OPTICS)",
+        "options": [
+          {
+            "id": "019",
+            "text": "Medium-Format Wide — utilizing a crisp, low-distortion 28mm equivalent lens that stretches the horizon, emphasizing the vastness of the water bodies and creating an epic, environmentally dominant landscape composition."
+          },
+          {
+            "id": "020",
+            "text": "Split-Level Over/Under — an innovative composition where the camera lens is sub-merged exactly halfway, showing the hyper-detailed gravel and clear turquoise water current below the surface in the bottom half, and the bright sunlit mountains above."
+          },
+          {
+            "id": "021",
+            "text": "The Water-Level Glance — a camera position skimming just inches above the water's surface, causing the immediate foreground water ripples to blur smoothly into the frame while the distant shoreline remains perfectly focused."
+          },
+          {
+            "id": "022",
+            "text": "Telephoto Horizon Stack — using a 200mm compression lens to pull distant layered mountain ridges and ocean islands closer together, turning a coastal vista into a graphic, stacked arrangement of blues, greens, and whites."
+          },
+          {
+            "id": "023",
+            "text": "High-Shutter Spray Freeze — using a blistering fast shutter speed that captures rushing river rapids or crashing sea waves with microscopic detail, freezing individual droplets and crystalline water sheets mid-air."
+          },
+          {
+            "id": "024",
+            "text": "Symmetrical Water Mirror — a perfectly centered, dead-pan composition focusing on an absolutely still, glassy lake surface, creating a flawless 50/50 visual reflection of the sky and mountains across the horizontal axis."
+          },
+          {
+            "id": "025",
+            "text": "Leading River S-Curve — a classic landscape composition where a winding river or coastal inlet forms a perfect, graceful S-curve that guides the viewer's eye from the immediate foreground deep into the background horizon."
+          },
+          {
+            "id": "026",
+            "text": "Micro Hydro-Focus — an ultra-shallow depth of field macro shot focusing on individual water beads resting on a vibrant green lotus leaf or river reed, while the vast sun-drenched water park or lake behind is reduced to massive, creamy bokeh."
+          },
+          {
+            "id": "027",
+            "text": "Framed by Fronds — a composition that uses the sharp, graphic silhouettes of overhanging palm fronds, banana leaves, or coastal banyan branches at the top and sides of the frame to peek out onto a sun-blitzed azure bay."
+          }
+        ]
+      },
+      {
+        "title": "THE MARITIME ELEMENTS (HUMAN & NATURE OVERLAYS)",
+        "options": [
+          {
+            "id": "028",
+            "text": "Traditional Sampan — incorporating a classic, low-slung wooden sampan fishing boat with its iconic pointed bow, tied loosely to a bamboo pole near a calm, sun-drenched riverbank."
+          },
+          {
+            "id": "029",
+            "text": "Bamboo Riverside Scaffolding — adding structure with hand-lashed bamboo fishing platforms or stilt pathways extending out over tidal mudflats, weathered grey by the sun and salt water."
+          },
+          {
+            "id": "030",
+            "text": "Cyclist's River Path — introducing modern leisure culture by framing a clean, asphalt bike path running parallel to the blue river, marked by a single white bicycle or a clean concrete rest pavilion."
+          },
+          {
+            "id": "031",
+            "text": "Shinto-Era Stone Remnants — subtly embedding history along a stream, featuring a moss-covered, sun-dappled Japanese colonial-era stone lantern or a small weathered torii gate foot structure hiding in the riverbank brush."
+          },
+          {
+            "id": "032",
+            "text": "White Egret Solitude — placing a solitary, pristine white egret standing motionless on a single leg in the shallow, clear river shallows, its body perfectly silhouetted against the dark blue water."
+          },
+          {
+            "id": "033",
+            "text": "Glistening Fish Nets — capturing a row of fine, translucent monofilament fishing nets hanging out to dry on wooden frames along a pier, their fine meshes catching the bright afternoon sun like gossamer webs."
+          },
+          {
+            "id": "034",
+            "text": "Coastal Tetrapods — incorporating the iconic concrete wave-breaker blocks lining the shoreline, their massive, geometric forms sun-bleached to a light gray, contrasting with the fluid, organic white sea foam crashing around them."
+          },
+          {
+            "id": "035",
+            "text": "Riverside Teahouse Pavilion — framing a modern, open-air wooden or concrete viewing pavilion on a bluff, where glass windows reflect the blue sky and a small ceramic teapot sits on an outdoor table."
+          },
+          {
+            "id": "036",
+            "text": "Aquaculture Grid — adding human geography through a neat, geometric grid of floating oyster beds or fish-farming nets stretching out across a calm, protected coastal bay."
+          }
+        ]
+      },
+      {
+        "title": "THE FLUID TEXTURE (TACTILE MATERIALS)",
+        "options": [
+          {
+            "id": "037",
+            "text": "Glistening River Gravel — focusing on the bed of a clear stream, highlighting smooth, rounded river pebbles of slate, quartz, and green jasper, wet and gleaming beneath a thin layer of crystalline moving water."
+          },
+          {
+            "id": "038",
+            "text": "Sun-Bleached Driftwood — emphasizing dry, organic textures, featuring a large piece of sea-scoured driftwood resting on a beach, its surface cracked, silvery-white, and completely stripped of bark by salt and sun."
+          },
+          {
+            "id": "039",
+            "text": "Jade Moss & Wet Basalt — capturing the intense contrast of slick, dark, almost-black wet volcanic basalt rock surfaces covered in patches of plush, velvety, hyper-saturated neon green moss."
+          },
+          {
+            "id": "040",
+            "text": "Salt-Crusted Iron — focusing on maritime hardware, showcasing the rough, matte texture of heavy iron dock cleats or anchor chains coated in a thick, white, crystalline crust of dried sea salt."
+          },
+          {
+            "id": "041",
+            "text": "Glistening Lotus Wax — capturing the unique texture of large, vibrant green elephant-ear lotus leaves, showing how water completely beads up into perfect, fluid silver spheres due to the leaf's waxy, hydrophobic surface."
+          },
+          {
+            "id": "042",
+            "text": "Coarse Golden Sand — showcasing the heavy grain of northern beaches, highlighting individual flecks of quartz, crushed shell, and black volcanic sand glistening under a brilliant sun."
+          },
+          {
+            "id": "043",
+            "text": "Weathered Fiber-Resin — focusing on boat hulls, highlighting the layers of peeling white and blue marine paint, rough fiberglass textures, and small patches of green algae clinging to a waterline."
+          },
+          {
+            "id": "044",
+            "text": "Rippled Tidal Mud — capturing the beautiful, wavy patterns left by the receding tide in fine, dark gray river silt, glistening with a thin sheen of leftover moisture reflecting the blue sky."
+          },
+          {
+            "id": "045",
+            "text": "Polished Granite Steps — focusing on man-made riverbanks, highlighting steps leading directly into the water, carved from gray granite, their submerged halves dark and smooth with algae, while the top steps are dry, glittering, and light."
+          }
+        ]
+      }
+    ]
+  }
+]
