@@ -1,90 +1,172 @@
 [
   {
-    "name": "TOMODACHI LIFE: LIVING THE DREAM",
+    "name": "ALTERNATIVE ANGLES",
     "category": [
-      "FANTASY",
-      "CARTOON",
-      "ANIME",
-      "PIXEL ART"
+      "CUSTOMS"
     ],
-    "message": "Take a picture and render a stylized, high-fidelity scene capturing a quirky, minimalist character resembling an expressive avatar with a smooth, glossy plastic texture, stylized facial features, and distinct black bead eyes. The character is placed in an explicitly surreal, blocky, yet highly detailed indoor or outdoor environment. The setting is structured like a vibrant diorama or miniature stage set with clean geometric lines, soft ambient occlusion shadows, and bright, flat pastel tones contrasted by vivid accent colors. The lighting mimics a warm studio softbox, casting a gentle sheen on surfaces. The focal character is engaged in [SITUATION] inside a [LOCATION], wearing a [QUIRKY ACCESSORY]. Shot with a shallow depth of field, tilt-shift lens perspective, making the bizarre social vignette feel like a high-end designer collectible toy come to life.\n\nADDITIONAL INSTRUCTIONS\nEnsure the character's skin texture remains completely matte and smooth, reminiscent of a premium vinyl art toy or Nintendo Mii aesthetic, avoiding any complex skin pores or realistic human wrinkles. Maintain clear, sharp geometric edges on all furniture and environments. Use soft, non-directional studio lighting to preserve the clean, low-poly diorama feel while emphasizing realistic plastic and fabric material interactions.\n\nNEGATIVE PROMPT\nphotorealistic human skin, hyperrealistic anatomy, dark gritty realism, complex organic textures, muddy environments, cinematic film grain, high-contrast chiaroscuro lighting, intricate gothic architecture, blurred characters, messy line work, text, watermarks, corporate branding.\n\nRANDOMIZATION RECOMMENDATION\nHighly recommended. The charm of the source material relies on completely unpredictable, randomized combinations of mundane social situations, absurd costumes, and flat diorama environments to produce emergent visual comedy.\n\nCREATIVE STRATEGY\nThis preset utilizes an Option Groups structure because the visual humor relies entirely on combinatorial absurdity—mixing an oddly specific emotional crisis with a mundane or bizarre location and an unfitting wardrobe piece. By keeping the core prompt fixed on the distinct \"vinyl art toy meets Mii avatar\" rendering style, the architectural space and character material remain beautifully consistent. The user varies the situation, location, and accessory variables to generate an endless variety of distinct, humorous narrative snapshots that capture the exact chaotic energy of the game's iconic image-sharing culture.\n\nVISUAL DNA ANALYSIS\nCinematic Identity: Miniature diorama photography meets premium vinyl toy design. The perspective relies heavily on clean, tilt-shift framing that transforms digital spaces into tactile, physical-looking collectibles.\n\nAtmosphere: Deeply surreal, brightly satirical, and delightfully awkward. It balances clean, joyful minimalism with chaotic, deadpan comedy.\n\nFraming Tendencies: Centered, symmetrical medium shots. The camera stays level, treating the scene like a physical stage play or a dollhouse compartment.\n\nEmotional Tone: Deadpan absurdity. Characters treat utterly ridiculous situations with absolute, dramatic sincerity.\n\nMaterial Language: Smooth matte vinyl, glossy colored plastics, clean painted wood, and untextured, flat fabrics. Everything feels touchable but synthetic.\n\nColor Relationships: Dominant soft pastel backdrops (mint, lavender, peach) punctuated by loud, highly saturated primaries (crimson red, electric blue, canary yellow) for characters and key props.",
+    "message": "Take a picture and treat it as a persistent, physically real three-dimensional space, capturing a completely new image from an altered perspective while strictly preserving the absolute spatial layout, structural continuity, environmental textures, current weather conditions, time of day, and character wardrobe of the source shot, rendered specifically as a\n\nADDITIONAL INSTRUCTIONS\nAesthetic Continuity: Ensure that textures, weather conditions, color grading (e.g., warm golden hour, moody cool tones), and temporal elements (e.g., dust motes in the air, wet pavement) match the reference image perfectly.\n\nPhotographer Continuity: When a photographer option is selected, their attire should match the inferred environment (e.g., a rugged photojournalist jacket for outdoor scenes, clean minimalist attire for studio settings).\n\nNEGATIVE PROMPT\n[changed clothing, altered time of day, different lighting direction, inconsistent character features, discontinuous background elements, floating cameras, disconnected extra limbs, modern elements in historical settings, abstract or distorted geometry]\n\nRANDOMIZATION RECOMMENDATION\nRandomization is highly recommended for the Perspective & Angle group to discover unexpected compositional narratives from a single source image. The Camera Operator Inclusion group should be selected intentionally based on whether you want a traditional narrative shot or a meta, behind-the-scenes aesthetic.\n\nCREATIVE STRATEGY\nStructure Selection: Option Groups were chosen because perspective alteration and meta-photographer inclusion are independent creative choices. Splitting them allows the user to pair any camera angle with or without the behind-the-scenes narrative layer.\n\nFixed vs. Variable: The core scene DNA—lighting quality, textures, color palette, and character design—remains strictly fixed to preserve continuity. The variable element is the spatial coordinate of the camera lens along the 3D axis of the environment.\n\nUser Utility: This preset functions as a virtual camera crew, allowing users to \"turn the camera around\" on a single AI generation or real photograph to build coherent multi-frame sequences, storyboards, or editorial spreads.\n\nVISUAL DNA ANALYSIS\nCinematic Identity: Spatial reconstruction and multi-axis coverage.\n\nAtmosphere: Perfectly continuous with the source image, treating the original shot as a physical, persistent 3D set.\n\nFraming Tendencies: Varies strictly by option selection, ranging from tight, geometric profile alignments to vast spatial expansions.\n\nMaterial Language: Grounded in mechanical and environmental realism, capturing the tangible textures of lenses, camera bodies, and physical surroundings.\n\nColor Relationships: Monitored color matching that preserves the source's highlight values, shadow depths, and specific color timing.",
     "randomizeOptions": true,
     "optionGroups": [
       {
-        "title": "SITUATION",
+        "title": "PERSPECTIVE & ANGLE",
         "options": [
           {
             "id": "001",
-            "text": "intensely over-dramatizing a minor interpersonal argument with exaggerated hand gestures and literal floating question marks overhead"
+            "text": "reverse-angle shot from the exact opposite side, looking back at what was originally behind the camera, exposing the reverse geography of the space."
           },
           {
             "id": "002",
-            "text": "rolling wildly across the floor in deep, existential despair over a minor food preference dispute"
+            "text": "dynamic 90-degree side-profile shot, cutting across the axis of action to reveal a cross-section of the environment and the subject's alignment."
           },
           {
             "id": "003",
-            "text": "holding a massive piece of cheese like a prized trophy while a tiny crowd of three identical characters applauds rigidly"
+            "text": "extreme wide-angle establishing shot, pulling back significantly to reveal the sprawling landscape and grand architecture surrounding the central subject."
           },
           {
             "id": "004",
-            "text": "falling deeply, instantly in love with a completely inanimate object, surrounded by literal floating pink hearts"
+            "text": "high-angle bird's-eye perspective looking down from above, flattening the ground plane and emphasizing the geometric layout of the scene."
           },
           {
             "id": "005",
-            "text": "performing a bizarre, perfectly synchronized, robotic interpretive dance routine entirely by themselves"
+            "text": "low-angle heroic perspective looking upward from near the floor, exaggerating vertical lines and making the elements in the scene appear towering and monumental."
+          },
+          {
+            "id": "006",
+            "text": "intimate over-the-shoulder shot, positioning the camera just behind a character's shoulder to frame the secondary elements of the environment through their immediate point of view."
           }
         ]
       },
       {
-        "title": "LOCATION",
+        "title": "CAMERA OPERATOR INCLUSION (META-OPTION)",
         "options": [
           {
-            "id": "006",
-            "text": "bright pastel apartment interior with perfectly square, blocky modern furniture and a massive, low-resolution window view of a stylized island coast"
-          },
-          {
             "id": "007",
-            "text": "minimalist, hyper-clean grocery store aisle stocked exclusively with rows of identical, brightly colored soda cans and giant, oversized bananas"
+            "text": "standalone camera perspective, capturing only the physical space and its inhabitants with no trace of the photographer."
           },
           {
             "id": "008",
-            "text": "tiny, neon-lit karaoke stage with a single silver microphone under a stark, dramatic spotlight against a completely flat purple backdrop"
+            "text": "wider multi-cam layout that includes the original professional photographer in the frame, holding a high-end cinema camera, captured at precisely the same split-second moment as if a second unit crew was shooting a behind-the-scenes still."
           },
           {
             "id": "009",
-            "text": "surreal public park meadow featuring perfectly spherical green trees, a neon-pink bench, and a giant pixelated sun in the sky"
-          },
-          {
-            "id": "010",
-            "text": "quirky observation deck high above a tiny, geometric island surrounded by an impossibly blue, smooth vector-style ocean"
-          }
-        ]
-      },
-      {
-        "title": "QUIRKY ACCESSORY",
-        "options": [
-          {
-            "id": "011",
-            "text": "a massive, comically oversized cardboard cat head mask that entirely hides their expressions"
-          },
-          {
-            "id": "012",
-            "text": "a sleek, full-body metallic retro robot suit paired with formal leather dress shoes"
-          },
-          {
-            "id": "013",
-            "text": "a ridiculous, towering chef's hat that subtly bends at the top to clear the ceiling"
-          },
-          {
-            "id": "014",
-            "text": "oversized, opaque white plastic sunglasses shaped like matching five-point stars"
-          },
-          {
-            "id": "015",
-            "text": "an ornate, historical royal crown that sits precariously tilted to one side of their round head"
+            "text": "over-the-shoulder perspective from right behind the photographer, showing the back of their head and jacket as they look through their camera's electronic viewfinder at the unfolding scene."
           }
         ]
       }
     ]
+  },
+  {
+    "name": "DOMINO'S PIZZA DELIVERY CHAOS SELFIE",
+    "category": [
+      "HUMOR"
+    ],
+    "message": "Take a picture and transform the subject into an employee wearing the distinctive uniform and attire of a specific company or brand. UNIFORM ACCURACY (CRITICAL): • Research and match the EXACT current uniform design for the selected company • Include all standard uniform components: - Shirts/polos with correct colors and logos - Pants/shorts in company-specified style and color - Hats, visors, or hair nets as required - Aprons if applicable - Name tags in correct position and style - Company-specific accessories (lanyards, badges, tools) • Logo placement must be accurate (chest, shoulder, cap, etc.) • Colors must match official brand guidelines precisely • Fabric textures should be realistic (polyester, cotton, twill) • Show appropriate wear and cleanliness for the job type WORKPLACE CONTEXT: • Place subject in appropriate work environment: - Fast food: behind counter, near register, holding food items - Retail: on sales floor, near products, helping customers - Delivery: next to vehicle, holding packages, at doorstep - Service: with appropriate tools and equipment for the role - Airlines: in aircraft cabin or airport terminal - Resort/hospitality: outdoor recreation or guest service areas • Include relevant props and accessories: - Order pads, tablets, scanners, clipboards - Food items, products, or packages appropriate to company - Tools of the trade (mops, wrenches, measuring tapes) - Company-branded equipment (bags, boxes, carts) - Aviation items (meal cart, safety demonstration card) - Insurance/sales materials (brochures, rate cards) • Background should show recognizable elements: - Store signage, logos, and branding - Product displays or service areas - Company vehicles if applicable - Interior design matching corporate aesthetic - Aircraft interior for flight crew - Insurance office setting with retro styling BODY LANGUAGE AND POSE: • Subject should appear as a genuine employee: - Natural work posture (standing at register, walking with purpose) - Appropriate facial expression (friendly customer service smile, focused concentration) - Hands engaged in relevant tasks (holding items, gesturing, working) - Confident but approachable demeanor • Avoid overly posed or theatrical positioning • Should look like a candid workplace photo or training material • Employee should appear competent and professional DETAIL AND AUTHENTICITY: • Name tags should have realistic names (or blur/generic text) • Uniforms should show realistic fit and draping • Include minor details: pens in pockets, headset wires, stains if appropriate • Shoes should match company requirements (non-slip, specific colors) • Hair should be styled according to company standards (net, pulled back, etc.) • Visible ID badges, security tags, or access cards if applicable • Time clocks, schedules, or employee notices visible in background • Other employees or customers may be present but blurred in background LIGHTING AND PHOTOGRAPHY STYLE: • Workplace fluorescent or LED lighting • Slightly institutional feel but well-lit • Colors should be accurate but not oversaturated • Depth of field keeps focus on subject but shows environment • Documentary or corporate photography aesthetic • Not glamorous—realistic workplace conditions • May include slight graininess or security camera quality if appropriate • Exception: Qantas 1974 should have vintage film photography look • Exception: Progressive Flo should have bright commercial advertising lighting COMPANY-SPECIFIC DETAILS: • McDonald's: golden arches visible, red and yellow everywhere, cleaning cloth in belt • Hooters: classic orange and white, wings and beer in background • UPS: brown everything, package cart nearby, delivery route sheet • Apple: minimalist clean store, products on tables, other employees helping customers • Geek Squad: black VW Beetle or tech bench in background, computer equipment • Disney: specific land theming (Tomorrowland futuristic, Frontierland western) • Pizza Hut: red roof logo visible, pizza box in hand, dine-in restaurant setting • Nando's: flame-grilled chicken visible, peri-peri sauce bottles, Portuguese-African decor • Qantas 1974: retro aircraft interior, vintage grooming standards, winged badge pin • Center Parcs: forest/woodland resort background, bikes or outdoor equipment • Progressive Flo: retro name tag holder, white kiosk background, enthusiastic pose • Fast food chains: menu boards, food warmers, drink dispensers visible • Delivery services: vehicle with company logo, packages stacked, handheld device Please apply all style instructions to the same single image. SELECTED OPTIONS: • Domino's Pizza delivery driver (blue/red polo, cap, pizza bag) --- ADDITIONAL TRANSFORMATION LAYERS --- (Apply all of the following as style modifiers to the same single image) Layer 1: transform the composition into a candid, handheld, first-person perspective selfie. The framing should feature an outstretched arm extending toward the subjects, capturing them from a slightly elevated, wide-angle lens viewpoint. Include natural, slight motion blur, authentic lens distortion characteristic of a modern high-end smartphone camera, and a casual, spontaneous expression on the faces of the subjects who are looking directly into the lens. The background should maintain the original context of the scene but appear slightly out of focus due to the shallow depth of field typical of smartphone portrait mode. ADDITIONAL INSTRUCTIONS To ensure the \"selfie\" effect is convincing, prioritize a slightly high-angle composition. The lighting should mimic ambient, real-world conditions rather than professional studio setups. If the input image has specific subjects, ensure their gaze is locked onto the camera lens. Use high-frequency details like subtle skin textures and natural light glints in the eyes to enhance the realism of the handheld capture. NEGATIVE PROMPT [professional lighting, tripod, wide-shot, cinematic framing, studio equipment, unnatural poses, looking away from camera, flat lighting, high-end photography aesthetic, oversaturated colors, extreme digital filters, perfect symmetry, staged composition] RANDOMIZATION RECOMMENDATION Not recommended. This preset is designed for a consistent, specific transformation. CREATIVE STRATEGY This preset was selected as a \"Simple\" type because its objective is a specific structural transformation—re-framing a standard image into a first-person handheld perspective. By fixing the \"outstretched arm\" and \"wide-angle lens\" variables, the preset ensures that any input image is consistently forced into the selfie geometry. It relies on the model’s internal understanding of \"smartphone photography\" to replace the original framing with a dynamic, casual, and intimate composition. VISUAL DNA ANALYSIS Cinematic Identity: Candid, documentary, social media vernacular. Atmosphere: Casual, intimate, spontaneous, real-time. Framing Tendencies: Tight, slightly distorted, high-angle, \"arm-extended\" geometry. Emotional Tone: Personal, relatable, authentic. Material Language: Digital sensor noise, smartphone lens distortion, natural ambient light. Color Relationships: Unfiltered, true-to-life, natural skin tones. Visual Storytelling Characteristics: The camera itself becomes an invisible character, establishing a direct connection between the viewer and the subjects. Layer 2: transform it into a freeze-frame moment from a ridiculous stunt gone wrong, captured just before disaster strikes. Show the subject mid-fail during an absurd stunt attempt - jumping off something they shouldn't, attempting parkour badly, riding something not meant to be ridden, or performing an ill-advised trick. Freeze the exact moment where you can see the disaster about to happen: losing balance, mid-fall, eyes wide with realization, face showing instant regret. Include environmental chaos - objects flying, water splashing, things breaking, friends in background reacting with shock or laughter. Add that characteristic shaky smartphone camera quality, slightly blurred from motion, awkward angle as if filmed by a friend. Include visual indicators of the impending pain - skateboard flying away, pool approaching fast, fence about to be hit, gravity taking over. Capture that specific energy of amateur stunt videos where you can see the exact moment they realized 'this was a terrible idea.' Make it look like a paused frame from a viral fail video compilation with comedic timing showing the split-second before impact. --- FINAL INSTRUCTIONS --- FINAL RESULT: A completely believable workplace photograph where the subject appears as a genuine employee of the specified company, wearing an accurate and detailed uniform in an authentic work environment. The image should look like it could be from employee training materials, a corporate website, or a realistic workplace documentary. Every detail—from uniform accuracy to environmental context—reinforces the subject's new identity as a working member of that company's team. OVERRIDE INSTRUCTIONS (these take priority over everything above - apply exactly as specified): Take a picture and preserve the subject`s facial structure. Original face(s): Only use face(s) in the original image. Do not transform their face in any way. Important, do not affect their face in any way. Maintain their expression. Maintain the look of their face. OVERRIDE INSTRUCTIONS (these take priority over everything above - apply exactly as specified): Take a picture and preserve the subject`s facial structure. Original face(s): Only use face(s) in the original image. Do not transform their face in any way. Important, do not affect their face in any way. Maintain their expression. Maintain the look of their face.",
+    "options": [],
+    "randomizeOptions": false,
+    "additionalInstructions": ""
+  },
+  {
+    "name": "PAUL MANN COVER PAINTING V1",
+    "category": [
+      "ART STYLE",
+      "FANTASY",
+      "ILLUSTRATION",
+      "VINTAGE",
+      "SKETCH"
+    ],
+    "message": "Take a picture, but convert it into the pulp novel cover painting style of Paul Mann. Use his styles as reference that will take whatever image I provide you and convert it into a cover painting fit to be included in the gallery of Paul Mann book covers. It's supposed to have a 19 seventies men's action novel book cover quality to it. Very similar too to the classic original Star Wars movie post. So the idea is that it is an image that suggests an entire epic story in one image. But, again, it looks hand painted, and it this preset will particularly hold to the style of Paul Mann. And the energy and wit and attitude of the men's action novels that he created so many covers for. Do a search for Paul Mann covers to inspire your choices. And I employ a wide variety of options. Please apply all style instructions to the same single image. --- ADDITIONAL TRANSFORMATION LAYERS --- (Apply all of the following as style modifiers to the same single image) Layer 1: transform the subject's face into the selected expression while keeping their identity, features, and overall appearance fully recognizable. The expression must be dramatically exaggerated and unmistakably clear. The rest of the image should remain consistent with the original. SELECTED OPTIONS: • DETERMINED - eyes locked hard and focused straight ahead, jaw set firm, lips pressed in a resolute line, eyebrows low and serious --- FINAL INSTRUCTIONS --- The subject's core identity and recognizable features must always be preserved. Only the facial expression changes. The transformation must be dramatic and exaggerated enough that the expression is immediately and unmistakably readable. Do not make subtle changes — the expression should be the most extreme possible version of itself while still looking like the same person. OVERRIDE INSTRUCTIONS (these take priority over everything above - apply exactly as specified): Take a picture and preserve the subject`s facial structure. Original face(s): Only use face(s) in the original image. Do not transform their face in any way. Important, do not affect their face in any way. Maintain their expression. Maintain the look of their face. OVERRIDE INSTRUCTIONS (these take priority over everything above - apply exactly as specified): Take a picture and preserve the subject`s facial structure. Original face(s): Only use face(s) in the original image. Do not transform their face in any way. Important, do not affect their face in any way. Maintain their expression. Maintain the look of their face.",
+    "options": [],
+    "randomizeOptions": false,
+    "additionalInstructions": ""
+  },
+  {
+    "name": "PAUL MANN COVER PAINTING V2",
+    "category": [
+      "ART STYLE",
+      "ILLUSTRATION",
+      "FANTASY",
+      "SCI-FI",
+      "VINTAGE",
+      "SKETCH",
+      "SPACE",
+      "POP ART"
+    ],
+    "message": "Take a picture and render the provided scene as a brilliant, hand-painted illustrative masterpiece in the exact signature style of Paul Mann. The composition must be structured with traditional fine-art methods using visible layers of opaque gouache, rich oils, and textured acrylics on heavy illustration board. Treat the original subjects as highly expressive, key character likenesses woven into a grand, multi-layered visual narrative that perfectly balances mid-century pulp energy with the classic, sweeping structure of an alternative cinema poster.\n\nADDITIONAL INSTRUCTIONS\nThe final output must strictly prioritize a physical, hand-painted aesthetic over slick digital perfection. The faces and facial structures of the original subjects must be meticulously preserved, capturing their recognizable identities and exact expressions, but translated entirely into the medium of traditional portrait painting with masterful anatomical weight and realistic shading. No modern digital gradients, vector lines, or CGI asset rendering may be present. The background must tell a complete story, utilizing deep layers and dynamic character interactions to convey high dramatic stakes.\n\nNEGATIVE PROMPT\nPhotorealism, clean digital render, 3D CGI, smooth vector illustrations, modern photography, clean minimalist layouts, computer-generated artwork, flat digital coloring, slick airbrushed textures, modern graphic design conventions, distorted anatomy, generic stock imagery, blank unpainted backgrounds.\n\nRANDOMIZATION RECOMMENDATION\nOption randomization is highly encouraged. Swapping different layout compositions with varying subgenres yields wildly diverse, epic storytelling concepts while anchoring every outcome safely inside an authentic, traditional alternative poster style.\n\nCREATIVE STRATEGY\nThis preset architecture is engineered as an \"Option Groups\" model to capture the masterful, painterly complexity of alternative movie poster art and vintage pulp illustration, specifically honoring the workflow of artist Paul Mann. Instead of digital shortcuts, the fixed elements enforce traditional painting media (gouache, oils, acrylics) and a narrative-rich layout requirement. The variable elements allow the creator to pivot between completely different cinematic universes (Noir, Sci-Fi, Action) while altering the layout and physical color handling. This structure ensures that no matter what parameters are mixed, the image always retains the soul of a handcrafted, high-value alternative print.\n\nVISUAL DNA ANALYSIS\nCinematic Identity: Premium alternative movie posters, mid-century magazine fiction art, silver-screen thriller key art.\n\nAtmosphere: Epic, theatrical, suspenseful, heroic, larger-than-life, high-octane narrative weight.\n\nFraming Tendencies: Forced perspective, multi-scalar character stacking, strong diagonal leading lines, dramatic low angles for heroic scale.\n\nEmotional Tone: Brave, resolute, mysterious, witty, highly dramatic, adventurous.\n\nMaterial Language: Opaque gouache texture, visible heavy canvas or illustration board grain, dried oil paint ridges, fine brush-bristle marks, non-digital matte pigment finishes.\n\nColor Relationships: Highly deliberate clashing of complementary tones (brilliant volcanic oranges exploding into deep, night-sky cyans), rich jewel-toned clothing, and sophisticated earth-tone base layers.\n\nVisual Storytelling Characteristics: Capturing the essence of a two-hour film or a 300-page novel in a single, perfectly balanced, frozen moment of peak action and performance.",
+    "randomizeOptions": true,
+    "optionGroups": [
+      {
+        "title": "NARRATIVE SUBGENRE STYLE",
+        "options": [
+          {
+            "id": "001",
+            "text": "[Men's Action - 1970s Paperback Grit]: Deeply inspired by Hard Case Crime covers. The scene is saturated with tough, hyper-masculine energy, gritty environments, and high-octane suspense. The focal subject is surrounded by localized action details—such as spinning tires or a smoking revolver barrel—imbued with a razor-sharp, witty attitude."
+          },
+          {
+            "id": "002",
+            "text": "[Hardboiled Noir - Detective Suspense]: A classic mid-century crime aesthetic reminiscent of Robert McGinnis and Tom Lovell. High-contrast shadows cut across deep mahogany wood finishes, wet city streets, low-brimmed fedoras, and a tense, smoke-filled room balancing danger and dark glamour."
+          },
+          {
+            "id": "003",
+            "text": "[Space Opera - Galactic Saga]: Inspired by the classic original Star Wars poster layouts of the late 1970s. The central characters are rendered in heroic, idealized poses holding glowing energy weapons, with roaring starfighters, distant alien celestial bodies, and sweeping nebula dust painting the deep cosmic background."
+          },
+          {
+            "id": "004",
+            "text": "[Cinematic Mystery - Hitchcockian Tension]: Emulating Paul Mann's iconic alternative posters for classic thrillers. The layout uses forced perspectives, dizzying architectural angles, layered faces overlapping in scale to suggest psychological mystery, and high-drama silhouettes that freeze a single heart-pounding scene."
+          },
+          {
+            "id": "005",
+            "text": "[Sword & Sorcery - Savage Age]: A 1960s Frank McCarthy-inspired fantasy composition. Raw, muscular physical dynamism, towering jagged cliffs against a blood-red horizon, ancient stone idols, and charging, chaotic waves of adversaries."
+          }
+        ]
+      },
+      {
+        "title": "POSTER LAYOUT & COMPOSITION",
+        "options": [
+          {
+            "id": "006",
+            "text": "[Epic Multi-Tiered Collage]: A magnificent, multi-character composition where subjects are arranged at varying scales to tell an entire story. A massive, looming villain profile dominates the upper background, heroic protagonists occupy the mid-ground in active stances, and a high-speed chase or explosion roots the bottom third."
+          },
+          {
+            "id": "007",
+            "text": "[Heroic Key Art Focal point]: A single, dominant focus subject stands dead center in a defiant, powerful pose. Their wardrobe is highly detailed and heavily textured with paint strokes. Surrounding them are sharp, radiating diagonal lines of action, debris, or environmental elements that draw the eye directly to their form."
+          },
+          {
+            "id": "008",
+            "text": "[Asymmetrical Title Split]: The painting leaves clean, natural negative space in the top or bottom third designed for retro typography, while the characters and vehicles dynamically break across the margins, overlapping the invisible text zones with high kinetic energy."
+          }
+        ]
+      },
+      {
+        "title": "TRADITIONAL PAINT & LIGHT PATINA",
+        "options": [
+          {
+            "id": "009",
+            "text": "[Chiaroscuro Gouache Drama]: Dense, opaque gouache brushwork featuring hyper-saturated primary colors that punch out against thick, inked shadows. High-contrast ambient rim lighting creates razor-sharp highlights on clothes and faces, contrasting warm amber fires with cold, deep-indigo shadows."
+          },
+          {
+            "id": "010",
+            "text": "[Oils & Acrylic Blend - Matte Finish]: Rich, blended oil paint textures featuring visible canvas grain and tactile brush bristle marks. The color palette is earthy and sophisticated, using ochres, deep crimsons, and olive greens, accented by bright, incandescent bursts of light from muzzle flashes or explosions."
+          },
+          {
+            "id": "011",
+            "text": "[Aged Newsstand Patina]: The painting displays a warm, beautifully weathered undertone mimicking classic, faded paperback paper stock. It uses high-contrast but slightly desaturated tones, featuring minor color bleeds along the edges of painted shapes and a subtle, physical texture of dried, matte pigments."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "DIESELPUNK RADIAL CARICATURE",
+    "category": [
+      "SCI-FI",
+      "FANTASY",
+      "FUN AND CREATIVE",
+      "PHOTOGRAPHY",
+      "STEAMPUNK"
+    ],
+    "message": "Take a picture and transform the image into a Dieselpunk retro-futuristic aesthetic. SELECTION (CRITICAL):• If none is specified, apply a gritty interwar-to-1950s industrial setting STYLE REQUIREMENTS (MANDATORY): • 1920s–1950s diesel-era technology • Oil-driven machinery and heavy industry • Industrial war-era influence • Slight dystopian tone VISUAL ELEMENTS: • Riveted steel, smokestacks, zeppelins • Heavy coats, goggles, military silhouettes • Brutalist or industrial architecture COLOR PALETTE: • Sepia, oil-stained metals, gunmetal gray, muted browns Please apply all style instructions to the same single image. --- ADDITIONAL TRANSFORMATION LAYERS --- (Apply all of the following as style modifiers to the same single image) Layer 1: transform the image into the Cassette Futurism aesthetic — the chunky, analog-tech visual language of 1970s and 1980s science fiction. Preserve subject identity. Render the scene as if it exists inside a retro-futuristic world where technology advanced but never went digital. All surfaces should have the tactile quality of beige plastic casings, brushed aluminum panels, and rubber-coated buttons. Incorporate CRT monitor green-phosphor glow, amber LED readouts, chunky toggle switches, reel-to-reel tape mechanisms, and analog dials with physical needles. The color palette should be earth tones (tan, brown, olive) punctuated by glowing amber, red, and green indicator lights against dark backgrounds. Lighting should be moody and functional — fluorescent overhead strips casting harsh shadows on control panels. The aesthetic should reference the production design of Alien (1979), Blade Runner control rooms, and early Space Shuttle cockpit instrumentation. Matte photography finish with film grain and slight lens distortion. Layer 2: transform the image into a Photorealist painting. Preserve subject identity. Use extremely precise, photograph-like detail rendered in paint. Emphasize meticulous reproduction of photographic qualities including reflections, depth of field, and surface textures with oil or acrylic on canvas. Layer 3: transform this subject into an extreme macro photograph that creates overwhelming three-dimensional depth — the nearest part of the subject is so close it appears to touch the viewer's face while the background falls away into infinite blur. The subject must be rendered at a scale where microscopic textures become landscapes. The depth of field must be razor thin — only a sliver of the image is in critical focus while everything before and behind melts into bokeh. The result must feel like the subject is physically protruding from the screen surface. Avoid adding fauna like ladybugs or other insects--it makes it unappealing, Please apply all style instructions to the same single image. --- ADDITIONAL TRANSFORMATION LAYERS --- (Apply all of the following as style modifiers to the same single image) Layer 1: transform it into a radial zoom burst effect, as if the image was captured during rapid forward camera zoom. MASTER PROMPT RULE: • If a master prompt specifies focus, direction, or intensity — PRIORITIZE and USE that information GENERAL REQUIREMENTS: • Maintain central focus unless otherwise specified • Motion must radiate from a single vanishing point SELECTED OPTIONS (Random): • ZOOM TARGET: Subject Focus — subject remains more defined, surroundings stretch • ZOOM INTENSITY: Heavy — strong radial stretch • ZOOM CENTER: Off-Center — dynamic angled burst Layer 2: make the inanimate object real and make it lunging at me. Make it photorealistic. --- FINAL INSTRUCTIONS --- DEPTH OF FIELD RULES: • Focus plane must be extremely shallow — 1 to 3mm equivalent depth • Everything in front of the focus plane: soft directional blur toward the viewer • Everything behind: classic circular bokeh balls from background light sources • The sharpest point must be the nearest element of the subject — not the center SCALE CUES: • Surface textures must reveal microscopic detail — pores, scales, facets, fiber strands • Include a recognizable tiny element at true size to confirm the scale • Lighting must be dramatic and raking — side lit to reveal maximum texture relief QUALITY TARGET: • Shot equivalent to a 100mm macro lens at f/2.8 or wider • Color must be rich and saturated — macro photography rewards vivid color • The nearest sharp edge should feel like it could cut the viewer PHYSICAL RULES: • Apply radial motion blur from a single vanishing point • ALL streaks must radiate outward in straight lines from the center ANTI-CHEAT RULES: • DO NOT overlay speed lines or graphics • Motion must come from stretching original pixels • NO directional blur that is not radial FAIL CONDITIONS: • No clear center point → FAIL • Looks like generic blur → FAIL • Multiple conflicting directions → FAIL QUALITY: • Clean radial streaks • Strong sense of motion • High detail retention near center OVERRIDE INSTRUCTIONS (these take priority over everything above - apply exactly as specified): Take a picture and preserve the subject`s facial structure. Original face(s): Only use face(s) in the original image. Do not transform their face in any way. Important, do not affect their face in any way. Maintain their expression. Maintain the look of their face. Layer 4: make it a caricature. Defined by exaggerated features, bold expressions, and a humorous twist while preserving likeness. It captures the essence of a person or scene in a fun, over-the-top way, like something you would get from a street artist at a fair, bursting with personality and charm. --- FINAL INSTRUCTIONS --- FINAL RESULT: The final image should look like a gritty diesel-powered alternate-history world from the interwar period. OVERRIDE INSTRUCTIONS (these take priority over everything above - apply exactly as specified): Take a picture and preserve the subject`s facial structure. Original face(s): Only use face(s) in the original image. Do not transform their face in any way. Important, do not affect their face in any way. Maintain their expression. Maintain the look of their face. OVERRIDE INSTRUCTIONS (these take priority over everything above - apply exactly as specified): Take a picture and preserve the subject`s facial structure. Original face(s): Only use face(s) in the original image. Do not transform their face in any way. Important, do not affect their face in any way. Maintain their expression. Maintain the look of their face.",
+    "options": [],
+    "randomizeOptions": false,
+    "additionalInstructions": ""
   }
 ]
