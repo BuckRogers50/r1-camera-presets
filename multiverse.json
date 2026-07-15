@@ -1,449 +1,115 @@
 [
   {
-    "name": "MIKE'S 50TH BIRTHDAY",
+    "name": "COSTA CONCORDIA: SHIPWRECK DISASTER",
     "category": [
-      "FUN AND CREATIVE"
+      "HISTORICAL",
+      "PHOTOGRAPHY",
+      "HORROR",
+      "UNDERWATER"
     ],
-    "message": "Take a picture and, referencing the exact lighting, tavern environment, and specific likenesses/characters from the provided source gallery, capture the subject as an authentic participant in this intimate celebration. The scene must mirror the warm, ambient amber glow, the rich mahogany and leather textures, and the spontaneous, high-contrast character of the reference photos. Frame the subject from a handheld, eye-level perspective, ensuring the background tavern elements—bottles, bar shelves, and festive bokeh—and the specific individuals from the party are rendered with absolute fidelity to the source.\n\nADDITIONAL INSTRUCTIONS\nMANDATORY REFERENCE ANCHOR: The system must treat the following gallery as the definitive visual ground truth for character likeness, color temperature, texture density, and lighting intensity: https://drive.google.com/drive/folders/1QnyFAp77nziav00DOSSO-5U4uN6-a-1e?usp=sharing. Maintain \"guarded transparency\"—the image must appear as a genuine, candid photo taken by an attendee. Prioritize realistic skin textures, authentic film grain, and the specific warm/ochre color palette established in the reference set.\n\nNEGATIVE PROMPT\nbright studio lights, professional stage lighting, fake-looking blur, overly smooth skin, hyper-saturated colors, neon digital artifacts, text, watermarks, distorted facial features, plastic textures, clinical sharpness, modern office decor, generic character representations.\n\nRANDOMIZATION RECOMMENDATION\nRecommended. Randomizing the \"Subject Mood\" will keep the results feeling like a collection of candid, spontaneous shots taken throughout the night rather than a single, static session.\n\nCREATIVE STRATEGY\nThis preset uses an Option Groups structure to ground the subject firmly in the specific, proven party environment. By embedding the Google Drive link as a mandatory reference anchor, the system is tasked with cross-referencing the physical space and the specific guest likenesses. This ensures that any subject placed into this \"virtual\" event maintains the same visual DNA, lighting environment, and character consistency found in the original source images.\n\nVISUAL DNA ANALYSIS\nCinematic Identity: Candid event photography / Neo-noir party aesthetic.\n\nAtmosphere: Intimate, nostalgic, warm, low-light.\n\nFraming: Handheld style, eye-level, prioritizing connection with the subject.\n\nEmotional Tone: Festive, reflective, authentic.\n\nMaterial Language: Wood, leather, glass, ambient light.\n\nColor Relationships: Dominated by deep ochres, warm ambers, and soft blacks.",
+    "message": "Take a picture and generate a grainy, raw, found-footage style photograph capturing the chaotic, urgent evacuation during the Costa Concordia disaster, framed as a distressed, low-fidelity snapshot taken directly with an early smartphone camera, likely an iPhone 4, emphasizing the terrifying scale of the tilting ship against the dark, panicked night.\n\nADDITIONAL INSTRUCTIONS\nMust simulate the specific aesthetic of an iPhone 4 camera circa 2012: High digital noise (ISO film grain), noticeable JPEG compression artifacts, poor low-light performance (frequent motion blur and underexposure), washed-out color response (especially under mixed lighting), and harsh flash characteristics (abrupt shadows and red-eye). The \"Found Footage\" feel is critical; imperfections like slight camera shake and awkward framing are intentional. The \"Costa Concordia\" identifier must be subtly visible on the hull or lifeboats.\n\nNEGATIVE PROMPT\nprofessional photography, high resolution, sharp details, DSLR, cinematic, clean image, studio lighting, stable composition, artistic grain, overprocessed, high dynamic range (HDR), daylight, calm scene, orderly evacuation, clear blue sky, smooth surfaces, perfect focus, landscape orientation (unless specified).\n\nRANDOMIZATION RECOMMENDATION\nYes, randomization is highly recommended. Mixing and matching the specific chaotic scenes (Situation_Group) with the gritty, amateur framing techniques (Composition_Group) will produce a wide, unpredictable array of \"found\" images, enhancing the realistic, unplanned nature of the disaster documentation.\n\nCREATIVE STRATEGY\nThis \"Option Groups\" structure was chosen to provide diversity in the types of chaos while anchoring everything in the singular, low-fi iPhone 4 2012 aesthetic. The fixed parameters are the device (iPhone 4) and the overall context (night/disaster/evacuation). The variables are the where (the specific crisis point) and the how (the specific composition of that crisis point). This approach ensures authenticity to the prompt's stylistic limitation while maximizing generative variety within that niche.\n\nVISUAL DNA ANALYSIS\nCinematic Identity: Low-fidelity \"Citizen Journalism\" / Found Footage. It’s not \"cinematic\" in the 70mm sense, but \"cinematic\" in the Blair Witch Project sense—the horror of the real and immediate.\n\nAtmosphere: Panic, urgency, darkness, claustrophobia, impending doom.\n\nFraming Tendencies: Amateur, off-center, Dutch angle (listing ship), shaky, often vertical.\n\nEmotional Tone: Terror, desperation, confusion, the chaotic collapse of order.\n\nMaterial Language: Wet synthetic life vests, cold steel (listing), flashlights cutting darkness, panicked faces, chaotic reflections on water, digital noise as a texture.\n\nColor Relationships: Dominated by deep blacks and murky ocean greens, punctured by harsh, artificial whites (flash, spotlights) and washed-out, high-visibility oranges.\n\nVisual Storytelling: Relying on the immediacy and imperfection of the image to convey the historical reality and human scale of the disaster.",
     "randomizeOptions": true,
     "optionGroups": [
       {
-        "title": "SUBJECT MOOD & INTERACTION",
+        "title": "SITUATION_GROUP",
         "options": [
           {
             "id": "001",
-            "text": "\"Candid, laughing, looking slightly off-camera as if acknowledging a fellow party guest\""
+            "text": "Listless List: A wide, shaky shot showing hundreds of passengers in orange life vests clambering down rope ladders on the severely listing, dark hull, illuminated only by distant spotlights and flashlights, with the main decks angled steeply into the water."
           },
           {
             "id": "002",
-            "text": "\"Contemplative, holding a drink, softly lit by ambient bar glow, authentic candid expression\""
+            "text": "Lifeboat Crush: A tight, claustrophobic close-up on a crowded muster station, capturing the crush of worried faces in vests struggling toward a launching lifeboat, with visible motion blur and digital noise in the low light."
           },
           {
             "id": "003",
-            "text": "\"Engaged in conversation, slight motion blur, expressive, capturing the energy of the event\""
-          }
-        ]
-      },
-      {
-        "title": "OPTICAL PERSPECTIVE",
-        "options": [
-          {
-            "id": "004",
-            "text": "\"Shot on 35mm lens, slight vignette, focus on subject with naturalistic depth-of-field separation\""
-          },
-          {
-            "id": "005",
-            "text": "\"Wide-angle environmental portrait, capturing the subject within the context of the tavern interior\""
-          },
-          {
-            "id": "006",
-            "text": "\"Macro-focused detail, soft focus on facial features, sharp highlights on glassware nearby\""
-          }
-        ]
-      },
-      {
-        "title": "ATMOSPHERIC LIGHTING",
-        "options": [
-          {
-            "id": "007",
-            "text": "\"Golden-hour interior, warm light bouncing off dark wood surfaces, soft highlights\""
-          },
-          {
-            "id": "008",
-            "text": "\"Deep, moody noir lighting, high contrast, rich shadows with subtle amber rim lighting\""
-          },
-          {
-            "id": "009",
-            "text": "\"Diffused ambient light, soft haze, warm bokeh of blurred tavern lights in the background\""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "BRANSON, MO",
-    "category": [
-      "REALISM"
-    ],
-    "message": "Take a picture and capture the distinct intersection of 1950s-era roadside Americana and the lush, rolling topography of the Ozark Mountains. The composition should emphasize {ENVIRONMENT_FOCUS} under {LIGHTING_ATMOSPHERE}, utilizing a cinematic lens choice of {LENS_CHOICE}. The aesthetic should balance the nostalgic glow of vintage neon signage with the deep, saturated greens of Missouri forestry. Incorporate {CULTURAL_MOTIF} to ground the image in the specific performance and tourism culture of the region, featuring {ICONIC_ATTRACTION} as the central visual anchor.\n\nADDITIONAL INSTRUCTIONS\nPrioritize texture depth in the landscape (limestone, bark, moss) and high-contrast saturation for the neon elements. Ensure that human-made structures feel \"lived-in\" rather than sterile. If the subject is a performer, ensure the clothing reflects a blend of country-western heritage and modern stage performance quality.\n\nNEGATIVE PROMPT\nhigh-rise skyscrapers, concrete jungle, futuristic architecture, sterile modern glass buildings, industrial pollution, distorted neon typography, low-resolution, washed-out colors, lack of depth, non-Ozark mountain ranges (e.g., jagged snowy peaks), out-of-place urban grit.\n\nRANDOMIZATION RECOMMENDATION\nRandomization is highly recommended. Mixing \"ENVIRONMENT_FOCUS\" (e.g., log cabin) with \"LIGHTING_ATMOSPHERE\" (e.g., neon signage) creates the unique \"Kitsch-Meets-Nature\" vibe that defines the Branson aesthetic.\n\nCREATIVE STRATEGY\nThe \"Option Groups\" structure was selected to capture the duality of Branson: the natural beauty of the Ozarks versus the high-energy, neon-drenched entertainment industry. By decoupling the environment, light, and cultural markers, the user can generate everything from quiet, moody forest shots to vibrant, saturated images of the entertainment district. This modularity allows for the creation of scenes that feel authentic to the region’s specific mix of natural history and manufactured spectacle.\n\nVISUAL DNA ANALYSIS\nCinematic Identity: A fusion of documentary-style Americana and theatrical, high-production value stage aesthetics.\n\nAtmosphere: Ranges from \"quiet, misty mountain morning\" to \"electric, bustling neon night.\"\n\nFraming Tendencies: Emphasis on wide-angle environmental context to show the relationship between the built world and the surrounding wilderness.\n\nEmotional Tone: Nostalgic, wholesome, vibrant, and slightly surreal due to the concentration of performance venues in a rural setting.\n\nMaterial Language: Natural stone, wood grain, neon glass, asphalt, vintage chrome, and plush theater velvet.\n\nColor Relationships: High contrast between earthy greens/browns and the artificial, oversaturated palette of 1950s-inspired neon.\n\nVisual Storytelling: Focuses on the \"road trip\" experience, emphasizing the arrival at an entertainment destination tucked within an ancient, natural landscape.",
-    "randomizeOptions": true,
-    "optionGroups": [
-      {
-        "title": "ENVIRONMENT_FOCUS",
-        "options": [
-          {
-            "id": "001",
-            "text": "A bustling, neon-lit entertainment strip at twilight"
-          },
-          {
-            "id": "002",
-            "text": "A tranquil, mist-covered view of the White River and limestone bluffs"
-          },
-          {
-            "id": "003",
-            "text": "A rustic, weathered log cabin nestled in dense deciduous woods"
+            "text": "Interior Panic: A chaotic first-person perspective from a tilting corridor inside the ship, capturing luggage scattered, emergency lights flickering (or dark), and blurry figures rushing in confusion toward exit signs, with the shot severely angled due to the ship's list."
           },
           {
             "id": "004",
-            "text": "The intricate, high-contrast architecture of a themed live-music venue"
+            "text": "Muster Station Gridlock: A jammed, dimly lit indoor assembly point; faces etched with anxiety, life vests improperly fastened, reflections of emergency strobes on wet linoleum, severe camera shake."
           },
           {
             "id": "005",
-            "text": "A secluded lakeside cove reflecting a colorful sunset"
+            "text": "Lower Deck Ingress: Murky water visibly rushing into a tilting lower passenger deck corridor; terrified passengers wading through knee-deep water toward a staircase, shot with harsh direct flash."
           },
           {
             "id": "006",
-            "text": "A dense, moss-covered hiking trail winding through ancient oaks"
+            "text": "Promenade Deck Desperation: A crowded promenade deck angled sharply toward the sea; desperate hands reaching for a lifeboat pulley system, distant town lights blurred in the background, high grain."
           },
           {
             "id": "007",
-            "text": "A panoramic vista overlooking the rolling, hazy blue Ozark ridges"
+            "text": "Overturned Furniture Chaos: A first-person view navigating a grand dining room where tables and chairs have slid into a chaotic pile on the port side; flickering chandeliers casting erratic shadows."
           },
           {
             "id": "008",
-            "text": "The busy, colorful interior of an old-fashioned country general store"
+            "text": "Stairwell Bottleneck: A narrow, steep stairwell clogged with descending passengers; blurry faces looking back in panic, emergency glow-sticks providing the only light, heavy compression."
           },
           {
             "id": "009",
-            "text": "A weathered fishing pier extending into deep, emerald-green waters"
+            "text": "Lido Deck Abandonment: Empty, overturned deck chairs on a tilting Lido deck; the massive funnel looming precariously overhead, illuminated by a single searching spotlight."
           },
           {
             "id": "010",
-            "text": "A quiet suburban street lined with colorful, kitschy roadside motels"
+            "text": "Bridge View of the List: A grainy shot looking out from the darkened bridge windows; the horizon line is radically tilted, showing the sea alarmingly close, digital artifacts prevalent."
           }
         ]
       },
       {
-        "title": "LIGHTING_ATMOSPHERE",
+        "title": "COMPOSITION_GROUP",
         "options": [
           {
             "id": "011",
-            "text": "Golden hour sunlight piercing through heavy forest canopy"
+            "text": "Distressed Snapshot: A candid, off-kilter framing, heavily compressed and noisy, with visible digital artifacts and poor dynamic range, making the bright flashes of light (emergency flares, spotlights) harsh and blown out against the deep night shadows."
           },
           {
             "id": "012",
-            "text": "Electric blues and hot pinks from vintage neon signage against a dusk sky"
+            "text": "Flash Photography: A direct-flash snapshot aesthetic, illuminating close-up details—the panicked expressions, wet clothing, and distressed life vests—while the background falls into oppressive darkness, adding to the immediate, desperate feeling."
           },
           {
             "id": "013",
-            "text": "Soft, overcast diffused lighting highlighting autumnal foliage"
+            "text": "Vertical Crisis: A shaky, vertical orientation shot (holding the phone upright), emphasizing the terrifying, unnatural verticality of the listing ship as it looms over the small, overcrowded lifeboats in the foreground."
           },
           {
             "id": "014",
-            "text": "High-key, theatrical stage lighting spilling out onto a dark street"
+            "text": "Extreme Dutch Angle: The horizon is completely diagonal; the composition emphasizes the disorientation of the 60-degree list, shot with significant motion blur and low saturation."
           },
           {
             "id": "015",
-            "text": "Dramatic, moody storm clouds rolling over the valley"
+            "text": "Accidental Pocket Dial: An extremely blurry, underexposed shot, partially obstructed by a finger over the lens; indistinct shapes and light sources convey pure confusion and haste."
           },
           {
             "id": "016",
-            "text": "Warm, inviting glow from porch lights on a humid summer night"
+            "text": "Burst Mode Blur: A sequence of slightly varying, highly motion-blurred shots condensed into one noisy frame, capturing rapid, panicked movement across a deck."
           },
           {
             "id": "017",
-            "text": "Harsh, crisp mid-day sun creating high-contrast shadows on stone"
+            "text": "Low-Angle Dread: Shot from near the water line, looking up at the colossal, dark hull towering overhead, with the grainy texture emphasizing the scale and doom."
           },
           {
             "id": "018",
-            "text": "Ethereal morning fog clinging to the river surface"
+            "text": "Zoom Artifact Distortion: An image digitally zoomed in, resulting in massive pixelation and blocky compression artifacts, focusing on a single desperate face or distant rescue signal."
           },
           {
             "id": "019",
-            "text": "Firefly-speckled darkness at the edge of a deep forest"
+            "text": "Harsh Spotlight Contrast: The scene is dominated by a single, overwhelming spotlight source, completely blowing out highlights on some faces while plunging others into impenetrable digital shadow."
           },
           {
             "id": "020",
-            "text": "Sharp, colorful refraction of lights hitting wet asphalt after rain"
-          }
-        ]
-      },
-      {
-        "title": "LENS_CHOICE",
-        "options": [
-          {
-            "id": "021",
-            "text": "35mm wide-angle lens for environmental storytelling and expansive landscapes"
-          },
-          {
-            "id": "022",
-            "text": "85mm portrait lens for tight, cinematic character shots with creamy bokeh"
-          },
-          {
-            "id": "023",
-            "text": "24mm anamorphic lens for a wide, sweeping cinematic scope with horizontal flares"
-          },
-          {
-            "id": "024",
-            "text": "50mm prime lens for a naturalistic, \"human eye\" perspective on daily life"
-          },
-          {
-            "id": "025",
-            "text": "14mm ultra-wide lens for immersive, exaggerated architectural perspectives"
-          },
-          {
-            "id": "026",
-            "text": "100mm macro lens for intimate, detailed textures of moss and wood grain"
-          },
-          {
-            "id": "027",
-            "text": "35mm f/1.4 lens for a classic, filmic shallow depth of field"
-          },
-          {
-            "id": "028",
-            "text": "70-200mm telephoto lens for compressing distant, rolling mountain layers"
-          },
-          {
-            "id": "029",
-            "text": "28mm wide lens for capturing the bustle of a crowded entertainment strip"
-          },
-          {
-            "id": "030",
-            "text": "40mm pancake lens for a candid, street-photography aesthetic"
-          }
-        ]
-      },
-      {
-        "title": "CULTURAL_MOTIF",
-        "options": [
-          {
-            "id": "031",
-            "text": "An antique acoustic guitar leaning against a vintage wooden chair"
-          },
-          {
-            "id": "032",
-            "text": "A polished chrome-trim 1950s automobile parked on an asphalt lot"
-          },
-          {
-            "id": "033",
-            "text": "Hand-painted wooden signs advertising bluegrass and family variety shows"
-          },
-          {
-            "id": "034",
-            "text": "A crowd of silhouettes gathered under a marquee of flickering incandescent bulbs"
-          },
-          {
-            "id": "035",
-            "text": "A stack of vintage-style vinyl records and country concert posters"
-          },
-          {
-            "id": "036",
-            "text": "A rustic picnic setup with a red-checkered tablecloth by a stream"
-          },
-          {
-            "id": "037",
-            "text": "A pair of worn, authentic cowboy boots resting on a weathered porch"
-          },
-          {
-            "id": "038",
-            "text": "Colorful, kitschy souvenirs displayed in an outdoor market stall"
-          },
-          {
-            "id": "039",
-            "text": "A local musician performing on an improvised outdoor stage"
-          },
-          {
-            "id": "040",
-            "text": "A vintage Coca-Cola sign rusting against a white-washed brick wall"
-          }
-        ]
-      },
-      {
-        "title": "ICONIC_ATTRACTION",
-        "options": [
-          {
-            "id": "041",
-            "text": "Silver Dollar City’s vintage steam train and wooden roller coasters"
-          },
-          {
-            "id": "042",
-            "text": "The massive half-scale exterior of the Titanic Museum Attraction"
-          },
-          {
-            "id": "043",
-            "text": "The light, music, and water fountain show at Branson Landing"
-          },
-          {
-            "id": "044",
-            "text": "The scenic red and silver vintage railcars of the Branson Scenic Railway"
-          },
-          {
-            "id": "045",
-            "text": "The colorful butterfly atrium of the Butterfly Palace & Rainforest Adventure"
-          },
-          {
-            "id": "046",
-            "text": "The glowing, oversized Hollywood sign of the Hollywood Wax Museum"
-          },
-          {
-            "id": "047",
-            "text": "The rugged, limestone formations of Talking Rocks Cavern"
-          },
-          {
-            "id": "048",
-            "text": "The expansive, wildlife-rich landscapes of Dogwood Canyon Nature Park"
-          },
-          {
-            "id": "049",
-            "text": "The towering, architectural silhouette of the Inspiration Tower"
-          },
-          {
-            "id": "050",
-            "text": "The high-energy, neon-drenched marquee of the Dutton Family Theater"
-          },
-          {
-            "id": "051",
-            "text": "The serene, reflective waters and dam of Table Rock State Park"
-          },
-          {
-            "id": "052",
-            "text": "The classic country-western stage of Presleys' Country Jubilee"
-          },
-          {
-            "id": "053",
-            "text": "The towering, interactive displays at the World’s Largest Toy Museum"
-          },
-          {
-            "id": "054",
-            "text": "The 360-degree, high-speed action of the Branson Jet Boats on Lake Taneycomo"
-          },
-          {
-            "id": "055",
-            "text": "The rustic, frontier-themed homesteads of Shepherd of the Hills"
+            "text": "Wet Lens Fraction: Water droplets on the tiny iPhone lens distort and flare the light sources (flashlights, emergency lights), creating chaotic, impressionistic streaks across the grainy night scene."
           }
         ]
       }
     ]
   },
   {
-    "name": "NATURAL SELFIE",
+    "name": "STEAMPUNK CLOCKWORK BIKE GEAR WALL MURAL",
     "category": [
-      "PHOTOGRAPHY"
+      "STEAMPUNK"
     ],
-    "message": "Take a picture and transform the composition into a candid, handheld, first-person perspective selfie. The framing should feature an outstretched arm extending toward the subjects, capturing them from a slightly elevated, wide-angle lens viewpoint. Include natural, slight motion blur, authentic lens distortion characteristic of a modern high-end smartphone camera, and a casual, spontaneous expression on the faces of the subjects who are looking directly into the lens. The background should maintain the original context of the scene but appear slightly out of focus due to the shallow depth of field typical of smartphone portrait mode.\n\nADDITIONAL INSTRUCTIONS\nTo ensure the \"selfie\" effect is convincing, prioritize a slightly high-angle composition. The lighting should mimic ambient, real-world conditions rather than professional studio setups. If the input image has specific subjects, ensure their gaze is locked onto the camera lens. Use high-frequency details like subtle skin textures and natural light glints in the eyes to enhance the realism of the handheld capture.\n\nNEGATIVE PROMPT\n[professional lighting, tripod, wide-shot, cinematic framing, studio equipment, unnatural poses, looking away from camera, flat lighting, high-end photography aesthetic, oversaturated colors, extreme digital filters, perfect symmetry, staged composition]\n\nRANDOMIZATION RECOMMENDATION\nNot recommended. This preset is designed for a consistent, specific transformation.\n\nCREATIVE STRATEGY\nThis preset was selected as a \"Simple\" type because its objective is a specific structural transformation—re-framing a standard image into a first-person handheld perspective. By fixing the \"outstretched arm\" and \"wide-angle lens\" variables, the preset ensures that any input image is consistently forced into the selfie geometry. It relies on the model’s internal understanding of \"smartphone photography\" to replace the original framing with a dynamic, casual, and intimate composition.\n\nVISUAL DNA ANALYSIS\nCinematic Identity: Candid, documentary, social media vernacular.\n\nAtmosphere: Casual, intimate, spontaneous, real-time.\n\nFraming Tendencies: Tight, slightly distorted, high-angle, \"arm-extended\" geometry.\n\nEmotional Tone: Personal, relatable, authentic.\n\nMaterial Language: Digital sensor noise, smartphone lens distortion, natural ambient light.\n\nColor Relationships: Unfiltered, true-to-life, natural skin tones.\n\nVisual Storytelling Characteristics: The camera itself becomes an invisible character, establishing a direct connection between the viewer and the subjects.",
+    "message": "Take a picture of this image containing two photos placed side by side — the left half is Subject A and the right half is Subject B. Take both subjects and transform them together into a single unified image — and transform ONLY the subject into a handcrafted sculpture constructed entirely from real bicycle parts while preserving the subject's identity. The background, environment, lighting, perspective, shadows, and every non-subject element must remain exactly as they appear in the original photograph. THIS IS NOT A PHOTO FILTER. THIS IS NOT THE ORIGINAL SUBJECT WITH BICYCLE PARTS PLACED OVER THEM. THIS IS NOT A CYBORG. THIS IS NOT A PERSON RIDING A BICYCLE. Completely discard the original appearance of the subject and reconstruct the subject entirely from authentic bicycle components. Every visible part of the subject—including the face, hair, eyes, clothing, hands, shoes, and every tiny detail—must be physically constructed from genuine bicycle parts. The finished artwork should resemble an extraordinary museum-quality welded bicycle-part sculpture assembled by a master metal artist while remaining immediately recognizable as the subject. MASTER PROMPT RULE: • If a master prompt specifies a particular subject, pose, setting, mood, action, artistic direction, or composition—PRIORITIZE and USE that information while constructing ONLY the subject from bicycle parts. Please apply all style instructions to the same single image. SELECTED OPTIONS (Random): • Mountain Bike Scrap Art — Construct the sculpture using recycled mountain bike parts including suspension forks, disc brake rotors, knobby tires, cables, shocks, gears, and rugged mechanical hardware. --- ADDITIONAL TRANSFORMATION LAYERS --- (Apply all of the following as style modifiers to the same single image) Layer 1: transform the subject into a Victorian clockwork automaton. The final image must reinterpret the subject as a brass mechanical humanoid filled with gears, springs, dials, and ornate machinery. MASTER PROMPT RULE: • If a master prompt specifies complexity or elegance — PRIORITIZE and USE that information SELECTED OPTIONS (Random): • MECHANICAL DENSITY: Light — subtle exposed gears • STYLE MODE: Elegant Brass — polished Victorian machinery Layer 2: transform the visible subjects, objects, clothing, vehicles, architecture, furniture, tools, and environment into an ultra-photorealistic steampunk version of themselves. The transformation must be based primarily on the objects already visible in the original image. Instead of inventing entirely unrelated scenes, reinterpret the existing environment as if it existed within a Victorian retrofuturistic steam-powered world. Modern objects should become mechanical brass-and-steel steampunk equivalents while preserving their recognizable purpose and structure. The subject must remain recognizable while appearing naturally integrated into the transformed steampunk environment. The final image should feel cinematic, mechanical, inventive, atmospheric, and grounded within the visible scene itself. Layer 3: transform the entire scene into a monumental street mural professionally painted onto a real architectural surface. THIS IS NOT A PHOTO FILTER. THIS IS NOT A PHOTOGRAPH WITH PAINT EFFECTS. Completely reinterpret the image as an authentic hand-painted mural created by a world-class mural artist. The mural should appear physically painted directly onto the chosen surface with realistic brushwork, paint layers, weathering, wall texture, and environmental lighting. The subject must remain immediately recognizable while becoming part of the painted artwork. MASTER PROMPT RULE: • If a master prompt specifies a particular subject, pose, setting, mood, action, artistic direction, or composition—PRIORITIZE and USE that information while constructing the mural. SELECTED OPTIONS (Random): • Community Mural — Paint the image as a colorful neighborhood mural celebrating people, culture, and everyday life using large bold painted shapes and vibrant colors. --- FINAL INSTRUCTIONS --- • Transform ONLY the subject. • Keep the background completely unchanged. • Preserve the original environment, lighting, perspective, colors, shadows, and every background object exactly as photographed. • Completely discard the original photographic subject before reconstruction. • NEVER place bicycle parts over the original subject. • NEVER blend photographic textures with bicycle components. • The original subject must not remain visible anywhere. • Every visible part of the subject must be reconstructed entirely from authentic bicycle parts. • Preserve the subject's exact identity, facial structure, hairstyle, expression, age, ethnicity, body proportions, pose, silhouette, and recognizable features. • Facial features must emerge entirely through the intelligent arrangement of bicycle components. • Hair should be recreated using chains, brake cables, spokes, cable housing, or other authentic bicycle components. • Clothing must also be reconstructed entirely from bicycle parts while preserving recognizable folds and silhouette. • Every component must remain immediately recognizable as a genuine bicycle part. • Include authentic bicycle components such as chains, chainrings, cassette gears, sprockets, rims, spokes, hubs, cranksets, pedals, handlebars, stems, seat posts, saddles, brake levers, brake calipers, disc rotors, derailleurs, cables, bearings, quick releases, reflectors, and frame tubing. • Preserve realistic machining marks, polished aluminum, chrome plating, painted finishes, rubber grips, grease, rust, scratches, and authentic metallic reflections. • Never invent fantasy mechanical parts. • Never create a functioning robot, cyborg, or person wearing bicycle equipment. • This is a static handcrafted sculpture assembled entirely from real bicycle components. • Preserve realistic weight, welds, fasteners, balance, and physical construction. • The finished artwork should resemble a genuine museum-quality bicycle-part sculpture photographed after completion. • Master prompt instructions always override the selected option whenever conflicts occur. FINAL VALIDATION — Before producing the final image, verify ALL of the following: ✓ ONLY the subject has been transformed. ✓ The background remains completely unchanged. ✓ The original photographic subject has been completely removed. ✓ Every visible part of the subject has been reconstructed entirely from authentic bicycle parts. ✓ Bicycle parts have NOT been placed over the original subject. ✓ Every bicycle component remains individually recognizable. ✓ Facial features have been sculpted entirely through bicycle component placement. ✓ No photographic textures remain. ✓ The subject remains immediately recognizable. ✓ The artwork resembles a genuine handcrafted bicycle-part sculpture rather than a robot or cyborg. ✓ If ANY answer is NO, regenerate the image until every requirement is satisfied. • Subject must remain recognizable but mechanical • Use brass, copper, steel gears, springs, rivets, and clock parts • Victorian craftsmanship required • No modern robot styling OPTION ENFORCEMENT: • Transform the objects and environment already visible in the original image • Do not replace the entire scene with unrelated fantasy environments • Do not generate random steampunk props unrelated to the image • Add new steampunk elements ONLY when logically connected to visible objects already present OBJECT TRANSFORMATION ENFORCEMENT: • Convert visible modern objects into steampunk equivalents • Phones, computers, screens, vehicles, furniture, buildings, lights, tools, pipes, appliances, and accessories should become brass, copper, iron, riveted, steam-powered, gear-driven, Victorian mechanical versions of themselves • Preserve the recognizable identity and function of transformed objects • Add exposed gears, valves, gauges, pistons, rivets, pressure tanks, pipes, steam vents, analog dials, leather straps, and mechanical detailing CONTEXTUAL STEAMPUNK LOGIC: • If an airplane is visible, reinterpret it as a steampunk airship or steam-powered flying machine • If vehicles are visible, convert them into brass mechanical retrofuturistic machines • If buildings are visible, add industrial Victorian mechanical architecture • If clothing is visible, add subtle Victorian-inspired mechanical fashion elements • If technology is visible, convert it into analog mechanical retrofuturistic technology • Do NOT add giant unrelated airships or fantasy machinery if they are unsupported by the original image SUBJECT ENFORCEMENT: • Preserve recognizable subject identity • Maintain recognizable facial structure, hairstyle, body shape, posture, and clothing silhouette • Integrate subtle steampunk styling naturally into the subject • Add goggles, leather straps, brass accessories, mechanical tools, utility belts, or Victorian engineering details only where appropriate • The subject should feel naturally part of the transformed world rather than wearing a random costume ENVIRONMENT ENFORCEMENT: • The environment should feel transformed into a believable steam-powered industrial retrofuturistic version of itself • Add steam vents, pipes, pressure systems, exposed mechanics, gears, industrial textures, riveted metal, and Victorian engineering detail where appropriate • Use atmospheric steam, smoke, warm lighting, and mechanical ambience • Preserve the layout and structure of the original environment whenever possible PHOTOREALISM ENFORCEMENT: • The image must appear ultra-photorealistic • Brass, steel, leather, wood, copper, glass, steam, smoke, and mechanical textures must appear physically believable • Lighting, reflections, shadows, weathering, and materials must feel realistic and cinematic • Avoid cartoon aesthetics, flat illustration styles, or fantasy painting looks VISUAL STYLE: • Ultra-photorealistic steampunk realism • Victorian retrofuturistic atmosphere • Mechanical industrial detail • Brass-and-steel engineering textures • Warm sepia and industrial cinematic lighting • Layered environmental storytelling • Cinematic adventure atmosphere ANTI-CHEAT: • Do NOT ignore the original image content • Do NOT replace the environment with unrelated fantasy cities • Do NOT add excessive random airships unrelated to the visible scene • Do NOT create generic cosplay portraits • Do NOT remove recognizable objects from the image • Do NOT flatten the mechanical detail FINAL RESULT: The final image must resemble an ultra-photorealistic steampunk reinterpretation of the original visible scene, where the recognizable subject and existing objects have been transformed into a believable Victorian retrofuturistic world filled with brass machinery, steam-powered engineering, mechanical detail, industrial atmosphere, and cinematic realism. • Transform the entire image into painted mural artwork. • Nothing from the original photograph should remain except as interpreted paint. • Preserve the subject's exact identity, facial structure, expression, hairstyle, age, ethnicity, pose, and recognizable features. • Include authentic wall texture including brick, stucco, concrete, plaster, or other architectural materials appropriate to the selected option. • Paint must realistically follow cracks, mortar joints, rough surfaces, and imperfections. • Include authentic brush strokes, spray paint, roller marks, overspray, fading, weathering, drips, and paint layering where appropriate. • Maintain realistic perspective so the mural appears physically attached to the wall. • Avoid making the mural appear digitally composited. • The final image should resemble a genuine mural photographed on location. • Master prompt instructions always override the selected option whenever conflicts occur. FINAL VALIDATION: ✓ The image is a genuine painted mural. ✓ No photographic textures remain. ✓ The subject remains recognizable. ✓ Paint follows the physical wall texture. ✓ The mural appears permanently painted onto the structure. ✓ The artwork resembles a real public mural. OVERRIDE INSTRUCTIONS (these take priority over everything above - apply exactly as specified): Take a picture and preserve the subject`s facial structure. Original face(s): Only use face(s) in the original image. Do not transform their face in any way. Important, do not affect their face in any way. Maintain their expression. Maintain the look of their face. OVERRIDE INSTRUCTIONS (these take priority over everything above - apply exactly as specified): Take a picture and preserve the subject`s facial structure. Original face(s): Only use face(s) in the original image. Do not transform their face in any way. Important, do not affect their face in any way. Maintain their expression. Maintain the look of their face.",
     "options": [],
     "randomizeOptions": false,
     "additionalInstructions": ""
-  },
-  {
-    "name": "THE MULTIVERSE LENS",
-    "category": [
-      "PORTRAIT",
-      "REALISM",
-      "FUN AND CREATIVE",
-      "OPTICS & REALISM"
-    ],
-    "message": "Take a picture and transform the scene into a crisp, high-fidelity capture reminiscent of contemporary computational photography, utilizing high dynamic range processing, naturalistic edge sharpness, and the authentic color science of a flagship smartphone to render the moment with impeccable clarity and depth.\n\nADDITIONAL INSTRUCTIONS\nPrioritize extreme image clarity and realistic texture reproduction. Avoid synthetic, painted, or \"AI-looking\" surfaces. The rendering should feel captured, not generated, emphasizing the modern, sharp, and highly intelligent processing of a high-end smartphone camera system.\n\nNEGATIVE PROMPT\nlow resolution, painterly, over-smoothed skin, unnatural color banding, heavy chromatic aberration, lens distortion, pixelation, film grain, vintage degradation, dreamy soft-focus, blurry edges, artistic stylized filters, oversaturated HDR.\n\nRANDOMIZATION RECOMMENDATION\nRecommended: Yes. Enabling randomization for the first three groups will generate a diverse \"camera roll\" of varied, authentic-feeling shots.\n\nCREATIVE STRATEGY\nThis preset structure is designed to mimic the \"everyday epic\" of modern smartphone photography. By keeping the \"Optical Character\" fixed to a specific technical profile, we ensure the image always feels like it originated from a modern lens, while the other groups provide the flexibility of a professional photographer on location. The groups are built to be combinatorial—allowing you to mix a \"Wide Lens\" with \"Candid Interaction\" to create a story, or a \"Macro Detail\" with \"Golden Hour Glow\" for aesthetic focus.\n\nVISUAL DNA ANALYSIS\nCinematic Identity: Modern computational photography.\n\nAtmosphere: High-clarity, objective, and contemporary.\n\nFraming Tendencies: Versatile, ranging from practical documentary to portraiture.\n\nEmotional Tone: Grounded, relatable, and immediate.\n\nMaterial Language: Sharp, high-resolution, and color-accurate.\n\nColor Relationships: Vibrant P3-gamut colors, balanced skin tones, and intelligent auto-white balance.\n\nVisual Storytelling: Authentic, \"I was there\" documentary style.",
-    "randomizeOptions": true,
-    "optionGroups": [
-      {
-        "title": "PROXIMITY & SCALE",
-        "options": [
-          {
-            "id": "001",
-            "text": "Wide Lens (1x): A balanced, versatile perspective capturing the subject within their full environmental context, mimicking a standard 26mm wide field of view."
-          },
-          {
-            "id": "002",
-            "text": "Ultra-Wide (0.5x): A sweeping, expansive view capturing dramatic architecture or vast landscapes, emphasizing a 13mm equivalent field of view."
-          },
-          {
-            "id": "003",
-            "text": "Standard Portrait: Focused framing that isolates the subject, utilizing soft, natural bokeh to create professional depth and separation."
-          },
-          {
-            "id": "004",
-            "text": "Macro Detail: An extreme close-up focusing on intricate textures—fabric weave, skin pores, or environmental debris—rendered with tack-sharp focus."
-          },
-          {
-            "id": "005",
-            "text": "Telephoto (2x/3x): A compressed, tight perspective that pulls the background forward, focusing on emotional intimacy and facial structure."
-          },
-          {
-            "id": "006",
-            "text": "Street Snapshot: An candid, eye-level angle that mimics a quick, spontaneous capture of a fleeting moment in a public space."
-          },
-          {
-            "id": "007",
-            "text": "Low-Angle Perspective: A dynamic, heroic angle looking upward at the subject, emphasizing presence and scale against the sky or overhead structures."
-          }
-        ]
-      },
-      {
-        "title": "NARRATIVE MOTION",
-        "options": [
-          {
-            "id": "008",
-            "text": "Candid Interaction: The subjects are captured in a spontaneous, genuine moment of connection or movement, full of naturalistic, unfiltered energy."
-          },
-          {
-            "id": "009",
-            "text": "Quiet Introspection: A serene, still moment where the subject is lost in thought or reflection, emphasizing emotional stillness and peace."
-          },
-          {
-            "id": "010",
-            "text": "Action-Frozen: A high-speed, sharp capture of an active moment (e.g., a child running, a hand gesture) frozen in time with perfect clarity."
-          },
-          {
-            "id": "011",
-            "text": "The Gaze: Subjects engaged in intense, direct eye contact or focused observation of something specific, creating a narrative focal point."
-          },
-          {
-            "id": "012",
-            "text": "Environmental Engagement: Subjects interacting with their surroundings—touching a surface, looking out a window, or navigating a path."
-          },
-          {
-            "id": "013",
-            "text": "Shared Discovery: Two or more subjects reacting together to a shared experience or object, highlighting group dynamics and empathy."
-          },
-          {
-            "id": "014",
-            "text": "Momentum Captured: A slight motion blur on secondary elements while the primary subject remains sharp, conveying a sense of ongoing physical movement."
-          }
-        ]
-      },
-      {
-        "title": "CINEMATIC LIGHTING & ATMOSPHERE",
-        "options": [
-          {
-            "id": "015",
-            "text": "Smart-HDR Daylight: A perfectly balanced scene with high dynamic range, ensuring no crushed shadows or blown-out highlights; bright, even, and clear."
-          },
-          {
-            "id": "016",
-            "text": "Soft Window Diffusion: Gentle, directional light filtered through interior window glass, creating flattering, soft skin tones and clean shadows."
-          },
-          {
-            "id": "017",
-            "text": "Golden Hour Glow: The warm, saturated hues of late afternoon sun, creating a vibrant and nostalgic atmosphere with long, dramatic shadows."
-          },
-          {
-            "id": "018",
-            "text": "Low-Light Night Mode: A clean, noise-reduced rendering of a dim environment, preserving highlight detail and shadow texture with artificial light enhancement."
-          },
-          {
-            "id": "019",
-            "text": "Cool Fluorescent Interior: A sharp, clinical, and clean lighting environment typical of modern offices or public transit, emphasizing white balance accuracy."
-          },
-          {
-            "id": "020",
-            "text": "High-Contrast Silhouette: Bold, back-lit scenes where the subject appears as a detailed, dark form against a bright, luminous background."
-          },
-          {
-            "id": "021",
-            "text": "Practical Lighting: Lighting driven by visible sources within the frame—lamps, screens, or neon signage—creating localized, moody highlights."
-          }
-        ]
-      },
-      {
-        "title": "OPTICAL CHARACTER",
-        "options": [
-          {
-            "id": "022",
-            "text": "iPhone 14 Computational Engine: A high-fidelity, crisp rendering characterized by advanced sensor-shift stabilization, 12MP/48MP quad-pixel detail, \"Photonic Engine\" color science, wide P3 color gamut, and natural-looking digital sharpening typical of flagship Apple hardware."
-          }
-        ]
-      }
-    ]
   }
 ]
