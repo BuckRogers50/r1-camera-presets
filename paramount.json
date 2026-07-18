@@ -78,5 +78,101 @@
     "options": [],
     "randomizeOptions": false,
     "additionalInstructions": "Preserve subject identity and period-accurate early-80s clothing. Mood: proud, a little starstruck, the classic 'I was there' photo."
+  },
+  {
+    "name": "STRATA SELF",
+    "category": ["TIME", "GEOLOGY", "DEEP TIME", "SURREAL"],
+    "message": "Take a picture and transform the subject into a vertical geological core sample — a cross-section of rock strata pulled from the earth, where each horizontal band represents a different era of the subject's life or a different age of the world, stacked from oldest at the bottom to newest at the top. Faint fossil-like impressions of the subject's face, hands, or silhouette should be visible embedded within certain strata bands, like a fossil record of a single person across deep time. Color and material should shift by band — sedimentary rust and ochre in older layers, ash-gray in a mid layer suggesting catastrophe, bright mineral veins near the top suggesting the present.\n\nCRITICAL:\n• This is a cross-section core sample, not a person standing next to rock\n• The subject's recognizable face should appear at least once, clearly, in the topmost or most detailed band\n• Include a measurement scale or depth markers along one edge, like a real geological core photograph",
+    "options": [],
+    "randomizeOptions": false,
+    "additionalInstructions": "Preserve identity in the clearest band. Mood: awe at deep time, the strange comfort of being a small layer in something enormous."
+  },
+  {
+    "name": "ONE LIFE, ONE FRAME",
+    "category": ["TIME", "SURREAL", "LIFE STAGES", "WILD IMAGERY"],
+    "message": "Take a picture and reimagine it as a single continuous unbroken scene — one hallway, one beach, one road, or one staircase — along which the subject appears multiple times simultaneously at different ages, walking the same path from infancy to old age, all coexisting in the same unified light and environment. The youngest version should be furthest in the background or at one end, the oldest nearest the foreground or at the other end, with two or three ages in between, all clearly the same recognizable person.\n\nCRITICAL:\n• All age-versions occupy ONE continuous physical space — no panels, no grid, no side-by-side comparison layout\n• Consistent lighting and perspective across every age so it reads as one real photograph, not a collage\n• Each version should be doing something small and human — glancing back, reaching a hand out, pausing — that visually links them",
+    "options": [],
+    "randomizeOptions": false,
+    "additionalInstructions": "Preserve facial identity across all ages using consistent bone structure. Mood: tender, vertiginous, a whole life seen at once."
+  },
+  {
+    "name": "THE UNRAVELING",
+    "category": ["TIME", "PARADOX", "DRAMATIC", "SURREAL"],
+    "message": "Take a picture and transform it into the moment a person begins to vanish from their own history. Render the subject partially translucent, edges dissolving into faint light particles or fading like an old photograph left in the sun, starting from the extremities inward. Other people or elements in the frame should be behaving completely normally, unaware anything is wrong — the fading is only visible to the viewer. If the setting allows, include a framed photograph or mirror within the scene where the fading is even further along, as evidence of an unraveling timeline.\n\nCRITICAL:\n• The subject is disappearing FROM existence, not being erased digitally — this should read as a physical, photographic phenomenon happening in real time\n• Surrounding people/environment remain fully solid and ordinary\n• Do not make this a horror or gore scene — the tone is quiet dread and urgency, not violence",
+    "options": [],
+    "randomizeOptions": false,
+    "additionalInstructions": "Preserve enough of the subject's features that they're still clearly recognizable despite the fading. Mood: urgent, eerie, a race against a clock no one else can see."
+  },
+  {
+    "name": "TEMPORAL STORM",
+    "category": ["TIME", "WEATHER", "SURREAL", "WILD IMAGERY"],
+    "message": "Take a picture and place the subject caught in a violent storm made entirely of time itself, rather than water or wind. Instead of rain, vintage photographs and torn calendar pages fall from a churning sky. Instead of hail, spinning brass pocket-watch gears and clock hands pelt the ground. A distant funnel cloud is built from a spiraling column of newspaper headlines spanning decades, and lightning flashes strobe like old film sprockets rather than ordinary bolts. The subject shields themselves or stands defiant against the chaos, hair and clothing whipped by the temporal wind.\n\nCRITICAL:\n• The storm's debris must clearly read as objects related to time and memory — photographs, clocks, newsprint, film — not generic debris\n• Ground and sky should feel real and physically grounded despite the surreal storm content, like a genuine weather photograph of an impossible event",
+    "options": [
+      { "id": "001", "text": "Falling photographs and calendar pages" },
+      { "id": "002", "text": "Hailing clock gears and pocket watches" },
+      { "id": "003", "text": "Newspaper headline funnel cloud" },
+      { "id": "004", "text": "Film-sprocket lightning strobing overhead" }
+    ],
+    "randomizeOptions": true,
+    "additionalInstructions": "Preserve subject identity. Mood: exhilarating, chaotic, a little frightening — weather that shouldn't exist."
+  },
+  {
+    "name": "MUSEUM VITRINE, YEAR 2500",
+    "category": ["TIME", "FUTURE", "HUMOR", "SCI-FI"],
+    "message": "Take a picture and transform it into a museum exhibit centuries in the future, where the subject and an ordinary modern object they're holding (phone, coffee cup, backpack, etc.) are displayed behind glass as a preserved historical relic. The vitrine sits in a sleek, unfamiliar future museum with soft ambient lighting, and one or two future visitors in unfamiliar advanced clothing lean in with curious expressions. A placard beside the display gives the subject and object a formal-sounding but confidently WRONG interpretation of what they were used for, written in the dry, authoritative tone of real museum placards.\n\nCRITICAL:\n• The placard text must be short, legible, and genuinely humorous through its wrongness\n• Future visitors and architecture should look plausibly advanced but not identical to any specific existing sci-fi franchise\n• The subject inside the vitrine should be rendered as a lifelike preserved figure, dignified rather than mocked",
+    "options": [],
+    "randomizeOptions": false,
+    "additionalInstructions": "Preserve subject identity clearly through the glass. Mood: funny, a little humbling, gently absurd."
+  },
+  {
+    "name": "TIME MACHINE COCKPIT",
+    "category": ["TIME", "SCI-FI", "WILD IMAGERY", "VEHICLE"],
+    "message": "Take a picture and place the subject at the controls inside a time machine mid-jump, gripping brass-and-glass levers on a dense instrument panel crowded with spinning year-dials that can't agree on a number. Outside the cockpit windows, the view doesn't show empty space — it shows overlapping flashes of multiple eras streaking past simultaneously (a torch-lit medieval street, a neon future skyline, a dust-bowl prairie) blurred together like a long exposure. Electric-blue temporal energy crackles along exposed wiring and control housings, and the subject's hair or clothing reacts to the turbulence of the jump.\n\nCRITICAL:\n• The cockpit should feel handmade and mechanical, not a sleek modern spaceship — brass, copper, exposed gears, warm indicator bulbs\n• The view through the windows must show multiple distinct eras bleeding into each other, not a single sci-fi environment",
+    "options": [],
+    "randomizeOptions": false,
+    "additionalInstructions": "Preserve subject identity. Mood: thrilling, disorienting, the exact second before arrival."
+  },
+  {
+    "name": "SAME SPOT, FOUR CENTURIES",
+    "category": ["TIME", "ARCHITECTURE", "SURREAL", "WILD IMAGERY"],
+    "message": "Take a picture and reimagine the exact location as a single frame where four distinct centuries of that same spot are all visible at once, bleeding into each other like layered double exposures sharing the same architectural bones. A horse-drawn-era version of the street should ghost through a mid-20th-century version, which ghosts through a neon-future version, all anchored to the same fixed points (a doorway, a lamppost, a window) so the eye can track how the location changed. The subject stands in the present-day layer, solid and in focus, while the other eras are progressively more translucent around them.\n\nCRITICAL:\n• Anchor points (a specific doorway, corner, or landmark) must remain structurally recognizable across all four eras so the layering reads as ONE place across time, not four unrelated scenes\n• Subject is the only fully solid, non-transparent element in the frame",
+    "options": [],
+    "randomizeOptions": false,
+    "additionalInstructions": "Preserve subject identity. Mood: haunting, historical, a place remembering everything that ever happened in it."
+  },
+  {
+    "name": "RETROCAUSALITY",
+    "category": ["TIME", "PARADOX", "PHYSICS", "SURREAL"],
+    "message": "Take a picture and depict an impossible moment where cause and effect are running backward. Choose one clear physical event and render it mid-reversal: shattered glass fragments floating together back into a whole pane, spilled liquid rising off the ground back into its glass, smoke pulling inward toward its source instead of dispersing, or footprints un-forming behind the subject as they walk. The subject should be the one calm, ordinary element in the frame, reacting with mild curiosity rather than alarm, as if this is simply what happens around them.\n\nCRITICAL:\n• Only ONE reversed physical event per image — do not combine multiple reversed phenomena, which reads as chaotic rather than eerie\n• Everything else in the scene (lighting, subject, background) should behave completely normally, so the single reversed element stands out clearly",
+    "options": [
+      { "id": "001", "text": "Shattered glass reassembling mid-air" },
+      { "id": "002", "text": "Spilled liquid rising back into its glass" },
+      { "id": "003", "text": "Smoke pulling backward into its source" },
+      { "id": "004", "text": "Footprints un-forming behind the subject" }
+    ],
+    "randomizeOptions": true,
+    "additionalInstructions": "Preserve subject identity. Mood: quiet, uncanny, a small tear in the arrow of time."
+  },
+  {
+    "name": "THE QUIET WITNESS",
+    "category": ["TIME", "PREHISTORIC", "DOCUMENTARY", "SURREAL"],
+    "message": "Take a picture and place the subject, exactly as they appear now in their own modern clothing, standing calmly in an authentic prehistoric landscape — a Cretaceous floodplain with distant dinosaurs, an Ice Age tundra at dusk, or the ash-lit sky of a deep-time volcanic event. The subject is not costumed, not hiding, not intervening — simply present, an impossible anachronism captured in an otherwise completely believable, documentary-style prehistoric photograph, calmly observing rather than reacting with fear or urgency.\n\nCRITICAL:\n• The environment and prehistoric life must be rendered with scientific, documentary realism, not cartoonish\n• The subject's calm, ordinary presence — not alarm or action — is the entire point; this is quiet impossibility, not an adventure scene",
+    "options": [],
+    "randomizeOptions": false,
+    "additionalInstructions": "Preserve subject identity and their real, ordinary clothing exactly as photographed. Mood: still, contemplative, deep time with a single human-shaped exception."
+  },
+  {
+    "name": "YEAR ZERO",
+    "category": ["TIME", "APOCALYPTIC", "HOPEFUL", "WILD IMAGERY"],
+    "message": "Take a picture and place the subject beneath an enormous glowing countdown display dominating the sky or built into the architecture around them, its massive digits ticking down toward zero. At the frame's edges, reality should visibly begin to fray and dissolve into light and static, as if the world itself is holding its breath for whatever the countdown reaches. The subject's expression and posture should be genuinely ambiguous — this could be the final second before an ending, or the final second before something entirely new begins — and the image should not resolve that ambiguity.\n\nCRITICAL:\n• The countdown digits must be large, legible, and clearly approaching zero (single digits remaining)\n• Fraying/dissolving reality should be confined to the frame's edges, leaving the subject and the countdown itself the clearest, most stable elements",
+    "options": [],
+    "randomizeOptions": false,
+    "additionalInstructions": "Preserve subject identity clearly. Mood: deliberately ambiguous — equal parts dread and hope, ending and beginning."
   }
 ]
+
+
+
+
+
+
