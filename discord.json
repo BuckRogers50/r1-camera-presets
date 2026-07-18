@@ -1,0 +1,154 @@
+[
+  {
+    "name": "K9 HERO COMIC PANEL",
+    "category": ["KIDS", "COMIC", "SUPERHERO", "ORIGINAL"],
+    "message": "Take a picture and transform it into a single dynamic panel from an original, silly graphic-novel-style comic starring a heroic half-dog, half-officer crime-fighting mascot (an ORIGINAL character, not any existing published character — floppy ears, a badge, a big grin, cartoonishly proportioned). Place the subject as a co-star alongside this original mascot, mid-action — leaping, chasing a runaway food truck, or heroically catching a falling cake. Bold black outlines, flat bright primary colors, exaggerated motion lines, comic sound-effect text ('ZOOM!', 'BONK!', 'WOOF!') in bubble lettering.\n\nCRITICAL:\n• The dog-hero character must be a clearly ORIGINAL design — do not replicate any specific published book or franchise character's exact appearance\n• Comic-strip energy: bold linework, halftone dot shading, dynamic diagonal panel composition",
+    "options": [],
+    "randomizeOptions": false,
+    "additionalInstructions": "Preserve subject identity as the co-star. Mood: silly, heroic, big kid-comic energy."
+  },
+  {
+    "name": "FLIP-O-VISION ACTION",
+    "category": ["KIDS", "COMIC", "ANIMATION", "ORIGINAL"],
+    "message": "Take a picture and transform it into a page styled after a flip-book animation spread — two facing half-pages showing the SAME action in two sequential split-second moments (like a hand-drawn flip animation), with small hand-numbered corner tabs and quick scribbled motion sketches. The subject appears in both frames performing a big goofy action (jumping, sneezing, striking a superhero pose) with the second frame showing the action's comedic completion.\n\nCRITICAL:\n• Both frames must be recognizably the same character/scene, showing clear before-and-after motion\n• Include small hand-drawn corner page-flip tabs and loose, energetic pencil-sketch line quality",
+    "options": [],
+    "randomizeOptions": false,
+    "additionalInstructions": "Preserve subject identity across both frames. Mood: goofy, kinetic, homemade-flip-book charm."
+  },
+  {
+    "name": "MARGIN DOODLE TAKEOVER",
+    "category": ["KIDS", "COMIC", "DOODLE", "ORIGINAL"],
+    "message": "Take a picture and transform the border and background around the subject into a dense field of loose, funny ballpoint-pen doodles — the kind a kid scribbles in the margins of a school notebook: tiny stick-figure monsters, spirals, exploding stars, a badly-drawn rocket ship, speech bubbles with silly one-liners. The subject remains the clear, photorealistic focal point in the center, while the doodle chaos frames them.\n\nCRITICAL:\n• Doodles must look genuinely hand-scrawled in blue or black ballpoint pen, imperfect and energetic\n• Subject stays sharp and photographic in contrast to the sketchy border",
+    "options": [],
+    "randomizeOptions": false,
+    "additionalInstructions": "Preserve subject identity clearly. Mood: playful, chaotic, notebook-margin mischief."
+  },
+  {
+    "name": "EVIL GENIUS LAIR",
+    "category": ["KIDS", "COMIC", "VILLAIN", "ORIGINAL"],
+    "message": "Take a picture and place the subject inside a cartoonish, over-the-top villain lair — bubbling neon-green beakers, a giant red self-destruct button clearly labeled 'DO NOT PRESS,' a wall of comically oversized mismatched gadgets, and a spinning evil-genius chair. The subject strikes a dramatic, theatrical villain pose (fingers steepled, cape optional) with a comically tiny evil-genius sidekick creature (an ORIGINAL small mischievous critter, not any existing character) perched nearby.\n\nCRITICAL:\n• Lair should be silly and cartoonish, never dark or frightening — bright saturated colors, exaggerated proportions\n• The sidekick creature must be an original invented design",
+    "options": [],
+    "randomizeOptions": false,
+    "additionalInstructions": "Preserve subject identity in the dramatic pose. Mood: theatrically evil but 100% harmless and funny."
+  },
+  {
+    "name": "SUPER SQUAD LINEUP",
+    "category": ["KIDS", "COMIC", "SUPERHERO", "ORIGINAL"],
+    "message": "Take a picture and transform the subject into the newest recruit of an original comic-book hero team, standing in a classic wide-legged team-lineup pose alongside 2-3 other original, brightly-costumed hero characters (each with a distinct invented power theme — one wind-based, one plant-based, one gadget-based). Bold trading-card-style background burst pattern, each character labeled with a small hand-lettered original codename banner beneath them.\n\nCRITICAL:\n• All hero characters must be entirely original inventions, distinct silhouettes and color schemes\n• Confident, classic superhero-lineup composition: front-facing, chins up, capes/costumes flowing",
+    "options": [],
+    "randomizeOptions": false,
+    "additionalInstructions": "Preserve subject identity as the featured recruit. Mood: proud, heroic, first-day-on-the-team excitement."
+  },
+  {
+    "name": "SCIENCE FAIR CHAOS",
+    "category": ["KIDS", "COMIC", "SCHOOL", "ORIGINAL"],
+    "message": "Take a picture and place the subject at a school science-fair table exactly as their baking-soda volcano erupts spectacularly out of control, foam spraying everywhere, a ribbon judge's clipboard flying through the air, classmates in the background ducking or laughing. Bright gymnasium fluorescent lighting, folding tables with poster-board displays, comic-style motion lines on the eruption.\n\nCRITICAL:\n• Chaos should be funny and harmless — foam and confetti-like debris, never anything genuinely dangerous\n• Subject's expression should be a mix of panic and pride",
+    "options": [],
+    "randomizeOptions": false,
+    "additionalInstructions": "Preserve subject identity. Mood: chaotic, hilarious, proud disaster."
+  },
+  {
+    "name": "PLAYGROUND LEGEND",
+    "category": ["KIDS", "COMIC", "FOLKLORE", "ORIGINAL"],
+    "message": "Take a picture and reimagine the subject as the hero of an exaggerated playground legend, illustrated like a hand-drawn tall-tale poster — mid-legendary-feat (the highest swing jump ever recorded, the fastest four-square champion, the kid who found the mythical lost tetherball). Comic-strip caption box beneath in bold hand-lettering describing the legend in dramatic, over-the-top language. Warm nostalgic colored-pencil illustration style.\n\nCRITICAL:\n• Caption text should sound like genuine playground mythology, dramatic but silly\n• Illustration style: warm, textured colored-pencil, storybook quality",
+    "options": [],
+    "randomizeOptions": false,
+    "additionalInstructions": "Preserve subject identity within the illustrated style. Mood: legendary, nostalgic, proudly ridiculous."
+  },
+  {
+    "name": "SIDEKICK CREATURE ADOPTION",
+    "category": ["KIDS", "FANTASY", "CREATURE", "ORIGINAL"],
+    "message": "Take a picture and place a small, entirely original fantastical creature companion beside the subject — invented from scratch with a unique silhouette (perhaps part fox, part dragon, part house cat, with an unexpected texture like feathers or crystal fur), rendered in a warm, rounded, huggable character-design style. The creature looks up at the subject with an adoring, loyal expression, as if just adopted.\n\nCRITICAL:\n• Creature design must be completely original — do not base it on any existing published franchise's creature designs\n• Rounded, soft, friendly proportions; warm inviting color palette",
+    "options": [],
+    "randomizeOptions": false,
+    "additionalInstructions": "Preserve subject identity. Mood: warm, bonded, the best-friend-you-just-met feeling."
+  },
+  {
+    "name": "MONSTER UNDER THE DESK",
+    "category": ["KIDS", "COMIC", "SCHOOL", "ORIGINAL"],
+    "message": "Take a picture and place a small, silly, entirely harmless original monster peeking out from under the subject's school desk or chair, mid-classroom, while the subject reacts with exaggerated cartoon surprise (not fear — delighted shock). The monster is round, colorful, and clearly friendly-looking despite comic 'spooky' framing — big eyes, goofy teeth, mismatched patterns.\n\nCRITICAL:\n• Monster design must read as instantly friendly and comedic, never scary\n• Classroom setting should feel ordinary and bright, contrasting with the monster's silliness",
+    "options": [],
+    "randomizeOptions": false,
+    "additionalInstructions": "Preserve subject identity and exaggerated comic reaction. Mood: funny startle, not-actually-scared-at-all."
+  },
+  {
+    "name": "TIME-OUT CHAIR CONFESSION",
+    "category": ["KIDS", "COMIC", "HUMOR", "ORIGINAL"],
+    "message": "Take a picture and place the subject sitting in an exaggerated, oversized cartoon time-out chair, arms crossed, with a comic thought-bubble above their head showing a wildly over-the-top, innocent-sounding excuse illustrated in miniature inside the bubble (e.g., a tiny illustrated scene of 'the dog did it' with an obviously unconvinced dog). Bright flat cartoon coloring, bold outline style.\n\nCRITICAL:\n• Thought-bubble scene must be small, clearly illustrated, and genuinely funny\n• Subject's expression: unbothered innocence, classic kid comic timing",
+    "options": [],
+    "randomizeOptions": false,
+    "additionalInstructions": "Preserve subject identity. Mood: comic deadpan, harmless mischief."
+  },
+  {
+    "name": "BLOCKY BUILDER WORLD",
+    "category": ["KIDS", "GAMING", "VOXEL", "ORIGINAL"],
+    "message": "Take a picture and transform the entire scene into a blocky, cube-based voxel building-game world — the subject, the ground, the sky, and all objects reconstructed from chunky low-poly cubes in a bright, saturated color palette, with a simple crafted structure (a small fort or house made of blocks) visible nearby. Sun rendered as a simple pixelated square, blocky trees and clouds.\n\nCRITICAL:\n• This is an ORIGINAL generic blocky-voxel art style, not a recreation of any specific existing game's exact textures, logos, or branding\n• Consistent low-poly cube geometry throughout the entire scene, not just the subject",
+    "options": [],
+    "randomizeOptions": false,
+    "additionalInstructions": "Preserve subject identity in blocky form while keeping the face readable. Mood: creative, sandbox, builder-brain excitement."
+  },
+  {
+    "name": "HOLO RARE TRADING CARD",
+    "category": ["KIDS", "TRADING CARD", "COLLECTIBLE", "ORIGINAL"],
+    "message": "Take a picture and transform it into an ultra-rare holographic trading card featuring the subject as an original collectible character, complete with a shimmering rainbow foil border, a stat block (invented playful stats like 'Silliness: 100', 'Speed: 87'), a bold card-name banner, and a glossy holographic light-refraction sheen across the surface catching the light at an angle.\n\nCRITICAL:\n• Holographic foil effect must be clearly visible as a rainbow diagonal sheen across part of the card\n• This is an ORIGINAL card design, not a recreation of any specific existing trading card game's layout, logo, or branding",
+    "options": [],
+    "randomizeOptions": false,
+    "additionalInstructions": "Preserve subject identity on the card art. Mood: exciting, 'pulled a rare pack' energy."
+  },
+  {
+    "name": "CLAYMATION BIRTHDAY BASH",
+    "category": ["KIDS", "CLAYMATION", "PARTY", "ORIGINAL"],
+    "message": "Take a picture and transform the subject and surrounding scene into a stop-motion claymation birthday party — visible fingerprint texture in the clay, slightly asymmetrical hand-sculpted forms, a lumpy clay birthday cake with wobbly candles, balloons that look hand-molded rather than perfectly round, warm soft studio lighting typical of a claymation set.\n\nCRITICAL:\n• Clay texture and hand-tooled imperfection must be visible throughout — no smooth CGI-perfect surfaces\n• Lighting should mimic a small physical stop-motion set: warm, soft, slightly theatrical",
+    "options": [],
+    "randomizeOptions": false,
+    "additionalInstructions": "Preserve subject identity within the claymation style. Mood: warm, handmade, celebratory."
+  },
+  {
+    "name": "PIXEL QUEST HERO",
+    "category": ["KIDS", "GAMING", "PIXEL ART", "ORIGINAL"],
+    "message": "Take a picture and transform the subject into the hero sprite of an original retro side-scrolling video game, rendered in chunky 16-bit pixel art, standing in a colorful platformer level (floating brick platforms, a simple pixelated castle in the background, a small original pixel-art companion creature) with a simple score/lives HUD overlay in the corner styled after classic console games.\n\nCRITICAL:\n• Must be an ORIGINAL pixel-art game concept, not a recreation of any specific existing published game's characters, logos, or level design\n• Consistent chunky pixel resolution throughout the whole scene, not just the subject",
+    "options": [],
+    "randomizeOptions": false,
+    "additionalInstructions": "Preserve recognizable facial proportions within the pixel style. Mood: adventurous, retro-game excitement."
+  },
+  {
+    "name": "GLOW ARCADE NIGHT",
+    "category": ["KIDS", "ARCADE", "NEON", "ORIGINAL"],
+    "message": "Take a picture and place the subject inside a glowing neon arcade at night, surrounded by blinking cabinet lights in electric blues, pinks, and greens, a ticket-dispenser machine spraying a triumphant stream of tickets nearby, and a giant stuffed prize creature (original design) tucked under one arm. Warm-cool color contrast between the dark arcade and the bright cabinet glow.\n\nCRITICAL:\n• Arcade cabinets should show glowing screens and marquee lights without replicating any specific existing game's exact branding\n• Lighting should feel genuinely neon-lit: strong colored rim light on the subject's face",
+    "options": [],
+    "randomizeOptions": false,
+    "additionalInstructions": "Preserve subject identity under the colored lighting. Mood: triumphant, buzzing with arcade energy."
+  },
+  {
+    "name": "SLIME LAB EXPLOSION",
+    "category": ["KIDS", "HUMOR", "TEXTURE", "ORIGINAL"],
+    "message": "Take a picture and place the subject at the exact comedic instant a giant vat of colorful, glossy slime erupts and splatters everywhere in a home 'slime lab' setup — mixing bowls, glitter jars, and food coloring bottles scattered around, thick glossy slime strands frozen mid-air, the subject's expression a mix of shock and delight, slime dripping harmlessly from their hair or shoulder.\n\nCRITICAL:\n• Slime must look genuinely glossy, stretchy, and colorful — the visual star of the image\n• Mess should read as fun and harmless, never gross or upsetting",
+    "options": [],
+    "randomizeOptions": false,
+    "additionalInstructions": "Preserve subject identity through the mess. Mood: gleeful chaos, satisfying oddly-specific texture joy."
+  },
+  {
+    "name": "BACKYARD KAIJU DEFENDER",
+    "category": ["KIDS", "COMIC", "GIANT MONSTER", "ORIGINAL"],
+    "message": "Take a picture and reimagine the subject's own backyard as the site of an epic (and completely harmless, cartoonish) showdown between the subject — armed with an oversized cardboard-and-foil homemade 'ray gun' — and a friendly, goofy-looking giant original creature made of things like sofa cushions and pool noodles, clearly a backyard-built costume creature rather than a real monster. Golden late-afternoon light, exaggerated comic action poses.\n\nCRITICAL:\n• The 'kaiju' must clearly read as a fun homemade backyard costume creation, not a genuinely frightening monster\n• Props (ray gun, costume) should look charmingly handmade, not realistic weapons",
+    "options": [],
+    "randomizeOptions": false,
+    "additionalInstructions": "Preserve subject identity. Mood: imaginative backyard-adventure energy, clearly make-believe."
+  },
+  {
+    "name": "LUNCHBOX LEGEND STICKER",
+    "category": ["KIDS", "STICKER", "GRAPHIC DESIGN", "ORIGINAL"],
+    "message": "Take a picture and transform the subject into a bold, chunky vinyl sticker-style illustration — thick white sticker-edge outline, flat saturated colors, a simplified graphic pose, and a fun original catchphrase in bubble lettering arced above or below (e.g., an invented, silly phrase suited to the subject's expression). Designed to look like it belongs on a lunchbox, water bottle, or backpack.\n\nCRITICAL:\n• Must include the thick white die-cut sticker border around the entire illustration\n• Bold flat color fills, minimal shading, high-contrast graphic simplicity",
+    "options": [],
+    "randomizeOptions": false,
+    "additionalInstructions": "Preserve recognizable likeness in simplified sticker form. Mood: fun, collectible, backpack-ready."
+  },
+  {
+    "name": "TALENT SHOW SPOTLIGHT",
+    "category": ["KIDS", "COMIC", "PERFORMANCE", "ORIGINAL"],
+    "message": "Take a picture and place the subject center-stage under a dramatic spotlight at a school talent show, mid-performance of something delightfully unexpected (juggling rubber chickens, an air-guitar solo, an over-the-top magic trick with sparkles flying), a slightly out-of-focus cheering audience of silhouettes in foldout chairs, a hand-painted paper banner reading something like 'TALENT SHOW' in the background.\n\nCRITICAL:\n• Spotlight lighting should be strong and theatrical, subject brightly lit against a dimmer background\n• Performance should read as joyfully over-the-top and a little chaotic",
+    "options": [],
+    "randomizeOptions": false,
+    "additionalInstructions": "Preserve subject identity in the spotlight. Mood: nervous excitement turning into full-send confidence."
+  }
+]
