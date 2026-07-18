@@ -1,0 +1,82 @@
+[
+  {
+    "name": "BRIDGE OF THE ENTERPRISE-D",
+    "category": ["PARAMOUNT LOT", "1980s", "STAR TREK: TNG", "BEHIND THE SCENES"],
+    "message": "Take a picture and place the subject on the bridge set of a 1987 science-fiction television production styled after the USS Enterprise-D — a curved command center with a glowing forward viewscreen, red-orange-blue duty uniforms with combadges, LCARS-style backlit control panels, and a raised captain's chair. The subject stands or sits at a side console as if they're a background extra or crew visitor on set between takes, with the ship's bald, commanding English captain seen only from behind or mid-distance in the captain's chair, and a pale, gold-eyed android officer conferring quietly at ops.\n\nCAMERA & FILM (CRITICAL):\n• Shot on a compact 35mm point-and-shoot, the kind a crew member would sneak onto a closed set\n• Slight on-set fluorescent color cast, visible grain, soft focus at the edges of frame\n• Candid, slightly off-kilter framing — a stolen behind-the-scenes shot, not a posed publicity still",
+    "options": [],
+    "randomizeOptions": false,
+    "additionalInstructions": "Preserve subject identity and adapt clothing naturally into a plausible 1987 crew visitor look (windbreaker, mom jeans, sneakers) rather than a costume. Do not name or replicate any real actor's identity — render background performers as in-character silhouettes or partial profiles, not identifiable portraits. Mood: starstruck, a little disbelieving, thrilled to be there."
+  },
+  {
+    "name": "TEN FORWARD, LATE SHIFT",
+    "category": ["PARAMOUNT LOT", "1980s", "STAR TREK: TNG", "SET"],
+    "message": "Take a picture and place the subject in the ship's forward lounge set — a warm, low-lit bar and observation deck with a sweeping curved window onto a painted starfield backdrop, potted alien flora, and small round tables. The subject leans on the bar rail chatting with the lounge's ageless, wide-hatted hostess, who's polishing a glass and listening with a knowing half-smile. Off-camera crew members adjust the star-window lighting rig just out of frame.\n\nCAMERA & FILM (CRITICAL):\n• Shot on an Instamatic-style pocket camera with built-in flash\n• Warm tungsten color cast fighting against the flash's cool burst\n• Slight red-eye and blown highlights typical of late-80s consumer flash photography",
+    "options": [],
+    "randomizeOptions": false,
+    "additionalInstructions": "Preserve subject identity and period-accurate late-80s off-set casual wear. The hostess should read as an in-character presence, not an identifiable real person's likeness. Mood: relaxed, warm, end-of-a-long-shoot-day."
+  },
+  {
+    "name": "TRANSPORTER CHIEF FOR A DAY",
+    "category": ["PARAMOUNT LOT", "1980s", "STAR TREK: TNG", "SFX"],
+    "message": "Take a picture and place the subject inside the transporter room set, standing on one of the circular pads ringed with backlit columns, arms slightly raised, as the practical sparkle-effect rig begins to glow around their silhouette. A technician crouches just off-pad adjusting a cable running to a strobe unit built into the pad's base, and the transporter console glows with amber and green indicator lights.\n\nCAMERA & FILM (CRITICAL):\n• Shot on a disposable film camera with built-in flash, the kind sold at drugstores in the era\n• Visible film grain, slightly washed color, characteristic plastic-lens softness at the frame edges\n• Snapshot framing, a little crooked, like it was taken quickly between takes",
+    "options": [],
+    "randomizeOptions": false,
+    "additionalInstructions": "Preserve subject identity. Emphasize the practical, hands-on nature of the effect — visible rigging, cables, and crew rather than a finished digital effect. Mood: playful, a behind-the-curtain look at the illusion."
+  },
+  {
+    "name": "KLINGON MAKEUP CHAIR",
+    "category": ["PARAMOUNT LOT", "1980s", "STAR TREK: TNG", "MAKEUP DEPARTMENT"],
+    "message": "Take a picture and place the subject in a cramped makeup trailer, seated in a barber-style chair ringed by a bulb-lit mirror, mid-application of ridged latex forehead prosthetics for an alien warrior race. A makeup artist leans in with a small brush and a palette of spirit gum and greasepaint, half-finished prosthetic pieces and sponges scattered across the counter, a coffee cup with a faded logo nearby.\n\nCAMERA & FILM (CRITICAL):\n• Shot on a 35mm SLR with an on-camera flash, harsh and direct\n• Slightly overexposed foreground, warm fluorescent trailer lighting in the background\n• Documentary, fly-on-the-wall framing — this is a process shot, not a posed portrait",
+    "options": [],
+    "randomizeOptions": false,
+    "additionalInstructions": "Preserve subject identity through the unfinished portions of the prosthetic application — this is a behind-the-scenes moment, so the transformation should read as clearly in-progress. Mood: focused, meticulous, a little uncomfortable but fascinating."
+  },
+  {
+    "name": "WARDROBE FITTING: STARFLEET BLUES",
+    "category": ["PARAMOUNT LOT", "1980s", "STAR TREK: TNG", "WARDROBE DEPARTMENT"],
+    "message": "Take a picture and place the subject in a cluttered costume fitting room, standing in front of a triptych mirror wearing a form-fitting duty uniform in a solid department color with a combadge and rank pips at the collar, while a wardrobe assistant kneels nearby with a pin cushion, adjusting the hem. Racks of identical uniforms in red, gold, and blue line the walls behind them, along with a shelf of communicator and tricorder props.\n\nCAMERA & FILM (CRITICAL):\n• Shot on a Kodak disc camera, the compact flat-format consumer camera of the mid-80s\n• Soft, slightly low-resolution image quality, muted color palette\n• Plain, functional snapshot framing — a quick record shot, not an artistic one",
+    "options": [],
+    "randomizeOptions": false,
+    "additionalInstructions": "Preserve subject identity and facial features clearly. Mood: businesslike but a little giddy — the moment a costume makes a role feel real."
+  },
+  {
+    "name": "CHEERS: LAST CALL",
+    "category": ["PARAMOUNT LOT", "1980s", "CHEERS", "SET"],
+    "message": "Take a picture and place the subject perched on a stool at a warm, wood-paneled Boston basement bar, brass rail underfoot, a chalkboard of daily specials on the wall, beer taps gleaming under low hanging lamps. Behind the bar, a barrel-chested former-ballplayer-turned-bar-owner pours a draft with practiced ease, while a sharp-tongued waitress balances a tray of drinks nearby and a buttoned-up mail carrier holds court at the end of the bar mid-story.\n\nCAMERA & FILM (CRITICAL):\n• Shot on a 35mm point-and-shoot with built-in flash\n• Warm tungsten bar lighting mixed with a flat flash burst, mild red-eye\n• Casual, candid framing, like a photo taken by a visiting friend of the cast",
+    "options": [],
+    "randomizeOptions": false,
+    "additionalInstructions": "Preserve subject identity and period-accurate early-80s clothing. Background figures should read as in-character presences rather than identifiable real portraits. Mood: cozy, familiar, like walking into your favorite bar."
+  },
+  {
+    "name": "TOP GUN FLIGHT LINE, 1986",
+    "category": ["PARAMOUNT LOT", "1980s", "TOP GUN", "BACKLOT"],
+    "message": "Take a picture and place the subject on a sun-bleached airfield backlot dressed for a naval aviation film production — an olive flight suit with unit patches, aviator sunglasses pushed up on the forehead, a leather flight jacket slung over one shoulder. Behind them, the nose of a full-scale fighter jet mockup gleams under the midday sun, ground crew in headsets moving equipment in the background, heat shimmering visibly off the tarmac.\n\nCAMERA & FILM (CRITICAL):\n• Shot on a disposable camera loaded with high-contrast summer film\n• Bright, slightly blown-out highlights, saturated blues and oranges\n• Handheld snapshot framing, subject squinting slightly into the sun",
+    "options": [],
+    "randomizeOptions": false,
+    "additionalInstructions": "Preserve subject identity and period-accurate mid-80s styling. Mood: swagger, adrenaline, a hot runway afternoon."
+  },
+  {
+    "name": "BACKLOT WAREHOUSE, CRATE 9",
+    "category": ["PARAMOUNT LOT", "1980s", "ADVENTURE FILM", "BACKLOT"],
+    "message": "Take a picture and place the subject inside a cavernous prop warehouse set, towering rows of identical wooden crates stretching into shadow, a single shaft of stage light cutting through drifting dust. A worn leather satchel, a coiled bullwhip, and a battered fedora sit on a nearby prop table, as if just set down between takes.\n\nCAMERA & FILM (CRITICAL):\n• Shot on a 35mm SLR with slide film, pushed one stop for the low light\n• Deep shadow, narrow shaft of warm key light, visible dust motes\n• Moody, atmospheric framing with the subject partially lit, partially in shadow",
+    "options": [],
+    "randomizeOptions": false,
+    "additionalInstructions": "Preserve subject identity within the lit portion of the frame. Mood: adventurous, mysterious, cavernous quiet."
+  },
+  {
+    "name": "PARAMOUNT COMMISSARY, NOON RUSH",
+    "category": ["PARAMOUNT LOT", "1980s", "STUDIO LIFE", "BEHIND THE SCENES"],
+    "message": "Take a picture and place the subject in a bustling studio cafeteria at lunchtime, cafeteria tray in hand, surrounded by an unlikely cross-section of costumed extras and crew — a Starfleet uniform two tables over, a leather bomber jacket at the counter, a bar apron hanging off the back of a chair — all eating together like any other workday. Black-and-white cast photos and studio memos line a corkboard on the far wall.\n\nCAMERA & FILM (CRITICAL):\n• Shot on a compact 35mm camera with available fluorescent light, no flash\n• Slightly green-cast institutional lighting, visible grain in the shadows\n• Casual, wide, documentary framing capturing the whole busy room",
+    "options": [],
+    "randomizeOptions": false,
+    "additionalInstructions": "Preserve subject identity. Background figures should read as generic in-costume extras, not identifiable real individuals. Mood: unglamorous, funny, the ordinary reality behind the magic."
+  },
+  {
+    "name": "THE BRONSON GATE, MELROSE AVENUE",
+    "category": ["PARAMOUNT LOT", "1980s", "STUDIO LIFE", "ICONIC LOCATION"],
+    "message": "Take a picture and place the subject standing just outside the studio's iconic wrought-iron main gate on Melrose Avenue, a laminated drive-on visitor pass clipped to their shirt, the studio's water tower and soundstage rooftops visible over the wall behind them. A guard booth sits just inside the gate, and a line of period-correct cars idles at the entrance.\n\nCAMERA & FILM (CRITICAL):\n• Shot on a 110 format pocket camera, the small cartridge-film format common for casual snapshots in the era\n• Slightly soft, grainy, low-resolution image quality with a warm golden haze\n• Simple tourist-snapshot framing, subject squarely centered",
+    "options": [],
+    "randomizeOptions": false,
+    "additionalInstructions": "Preserve subject identity and period-accurate early-80s clothing. Mood: proud, a little starstruck, the classic 'I was there' photo."
+  }
+]
