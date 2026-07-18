@@ -78,5 +78,185 @@
     "options": [],
     "randomizeOptions": false,
     "additionalInstructions": "Preserve subject identity and 2020-appropriate clothing/mask. Mood: bittersweet solidarity — isolation and community at once."
+  },
+  {
+    "name": "THE BIG IDEA",
+    "category": ["ADVERTISING", "AWARD SHOW", "PRINT", "CONCEPT"],
+    "message": "Take a picture and transform it into a single-visual-metaphor print advertisement in the style of a Cannes Lions or D&AD Print Grand Prix winner. Identify one clever, surprising visual connection between the subject and a plausible product or cause, and build the ENTIRE ad around that one idea — no clutter, no extra elements. Layout: enormous white or single-color negative space, the visual metaphor as the sole hero image, one short punchy headline (5 words or fewer) at the bottom or corner, and a tiny logo lockup. No body copy.\n\nCRITICAL:\n• The 'big idea' must be visually self-explanatory — a viewer should get it in under 2 seconds\n• Ruthless minimalism: if an element doesn't serve the one idea, cut it\n• Typography should be a single clean, confident sans-serif",
+    "options": [],
+    "randomizeOptions": false,
+    "additionalInstructions": "Preserve subject identity within the visual metaphor. This is the format judges reward most — reward cleverness over decoration."
+  },
+  {
+    "name": "HONEST COPY, 1970s",
+    "category": ["ADVERTISING", "AWARD SHOW", "1970s", "PRINT"],
+    "message": "Take a picture and transform it into a 1970s Doyle Dane Bernbach-style print advertisement — black-and-white photography, self-deprecating honest copywriting, and generous white space. Layout: a plain, unglamorous product-or-subject photo in a thin-ruled box, a short witty headline in bold black serif type directly beneath it, followed by a tight column of confident, plainspoken body copy that admits a flaw before turning it into a strength. Small logo bottom-right.\n\nCRITICAL:\n• Photography must look unpolished and real, not glossy\n• Tone is dry, intelligent, self-aware — never boastful\n• Typeface should read as a period-accurate serif (Times/Century-adjacent)",
+    "options": [
+      { "id": "001", "text": "Minimal copy — headline only" },
+      { "id": "002", "text": "Moderate copy — headline + 2-line body" },
+      { "id": "003", "text": "Heavy copy — headline + full paragraph" }
+    ],
+    "randomizeOptions": false,
+    "additionalInstructions": "Preserve subject identity. This is craft-forward advertising — copy should sound genuinely clever, not like filler text."
+  },
+  {
+    "name": "SILHOUETTE CAMPAIGN, 1980s",
+    "category": ["ADVERTISING", "AWARD SHOW", "1980s", "PRINT"],
+    "message": "Take a picture and transform it into a 1980s iconic-bottle-silhouette-style campaign ad, in the visual language of the era's most celebrated single-object campaigns. Layout: a bold saturated gradient or solid color background, the subject rendered as a clean graphic silhouette or highly stylized cutout integrated into a clever shape pun, with a two-or-three-word campaign tagline in clean modern sans-serif at the bottom. Small brand mark in a corner.\n\nCRITICAL:\n• The silhouette/shape must form a clever visual pun tied to the tagline\n• Background color should be bold, flat, and confident — no gradients that muddy the shape\n• This is about instant, addictive repeat-campaign recognition, not photorealism",
+    "options": [],
+    "randomizeOptions": false,
+    "additionalInstructions": "Preserve enough of the subject's silhouette/proportions to still feel personal. Mood: iconic, collectible, endlessly repeatable."
+  },
+  {
+    "name": "GRUNGE MANIFESTO, 1990s",
+    "category": ["ADVERTISING", "AWARD SHOW", "1990s", "PRINT"],
+    "message": "Take a picture and transform it into a 1990s grunge/skate-brand print advertisement — high-contrast black-and-white or desaturated photography, torn paper or duct-tape texture edges, and handwritten or typewriter-style scrawled copy layered directly over the image at an off-kilter angle. Layout: full-bleed gritty photo, a rebellious short manifesto-style line of copy (anti-establishment, irreverent) scrawled across it, tiny logo tucked in a corner as if it barely matters.\n\nCRITICAL:\n• Photography grain and contrast should feel deliberately raw, underexposed, or off-center\n• Copy tone: irreverent, confrontational, allergic to corporate polish\n• Typography mixes a distressed stencil or typewriter font with genuine handwriting texture",
+    "options": [],
+    "randomizeOptions": false,
+    "additionalInstructions": "Preserve subject identity within the gritty treatment. Mood: rebellious, loud, deliberately unpolished."
+  },
+  {
+    "name": "REAL BEAUTY SPREAD, 2000s",
+    "category": ["ADVERTISING", "AWARD SHOW", "2000s", "SOCIAL GOOD"],
+    "message": "Take a picture and transform it into a 2000s-era 'real people, real story' cause-marketing print ad in the style of the decade's most awarded authenticity-driven beauty and wellness campaigns. Layout: a warm, naturally lit, minimally retouched portrait of the subject, a short handwritten-style personal quote or single honest line of copy near the frame's edge, and a small, quiet logo — nothing shouting for attention.\n\nCRITICAL:\n• Lighting and skin texture must look genuinely natural, not glossy-magazine retouched\n• Copy tone is warm, first-person, quietly confident — a real sentence a real person might say\n• Composition should feel intimate, close, unguarded",
+    "options": [],
+    "randomizeOptions": false,
+    "additionalInstructions": "Preserve subject identity with natural, unretouched-feeling skin and expression. Mood: warm, sincere, quietly emotional."
+  },
+  {
+    "name": "MINIMALIST HERO SHOT, 2010s",
+    "category": ["ADVERTISING", "AWARD SHOW", "2010s", "PRINT"],
+    "message": "Take a picture and transform it into a 2010s ultra-minimalist product-hero advertisement in the style of the decade's cleanest tech and lifestyle brand campaigns. Layout: the subject centered on a vast solid pastel or pure white background, perfect studio lighting with soft shadow, an enormous amount of negative space, and a single lowercase or all-caps one-word headline in a clean geometric sans-serif floating in the empty space. Tiny logo, tiny fine print if any.\n\nCRITICAL:\n• At least 70% of the frame should be empty negative space\n• Lighting must be flawless, soft, shadowless studio quality\n• Only ONE word of copy — no more",
+    "options": [],
+    "randomizeOptions": false,
+    "additionalInstructions": "Preserve subject identity with crisp, clean studio-quality rendering. Mood: calm, confident, premium restraint."
+  },
+  {
+    "name": "MAXIMALIST MANIFESTO, 2020s",
+    "category": ["ADVERTISING", "AWARD SHOW", "2020s", "PRINT"],
+    "message": "Take a picture and transform it into a 2020s maximalist, internet-native brand manifesto poster — oversized clashing typography, saturated unexpected color combinations, collage-style layered imagery, and a bold declarative statement about identity, values, or self-expression stretched across the frame in mismatched type sizes and weights. Layout: the subject integrated into a dense, energetic collage with cut-out shapes, stickers, or scribbled annotations, one loud headline dominating the composition.\n\nCRITICAL:\n• Typography should feel deliberately chaotic-but-intentional — mixed fonts, mixed sizes, rotated text blocks\n• Color palette should be bold and unconventional, not corporate-safe\n• Copy tone: values-driven, direct-address, unafraid of a strong opinion",
+    "options": [],
+    "randomizeOptions": false,
+    "additionalInstructions": "Preserve subject identity within the collage energy. Mood: loud, confident, culturally plugged-in."
+  },
+  {
+    "name": "THE TESTIMONIAL SPREAD",
+    "category": ["ADVERTISING", "AWARD SHOW", "PRINT", "COPYWRITING"],
+    "message": "Take a picture and transform it into a magazine testimonial advertisement built around a genuine-sounding customer quote. Layout: a warm environmental portrait of the subject in a believable everyday setting, a substantial quote in large italic serif type attributed to them with a handwritten-style signature beneath it, and a small product shot tucked into a bottom corner with brief supporting copy.\n\nCRITICAL:\n• The quote must sound like something a real, specific person would actually say — specific detail, not generic praise\n• Signature should look genuinely handwritten, not a typed font pretending to be one",
+    "options": [],
+    "randomizeOptions": false,
+    "additionalInstructions": "Preserve subject identity and natural expression. Mood: credible, warm, personal."
+  },
+  {
+    "name": "THE TAGLINE BILLBOARD",
+    "category": ["ADVERTISING", "AWARD SHOW", "OUTDOOR", "COPYWRITING"],
+    "message": "Take a picture and transform it into a single roadside billboard advertisement, shot as if photographed from a passing car. Layout: an enormous sky or negative-space background, the subject or product occupying a small confident portion of the board, and one extremely short pun-based headline (3-6 words) in massive bold lettering that can be read in two seconds at highway speed. Tiny logo in a bottom corner.\n\nCRITICAL:\n• Include the physical billboard structure (support poles, edge frame) and a believable roadside/sky environment around it for context\n• The headline must work as a genuine pun or clever wordplay, legible from a distance\n• No additional copy of any kind",
+    "options": [],
+    "randomizeOptions": false,
+    "additionalInstructions": "Preserve subject identity within the small billboard image. Mood: punchy, confident, built for a two-second glance."
+  },
+  {
+    "name": "THE REASON WHY",
+    "category": ["ADVERTISING", "AWARD SHOW", "PRINT", "LONGFORM COPY"],
+    "message": "Take a picture and transform it into a classic 'reason why' long-copy print advertisement in the style of the most award-winning David Ogilvy-era campaigns. Layout: a modest, well-composed photo of the subject occupying roughly a third of the page, a confident factual headline above it, and a dense, persuasive multi-paragraph block of body copy beneath, written in an authoritative but readable voice that builds a rational case point by point, ending in a small logo and tagline.\n\nCRITICAL:\n• Body copy must be genuinely well-written — specific claims, a logical structure, a confident closing line — not filler lorem ipsum\n• Typography should be a legible, editorial serif with generous leading\n• This is proof advertising works through persuasion, not just imagery",
+    "options": [],
+    "randomizeOptions": false,
+    "additionalInstructions": "Preserve subject identity. Mood: authoritative, thorough, persuasive craftsmanship."
+  },
+  {
+    "name": "THE SPOKESPERSON SPREAD",
+    "category": ["ADVERTISING", "AWARD SHOW", "PRINT", "CELEBRITY PARODY"],
+    "message": "Take a picture and transform the subject into a glossy celebrity-spokesperson advertisement, holding or presenting a product with a wide confident smile, styled and lit like a high-budget campaign. Layout: dramatic studio lighting, the subject in polished wardrobe, product held at chest height toward camera, a bold tagline beneath in elegant display type, small fine-print disclaimer text at the very bottom for authenticity.\n\nCRITICAL:\n• Lighting and retouching should feel expensive and flawless\n• Pose should read as confidently performative, aware of the camera\n• The specific decade's spokesperson-ad conventions (typography, color grading) should be selectable",
+    "options": [
+      { "id": "001", "text": "1980s glossy studio glamour" },
+      { "id": "002", "text": "1990s energetic lifestyle" },
+      { "id": "003", "text": "2000s aspirational luxury" },
+      { "id": "004", "text": "2010s clean influencer-adjacent" }
+    ],
+    "randomizeOptions": true,
+    "additionalInstructions": "Preserve subject identity clearly. Mood: confident, polished, performing enthusiasm."
+  },
+  {
+    "name": "THE GUERRILLA STUNT",
+    "category": ["ADVERTISING", "AWARD SHOW", "AMBIENT", "STREET"],
+    "message": "Take a picture and transform the scene into documentation of a clever real-world guerrilla marketing installation, the kind that wins Outdoor Grand Prix awards. Reinterpret an ordinary object or piece of street furniture near the subject as a witty, physically plausible ad intervention — a bus stop, staircase, crosswalk, or building feature cleverly repurposed to make a visual joke or point, with the subject captured naturally noticing or interacting with it as a passerby. Minimal or no added text — the cleverness should be entirely visual.\n\nCRITICAL:\n• The intervention must look like something that could physically exist in the real world, not a digital overlay\n• Photograph should feel candid and documentary, like a passerby's phone photo of something they spotted",
+    "options": [],
+    "randomizeOptions": false,
+    "additionalInstructions": "Preserve subject identity as a natural bystander. Mood: delighted discovery, 'wait, is that real?'"
+  },
+  {
+    "name": "THE INFOMERCIAL FREEZE-FRAME",
+    "category": ["ADVERTISING", "AWARD SHOW", "PARODY", "RETRO"],
+    "message": "Take a picture and transform it into a paused frame from a late-night infomercial, captured mid-exaggerated-reaction. Layout: slightly oversaturated, soft VHS-quality video look with visible scan lines, the subject frozen mid dramatic gesture of surprise or delight, a starburst graphic reading 'BUT WAIT, THERE'S MORE!' or similar, a bold price-slash graphic, and an 800-number-style call-to-action banner along the bottom in a cheap bold font.\n\nCRITICAL:\n• Video quality should look genuinely low-fidelity, warm, and slightly blurry, like real VHS/analog broadcast\n• Graphics (starburst, price banner) must use period-accurate bevel/glow effects, not modern flat design\n• Subject's expression should be comedically over-the-top",
+    "options": [],
+    "randomizeOptions": false,
+    "additionalInstructions": "Preserve subject identity through the exaggerated expression. Mood: cheesy, nostalgic, deliberately over-the-top."
+  },
+  {
+    "name": "THE CAUSE CAMPAIGN",
+    "category": ["ADVERTISING", "AWARD SHOW", "SOCIAL GOOD", "PRINT"],
+    "message": "Take a picture and transform it into a serious, emotionally resonant social-cause advertisement in the style of a genuine Cannes Lions 'For Good' Grand Prix winner — tasteful, restrained, and powerful rather than comedic. Layout: a striking, well-composed photo built around one honest visual truth about the cause, a single understated statistic or short factual line of copy in clean type at the bottom, and a small, quiet organization logo. No exaggeration, no punchlines.\n\nCRITICAL:\n• Tone must be sincere and respectful throughout — this is the opposite of a parody or joke poster\n• Copy, if any, should be a real, verifiable-sounding statistic or a single restrained sentence\n• Visual metaphor should carry the emotional weight, not shock value",
+    "options": [
+      { "id": "001", "text": "No copy — image only" },
+      { "id": "002", "text": "Minimal — single short line" },
+      { "id": "003", "text": "Moderate — line plus statistic" }
+    ],
+    "randomizeOptions": false,
+    "additionalInstructions": "Preserve subject dignity and identity throughout. Mood: sincere, powerful, respectful."
+  },
+  {
+    "name": "THE DOUBLE-PAGE SPREAD",
+    "category": ["ADVERTISING", "AWARD SHOW", "MAGAZINE", "PRINT"],
+    "message": "Take a picture and transform it into a two-page magazine spread advertisement, with the subject or product composition dramatically spanning across a visible center gutter fold, as if photographed from an open magazine. Layout: a large-format editorial photo bleeding to all four edges across both pages, a short elegant headline and tiny logo tucked into one bottom corner, with the physical page edges, gutter shadow, and slight paper texture visible.\n\nCRITICAL:\n• The center gutter/fold line must be visible and believable, subtly interrupting the image the way a real magazine spread does\n• Composition should clearly use the full two-page width dramatically, not just a single-page crop stretched out",
+    "options": [],
+    "randomizeOptions": false,
+    "additionalInstructions": "Preserve subject identity across the spread. Mood: grand, editorial, expensively produced."
+  },
+  {
+    "name": "RETRO PACKAGING HERO",
+    "category": ["ADVERTISING", "AWARD SHOW", "PACKAGING", "ILLUSTRATION"],
+    "message": "Take a picture and transform the subject into the illustrated hero figure on a piece of vintage product packaging from a chosen decade — rendered in period-accurate commercial illustration style (linework, color separation printing quirks, halftone dots) rather than photography, integrated into a box, tin, or bottle label design with era-appropriate typography and brand flourishes.\n\nCRITICAL:\n• Must read as illustrated commercial art, not a photo pasted onto packaging\n• Include period-accurate printing artifacts (slight color misregistration, halftone texture, paper grain)",
+    "options": [
+      { "id": "001", "text": "1970s bold flat illustration" },
+      { "id": "002", "text": "1980s airbrushed gradient style" },
+      { "id": "003", "text": "1990s cartoon mascot energy" },
+      { "id": "004", "text": "2000s glossy photorealistic render" }
+    ],
+    "randomizeOptions": true,
+    "additionalInstructions": "Preserve recognizable facial features within the illustration style. Mood: nostalgic, collectible, shelf-ready."
+  },
+  {
+    "name": "THE PUN HEADLINE",
+    "category": ["ADVERTISING", "AWARD SHOW", "TYPOGRAPHY", "COPYWRITING"],
+    "message": "Take a picture and transform it into a typography-forward advertisement where a single brilliant wordplay headline IS the entire visual — massive, confident lettering fills most of the frame, with the subject reduced to a small, cleverly placed supporting image that completes the joke or meaning of the headline (tucked inside a letterform, replacing a letter, or sitting in negative space the type creates).\n\nCRITICAL:\n• The headline must be a genuine, clever pun or double meaning, not generic text\n• Typography must dominate at least 80% of the visual weight of the frame\n• The subject's placement should be essential to understanding the joke, not decorative",
+    "options": [],
+    "randomizeOptions": false,
+    "additionalInstructions": "Preserve enough of the subject to complete the visual pun. Mood: witty, confident, type-as-image."
+  },
+  {
+    "name": "THE DIRECT RESPONSE FLYER",
+    "category": ["ADVERTISING", "AWARD SHOW", "RETRO", "DIRECT MAIL"],
+    "message": "Take a picture and transform it into a retro direct-mail advertising flyer, the kind that arrived in a mailbox decades ago. Layout: busy, cluttered, enthusiastic design with multiple bold starburst callouts, a dashed-line coupon corner reading 'CLIP AND SAVE,' a bold 'CALL NOW' banner with a fake toll-free number, and a slightly cheap, overprinted newsprint texture throughout.\n\nCRITICAL:\n• Deliberately busy, maximal layout — this genre is meant to feel urgent and slightly overwhelming, unlike the minimalist entries in this set\n• Include at least one starburst graphic, one coupon element, and one bold price callout",
+    "options": [],
+    "randomizeOptions": false,
+    "additionalInstructions": "Preserve subject identity within the busy layout. Mood: urgent, enthusiastic, delightfully cheap."
+  },
+  {
+    "name": "THE AWARD ANNUAL CASE STUDY",
+    "category": ["ADVERTISING", "AWARD SHOW", "CASE STUDY", "META"],
+    "message": "Take a picture and transform it into a page spread from an advertising award annual book — the format used to document winning campaigns. Layout: a large, beautifully composed hero image of the finished ad concept built around the subject, with a small formal case-study text block beneath or beside it in clean editorial type, including a fictional agency name, a category label (e.g. 'PRINT / OUTDOOR'), a one-sentence description of 'the insight' behind the idea, and a small award medallion graphic.\n\nCRITICAL:\n• The case-study text block should sound like genuine award-show copy — concise, a little self-congratulatory, industry jargon like 'insight' and 'craft'\n• The medallion/award graphic should look like a plausible award seal, not a specific real trophy logo",
+    "options": [],
+    "randomizeOptions": false,
+    "additionalInstructions": "Preserve subject identity within the featured ad concept. Mood: polished, self-assured, industry-insider."
+  },
+  {
+    "name": "THE SPEC BOOK PIECE",
+    "category": ["ADVERTISING", "AWARD SHOW", "PORTFOLIO", "CONCEPT"],
+    "message": "Take a picture and transform it into a speculative student portfolio ad — the kind of ultra-polished, never-actually-run concept piece built purely to showcase creative craft. Layout: a bold, ambitious, slightly provocative visual idea centered on the subject, immaculate production polish, a sharp headline, and deliberately minimal branding, as if the idea itself is meant to be the entire point, unconstrained by a real client's rules.\n\nCRITICAL:\n• The concept should feel a little braver and stranger than a real client would typically approve — that's the point of a spec piece\n• Production values (lighting, typography, composition) must be immaculate, portfolio-ready",
+    "options": [],
+    "randomizeOptions": false,
+    "additionalInstructions": "Preserve subject identity within the ambitious concept. Mood: fearless, ambitious, craft for craft's sake."
   }
 ]
+
+
