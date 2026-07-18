@@ -1,0 +1,107 @@
+[
+  {
+    "combo_name": "Honest Ad, Matte Red Model Y",
+    "presets": ["HONEST COPY, 1970s", "ADVERTISEMENT", "BOKEH PHOTOGRAPHY", "TIME OF DAY MOOD LIGHTING (Golden Hour)", "PORTRAIT"],
+    "description": "A self-deprecating '70s DDB-style print ad applied to your own car — honest-flaw, honest-strength copywriting voice, shot with real portrait glass at golden hour, then framed."
+  },
+  {
+    "combo_name": "Sun Devil Chronoship",
+    "presets": ["TIME MACHINE COCKPIT", "CHIAROSCURO", "DOUBLE EXPOSURE", "EXPRESSIONS", "MASCOT"],
+    "description": "Mid-jump at the brass-and-glass time machine controls, a ghostly mascot presence layered in via double exposure, single dramatic light source."
+  },
+  {
+    "combo_name": "Desert Ridge Noir",
+    "presets": ["CINESTILL 800T", "FILM NOIR", "LONG EXPOSURE", "BOKEH PHOTOGRAPHY", "TIME OF DAY MOOD LIGHTING (Blue Hour)"],
+    "description": "Night photography of your own neighborhood shot like a tungsten film still — Venetian-blind shadows, light trails, cobalt Phoenix dusk."
+  },
+  {
+    "combo_name": "Maltese Mascot Campaign",
+    "presets": ["MASCOT", "SILHOUETTE CAMPAIGN, 1980s", "BOKEH PHOTOGRAPHY", "EXPRESSIONS", "THE TAGLINE BILLBOARD"],
+    "description": "Your dog elevated to iconic '80s brand-campaign mascot status — bold flat silhouette, then scaled up onto a billboard with a punchy tagline."
+  },
+  {
+    "combo_name": "Old Main, Every Decade",
+    "presets": ["SAME SPOT, FOUR CENTURIES", "DECADE STYLE", "EXPRESSIONS", "CHIAROSCURO", "PORTRAIT"],
+    "description": "One fixed campus spot ghosting through eras simultaneously, you solid in the present layer while decade-specific fashion/vehicle markers anchor a past layer."
+  },
+  {
+    "combo_name": "Regular at Cheers",
+    "presets": ["CHEERS: LAST CALL", "THE TESTIMONIAL SPREAD", "EXPRESSIONS", "BOKEH PHOTOGRAPHY", "PORTRAIT"],
+    "description": "Styled as the subject of a warm print-ad testimonial at the bar — believable quote, signature, sitcom-set warmth."
+  },
+  {
+    "combo_name": "Countdown Over Tempe",
+    "presets": ["LAUNCH DAY, 1986", "YEAR ZERO", "TIME OF DAY MOOD LIGHTING (Storm Light)", "EXPRESSIONS", "PORTRAIT"],
+    "description": "The hopeful, upward-looking crowd energy of a 1986 launch morning fused with an ambiguous ending-or-beginning countdown and fraying reality at the edges."
+  },
+  {
+    "combo_name": "Spec Book: Rescue Case Study",
+    "presets": ["THE SPEC BOOK PIECE", "THE BIG IDEA", "MASCOT", "BOKEH PHOTOGRAPHY", "EXPRESSIONS"],
+    "description": "A portfolio-caliber, never-ran concept ad built around one clever visual metaphor featuring your dog."
+  },
+  {
+    "combo_name": "Southwest Highway Billboard",
+    "presets": ["ROUTE 66 BILLBOARD", "LONG EXPOSURE", "TIME OF DAY MOOD LIGHTING (Golden Hour)", "BOKEH PHOTOGRAPHY", "PORTRAIT"],
+    "description": "Already desert-and-mountain-native in its own prompt text — real exposure and lighting craft layered on top."
+  },
+  {
+    "combo_name": "Core Sample of a Sun Devil",
+    "presets": ["STRATA SELF", "DECADE STYLE", "EXPRESSIONS", "CHIAROSCURO", "TAROT CARD"],
+    "description": "The deep-time geological cross-section concept made personal — each stratum band tagged to a different decade of you, framed as a mystical card."
+  },
+  {
+    "combo_name": "For the Dogs (Cause Campaign)",
+    "presets": ["THE CAUSE CAMPAIGN", "MACRO", "BOKEH PHOTOGRAPHY", "TIME OF DAY MOOD LIGHTING (Golden Hour)", "PORTRAIT"],
+    "description": "Your dog treated with the sincerity of a real 'For Good' award winner — one honest visual truth, close macro detail, restrained copy."
+  },
+  {
+    "combo_name": "Sainted Villain",
+    "presets": ["EVIL GENIUS LAIR", "BYZANTINE ICONOGRAPHY", "PROPAGANDA POSTER", "CHIAROSCURO", "EXPRESSIONS"],
+    "description": "A cartoon supervillain mid-monologue, rendered as a solemn gilded religious icon on a recruitment poster for a ridiculous fictional cause."
+  },
+  {
+    "combo_name": "Museum of a Lost Timeline",
+    "presets": ["MUSEUM VITRINE, YEAR 2500", "PARALLEL UNIVERSE HISTORY", "DOUBLE EXPOSURE", "TIME OF DAY MOOD LIGHTING (Blue Hour)", "EXPRESSIONS"],
+    "description": "A far-future museum's prized exhibit: an artifact from a timeline that never happened, preserved and captioned as real history."
+  },
+  {
+    "combo_name": "Wanted: Reality Itself",
+    "presets": ["WANTED POSTER", "RETROCAUSALITY", "WOODCUT", "EXAGGERATED TRAIT", "TIME OF DAY MOOD LIGHTING (High Noon)"],
+    "description": "An Old West bounty poster for a fugitive charged with a crime against causality, hand-carved into rough woodcut printing."
+  },
+  {
+    "combo_name": "Claymation Apocalypse",
+    "presets": ["CLAYMATION BIRTHDAY BASH", "YEAR ZERO", "DOUBLE EXPOSURE", "EXPRESSIONS", "TIME OF DAY MOOD LIGHTING (Midnight)"],
+    "description": "A hand-sculpted birthday party happening beneath a countdown clock to the end of everything, the clay itself cracking at the edges."
+  },
+  {
+    "combo_name": "Infomercial From the Year 2500",
+    "presets": ["THE INFOMERCIAL FREEZE-FRAME", "MUSEUM VITRINE, YEAR 2500", "DOUBLE EXPOSURE", "EXAGGERATED TRAIT", "CHIAROSCURO"],
+    "description": "A cheesy VHS 'BUT WAIT, THERE'S MORE!' moment preserved behind museum glass 500 years from now as a sacred relic of ancient commerce."
+  },
+  {
+    "combo_name": "Sacred Pixel Relic",
+    "presets": ["PIXEL QUEST HERO", "BYZANTINE ICONOGRAPHY", "HOLO RARE TRADING CARD", "CHIAROSCURO", "EXPRESSIONS"],
+    "description": "A chunky 16-bit sprite posed frontal with a gilded halo like an Orthodox saint, pulled as an ultra-rare holographic collectible."
+  },
+  {
+    "combo_name": "Noir Slime Case File",
+    "presets": ["SLIME LAB EXPLOSION", "FILM NOIR", "ILFORD PUSH FILM", "MOTION BLUR", "EXPRESSIONS"],
+    "description": "A glossy technicolor slime disaster shot dead-serious in grainy black-and-white, like a hardboiled detective walked in on it."
+  },
+  {
+    "combo_name": "The Reason Why, Cretaceous Edition",
+    "presets": ["THE REASON WHY", "THE QUIET WITNESS", "MACRO", "TIME OF DAY MOOD LIGHTING (Golden Hour)", "EXPRESSIONS"],
+    "description": "A dense, persuasive Ogilvy-style body-copy print ad, set against dinosaurs grazing in golden-hour light, sold with a straight face."
+  },
+  {
+    "combo_name": "PSA for the Multiverse",
+    "presets": ["PSA WARNING POSTER", "MULTIVERSE", "WOODCUT", "DOUBLE EXPOSURE", "EXAGGERATED TRAIT"],
+    "description": "A dry government safety poster warning against meeting your alternate-universe self, illustrated in stiff vintage woodcut linework."
+  },
+  {
+    "combo_name": "Direct Response Flyer From the Year Zero",
+    "presets": ["THE DIRECT RESPONSE FLYER", "YEAR ZERO", "CHIAROSCURO", "EXPRESSIONS", "DOUBLE EXPOSURE"],
+    "description": "A cluttered 'CALL NOW, CLIP AND SAVE!' junk-mail flyer where the countdown clock behind the coupon is genuinely ticking down to the end of reality."
+  }
+]
