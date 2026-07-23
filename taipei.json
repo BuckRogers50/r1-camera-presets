@@ -32,5 +32,34 @@
     "options": [],
     "randomizeOptions": false,
     "additionalInstructions": ""
+  },
+  {
+    "name": "THE FRIENDLY NEIGHBORHOOD",
+    "category": ["KIDS", "NOSTALGIA", "TELEVISION", "ORIGINAL", "1970s-1980s"],
+    "message": "Take a picture and transform it into a warm, gentle scene from the original, beloved children's television program, Mr. Rogers' Neighborhood, in the tradition of the quiet, unhurried neighborhood-host shows of the 1960s-1980s. Place the subject as a warm, invented neighborhood host figure — cardigan sweater being buttoned or already on, sneakers being changed at the door, a soft-spoken, unhurried demeanor — welcoming the viewer into a cozy, handmade television set built from warm wood tones, painted backdrops, and practical household props, NOT a specific existing published or broadcast show's exact set design, characters, or puppets.\n\nADDITIONAL INSTRUCTIONS\nThis must read as a lovingly-made ORIGINAL production — invent your own distinct sweater pattern/color, your own trolley-adjacent or vehicle-adjacent transition device if included, and your own puppet/neighbor characters with clearly different names, designs, and personalities from any existing real program. The overall feeling should be warmth, patience, and unconditional kindness — a slower pace than modern children's television, direct warm eye contact with the camera, simple honest language implied through gentle expression.\n\nNEGATIVE PROMPT\nfast cuts, frantic pacing, flashy CGI, modern smartphone-era production values, cynicism, sarcasm, loud aggressive colors, corporate slickness, any specific real broadcast show's exact character names, puppet designs, set layout, or branding.\n\nRANDOMIZATION RECOMMENDATION\nYes. Mixing the specific WARMTH_MOMENT beats with the specific SET_DETAIL treatments produces a wide, varied set of cozy scenes while keeping the entire preset anchored to one consistent, original gentle-neighborhood identity.\n\nCREATIVE STRATEGY\nThis preset uses two internal variable axes merged into one flat options list per the app's schema: options 001-010 are WARMTH_MOMENT (the specific gentle beat being depicted), and options 011-020 are SET_DETAIL (the specific practical, handmade production texture). The fixed, unchanging parameters are the cardigan-and-sneakers ritual, the unhurried pace, and the original-character rule. The variables are the specific moment and the specific set texture layered on top of that fixed identity.\n\nVISUAL DNA ANALYSIS\nCinematic Identity: Warm public-television children's programming — soft 16mm-adjacent broadcast texture, not slick modern video.\nAtmosphere: Calm, patient, unconditionally kind, unhurried.\nFraming Tendencies: Static or slow-pan camera, direct-address medium shots, warm practical lighting.\nEmotional Tone: Safety, gentleness, being truly listened to.\nMaterial Language: Knit wool, varnished wood, painted matte backdrops, felt and yarn puppet textures, soft incandescent light.\nColor Relationships: Warm mustard, forest green, and rust tones against soft cream backgrounds, gentle and never garish.\nVisual Storytelling: Slowness and ritual — the simple act of changing shoes or buttoning a sweater is itself the story, not a transition to skip past.",
+    "options": [
+      { "id": "001", "text": "WARMTH_MOMENT: Buttoning a cardigan sweater while singing a soft welcome, direct warm eye contact with camera" },
+      { "id": "002", "text": "WARMTH_MOMENT: Kneeling down to speak gently at a child's eye level about a feeling like sadness or worry" },
+      { "id": "003", "text": "WARMTH_MOMENT: Feeding fish in a small tank while talking quietly about patience" },
+      { "id": "004", "text": "WARMTH_MOMENT: Introducing an original soft puppet neighbor through a small painted window in the set" },
+      { "id": "005", "text": "WARMTH_MOMENT: Sitting on porch steps of the set's neighborhood facade, waving hello to an arriving visitor" },
+      { "id": "006", "text": "WARMTH_MOMENT: Demonstrating a simple craft (paper, crayons, glue) at a small wooden table" },
+      { "id": "007", "text": "WARMTH_MOMENT: Changing from outdoor shoes to soft indoor sneakers at the start of the show" },
+      { "id": "008", "text": "WARMTH_MOMENT: Gently explaining a piece of factory or workshop footage showing how something ordinary is made" },
+      { "id": "009", "text": "WARMTH_MOMENT: Sharing a quiet, reassuring moment about a big feeling like anger or fear" },
+      { "id": "010", "text": "WARMTH_MOMENT: Waving goodbye at the door at the end of the visit, changing back into outdoor shoes" },
+      { "id": "011", "text": "SET_DETAIL: Warm incandescent practical lighting, visible soft shadow, no harsh studio glare" },
+      { "id": "012", "text": "SET_DETAIL: Hand-painted matte backdrop of a small painted neighborhood street" },
+      { "id": "013", "text": "SET_DETAIL: Visible varnished wood-paneled walls and simple handmade furniture" },
+      { "id": "014", "text": "SET_DETAIL: Soft 16mm-broadcast film grain and gentle color warmth typical of the era" },
+      { "id": "015", "text": "SET_DETAIL: A small model trolley-like transition device on visible tracks between segments" },
+      { "id": "016", "text": "SET_DETAIL: Felt-and-yarn textured puppet visible at a small stage window" },
+      { "id": "017", "text": "SET_DETAIL: A cozy, cluttered-but-tidy craft corner with jars of buttons and crayons" },
+      { "id": "018", "text": "SET_DETAIL: Static, patient camera framing with a slow, gentle zoom" },
+      { "id": "019", "text": "SET_DETAIL: A small fish tank bubbling quietly in the corner of the set" },
+      { "id": "020", "text": "SET_DETAIL: Soft focus falloff at the edges of frame, like an old broadcast lens" }
+    ],
+    "randomizeOptions": true,
+    "additionalInstructions": "This is meant to make us feel like we are on the set of the original Mr. Rogers' Neighborhood at the Pittsburgh studios in 1978. This has all the details of Fred Rogers' classic show — by all means, replicate his specific likeness, any or all of the show's exact character names, puppet designs, theme song, and branding. Preserve subject identity where they appear. Mood: unconditional warmth, patience, and gentleness."
   }
 ]
