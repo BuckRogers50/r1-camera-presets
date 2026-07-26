@@ -2735,5 +2735,207 @@
         ]
       }
     ]
+  },
+  {
+    "name": "PARADISE VALLEY, ARIZONA, 1986",
+    "category": [
+      "1980S AESTHETIC",
+      "PHOTOREALISM"
+    ],
+    "message": "Take a picture and generate a warm, sun-bleached, period-accurate photograph placing the subject in Paradise Valley, Arizona in 1986 — a low-density, affluent desert enclave between Phoenix and Scottsdale at the peak of the Sun Belt boom, all Sonoran desert landscaping, mid-century and Territorial-style ranch estates, resort pools, and the specific optimistic, moneyed leisure culture of mid-80s Arizona. The subject should be dressed plausibly for the setting and activity in period-accurate 1986 fashion, fully integrated into the specific environment and mood described by the selected options.\n\nADDITIONAL INSTRUCTIONS\nArchitecture, fashion, vehicles, and landscaping must be period-accurate to 1986 Paradise Valley specifically — Territorial and mid-century ranch-style estates, xeriscaped and lawn-mixed yards, boxy period vehicles, big permed or feathered hairstyles, polos and pastel resortwear, no modern signage or technology. The mountains (Camelback, Mummy Mountain, the McDowells) should read as genuinely present and specific to the Valley, not generic desert. The mood is affluent, sun-drenched, unhurried leisure — the specific optimism of the Sun Belt boom years.\n\nNEGATIVE PROMPT\nmodern architecture, modern vehicles, smartphones, contemporary fashion, overly saturated digital HDR look, generic unspecific desert (no identifiable Valley mountains), poverty or urban decay, cold or overcast lighting, crowded urban density.\n\nRANDOMIZATION RECOMMENDATION\nYes. Mixing the specific SITUATION beats with the specific COMPOSITION/lighting treatments produces a wide, period-consistent range of scenes — from country-club leisure to quiet backyard domesticity — while keeping everything anchored to one specific place, year, and social register rather than a generic \"80s desert\" pastiche.\n\nCREATIVE STRATEGY\nTwo internal variable axes, flattened into one options list per the app's actual schema: options 001–010 are SITUATION (the specific place and activity), options 011–020 are COMPOSITION (the specific photographic/lighting treatment). The fixed, unchanging parameters are the specific year (1986), the specific place (Paradise Valley, not Phoenix broadly), and the affluent-leisure social register. The variables are where in the town the subject is and how the moment is visually rendered.\n\nVISUAL DNA ANALYSIS\nCinematic Identity: Warm consumer-film nostalgia — closer to a well-kept family photo album than a cinematic period piece.\nAtmosphere: Sun-drenched, unhurried, quietly prosperous, dry desert heat.\nFraming Tendencies: Candid poolside and patio snapshots balanced against wide estate-establishing shots; natural eye-level, resort-brochure symmetry where relevant.\nEmotional Tone: Leisure, ease, mid-80s optimism, the specific pleasure of desert affluence.\nMaterial Language: Flagstone and stucco, turquoise pool water, saguaro and oleander, terracotta tennis courts, chrome and vinyl period vehicles, string lights.\nColor Relationships: Warm terracotta and adobe ochre, saturated turquoise pool blue, dusty rose mountain light at dusk, deep green irrigated lawns against raw tan desert.\nVisual Storytelling: The tension between manicured, irrigated luxury and the raw desert pressing right up against the property line — abundance staged directly against the Sonoran landscape it was carved out of.",
+    "randomizeOptions": true,
+    "optionGroups": [
+      {
+        "title": "SITUATION_GROUP",
+        "options": [
+          {
+            "id": "001",
+            "text": "Poolside Patio: Lounging on a flagstone patio beside a kidney-shaped backyard pool, Saguaro cacti and oleander hedges framing the yard, a pitcher of iced tea sweating on a glass-top table."
+          },
+          {
+            "id": "002",
+            "text": "Camelback Trailhead: Standing at the base of Camelback Mountain in bright morning light, a dusty trail winding up red rock behind them, a boxy 1980s Jeep or wood-paneled wagon parked nearby."
+          },
+          {
+            "id": "003",
+            "text": "Resort Tennis Club: Mid-swing or between sets on a terracotta-red tennis court at a private desert resort club, white tennis whites, chain-link fence backed by mountain views."
+          },
+          {
+            "id": "004",
+            "text": "Territorial Ranch Driveway: Standing in the circular gravel driveway of a sprawling Territorial-style adobe ranch home, a boat-sized American sedan or early SUV parked under a carport."
+          },
+          {
+            "id": "005",
+            "text": "Golf Course Fairway: Walking a manicured fairway at a desert country club, irrigated green grass giving way abruptly to raw desert rough, distant McDowell Mountains hazy in the heat."
+          },
+          {
+            "id": "006",
+            "text": "Shopping Center Plaza: Browsing an open-air Southwestern-style shopping plaza with stucco arches and turquoise trim, mid-80s storefront signage, a boxy hatchback parked at the curb."
+          },
+          {
+            "id": "007",
+            "text": "Backyard Barbecue: Hosting an evening cookout on a stone patio strung with simple string lights, a portable charcoal grill, guests in period-accurate casual resortwear."
+          },
+          {
+            "id": "008",
+            "text": "Horse Property Corral: Standing at a wooden corral fence on a small horse property, a quarter horse nearby, the Valley's characteristic wide-open desert lots visible beyond."
+          },
+          {
+            "id": "009",
+            "text": "Country Club Cocktail Hour: At an outdoor evening cocktail reception at a private club, string lights and tiki torches, desert dusk turning the sky deep orange behind saguaros."
+          },
+          {
+            "id": "010",
+            "text": "Front Lawn Sprinklers: Standing on an improbably green lawn being watered by an old-style oscillating sprinkler, a boxy above-ground basketball hoop or bicycle nearby, desert mountains looming just past the property line."
+          }
+        ]
+      },
+      {
+        "title": "COMPOSITION_GROUP",
+        "options": [
+          {
+            "id": "011",
+            "text": "Kodachrome Snapshot: Shot on period-accurate consumer 35mm film, warm saturated Kodachrome color cast, slight grain, candid unposed framing."
+          },
+          {
+            "id": "012",
+            "text": "High-Noon Glare: Harsh, bright, high-contrast midday desert sunlight, deep black shadows, a slight heat shimmer visible over pavement or gravel."
+          },
+          {
+            "id": "013",
+            "text": "Golden Desert Dusk: Warm, low, late-afternoon light turning the mountains rose-gold, long shadows stretching across manicured lawns."
+          },
+          {
+            "id": "014",
+            "text": "Polaroid Instant: Square-format instant film aesthetic with a white border, slightly soft focus, warm color shift typical of period Polaroid stock."
+          },
+          {
+            "id": "015",
+            "text": "Real Estate Brochure Gloss: Clean, evenly lit, slightly idealized composition as if for a period luxury real estate listing, symmetrical framing, immaculate landscaping."
+          },
+          {
+            "id": "016",
+            "text": "Camcorder Still-Frame: Slightly soft, low-resolution VHS-still texture with mild chromatic bleeding, as if paused from a period home camcorder tape."
+          },
+          {
+            "id": "017",
+            "text": "Poolside Reflection: Bright turquoise pool water reflecting dappled light onto the subject's face, strong contrast between shaded and sun-lit areas."
+          },
+          {
+            "id": "018",
+            "text": "Dusty Trail Documentary: Slightly desaturated, sun-faded color palette, fine dust visible in the air, a candid hiking/outdoor-magazine feel."
+          },
+          {
+            "id": "019",
+            "text": "Evening String-Light Warmth: Warm tungsten-toned lighting from patio string lights and tiki torches against a deep blue desert twilight sky."
+          },
+          {
+            "id": "020",
+            "text": "Wide Estate Establishing: A broad, deep-focus wide shot emphasizing the scale of the property and the mountain backdrop, subject small within the grand desert landscape."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ROME, 100 A.D.",
+    "category": [
+      "HISTORY",
+      "PHOTOREALISM"
+    ],
+    "message": "Take a picture and generate a richly detailed, photorealistic reconstruction placing the subject into the city of Rome at the height of its power, circa 100 A.D., during the reign of Trajan — the empire near its greatest territorial extent, the city itself a dense, loud, sun-bleached metropolis of over a million people. The subject should be dressed plausibly for their apparent social role in the scene (citizen, merchant, visitor, laborer, etc.) and fully integrated into the specific environment and activity described by the selected options, with the everyday scale and texture of the ancient world — not a sanitized museum diorama, but a living, working city.\n\nADDITIONAL INSTRUCTIONS\nArchitecture, clothing, and material culture must be historically plausible for Rome circa 100 A.D. (Trajanic era) — correct toga/tunic conventions by class and gender, accurate building materials (travertine, brick-faced concrete, marble veneer), no anachronistic elements (no visible glass windows in lower-class housing, no printed text, no metal alloys unavailable to the period). The city should feel genuinely inhabited and imperfect — weathered stone, patched plaster, real grime and wear — rather than a pristine reconstruction.\n\nNEGATIVE PROMPT\nvideo game render, CGI sheen, plastic-looking armor, Hollywood epic-film gloss, anachronistic fabric or footwear, modern facial expressions/makeup, empty or depopulated streets, pristine untouched marble, fantasy elements, graphic violence, gore.\n\nRANDOMIZATION RECOMMENDATION\nYes. Mixing the specific SITUATION beats with the specific COMPOSITION/lighting treatments produces a wide, historically consistent range of scenes — from grand civic spectacle to quiet domestic intimacy — while keeping everything anchored to one specific, well-researched moment in time rather than a vague \"ancient Rome\" pastiche.\n\nCREATIVE STRATEGY\nTwo internal variable axes, flattened into one options list per the app's actual schema: options 001–010 are SITUATION (the specific place and activity), options 011–020 are COMPOSITION (the specific photographic/lighting treatment). The fixed, unchanging parameters are the specific year (100 A.D.), the specific emperor's reign (Trajan), and the demand for lived-in historical accuracy over spectacle. The variables are where in the city the subject stands and how the moment is visually rendered.\n\nVISUAL DNA ANALYSIS\nCinematic Identity: Documentary historical reconstruction — closer to a meticulously researched museum-grade illustration brought to photographic life than a blockbuster sword-and-sandal epic.\nAtmosphere: Bustling, sun-warmed, dense, alive — a real working city rather than a monument.\nFraming Tendencies: Deep establishing wides balanced against intimate candid close moments; natural eye-level and elevated vantage points.\nEmotional Tone: Awe at scale and permanence, warmth of everyday human activity, quiet dignity in ordinary labor.\nMaterial Language: Sun-bleached travertine, red terracotta, worn stone steps, coarse wool and linen, bronze and iron fittings, dust, smoke, water.\nColor Relationships: Warm ochres, terracotta reds, and marble whites under Mediterranean light; cooler blue-grey tones in shadowed interiors and dusk scenes.\nVisual Storytelling: The ordinary and the monumental sharing the same frame — a laundry line beneath an aqueduct, a beggar beside a senator — conveying the city's real texture rather than a postcard version of it.",
+    "randomizeOptions": true,
+    "optionGroups": [
+      {
+        "title": "SITUATION_GROUP",
+        "options": [
+          {
+            "id": "001",
+            "text": "Forum Business: Standing amid the marble columns and crowded stalls of the Forum Romanum at midday, moneychangers shouting rates, a public notice freshly chiseled into stone nearby, senators in togas moving briskly past merchants and beggars."
+          },
+          {
+            "id": "002",
+            "text": "Bath House Repose: Relaxing in the steam and echo of a grand public bathhouse (thermae), mosaic floors underfoot, bathers of all classes mixing in the caldarium, slaves attending with linen and oil."
+          },
+          {
+            "id": "003",
+            "text": "Insula Balcony: Leaning from the wooden balcony of a cramped, multi-story apartment block (insula), laundry strung overhead, the narrow street below choked with cart traffic and street vendors."
+          },
+          {
+            "id": "004",
+            "text": "Circus Maximus Roar: Seated in the packed stone tiers of the Circus Maximus mid-chariot-race, dust and splinters flying from the turning post, over a hundred thousand spectators roaring in unison."
+          },
+          {
+            "id": "005",
+            "text": "Aqueduct Approach: Walking beneath a towering multi-arched aqueduct on the city's outskirts, fresh water audibly rushing through the channel far overhead, a herd of goats crossing the road nearby."
+          },
+          {
+            "id": "006",
+            "text": "Market Day, Subura: Haggling in the chaotic, working-class Subura market district, baskets of olives, amphorae of wine and oil, a butcher's stall, the smell of the city implied through visible grime and crowding."
+          },
+          {
+            "id": "007",
+            "text": "Domus Atrium: Standing in the open-roofed atrium of a wealthy private home (domus), rainwater collecting in the impluvium pool below, painted frescoes and a household shrine (lararium) on the wall."
+          },
+          {
+            "id": "008",
+            "text": "Legionary Muster: Watching a column of Roman legionaries in full lorica segmentata armor march past a city gate, standards raised, returning from or departing to the frontier."
+          },
+          {
+            "id": "009",
+            "text": "Temple Steps: Climbing the wide marble steps of a temple to a classical god, incense smoke drifting from an altar, a priest in ceremonial dress performing a public rite before a modest crowd."
+          },
+          {
+            "id": "010",
+            "text": "Harbor at Ostia: Standing on the busy quayside at Rome's port town, grain ships being unloaded by dockworkers, an official inspecting cargo manifests, gulls overhead."
+          }
+        ]
+      },
+      {
+        "title": "COMPOSITION_GROUP",
+        "options": [
+          {
+            "id": "011",
+            "text": "Documentary Wide: A broad, deep-focus establishing shot emphasizing the scale of Roman architecture and crowd density, natural Mediterranean midday light, slight heat-haze shimmer."
+          },
+          {
+            "id": "012",
+            "text": "Candid Street-Level: An intimate, eye-level candid framing as if caught mid-moment by an unseen observer, shallow depth of field isolating the subject against the blurred bustle behind them."
+          },
+          {
+            "id": "013",
+            "text": "Golden Hour Amber: Warm, low, late-afternoon sunlight raking across weathered stone and terracotta rooftops, long shadows stretching across a piazza or forum."
+          },
+          {
+            "id": "014",
+            "text": "Interior Half-Light: Dim, warm interior lighting from oil lamps and small high windows, smoke-stained ceiling beams, deep shadow contrasted against a single lit face or object."
+          },
+          {
+            "id": "015",
+            "text": "Overcast Marble Grey: Flat, even, slightly overcast daylight, emphasizing the cool grey-white of marble and stone rather than golden warmth, a quieter and more contemplative mood."
+          },
+          {
+            "id": "016",
+            "text": "Crowd-Swallowed: The subject is a small, human-scaled element within an overwhelming, densely packed crowd, emphasizing anonymity and the sheer population of the ancient city."
+          },
+          {
+            "id": "017",
+            "text": "Elevated Vantage: Shot from a rooftop terrace or hillside looking down over a sprawl of red-tiled roofs, temples, and columned buildings, the Tiber river or distant hills visible."
+          },
+          {
+            "id": "018",
+            "text": "Dust and Motion: Deliberate motion blur on background elements — cart wheels, marching feet, fluttering fabric — while the subject remains sharp, conveying the city's constant noise and movement."
+          },
+          {
+            "id": "019",
+            "text": "Torch-lit Evening: Warm, flickering torchlight along a colonnade or street corner at dusk, deep blue twilight sky above, smoke curling from braziers."
+          },
+          {
+            "id": "020",
+            "text": "Intimate Portrait: A closer, more posed-feeling portrait within the setting, natural directional light on the face, background softly blurred but clearly Roman in character."
+          }
+        ]
+      }
+    ]
   }
 ]
