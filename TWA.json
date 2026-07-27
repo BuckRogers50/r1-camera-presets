@@ -2937,5 +2937,109 @@
         ]
       }
     ]
+  },
+  {
+    "name": "SCHNECKSVILLE, PENNSYLVANIA, 1983",
+    "category": [
+      "VINTAGE",
+      "PHOTOREALISM",
+      "REALISM",
+      "NOSTALGIA",
+      "1980S AESTHETIC"
+    ],
+    "message": "Take a picture and generate a warm, unpretentious, period-accurate photograph placing the subject in Schnecksville, Pennsylvania in 1983 — a small unincorporated farming community in Lehigh County, all rolling green farmland, weathered stone and clapboard farmhouses, red bank barns, and the quiet, close-knit rhythms of small-town Lehigh Valley life at the tail end of the region's industrial decline. The subject should be dressed plausibly for the setting and activity in period-accurate 1983 fashion, fully integrated into the specific environment and mood described by the selected options.",
+    "randomizeOptions": true,
+    "optionGroups": [
+      {
+        "title": "SITUATION_GROUP",
+        "options": [
+          {
+            "id": "001",
+            "text": "Farm Stand Roadside: Standing at a small wooden roadside farm stand selling sweet corn and tomatoes, a hand-painted plywood price sign, a rusting pickup truck parked on the gravel shoulder."
+          },
+          {
+            "id": "002",
+            "text": "Dairy Barn Chores: Working near a weathered red bank barn at dusk, Holstein cattle visible in a fenced pasture, silage smell implied through visible barnyard texture, a tin-roofed milk house nearby."
+          },
+          {
+            "id": "003",
+            "text": "Volunteer Fire Company Carnival: Amid the lights and noise of the local volunteer fire company's summer carnival, a Ferris wheel turning against a darkening sky, funnel cake stands, a dunk tank."
+          },
+          {
+            "id": "004",
+            "text": "Covered Bridge Crossing: Walking or standing at the mouth of a wooden covered bridge over a small creek, dappled light through the trusses, a bicycle leaned against the railing."
+          },
+          {
+            "id": "005",
+            "text": "General Store Counter: Inside a small country general store, wood-plank floors, a glass-front penny candy counter, a rotary phone on the wall behind the register."
+          },
+          {
+            "id": "006",
+            "text": "Church Potluck Social: At an outdoor church potluck on a fellowship hall lawn, folding tables lined with covered dishes, a hand-lettered banner strung between two trees."
+          },
+          {
+            "id": "007",
+            "text": "Little League Diamond: On a dusty Little League baseball diamond bordered by cornfields, a hand-operated scoreboard, wooden bleachers, a chain-link backstop."
+          },
+          {
+            "id": "008",
+            "text": "Auction Barn Saturday: Amid a bustling Saturday farm auction, hay bales and used equipment lined up for bidding, an auctioneer's fast patter implied through a gathered crowd."
+          },
+          {
+            "id": "009",
+            "text": "Snow-Covered Farm Lane: Walking a snow-dusted gravel farm lane in winter, split-rail fencing, a distant stone farmhouse with smoke curling from the chimney."
+          },
+          {
+            "id": "010",
+            "text": "School Bus Stop: Standing at a rural crossroads school bus stop at dawn, a yellow period-correct bus approaching down a two-lane country road, breath visible in cold morning air."
+          }
+        ]
+      },
+      {
+        "title": "COMPOSITION_GROUP",
+        "options": [
+          {
+            "id": "011",
+            "text": "Kodak Disc Snapshot: Shot on a period-accurate Kodak Disc camera, soft low-resolution image quality, muted slightly cool color palette, simple candid framing."
+          },
+          {
+            "id": "012",
+            "text": "Golden Farmland Dusk: Warm, low, late-summer light turning cornfields amber-gold, long shadows stretching across a farmyard."
+          },
+          {
+            "id": "013",
+            "text": "Overcast Rural Grey: Flat, even, overcast daylight typical of a Lehigh Valley autumn day, muted greens and browns, a quiet contemplative mood."
+          },
+          {
+            "id": "014",
+            "text": "110 Format Pocket Snap: Small cartridge-film pocket-camera aesthetic, slightly soft and grainy, warm haze, simple centered tourist-style framing."
+          },
+          {
+            "id": "015",
+            "text": "Instamatic Flash: Direct on-camera flash snapshot look, illuminated foreground against a darker background, mild red-eye, typical of an indoor community-hall photo."
+          },
+          {
+            "id": "016",
+            "text": "Frosty Morning Light: Cool, crisp, pale blue-white winter morning light, visible breath and frost, long thin shadows across snow."
+          },
+          {
+            "id": "017",
+            "text": "Barn-Door Half-Light: Dim, warm interior barn lighting from a single bulb or open door, dust motes visible in a shaft of light, deep shadow in the rafters."
+          },
+          {
+            "id": "018",
+            "text": "Wide Farmland Establishing: A broad, deep-focus wide shot emphasizing rolling hills and patchwork fields, subject small within the agricultural landscape."
+          },
+          {
+            "id": "019",
+            "text": "Carnival Night Glow: Warm, colorful midway lighting against a dark sky, strings of bulbs and neon ride signage reflected on nearby faces."
+          },
+          {
+            "id": "020",
+            "text": "Porch-Step Portrait: A closer, gently posed portrait on a farmhouse porch step, natural side light, weathered clapboard siding softly blurred behind."
+          }
+        ]
+      }
+    ]
   }
 ]
