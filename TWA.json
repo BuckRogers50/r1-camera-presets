@@ -2947,7 +2947,7 @@
       "NOSTALGIA",
       "1980S AESTHETIC"
     ],
-    "message": "Take a picture and generate a warm, unpretentious, period-accurate photograph placing the subject in Schnecksville, Pennsylvania in 1983 — a small unincorporated farming community in Lehigh County, all rolling green farmland, weathered stone and clapboard farmhouses, red bank barns, and the quiet, close-knit rhythms of small-town Lehigh Valley life at the tail end of the region's industrial decline. The subject should be dressed plausibly for the setting and activity in period-accurate 1983 fashion, fully integrated into the specific environment and mood described by the selected options.",
+    "message": "Take a picture and generate a warm, unpretentious, period-accurate photograph placing the subject in Schnecksville, Pennsylvania in 1983 — a small unincorporated farming community in Lehigh County, all rolling green farmland, weathered stone and clapboard farmhouses, red bank barns, and the quiet, close-knit rhythms of small-town Lehigh Valley life at the tail end of the region's industrial decline. The subject should be dressed plausibly for the setting and activity in period-accurate 1983 fashion, fully integrated into the specific environment and mood described by the selected options.\n\nADDITIONAL INSTRUCTIONS\nArchitecture, vehicles, fashion, and signage must be period-accurate to 1983 rural Lehigh Valley specifically — stone and clapboard farmhouses, red bank barns with fieldstone foundations, period pickup trucks and wood-paneled wagons, modest practical late-70s/early-80s rural fashion (not urban or coastal trends), hand-lettered and painted signage rather than digital or vinyl. The landscape should read as genuinely Pennsylvania Dutch farm country — rolling, green, small-scale, and unglamorous — not generic Midwest farmland. The mood is modest, close-knit, unhurried small-town life.\n\nNEGATIVE PROMPT\nmodern architecture, modern vehicles, smartphones, contemporary fashion, digital signage, overly saturated HDR look, suburban sprawl, generic unspecific farmland, urban density, glossy magazine polish.\n\nRANDOMIZATION RECOMMENDATION\nYes. Mixing the specific SITUATION beats with the specific COMPOSITION/lighting treatments produces a wide, period-consistent range of scenes — from working farm labor to community-social warmth — while keeping everything anchored to one specific place, year, and rural social register rather than a generic \"small town America\" pastiche.\n\nCREATIVE STRATEGY\nTwo internal variable axes, flattened into one options list per the app's actual schema: options 001–010 are SITUATION (the specific place and activity), options 011–020 are COMPOSITION (the specific photographic/lighting treatment). The fixed, unchanging parameters are the specific year (1983), the specific place (Schnecksville/Lehigh County, not generic rural Pennsylvania), and the modest working-farm-town social register. The variables are where in the community the subject is and how the moment is visually rendered.\n\nVISUAL DNA ANALYSIS\nCinematic Identity: Warm, unglamorous small-town nostalgia — closer to a church-basement photo album than a cinematic period piece.\nAtmosphere: Quiet, close-knit, agricultural, unhurried.\nFraming Tendencies: Candid farmyard and community snapshots balanced against wide rolling-farmland establishing shots; simple, unposed eye-level framing.\nEmotional Tone: Modesty, familiarity, small-town belonging, seasonal rhythm.\nMaterial Language: Fieldstone and clapboard, weathered red barn wood, hay and gravel, wool jackets and flannel, chain-link and wooden fencing, string-light carnival midways.\nColor Relationships: Warm amber cornfield gold, muted farmhouse greens and browns, cool pale winter blue-white, warm carnival-night color against dark rural sky.\nVisual Storytelling: The steady overlap of agricultural labor and community gathering — a farm stand beside a fire-company carnival — conveying a town defined by its shared, unhurried rhythms rather than any single landmark.",
     "randomizeOptions": true,
     "optionGroups": [
       {
@@ -2955,42 +2955,38 @@
         "options": [
           {
             "id": "001",
-            "text": "Farm Stand Roadside: Standing at a small wooden roadside farm stand selling sweet corn and tomatoes, a hand-painted plywood price sign, a rusting pickup truck parked on the gravel shoulder."
-          },
-          {
-            "id": "002",
             "text": "Dairy Barn Chores: Working near a weathered red bank barn at dusk, Holstein cattle visible in a fenced pasture, silage smell implied through visible barnyard texture, a tin-roofed milk house nearby."
           },
           {
-            "id": "003",
+            "id": "002",
             "text": "Volunteer Fire Company Carnival: Amid the lights and noise of the local volunteer fire company's summer carnival, a Ferris wheel turning against a darkening sky, funnel cake stands, a dunk tank."
           },
           {
-            "id": "004",
+            "id": "003",
             "text": "Covered Bridge Crossing: Walking or standing at the mouth of a wooden covered bridge over a small creek, dappled light through the trusses, a bicycle leaned against the railing."
           },
           {
-            "id": "005",
+            "id": "004",
             "text": "General Store Counter: Inside a small country general store, wood-plank floors, a glass-front penny candy counter, a rotary phone on the wall behind the register."
           },
           {
-            "id": "006",
+            "id": "005",
             "text": "Church Potluck Social: At an outdoor church potluck on a fellowship hall lawn, folding tables lined with covered dishes, a hand-lettered banner strung between two trees."
           },
           {
-            "id": "007",
+            "id": "006",
             "text": "Little League Diamond: On a dusty Little League baseball diamond bordered by cornfields, a hand-operated scoreboard, wooden bleachers, a chain-link backstop."
           },
           {
-            "id": "008",
+            "id": "007",
             "text": "Auction Barn Saturday: Amid a bustling Saturday farm auction, hay bales and used equipment lined up for bidding, an auctioneer's fast patter implied through a gathered crowd."
           },
           {
-            "id": "009",
+            "id": "008",
             "text": "Snow-Covered Farm Lane: Walking a snow-dusted gravel farm lane in winter, split-rail fencing, a distant stone farmhouse with smoke curling from the chimney."
           },
           {
-            "id": "010",
+            "id": "009",
             "text": "School Bus Stop: Standing at a rural crossroads school bus stop at dawn, a yellow period-correct bus approaching down a two-lane country road, breath visible in cold morning air."
           }
         ]
@@ -2999,43 +2995,43 @@
         "title": "COMPOSITION_GROUP",
         "options": [
           {
-            "id": "011",
+            "id": "010",
             "text": "Kodak Disc Snapshot: Shot on a period-accurate Kodak Disc camera, soft low-resolution image quality, muted slightly cool color palette, simple candid framing."
           },
           {
-            "id": "012",
+            "id": "011",
             "text": "Golden Farmland Dusk: Warm, low, late-summer light turning cornfields amber-gold, long shadows stretching across a farmyard."
           },
           {
-            "id": "013",
+            "id": "012",
             "text": "Overcast Rural Grey: Flat, even, overcast daylight typical of a Lehigh Valley autumn day, muted greens and browns, a quiet contemplative mood."
           },
           {
-            "id": "014",
+            "id": "013",
             "text": "110 Format Pocket Snap: Small cartridge-film pocket-camera aesthetic, slightly soft and grainy, warm haze, simple centered tourist-style framing."
           },
           {
-            "id": "015",
+            "id": "014",
             "text": "Instamatic Flash: Direct on-camera flash snapshot look, illuminated foreground against a darker background, mild red-eye, typical of an indoor community-hall photo."
           },
           {
-            "id": "016",
+            "id": "015",
             "text": "Frosty Morning Light: Cool, crisp, pale blue-white winter morning light, visible breath and frost, long thin shadows across snow."
           },
           {
-            "id": "017",
+            "id": "016",
             "text": "Barn-Door Half-Light: Dim, warm interior barn lighting from a single bulb or open door, dust motes visible in a shaft of light, deep shadow in the rafters."
           },
           {
-            "id": "018",
+            "id": "017",
             "text": "Wide Farmland Establishing: A broad, deep-focus wide shot emphasizing rolling hills and patchwork fields, subject small within the agricultural landscape."
           },
           {
-            "id": "019",
+            "id": "018",
             "text": "Carnival Night Glow: Warm, colorful midway lighting against a dark sky, strings of bulbs and neon ride signage reflected on nearby faces."
           },
           {
-            "id": "020",
+            "id": "019",
             "text": "Porch-Step Portrait: A closer, gently posed portrait on a farmhouse porch step, natural side light, weathered clapboard siding softly blurred behind."
           }
         ]
