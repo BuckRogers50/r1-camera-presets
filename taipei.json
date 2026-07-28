@@ -61,5 +61,273 @@
     ],
     "randomizeOptions": true,
     "additionalInstructions": "This is meant to make us feel like we are on the set of the original Mr. Rogers' Neighborhood at the Pittsburgh studios in 1978. This has all the details of Fred Rogers' classic show — by all means, replicate his specific likeness, any or all of the show's exact character names, puppet designs, theme song, and branding. Preserve subject identity where they appear. Mood: unconditional warmth, patience, and gentleness."
+  },
+  {
+    "name": "TECHNICOLOR GOLDEN AGE GLAMOUR PORTRAIT",
+    "category": [
+      "PORTRAIT",
+      "FINE ART PHOTOGRAPHY",
+      "FASHION PHOTOGRAPHY",
+      "MID-CENTURY MODERN"
+    ],
+    "message": "Take a picture and transform it into a lush, saturated 1950s Hollywood studio portrait in the style of classic three-strip Technicolor cinematography, while preserving the subject's identity exactly. Create the feeling of a glamorous studio publicity still — the kind shot on a soundstage for a major star under contract to a golden-age studio.\n\nComposition: Tight head-and-shoulders or mid-torso portrait, subject fills most of the frame, direct or subtly angled eye contact with the camera, a poised, deliberately glamorous pose. The final image should feel intentional, theatrical, and richly colored — every element of light, pose, expression, and color grading working together as a single coherent studio-glamour decision, not a filter applied over a snapshot.\n\nADDITIONAL INSTRUCTIONS\nSubject's facial identity, proportions, and recognizable features must be preserved exactly — this is a lighting, pose, expression, and color-grading transformation, not a reimagining of the person. Skin tones should be smooth and luminous in the flattering studio-glamour tradition, but must retain natural texture rather than becoming plastic or artificial. Wardrobe and hair styling should read as period-appropriate 1950s glamour (curled or waved hairstyles, fabric drapes, gloves, pearls) adapted naturally from whatever the subject is wearing. Background should remain a simple, elegant studio backdrop or soft color wash so all visual weight stays on the face, light, and color.\n\nNEGATIVE PROMPT\ndesaturated, black and white, modern casual clothing, cluttered or busy background, harsh digital sharpening halos, plastic overly-smoothed skin, snapshot-casual framing, wide-angle distortion, contemporary makeup trends, visible logos or branding, low resolution, amateur flash photography, muted or naturalistic color grading.\n\nRANDOMIZATION RECOMMENDATION\nYes. Randomizing one selection from each of the four groups (Lighting, Pose, Expression, Color Palette) independently produces thousands of coherent, non-contradictory Technicolor-glamour variations, since each group governs a genuinely separate technical or performative axis of the image rather than overlapping with the others.\n\nCREATIVE STRATEGY\nFour internal variable axes, flattened into one options list per the app's actual schema: options 001–010 are LIGHTING (the physical light setup), 011–020 are POSE (body/head positioning), 021–030 are EXPRESSION (the emotional register of the face), and 031–040 are COLOR_PALETTE (the specific Technicolor grading treatment, replacing the prior preset's film-grain axis since color, not print texture, is the defining character here). The fixed, unchanging parameters are strict identity preservation, rich saturated Technicolor output, and tight glamour-studio framing. The variables are how the subject is lit, how they're positioned, what they're feeling, and which specific saturated color language dominates the frame.\n\nVISUAL DNA ANALYSIS\nCinematic Identity: Golden-age studio publicity photography — the visual language of a contract star's official studio portrait, evoking the era without replicating any specific real actor's likeness or a specific copyrighted film still.\nAtmosphere: Theatrical, luminous, larger-than-life, glamorous.\nFraming Tendencies: Tight, frame-filling, classically posed, symmetrical or gracefully asymmetrical.\nEmotional Tone: Ranges from radiant warmth to sultry allure to dramatic intensity, always polished and performative.\nMaterial Language: Satin and velvet drapes, curled and waved hair, pearls and gloves, soft diffused studio light, glossy skin luminosity.\nColor Relationships: Heightened, saturated primaries — ruby reds, jewel-tone blues and greens, warm golden skin tones — carrying the same emotional weight that pure black-and-white tonal range carried in the prior preset.\nVisual Storytelling: Color itself as spectacle — the specific post-war thrill of seeing a face rendered in impossibly rich, dreamlike Technicolor for the first time.",
+    "randomizeOptions": true,
+    "optionGroups": [
+      {
+        "title": "LIGHTING_GROUP",
+        "options": [
+          {
+            "id": "001",
+            "text": "Classic Glamour Butterfly Light: A single strong light directly above and in front of the face, small symmetrical shadow beneath the nose, the definitive golden-age beauty light."
+          },
+          {
+            "id": "002",
+            "text": "Soft Key with Fill: A large, soft key light balanced by gentle fill, minimal shadow, flawless even glow typical of a studio portrait sitting."
+          },
+          {
+            "id": "003",
+            "text": "Rim-Lit Star Glow: A bright rim light tracing the hairline and shoulders, separating the subject glowingly from a darker background."
+          },
+          {
+            "id": "004",
+            "text": "Hard Hollywood Spotlight: A tightly focused, slightly harder spotlight creating crisp, dramatic falloff, theatrical and posed."
+          },
+          {
+            "id": "005",
+            "text": "Diffused Soft-Focus Halo: Light passed through a diffusion filter or soft gauze, a gentle glowing halo around bright highlights and hair."
+          },
+          {
+            "id": "006",
+            "text": "Three-Point Studio Classic: Balanced key, fill, and rim light in the traditional Hollywood three-point configuration, polished and controlled."
+          },
+          {
+            "id": "007",
+            "text": "Warm Tungsten Wash: A warm, golden-toned overall wash of light typical of incandescent studio bulbs, cozy and rich."
+          },
+          {
+            "id": "008",
+            "text": "Venetian Blind Accent: Soft striped shadow patterns crossing the face or background from an implied window blind, adding a touch of noir glamour."
+          },
+          {
+            "id": "009",
+            "text": "Colored Gel Backlight: A saturated colored gel (rose, amber, or blue) washing the background behind the subject while the face remains naturally lit."
+          },
+          {
+            "id": "010",
+            "text": "Sparkle Catchlight Close: Lighting positioned to create a bright, prominent catchlight in the eyes, the defining \"movie star sparkle.\""
+          }
+        ]
+      },
+      {
+        "title": "POSE_GROUP",
+        "options": [
+          {
+            "id": "011",
+            "text": "Chin Lifted, Regal Profile: Chin raised, head turned to present a strong, classic profile line toward camera."
+          },
+          {
+            "id": "012",
+            "text": "Shoulder Drape Turn: Shoulders angled away, face turned back toward the lens, a fabric wrap or stole draping elegantly over one shoulder."
+          },
+          {
+            "id": "013",
+            "text": "Hand at the Jaw: One gloved or bare hand resting delicately along the jawline, fingers relaxed and elegant."
+          },
+          {
+            "id": "014",
+            "text": "Head Tilted, Swept Hairline: A gentle head tilt showing off a swept or curled hairstyle, one side of the neck exposed."
+          },
+          {
+            "id": "015",
+            "text": "Three-Quarter Studio Turn: Body at a classic three-quarter angle, face turned fully toward camera, a posed studio-sitting stance."
+          },
+          {
+            "id": "016",
+            "text": "Leaning on an Implied Pillar: Subject leaning gracefully against an unseen decorative surface, weight on one hip, relaxed elegance."
+          },
+          {
+            "id": "017",
+            "text": "Pearls or Fabric Touch: A hand lightly touching a string of pearls, a scarf, or a collar, adding a soft narrative gesture."
+          },
+          {
+            "id": "018",
+            "text": "Over-the-Shoulder Star Look: Body turned mostly away, head turned back over one shoulder in the classic pin-up-adjacent glance."
+          },
+          {
+            "id": "019",
+            "text": "Seated Poise: A seated three-quarter pose, hands folded gently in the lap, back straight, chin level."
+          },
+          {
+            "id": "020",
+            "text": "Wind-Swept Movement: Hair or a light scarf caught mid-movement as if by a soft studio fan, dynamic but controlled."
+          }
+        ]
+      },
+      {
+        "title": "EXPRESSION_GROUP",
+        "options": [
+          {
+            "id": "021",
+            "text": "Radiant Movie-Star Smile: A wide, warm, confident smile, eyes bright and fully engaged with the camera."
+          },
+          {
+            "id": "022",
+            "text": "Sultry Half-Smile: A soft, closed-lip smile with slightly lowered lids, an air of knowing allure."
+          },
+          {
+            "id": "023",
+            "text": "Wistful Longing: Eyes gazing just past the lens, lips slightly parted, a dreamy, romantic middle-distance look."
+          },
+          {
+            "id": "024",
+            "text": "Playful Wink-Adjacent Charm: Bright, mischievous eyes and a subtle asymmetrical smile, lighthearted and flirtatious."
+          },
+          {
+            "id": "025",
+            "text": "Elegant Composure: A serene, dignified expression, calm eyes holding the camera steadily."
+          },
+          {
+            "id": "026",
+            "text": "Dramatic Intensity: Slightly narrowed eyes and a firm set to the mouth, echoing a tense film-still moment."
+          },
+          {
+            "id": "027",
+            "text": "Delighted Laugh: A genuine, bright laugh captured mid-motion, eyes crinkled with real joy."
+          },
+          {
+            "id": "028",
+            "text": "Cool Sophistication: A composed, faintly amused expression, one eyebrow subtly lifted."
+          },
+          {
+            "id": "029",
+            "text": "Tender Softness: Gentle, warm eyes and a small genuine smile, an intimate and approachable warmth."
+          },
+          {
+            "id": "030",
+            "text": "Bold Star Power: Wide, fully open eyes holding the lens with unflinching, confident charisma."
+          }
+        ]
+      },
+      {
+        "title": "COLOR_PALETTE_GROUP",
+        "options": [
+          {
+            "id": "031",
+            "text": "Classic Three-Strip Saturation: Rich, heightened primary colors — deep reds, saturated blues, and warm skin tones — the hallmark of true Technicolor dye-transfer prints."
+          },
+          {
+            "id": "032",
+            "text": "Ruby Lip, Ivory Skin: A strong color emphasis on vivid red lips and smooth, luminous ivory skin tones against a softer background palette."
+          },
+          {
+            "id": "033",
+            "text": "Jewel-Tone Wardrobe Pop: A single saturated jewel tone (emerald, sapphire, or ruby) in the wardrobe or background, popping vividly against neutral skin tones."
+          },
+          {
+            "id": "034",
+            "text": "Golden Sunset Wash: An overall warm golden-amber color grade across the whole frame, evoking a studio backlot at magic hour."
+          },
+          {
+            "id": "035",
+            "text": "Cool Studio Blue Backdrop: A rich, deep blue or teal studio backdrop contrasting warmly against the subject's skin tones."
+          },
+          {
+            "id": "036",
+            "text": "Vintage Dye-Transfer Glow: Slightly soft, glowing highlights with rich, slightly bleeding color edges typical of early Technicolor dye-transfer printing."
+          },
+          {
+            "id": "037",
+            "text": "Candy-Bright Pastel Wardrobe: Soft but highly saturated pastel wardrobe tones (pink, mint, butter yellow) against neutral studio backgrounds."
+          },
+          {
+            "id": "038",
+            "text": "Deep Studio Red Velvet: A dominant deep red background or drape, rich and theatrical, framing the subject dramatically."
+          },
+          {
+            "id": "039",
+            "text": "Champagne and Gold Shimmer: Warm metallic gold and champagne tones throughout, evoking old-Hollywood luxury and glamour."
+          },
+          {
+            "id": "040",
+            "text": "High-Saturation Poster Color: Bold, poster-bright color throughout the entire frame, deliberately heightened beyond natural color for maximum visual impact."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "SUNSET STRIP POLAROID, 1980S ROCK SCENE",
+    "category": [
+      "PORTRAIT",
+      "POLAROID",
+      "1980S",
+      "SUNSET STRIP",
+      "ROCK AND ROLL",
+      "INSTANT FILM"
+    ],
+    "message": "Take a picture and transform it into a candid, slightly imperfect 1980s Polaroid instant-film snapshot capturing the electric, glam-rock energy of the Sunset Strip — the world of the Whisky a Go Go, the Rainbow Bar & Grill, and the Roxy Theatre — while preserving the subject's identity exactly. Create the feeling of a photo pulled from a shoebox of backstage and sidewalk snapshots from a single unforgettable night on the Strip.\n\nComposition: Tight head-and-shoulders or mid-torso portrait, subject fills most of the frame, direct or candidly off-center eye contact with the camera, an unposed or half-posed energy as if caught mid-moment rather than formally arranged. The final image should feel spontaneous, loud, and alive — every element of light, pose, expression, and instant-film texture working together as one authentic snapshot, not a filter applied over a modern photo.\n\nADDITIONAL INSTRUCTIONS\nSubject's facial identity, proportions, and recognizable features must be preserved exactly — this is a lighting, pose, expression, and instant-film-texture transformation, not a reimagining of the person. Wardrobe and hair styling should read as period-appropriate 1980s Strip-rock fashion (denim, leather, big teased hair, bandanas) adapted naturally from whatever the subject is wearing. Venue signage, marquees, and crowd elements should evoke the general atmosphere of the Sunset Strip rock-club scene without depicting any specific real, identifiable individual performer or patron. The imperfection of the medium — grain, flash falloff, slight blur, chemical quirks — is a feature to preserve, not an error to correct.\n\nNEGATIVE PROMPT\nclean digital sharpness, studio lighting, formal posed composition, modern smartphone photography aesthetic, pristine color accuracy, plastic overly-smoothed skin, contemporary fashion or hairstyles, visible modern logos or branding, black and white, muted desaturated grading, HDR clarity.\n\nRANDOMIZATION RECOMMENDATION\nYes. Randomizing one selection from each of the four groups (Lighting, Pose, Expression, Film Texture) independently produces thousands of coherent, non-contradictory Sunset Strip Polaroid variations, since each group governs a genuinely separate technical or performative axis of the image rather than overlapping with the others.\n\nCREATIVE STRATEGY\nFour internal variable axes, flattened into one options list per the app's actual schema: options 001–010 are LIGHTING (the specific practical light source — neon, flash, streetlamp, stage), 011–020 are POSE (body/gesture positioning), 021–030 are EXPRESSION (the emotional register of the face), and 031–040 are FILM_TEXTURE (the specific instant-film print character, replacing the prior preset's color-palette axis since medium imperfection, not saturated color grading, is the defining character here). The fixed, unchanging parameters are strict identity preservation, Polaroid instant-film output, and candid snapshot framing. The variables are what light source is hitting the subject, how they're caught mid-moment, what they're feeling, and exactly how the instant film itself renders that moment.\n\nVISUAL DNA ANALYSIS\nCinematic Identity: Candid rock-scene documentary snapshot — the visual language of a fan or friend's own instant camera on a night out, not a professional press photo.\nAtmosphere: Loud, electric, a little reckless, unmistakably nocturnal.\nFraming Tendencies: Off-center, candid, caught mid-motion, imperfectly cropped.\nEmotional Tone: Ranges from reckless joy to smoldering cool to exhausted euphoria, always unguarded and real.\nMaterial Language: Denim, leather, teased hair, neon glass tubing, brick and stucco venue walls, glossy instant-film chemistry.\nColor Relationships: Warm amber streetlight and neon pink/blue against deep black shadow, with the specific magenta-warm chemical drift of aging Polaroid stock — a grittier, more chaotic color language than a polished studio-glamour palette.\nVisual Storytelling: A single unrepeatable moment on a specific stretch of sidewalk, preserved not because it was composed but because someone happened to have a camera in their hand.",
+    "randomizeOptions": true,
+    "optionGroups": [
+      {
+        "title": "LIGHTING_GROUP",
+        "options": [
+          { "id": "001", "text": "Neon Marquee Wash: Colorful neon sign glow (pink, blue, or amber) washing across the face from just off-frame, mixed with deeper shadow." },
+          { "id": "002", "text": "Direct Polaroid Flash: A harsh, flat, direct on-camera flash typical of instant cameras, bright foreground against a dark, undetailed background." },
+          { "id": "003", "text": "Streetlamp Sodium Glow: Warm orange sodium-vapor streetlight casting a distinctive amber wash across the face and shoulders." },
+          { "id": "004", "text": "Backstage Bare Bulb: A single bare incandescent bulb in a cramped backstage hallway, warm and slightly harsh, deep shadow in the corners." },
+          { "id": "005", "text": "Club Stage Spill: Colored stage lighting spilling from just offstage, saturated red or blue rim light against a darker crowd-filled background." },
+          { "id": "006", "text": "Sidewalk Dusk Glow: Soft, fading blue dusk light mixing with the first neon signs flickering on along the Strip." },
+          { "id": "007", "text": "Marquee Bulb Bokeh: Rows of warm marquee bulbs softly blurred behind the subject, small glowing dots of out-of-focus light." },
+          { "id": "008", "text": "Smoky Interior Haze: Dim, hazy interior club lighting diffused through cigarette smoke, soft glow around any light source." },
+          { "id": "009", "text": "Parking Lot Headlight Cross: Crossed beams of car headlights cutting through the frame, subject caught in the overlap." },
+          { "id": "010", "text": "Dressing Room Mirror Bulbs: Warm rows of bare bulbs framing a mirror, classic backstage vanity lighting." }
+        ]
+      },
+      {
+        "title": "POSE_GROUP",
+        "options": [
+          { "id": "011", "text": "Leaning on the Marquee Wall: Shoulder against a brick or stucco wall beneath a glowing venue marquee, one leg casually crossed." },
+          { "id": "012", "text": "Mid-Laugh with Friends Cropped Out: Caught mid-laugh, body turned slightly as if reacting to someone just out of frame." },
+          { "id": "013", "text": "Denim Jacket Collar Pop: Popping the collar of a denim or leather jacket, chin lifted with easy Strip-scene confidence." },
+          { "id": "014", "text": "Arm Slung Over Shoulder: One arm raised as if slung casually around an unseen friend, body angled and loose." },
+          { "id": "015", "text": "Cigarette or Drink Gesture: A relaxed hand gesture holding an implied drink or cigarette near chest height, casual rockstar ease." },
+          { "id": "016", "text": "Sidewalk Strut Mid-Step: Caught mid-stride walking along the sidewalk, motion implied through natural body lean." },
+          { "id": "017", "text": "Backstage Door Lean: Leaning against a graffiti-covered backstage door frame, arms loosely crossed." },
+          { "id": "018", "text": "Hair Toss Movement: Head tilted with big hair caught mid-toss or mid-motion, dynamic and unposed." },
+          { "id": "019", "text": "Perched on a Parked Car: Sitting casually on the hood or fender of a period muscle car or motorcycle parked at the curb." },
+          { "id": "020", "text": "Candid Half-Turn: Body already turned to walk away, glancing back over the shoulder as the photo is snapped." }
+        ]
+      },
+      {
+        "title": "EXPRESSION_GROUP",
+        "options": [
+          { "id": "021", "text": "Reckless Grin: A wide, slightly wild grin, full of adrenaline and late-night energy." },
+          { "id": "022", "text": "Smoldering Cool: Half-lidded eyes and a flat, unimpressed rockstar stare, effortlessly cool." },
+          { "id": "023", "text": "Caught-Off-Guard Laugh: A genuine, unguarded laugh mid-motion, eyes crinkled, spontaneous." },
+          { "id": "024", "text": "Sultry Smirk: A knowing half-smile, one eyebrow subtly raised, confident and a little dangerous." },
+          { "id": "025", "text": "Wide-Eyed Excitement: Bright, wide eyes full of genuine excitement, as if seeing the marquee lights for the first time tonight." },
+          { "id": "026", "text": "Defiant Attitude: A hard, chin-up stare directly into the lens, unbothered and a little rebellious." },
+          { "id": "027", "text": "Dreamy Buzz: Soft, slightly unfocused eyes and a relaxed half-smile, the particular glow of a good night out." },
+          { "id": "028", "text": "Shouting Along: Mouth open mid-shout or sing-along, captured in a burst of loud energy." },
+          { "id": "029", "text": "Flirtatious Glance: Eyes angled toward the lens with a small, teasing smile, playful and magnetic." },
+          { "id": "030", "text": "Exhausted Euphoria: Tired eyes paired with a genuine, satisfied smile, the specific look of 2 a.m. after a great show." }
+        ]
+      },
+      {
+        "title": "FILM_TEXTURE_GROUP",
+        "options": [
+          { "id": "031", "text": "Classic Square Polaroid Border: The iconic thick white Polaroid border with a wider strip at the bottom, slightly worn corners." },
+          { "id": "032", "text": "Faded Magenta Color Shift: A period-accurate color cast toward magenta and warm tones typical of aging Polaroid chemistry." },
+          { "id": "033", "text": "Soft Vignette Falloff: Noticeable darkening toward the corners of the frame, drawing focus to the center." },
+          { "id": "034", "text": "Underexposed Grain: A slightly dark, grainy quality typical of an underexposed instant shot taken in low club lighting." },
+          { "id": "035", "text": "Chemical Swirl Edge: A faint, organic chemical-development swirl or smudge near one edge of the frame, an authentic instant-film imperfection." },
+          { "id": "036", "text": "Slightly Soft Focus: A gentle overall softness typical of an instant-film lens, not sharp modern digital clarity." },
+          { "id": "037", "text": "Fingerprint or Handling Smudge: A faint smudge or partial fingerprint mark near a corner, evidence of the photo being passed around." },
+          { "id": "038", "text": "High-Contrast Flash Pop: Bright, punchy contrast between the flash-lit subject and the deep black background typical of direct-flash instant photography." },
+          { "id": "039", "text": "Warm Yellow Cast: An overall warm yellow-amber color cast typical of well-aged Polaroid prints from the era." },
+          { "id": "040", "text": "Handwritten Caption Edge: A small, casual handwritten date or note in ballpoint pen along the white bottom border of the print." }
+        ]
+      }
+    ]
   }
 ]
