@@ -3037,5 +3037,300 @@
         ]
       }
     ]
+  },
+  {
+    "name": "EDITORIAL FINE-ART BLACK & WHITE PORTRAIT",
+    "category": [
+      "PHOTOGRAPHY",
+      "PHOTOREALISM",
+      "PORTRAIT",
+      "FASHION",
+      "FASHION PHOTOGRAPHY"
+    ],
+    "message": "Take a picture and transform it into an ultra-premium editorial fine-art black-and-white portrait while preserving the subject's identity exactly. Create the feeling of a world-class fashion magazine cover shot photographed by an elite portrait photographer.\n\nComposition: Tight head-and-shoulders or mid-torso portrait, subject fills most of the frame, direct eye contact with the camera, natural asymmetrical pose. The final image should feel intentional, controlled, and expensive — every element of light, pose, expression, and print texture working together as a single coherent artistic decision, not a filter applied over a snapshot.\n\nADDITIONAL INSTRUCTIONS\nSubject's facial identity, proportions, and recognizable features must be preserved exactly — this is a lighting, pose, and print-treatment transformation, not a reimagining of the person. The image must read as genuinely premium and intentional: no visible AI artifacts, no uncanny skin smoothing, natural pore and hair texture retained. Background should remain simple and unobtrusive (seamless studio backdrop or softly out-of-focus) so all visual weight stays on the face and light.\n\nNEGATIVE PROMPT\ncolor, oversaturated, cartoonish, cheerful smiling, cluttered background, harsh digital sharpening halos, plastic skin, snapshot-casual framing, wide-angle distortion, busy patterned clothing, visible logos or branding, low resolution, amateur flash photography.\n\nRANDOMIZATION RECOMMENDATION\nYes. Randomizing one selection from each of the four groups (Lighting, Pose, Expression, Film/Texture) independently produces thousands of coherent, non-contradictory editorial portrait variations, since each group governs a genuinely separate technical or performative axis of the image rather than overlapping with the others.\n\nCREATIVE STRATEGY\nFour internal variable axes, flattened into one options list per the app's actual schema: options 001–010 are LIGHTING (the physical light setup), 011–020 are POSE (body/head positioning), 021–030 are EXPRESSION (the emotional register of the face), and 031–040 are FILM/TEXTURE (the print and grain character). The fixed, unchanging parameters are strict identity preservation, black-and-white output, and tight editorial framing. The variables are how the subject is lit, how they're positioned, what they're feeling, and how the final print itself is textured — four genuinely independent decisions a real portrait photographer and printer would make separately.\n\nVISUAL DNA ANALYSIS\nCinematic Identity: High-fashion editorial portraiture — the visual language of Annie Leibovitz-adjacent or Peter Lindbergh-adjacent black-and-white cover work, without replicating any specific photographer's copyrighted image.\nAtmosphere: Controlled, intentional, quietly powerful.\nFraming Tendencies: Tight, frame-filling, asymmetrical, direct.\nEmotional Tone: Ranges from cool detachment to fierce intensity to quiet vulnerability, always composed.\nMaterial Language: Skin texture, fabric grain, fine hair detail, the physical quality of light itself as a tactile subject.\nColor Relationships: Pure tonal range from deep black to bright white, no color information — contrast and gradation carry the entire emotional weight.\nVisual Storytelling: The face as the entire subject — nothing in the frame exists except what reveals character through light, pose, and expression.",
+    "randomizeOptions": true,
+    "optionGroups": [
+      {
+        "title": "LIGHTING_GROUP",
+        "options": [
+          {
+            "id": "001",
+            "text": "Rembrandt Light: A classic 45-degree key light creating a small triangle of light on the shadowed cheek, deep but detailed shadow on one side of the face."
+          },
+          {
+            "id": "002",
+            "text": "Split Lighting: Light falling on exactly half the face, the other half in dramatic, near-total shadow, a hard clean vertical division."
+          },
+          {
+            "id": "003",
+            "text": "Butterfly Light: A single light positioned directly above and in front of the face, casting a small symmetrical shadow beneath the nose, glamour-portrait classic."
+          },
+          {
+            "id": "004",
+            "text": "Hard Window Light: A single large, hard-edged shaft of directional light as if from an unseen window, sharp shadow lines across the face and shoulder."
+          },
+          {
+            "id": "005",
+            "text": "High-Key Minimal: Bright, even, almost shadowless lighting against a near-white background, delicate soft tonal gradations rather than deep blacks."
+          },
+          {
+            "id": "006",
+            "text": "Low-Key Dramatic: The subject emerging from near-total blackness, only a sliver of the face and one shoulder catching light, deep rich blacks dominating the frame."
+          },
+          {
+            "id": "007",
+            "text": "Rim Light Silhouette Edge: A strong backlight tracing a bright rim along the hair and shoulder line, the front of the face in soft controlled shadow."
+          },
+          {
+            "id": "008",
+            "text": "Soft Overcast Diffusion: Even, shadowless, cloud-diffused light quality, gentle tonal transitions, a quiet contemplative mood."
+          },
+          {
+            "id": "009",
+            "text": "Loop Lighting: A small, soft nose shadow looping toward the mouth, a flattering, classic studio-portrait light pattern."
+          },
+          {
+            "id": "010",
+            "text": "Hard Spotlight Isolation: A tightly focused single spotlight isolating the face against total darkness, theatrical and intense."
+          }
+        ]
+      },
+      {
+        "title": "POSE_GROUP",
+        "options": [
+          {
+            "id": "011",
+            "text": "Chin Dropped, Eyes Up: Chin tilted slightly down, eyes lifted directly to the lens, a classic intense editorial gaze."
+          },
+          {
+            "id": "012",
+            "text": "Shoulder Turned Away: Shoulders angled away from camera while the face turns back toward the lens, creating natural torsion through the neck."
+          },
+          {
+            "id": "013",
+            "text": "Hand Grazing Jawline: One hand resting lightly along the jaw or cheek, fingers relaxed, breaking the frame's symmetry."
+          },
+          {
+            "id": "014",
+            "text": "Head Tilted, Long Neck: A gentle head tilt elongating the neck line, one side of the collarbone or shoulder exposed."
+          },
+          {
+            "id": "015",
+            "text": "Chin Lifted, Proud Line: Chin raised slightly, a strong clean jawline presented confidently to camera."
+          },
+          {
+            "id": "016",
+            "text": "Three-Quarter Turn: Body at a three-quarter angle to camera, face turned fully toward the lens, weight visibly on one side."
+          },
+          {
+            "id": "017",
+            "text": "Collar or Fabric Grasp: A hand loosely gathering or adjusting a collar, lapel, or fabric near the shoulder, adding a candid editorial gesture."
+          },
+          {
+            "id": "018",
+            "text": "Leaning Into Frame: Subject leaning slightly forward into the camera, shoulders asymmetrical, an engaged, present energy."
+          },
+          {
+            "id": "019",
+            "text": "Over-the-Shoulder Glance: Body turned mostly away, head turned back over one shoulder toward the lens."
+          },
+          {
+            "id": "020",
+            "text": "Resting Against Unseen Surface: One shoulder or side of the head appearing to lean against an implied unseen wall or surface, casual asymmetry."
+          }
+        ]
+      },
+      {
+        "title": "EXPRESSION_GROUP",
+        "options": [
+          {
+            "id": "021",
+            "text": "Quiet Intensity: A calm, unblinking, direct gaze with no smile — controlled and self-possessed."
+          },
+          {
+            "id": "022",
+            "text": "Soft Confidence: Relaxed features, the faintest suggestion of a smile at the corners of the mouth, warm but composed."
+          },
+          {
+            "id": "023",
+            "text": "Cool Detachment: A neutral, almost unreadable expression, high-fashion editorial distance."
+          },
+          {
+            "id": "024",
+            "text": "Vulnerable Openness: Slightly parted lips, softer brow, an unguarded and emotionally open expression."
+          },
+          {
+            "id": "025",
+            "text": "Fierce Focus: Slightly narrowed eyes, a sense of coiled intensity and sharp attention."
+          },
+          {
+            "id": "026",
+            "text": "Wistful Middle Distance: Eyes not quite meeting the lens, a thoughtful, slightly melancholic middle-distance gaze."
+          },
+          {
+            "id": "027",
+            "text": "Regal Composure: Chin level, expression still and dignified, a sense of quiet authority."
+          },
+          {
+            "id": "028",
+            "text": "Playful Smirk: A slight asymmetrical smirk, one eyebrow subtly raised, knowing and confident."
+          },
+          {
+            "id": "029",
+            "text": "Bold Directness: Wide, fully engaged eyes holding the camera with unflinching directness."
+          },
+          {
+            "id": "030",
+            "text": "Serene Stillness: Fully relaxed facial muscles, slow breathing implied, a meditative calm."
+          }
+        ]
+      },
+      {
+        "title": "FILM_TEXTURE_GROUP",
+        "options": [
+          {
+            "id": "031",
+            "text": "Fine Grain Medium Format: Extremely fine, smooth grain structure typical of medium-format film, rich tonal depth from pure black to bright white."
+          },
+          {
+            "id": "032",
+            "text": "Classic Tri-X Grain: Visible, characterful 35mm grain typical of high-speed black-and-white film stock, gritty and textured."
+          },
+          {
+            "id": "033",
+            "text": "Ultra-Smooth Digital Fine Art: Clean, grain-free tonal gradation typical of a high-end digital fine-art print, glass-smooth transitions."
+          },
+          {
+            "id": "034",
+            "text": "Deep Matte Print: Rich, slightly compressed shadow detail and a matte, non-reflective print quality, gallery-wall feel."
+          },
+          {
+            "id": "035",
+            "text": "High-Contrast Punch: Strong separation between deep blacks and bright whites, minimal mid-tone detail, bold graphic quality."
+          },
+          {
+            "id": "036",
+            "text": "Soft Silver Gelatin: Warm-toned blacks and a gentle glow in the highlights, reminiscent of a hand-printed silver gelatin darkroom print."
+          },
+          {
+            "id": "037",
+            "text": "Subtle Vignette Fade: A gentle darkening toward the frame edges, drawing the eye naturally to the face."
+          },
+          {
+            "id": "038",
+            "text": "Sharp Modern Clarity: Crisp micro-detail in skin texture and hair, ultra-clean contemporary editorial sharpness."
+          },
+          {
+            "id": "039",
+            "text": "Muted Low-Contrast Fog: Slightly lifted blacks and softened whites, a hazy, dreamlike tonal range."
+          },
+          {
+            "id": "040",
+            "text": "Archival Fiber Paper Texture: A faint, fine paper-grain texture across the whole image, as if printed on textured fiber-based photographic paper."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "CARRIAGE HILL, SLATINGTON, PENNSYLVANIA, 1981",
+    "category": [
+      "NOSTALGIA",
+      "PHOTOREALISM"
+    ],
+    "message": "Take a picture and generate a warm, unpretentious, period-accurate photograph placing the subject near Kirk Street and Ridge Road in the Carriage Hill area outside Slatington, Pennsylvania, in 1981 — a rural Lehigh Valley crossroads community where a newly graded or freshly paved residential road curves gently through what is still mostly open farmland and second-growth woodlot, small ranch and split-level homes just beginning to appear alongside older farmhouses. The subject should be dressed plausibly for the setting and activity in period-accurate 1981 fashion, fully integrated into the specific environment and mood described by the selected options.\n\nADDITIONAL INSTRUCTIONS\nArchitecture, vehicles, fashion, and signage must be period-accurate to 1981 rural Lehigh/Carbon County — modest new ranch and split-level construction alongside older stone and clapboard farmhouses, period pickup trucks and station wagons, practical late-70s/early-80s rural fashion, hand-lettered or simple metal signage. This is meant to read as a specific in-between moment: farmland actively becoming a residential development, not an already-finished suburban subdivision. Do not include modern business signage, paved cul-de-sac loops with mature landscaping, or any present-day storefronts — those reflect the area's appearance decades later, not in 1981.\n\nNEGATIVE PROMPT\nmodern architecture, modern vehicles, smartphones, contemporary fashion, digital or vinyl signage, mature landscaping, finished suburban cul-de-sac development, overly saturated HDR look, urban density, glossy magazine polish.\n\nRANDOMIZATION RECOMMENDATION\nYes. Mixing the specific SITUATION beats with the specific COMPOSITION/lighting treatments produces a wide, period-consistent range of scenes — from active construction to quiet rural domesticity — while keeping everything anchored to one specific transitional moment in this specific place rather than a generic \"rural 80s\" pastiche.\n\nCREATIVE STRATEGY\nTwo internal variable axes, flattened into one options list per the app's actual schema: options 001–010 are SITUATION (the specific place and activity), options 011–020 are COMPOSITION (the specific photographic/lighting treatment). The fixed, unchanging parameters are the specific year (1981), the specific place (the Kirk St/Ridge Rd/Bridle Path corridor near Slatington), and the \"farmland becoming neighborhood\" transitional character. The variables are where along that corridor the subject is and how the moment is visually rendered.\n\nVISUAL DNA ANALYSIS\nCinematic Identity: Warm, unglamorous small-town-in-transition nostalgia — closer to a family's own new-house photo album than a cinematic period piece.\nAtmosphere: Quiet, hopeful, half-finished, agricultural giving way to residential.\nFraming Tendencies: Candid construction-site and yard snapshots balanced against wide farmland-and-new-road establishing shots; simple, unposed eye-level framing.\nEmotional Tone: Optimism, fresh starts, modest ambition, small-town continuity.\nMaterial Language: Fresh blacktop and gravel, raw framed lumber and plywood, wire garden fencing, staked young trees, older fieldstone and clapboard alongside new vinyl and aluminum siding.\nColor Relationships: Warm amber late-day field light, cool pale spring morning tones, muted farmhouse greens and browns against the raw tan of freshly graded lots.\nVisual Storytelling: A road that didn't exist a few years earlier, curving through fields that still mostly do — the specific, brief moment a place is becoming what it will be, not yet fully either.",
+    "randomizeOptions": true,
+    "optionGroups": [
+      {
+        "title": "SITUATION_GROUP",
+        "options": [
+          {
+            "id": "001",
+            "text": "Fresh Blacktop Bend: Standing at the curve of a newly paved rural road cutting through open farmland, the tar still dark and unweathered, wooden survey stakes with pink flagging tape marking a future lot line nearby."
+          },
+          {
+            "id": "002",
+            "text": "New Ranch House Yard: In the bare, freshly graded front yard of a brand-new single-story ranch home, young saplings staked with wire, a wheelbarrow and bags of grass seed by the unfinished walkway."
+          },
+          {
+            "id": "003",
+            "text": "Ridge Road Crossroads: Standing at the junction where the new residential road meets the older two-lane county road, a hand-painted or simple metal street sign, a period pickup truck slowing at the stop sign."
+          },
+          {
+            "id": "004",
+            "text": "Farmhouse Holdout: Beside a much older stone or clapboard farmhouse whose fields now border the new development, a wire fence separating cornfield from freshly seeded lawn."
+          },
+          {
+            "id": "005",
+            "text": "Kirk Street Bike Ride: Riding a period bicycle down the gently curving new road, a handful of newly built homes spaced far apart along the shoulder, open field visible between them."
+          },
+          {
+            "id": "006",
+            "text": "Auction Yard Gathering: At a small local farm equipment or estate auction in a nearby field, folding chairs and hand-lettered numbered lots, a modest crowd of neighbors in flannel and work jackets."
+          },
+          {
+            "id": "007",
+            "text": "Mailbox Row: Standing beside a row of newly installed rural mailboxes at the end of a gravel driveway, a school bus visible approaching down the two-lane road behind."
+          },
+          {
+            "id": "008",
+            "text": "Wooded Lot Clearing: Standing at the edge of a partially cleared wooded lot, cut trees stacked nearby, a bulldozer or grader parked idle, marking the early stage of a new home site."
+          },
+          {
+            "id": "009",
+            "text": "Front Porch, New Construction: Sitting on the unfinished wooden front porch steps of a newly framed house, plywood sheathing still visible, a folding lawn chair and a cooler nearby."
+          },
+          {
+            "id": "010",
+            "text": "Country Road Dusk Walk: Walking along the shoulder of Neffs Laurys Rd or Ridge Rd at dusk, split-rail or wire fencing bordering pasture, a distant farmhouse light glowing."
+          }
+        ]
+      },
+      {
+        "title": "COMPOSITION_GROUP",
+        "options": [
+          {
+            "id": "011",
+            "text": "Kodak Disc Snapshot: Shot on a period-accurate Kodak Disc camera, soft low-resolution image quality, muted slightly cool color palette, simple candid framing."
+          },
+          {
+            "id": "012",
+            "text": "Golden Farmland Dusk: Warm, low, late-afternoon light turning open fields amber-gold, long shadows stretching across bare new-construction lots."
+          },
+          {
+            "id": "013",
+            "text": "Overcast Rural Grey: Flat, even, overcast daylight typical of a Lehigh Valley spring day, muted greens and browns, a quiet unhurried mood."
+          },
+          {
+            "id": "014",
+            "text": "110 Format Pocket Snap: Small cartridge-film pocket-camera aesthetic, slightly soft and grainy, warm haze, simple centered snapshot framing."
+          },
+          {
+            "id": "015",
+            "text": "Instamatic Flash: Direct on-camera flash snapshot look for a dim porch or interior moment, mild red-eye, illuminated foreground against darker background."
+          },
+          {
+            "id": "016",
+            "text": "Crisp Spring Morning: Clean, cool, pale morning light, dew visible on new grass seed, long thin shadows across freshly graded soil."
+          },
+          {
+            "id": "017",
+            "text": "Dust and Gravel Documentary: Slightly desaturated palette with visible road dust and gravel texture, candid unposed framing typical of a construction-site snapshot."
+          },
+          {
+            "id": "018",
+            "text": "Wide Farmland Establishing: A broad, deep-focus wide shot emphasizing the new road curving through open rural land, subject small within the landscape."
+          },
+          {
+            "id": "019",
+            "text": "Porch-Step Portrait: A closer, gently posed portrait on unfinished porch steps, natural side light, raw plywood siding softly blurred behind."
+          },
+          {
+            "id": "020",
+            "text": "Auction Field Candid: Warm midday light over a modest gathered crowd, slightly grainy documentary framing typical of a local newspaper snapshot."
+          }
+        ]
+      }
+    ]
   }
 ]
