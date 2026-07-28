@@ -523,5 +523,198 @@
         ]
       }
     ]
+  },
+  {
+    "name": "RICHARD SIMMONS RETRO FITNESS LEGEND",
+    "category": [
+      "RETRO FITNESS",
+      "1980S POP CULTURE",
+      "AEROBICS & TV",
+      "HIGH ENERGY"
+    ],
+    "message": "Take a picture and transform it into an explosive, ultra-vibrant 1980s aerobics aesthetic inspired by the iconic career and flamboyant energy of Richard Simmons. CORE TRANSFORMATION: Convert the subject into a high-energy fitness personality or participant on a brightly lit studio floor or exercise class stage. Replace contemporary attire with classic 1980s activewear, including glittery dolphin shorts, tank tops, striped tube socks, and plush terrycloth wristbands. IDENTITY PRESERVATION: Maintain the subject's fundamental facial structure, ethnicity, and recognizable traits while adapting their posture into an expressive, joyful, and dynamic exercise pose. COMPOSITION: Framed in full-body or dynamic mid-shot, capturing wide studio depth with backing dancers or workout class participants in soft focus. ADDITIONAL INSTRUCTIONS: Utilize bright broadcast-television lighting, hyper-saturated color grading with magenta, teal, and electric yellow tones, and mild 1980s VHS tape texture with subtle scanlines. NEGATIVE PROMPTS: Moody lighting, minimalist modern gym equipment, dark shadows, muted colors, serious expressions, modern smartphone photography. RANDOMIZATION RECOMMENDATIONS: Combine varied studio backdrops (1980s TV set vs. Beverly Hills Slimmons style) with different energetic exercise actions. CREATIVE STRATEGY: Celebrate the theatrical, compassionate, and exuberantly joyful spirit of retro fitness culture. VISUAL DNA: High-energy 1980s broadcast video style, sparkling activewear, warm pastel studio gradients, and uninhibited theatrical emotion.",
+    "randomizeOptions": true,
+    "optionGroups": [
+      {
+        "title": "LIGHTING_GROUP",
+        "options": [
+          {
+            "id": "001",
+            "text": "Bright multi-point studio broadcast lighting with warm stage key lights and vibrant rim highlights."
+          },
+          {
+            "id": "002",
+            "text": "Saturated pastel gradient backlighting with soft pink and cyan neon glows."
+          },
+          {
+            "id": "003",
+            "text": "High-key daytime television studio flood lighting with soft, flattering diffusion."
+          },
+          {
+            "id": "004",
+            "text": "Vibrant disco-ball light reflections creating dancing flecks across the workout floor."
+          },
+          {
+            "id": "005",
+            "text": "Sunset-tinted studio lighting casting warm golden light over gleaming hardwood floors."
+          },
+          {
+            "id": "006",
+            "text": "Retro morning-show studio illumination with clean daylight and soft backdrop fills."
+          },
+          {
+            "id": "007",
+            "text": "Dynamic spotlighting tracking motion across a colorful exercise stage."
+          },
+          {
+            "id": "008",
+            "text": "Chroma-key studio setup lighting with high contrast and bright, pop-art rim lights."
+          },
+          {
+            "id": "009",
+            "text": "Electric neon tube lighting in vivid magenta and turquoise running along backdrop walls."
+          },
+          {
+            "id": "10",
+            "text": "Pearly soft-focus studio glamor lighting reminiscent of 1980s commercial fitness tapes."
+          }
+        ]
+      },
+      {
+        "title": "POSE_GROUP",
+        "options": [
+          {
+            "id": "011",
+            "text": "High-energy jumping jack in mid-air with outstretched arms and an ecstatic smile."
+          },
+          {
+            "id": "012",
+            "text": "Classic side-step aerobic motion with open arms extended toward the camera."
+          },
+          {
+            "id": "013",
+            "text": "Dramatic knee-lift stretch with hands on hips and high-enthusiasm body tilt."
+          },
+          {
+            "id": "014",
+            "text": "Enthusiastic encouragement pose, pointing directly at the viewer with wide open arms."
+          },
+          {
+            "id": "015",
+            "text": "Rhythmic jazz-hands reach toward the ceiling in full peak-aerobics movement."
+          },
+          {
+            "id": "016",
+            "text": "Low-impact lunging step with arm pump, demonstrating accessible exercise form."
+          },
+          {
+            "id": "017",
+            "text": "Group leader stance on a low riser, leading an energetic workout class behind."
+          },
+          {
+            "id": "018",
+            "text": "Joyful clapping motion mid-aerobic cadence with infectious enthusiasm."
+          },
+          {
+            "id": "019",
+            "text": "Floor stretch sequence pose on a brightly colored foam mat with hands reaching upward."
+          },
+          {
+            "id": "020",
+            "text": "Victory arm-raise holding light colorful plastic dumbbells high above the head."
+          }
+        ]
+      },
+      {
+        "title": "EXPRESSION_GROUP",
+        "options": [
+          {
+            "id": "021",
+            "text": "Over-the-top, radiant smile bursting with pure joy and motivational warmth."
+          },
+          {
+            "id": "022",
+            "text": "Exaggerated gasp of playful delight and high-energy excitement."
+          },
+          {
+            "id": "023",
+            "text": "Warm, deeply empathetic gaze offering heartfelt encouragement."
+          },
+          {
+            "id": "024",
+            "text": "Laughing mid-exercise, capturing uninhibited and authentic fun."
+          },
+          {
+            "id": "025",
+            "text": "Determined yet joyful expression during an intense aerobic burst."
+          },
+          {
+            "id": "026",
+            "text": "Playful wink directed at the camera with a theatrical grin."
+          },
+          {
+            "id": "027",
+            "text": "Triumphant cheer with mouth open in full workout enthusiasm."
+          },
+          {
+            "id": "028",
+            "text": "Affectionate blow of a kiss to the home viewer with a sparkling gaze."
+          },
+          {
+            "id": "029",
+            "text": "Exuberant call-and-response face, hyping up the exercise class."
+          },
+          {
+            "id": "030",
+            "text": "Sweet, proud facial expression celebrating a successful workout accomplishment."
+          }
+        ]
+      },
+      {
+        "title": "COLOR_PALETTE_GROUP",
+        "options": [
+          {
+            "id": "031",
+            "text": "Electric 1980s neon palette dominated by candy magenta, bright turquoise, and lime green."
+          },
+          {
+            "id": "032",
+            "text": "Warm Beverly Hills pastel mix with soft peach, lavender, mint, and banana yellow."
+          },
+          {
+            "id": "033",
+            "text": "Sparkling metallic sequin tones featuring silver, royal blue, and metallic pink accents."
+          },
+          {
+            "id": "034",
+            "text": "Saturated primary pop colors with bold red, bright royal blue, and sunny yellow activewear."
+          },
+          {
+            "id": "035",
+            "text": "Retro sunset gradient scheme combining hot pink, rich orange, and twilight violet."
+          },
+          {
+            "id": "036",
+            "text": "Classic studio gym tones featuring polished blonde oak wood, cream walls, and candy-colored outfits."
+          },
+          {
+            "id": "037",
+            "text": "Vibrant tape box aesthetic with high-contrast rainbow accents and pristine whites."
+          },
+          {
+            "id": "038",
+            "text": "Cool pool-party palette of electric blue, aqua, tropical pink, and soft sunbleached cream."
+          },
+          {
+            "id": "039",
+            "text": "Retro workout tape tape tint with vibrant 4:3 video color saturation and subtle analog bloom."
+          },
+          {
+            "id": "040",
+            "text": "High-vibrancy retro aesthetic with sparkling tank top fabrics and bright red-and-white accents."
+          }
+        ]
+      }
+    ]
   }
 ]
