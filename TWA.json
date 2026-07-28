@@ -3332,5 +3332,202 @@
         ]
       }
     ]
+  },
+  {
+    "name": "ADVARRA CLINICAL RESEARCH EXCELLENCE",
+    "category": [
+      "CORPORATE HEALTHCARE",
+      "CLINICAL RESEARCH",
+      "BIOTECH PHOTOGRAPHY",
+      "MODERN MEDICAL SCIENCE"
+    ],
+    "message": "Take a picture and transform it into a polished, high-end commercial editorial scene embodying the modern clinical research and regulatory compliance aesthetic of Advarra. CORE TRANSFORMATION: Place the subject within a bright, state-of-the-art clinical trial facility, modern laboratory, or sophisticated corporate health tech workspace. The environment should feature clean glass partitions, warm architectural lighting, deep navy blue accents, soft teal highlights, and bright neutral whites. IDENTITY PRESERVATION: Preserve the subject's authentic facial identity, natural skin texture, physical proportions, and expression while seamlessly integrating them into a professional healthcare environment. COMPOSITION: Frame as a medium editorial portrait or dynamic environmental shot with clean architectural lines, shallow depth of field, and crisp structural balance. ADDITIONAL INSTRUCTIONS: Utilize crisp commercial lighting with soft ambient fill to convey trust, innovation, rigor, and human-centric care. NEGATIVE PROMPTS: Harsh grim medical lighting, dark dystopian tones, cluttered desks, sterile oversaturated hospital environments, exaggerated sci-fi elements, blurred low-resolution details. RANDOMIZATION RECOMMENDATIONS: Pair sleek modern laboratory backgrounds with collaborative human interactions and sophisticated corporate palette finishes. CREATIVE STRATEGY: Emphasize the intersection of cutting-edge scientific advancement, ethical research integrity, and compassionate human care. VISUAL DNA: Clean architectural glass, deep navy and teal accents, soft ambient key light, crisp corporate attire, and trustworthy clinical sophistication.",
+    "randomizeOptions": true,
+    "optionGroups": [
+      {
+        "title": "ENVIRONMENT_GROUP",
+        "options": [
+          {
+            "id": "001",
+            "text": "Sleek, sunlit clinical research suite with modern glass partitions and soft teal accents."
+          },
+          {
+            "id": "002",
+            "text": "High-tech pharmaceutical laboratory with pristine white surfaces, stainless steel equipment, and subtle navy branding."
+          },
+          {
+            "id": "003",
+            "text": "Bright, open-concept bio-tech corporate lobby featuring warm wood architectural details and floor-to-ceiling windows."
+          },
+          {
+            "id": "004",
+            "text": "Modern clinical trial monitoring room equipped with high-resolution data displays and clean ergonomic workstations."
+          },
+          {
+            "id": "005",
+            "text": "Executive conference room overlooking a modern medical campus, bathed in soft daylight."
+          },
+          {
+            "id": "006",
+            "text": "State-of-the-art diagnostic facility featuring soft warm lighting and contemporary glass design elements."
+          },
+          {
+            "id": "007",
+            "text": "Collaborative research lounge with minimalist architectural design and subtle healthcare design cues."
+          },
+          {
+            "id": "008",
+            "text": "Pristine life science innovation center with soft ambient illumination and structured glass walls."
+          },
+          {
+            "id": "009",
+            "text": "Modern medical center hallway with warm recessed lighting and crisp, professional interior aesthetics."
+          },
+          {
+            "id": "010",
+            "text": "Sophisticated regulatory review workspace featuring subtle tech aesthetics and immaculate organization."
+          }
+        ]
+      },
+      {
+        "title": "POSE_GROUP",
+        "options": [
+          {
+            "id": "011",
+            "text": "Professional standing posture with arms relaxed at the side, looking confidently toward the lens."
+          },
+          {
+            "id": "012",
+            "text": "Engaged three-quarter stance holding a digital tablet during a thoughtful research discussion."
+          },
+          {
+            "id": "013",
+            "text": "Natural seated posture at a modern glass desk, leaning slightly forward with approachable posture."
+          },
+          {
+            "id": "014",
+            "text": "Collaborative interaction stance, conversing naturally with colleagues in a bright hallway."
+          },
+          {
+            "id": "015",
+            "text": "Focused profile pose examining clinical research documents with quiet precision."
+          },
+          {
+            "id": "016",
+            "text": "Warm and open arms-crossed posture projecting expertise, integrity, and leadership."
+          },
+          {
+            "id": "017",
+            "text": "Candid mid-motion gesture pointing toward a clean, high-tech display board."
+          },
+          {
+            "id": "018",
+            "text": "Relaxed environmental portrait pose seated in a sunlit lounge area."
+          },
+          {
+            "id": "019",
+            "text": "Dynamic walkthrough stance along a bright glass-walled corridor."
+          },
+          {
+            "id": "020",
+            "text": "Thoughtful, attentive pose listening intently during a team briefing."
+          }
+        ]
+      },
+      {
+        "title": "EXPRESSION_GROUP",
+        "options": [
+          {
+            "id": "021",
+            "text": "Warm, reassuring smile conveying deep empathy, credibility, and human care."
+          },
+          {
+            "id": "022",
+            "text": "Focused and inquisitive facial expression reflecting rigorous scientific analysis."
+          },
+          {
+            "id": "023",
+            "text": "Confident, poised expression embodying institutional trust and professional authority."
+          },
+          {
+            "id": "024",
+            "text": "Approachable and friendly countenance inviting open collaboration."
+          },
+          {
+            "id": "025",
+            "text": "Calm, serene expression highlighting reliability and patient-centric dedication."
+          },
+          {
+            "id": "026",
+            "text": "Subtle, intelligent smile paired with direct eye contact looking into the lens."
+          },
+          {
+            "id": "027",
+            "text": "Attentive and engaged look reflecting deep active listening and care."
+          },
+          {
+            "id": "028",
+            "text": "Optimistic and forward-looking expression signifying medical research innovation."
+          },
+          {
+            "id": "029",
+            "text": "Thoughtful, dignified composure highlighting precision and compliance."
+          },
+          {
+            "id": "030",
+            "text": "Authentic, warm expression caught in a genuine moment of professional connection."
+          }
+        ]
+      },
+      {
+        "title": "AESTHETIC_FINISH_GROUP",
+        "options": [
+          {
+            "id": "031",
+            "text": "Crisp corporate photography finish with deep navy blues, bright whites, and natural skin tones."
+          },
+          {
+            "id": "032",
+            "text": "Soft commercial lighting with gentle background bokeh isolating the subject with clarity."
+          },
+          {
+            "id": "033",
+            "text": "Clean high-key daylight balancing cool clinical tones with warm human skin midtones."
+          },
+          {
+            "id": "034",
+            "text": "Sleek biotech editorial look featuring vibrant teal and deep sapphire color accents."
+          },
+          {
+            "id": "035",
+            "text": "Modern 35mm full-frame aesthetic with shallow depth of field and sharp foreground detail."
+          },
+          {
+            "id": "036",
+            "text": "Polished annual-report photographic finish with rich contrast and clean highlight control."
+          },
+          {
+            "id": "037",
+            "text": "Bright, airy aesthetic with balanced ambient window light and crisp architectural lines."
+          },
+          {
+            "id": "038",
+            "text": "Sophisticated commercial grade grade, emphasizing clean glass reflections and cool metallic accents."
+          },
+          {
+            "id": "039",
+            "text": "Warm professional interior finish with natural color balance and clear optical clarity."
+          },
+          {
+            "id": "040",
+            "text": "High-end corporate headshot finish with pristine edge detail and smooth shadow falloff."
+          }
+        ]
+      }
+    ]
   }
 ]
+
+
+
+
