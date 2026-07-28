@@ -329,5 +329,199 @@
         ]
       }
     ]
+  },
+  {
+    "name": "DORNEY PARK 1983",
+    "category": [
+      "VINTAGE",
+      "1980S",
+      "AMUSEMENT PARK",
+      "NOSTALGIA",
+      "35MM PHOTOGRAPHY"
+    ],
+    "message": "Take a picture and transform it into a candid 35mm color photograph taken at Dorney Park in Allentown, Pennsylvania, during the summer of 1983. Preserve the core identity, pose, and facial features of the main subjects, but reframe them into classic early-1980s amusement park visitors wearing authentic era-specific apparel—such as athletic ring tees, high-waisted denim shorts, striped tube socks, and retro sunglasses. Transform the surrounding environment into a sun-drenched, buzzing regional theme park featuring vintage wooden roller coasters like the Thunderhawk, colorful mid-way game booths with oversized plush prizes, vintage snack stands selling funnel cake and soft pretzels, and classic carnival flat rides under bright hazy skies. Apply 1980s consumer film stock characteristics: soft Kodachrome analog grain, slightly faded sun-bleached color saturation, warm golden-hour lighting, slight chromatic aberration near the frame edges, and authentic flash photo bloom. Avoid modern digital sharpness, modern clothing, smartphones, or contemporary signage.",
+    "randomizeOptions": true,
+    "optionGroups": [
+      {
+        "title": "LIGHTING_AND_ATMOSPHERE_GROUP",
+        "options": [
+          {
+            "id": "001",
+            "text": "Bright harsh mid-afternoon Pennsylvania summer sunlight with strong crisp shadows."
+          },
+          {
+            "id": "002",
+            "text": "Golden hour twilight glow with retro neon festoon lights illuminating the Midway."
+          },
+          {
+            "id": "003",
+            "text": "Overcast hazy sky with soft muted lighting across the wooden coaster tracks."
+          },
+          {
+            "id": "004",
+            "text": "Dusk sky filled with pastel pink and orange gradient light."
+          },
+          {
+            "id": "005",
+            "text": "Direct camera flash glare reflecting off polished carnival ride chrome."
+          },
+          {
+            "id": "006",
+            "text": "Warm summer haze with visible light rays cutting through cotton candy vapor."
+          },
+          {
+            "id": "007",
+            "text": "Nighttime park illumination with vivid incandescent bulbs popping against a dark blue sky."
+          },
+          {
+            "id": "008",
+            "text": "Filtered sunlight streaming through the wooden lattice support beams of a coaster."
+          },
+          {
+            "id": "009",
+            "text": "Early morning damp park atmosphere with soft reflections on wet pavement."
+          },
+          {
+            "id": "010",
+            "text": "Sun flare bleeding into the top corner of a 1980s color print snapshot."
+          }
+        ]
+      },
+      {
+        "title": "CAMERA_ANGLE_AND_FRAMING_GROUP",
+        "options": [
+          {
+            "id": "011",
+            "text": "Eye-level candid snapshot framing with casual offset composition."
+          },
+          {
+            "id": "012",
+            "text": "Low-angle perspective looking up at towering wooden roller coaster structures."
+          },
+          {
+            "id": "013",
+            "text": "Medium waist-up portrait centered against a blurred game booth backdrop."
+          },
+          {
+            "id": "014",
+            "text": "Slightly tilted Dutch angle capturing high-energy amusement park action."
+          },
+          {
+            "id": "015",
+            "text": "Wide environmental landscape shot showing bustling crowd pathways and ride skylines."
+          },
+          {
+            "id": "016",
+            "text": "Tight close-up shot focusing on subject expression with park lights bokeh."
+          },
+          {
+            "id": "017",
+            "text": "Over-the-shoulder view looking toward the entrance of a classic haunted house ride."
+          },
+          {
+            "id": "018",
+            "text": "High-angle bird's-eye vantage point from a Ferris wheel cabin."
+          },
+          {
+            "id": "019",
+            "text": "Candid motion-blur snapshot from the edge of a spinning carousel."
+          },
+          {
+            "id": "020",
+            "text": "Framed through the colorful prize stuffed animals hanging at a ring-toss game."
+          }
+        ]
+      },
+      {
+        "title": "PARK_SETTING_AND_ACTION_GROUP",
+        "options": [
+          {
+            "id": "021",
+            "text": "Holding a giant stick of pink spun cotton candy while walking down the Midway."
+          },
+          {
+            "id": "022",
+            "text": "Laughing candidly in the front seat of a retro wooden coaster car."
+          },
+          {
+            "id": "023",
+            "text": "Leaning casually against a brightly painted arcade cabinet under neon lights."
+          },
+          {
+            "id": "024",
+            "text": "Cheering enthusiastically while holding a giant won-plush prize panda."
+          },
+          {
+            "id": "025",
+            "text": "Sitting at a painted wooden picnic table sharing fresh paper-cone french fries."
+          },
+          {
+            "id": "026",
+            "text": "Gripping the safety bar of a spinning tilt-a-whirl ride in mid-motion."
+          },
+          {
+            "id": "027",
+            "text": "Posing proudly in front of the vintage Dorney Park main entrance sign."
+          },
+          {
+            "id": "028",
+            "text": "Splashing through the log flume ride splash zone with water droplets in mid-air."
+          },
+          {
+            "id": "029",
+            "text": "Waiting in line on a concrete queue path lined with retro wooden fencing."
+          },
+          {
+            "id": "030",
+            "text": "Eating a chocolate-dipped ice cream cone in front of a colorful ticket booth."
+          }
+        ]
+      },
+      {
+        "title": "FILM_AESTHETIC_AND_TEXTURE_GROUP",
+        "options": [
+          {
+            "id": "031",
+            "text": "Classic Kodachrome 64 color profile with deep rich warm tones and film grain."
+          },
+          {
+            "id": "032",
+            "text": "Faded 1980s glossy drug-store photo print with subtle corner edge wear."
+          },
+          {
+            "id": "033",
+            "text": "Slight light leak streaking in warm yellow across the left side of the frame."
+          },
+          {
+            "id": "034",
+            "text": "Soft focus optical diffusion characteristic of vintage consumer point-and-shoot lenses."
+          },
+          {
+            "id": "035",
+            "text": "High contrast color slide film aesthetic with saturated primaries and deep shadows."
+          },
+          {
+            "id": "036",
+            "text": "Subtle chromatic aberration around high contrast edges and ride metalwork."
+          },
+          {
+            "id": "037",
+            "text": "Authentic 1983 date stamp printed in small orange LED digits on the bottom right corner."
+          },
+          {
+            "id": "038",
+            "text": "Matte photo finish texture with gentle grain and desaturated cyan skies."
+          },
+          {
+            "id": "039",
+            "text": "Disposable camera flash aesthetic with bright foreground subjects and falloff background."
+          },
+          {
+            "id": "040",
+            "text": "Slight vintage lens vignetting framing the center of the image."
+          }
+        ]
+      }
+    ]
   }
 ]
