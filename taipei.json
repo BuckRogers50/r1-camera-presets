@@ -716,5 +716,198 @@
         ]
       }
     ]
+  },
+  {
+    "name": "RICHARD AVEDON HIGH-CONTRAST PORTRAITURE",
+    "category": [
+      "BLACK AND WHITE",
+      "FINE ART PORTRAITURE",
+      "ICONIC FASHION",
+      "MINIMALIST MONOCHROME"
+    ],
+    "message": "Take a picture and transform it into a stark, emotionally raw black-and-white portrait in the signature photography style of Richard Avedon. CORE TRANSFORMATION: Isolate the subject against a seamless, brilliant white backdrop with no horizon line or extraneous environmental distractions. Render the image in crisp, rich monochrome with deep blacks, bright whites, and refined midtone detail. IDENTITY PRESERVATION: Maintain the subject's precise facial feature proportions, facial bone structure, skin texture, and unique anatomical characteristics while capturing an intimate, vulnerable, or striking psychological moment. COMPOSITION: Frame as a tight headshot, three-quarter portrait, or full-length standing study with strong graphic lines, sharp contrast, and an unvarnished human presence. ADDITIONAL INSTRUCTIONS: Emulate medium-format or large-format film clarity (like an 8x10 view camera) with razor-sharp micro-contrast, crisp shadows under facial features, and the subtle black edge border of a negative frame. NEGATIVE PROMPTS: Color photography, cluttered or naturalistic background scenery, heavy bokeh blur, soft romantic diffusion, over-retouched smooth skin, dramatic color gels, low-contrast gray tones. RANDOMIZATION RECOMMENDATIONS: Pair various stark lighting styles (bare beauty dish vs. punchy key light) with unposed, expressive physical gestures and deep emotional expressions. CREATIVE STRATEGY: Strip away theatrical props to focus entirely on human character, psychological truth, and graphic visual clarity. VISUAL DNA: Seamless white backdrop, intense grainless monochrome contrast, unvarnished human expression, graphic silhouette, and medium-format negative frame edges.",
+    "randomizeOptions": true,
+    "optionGroups": [
+      {
+        "title": "LIGHTING_GROUP",
+        "options": [
+          {
+            "id": "001",
+            "text": "Stark frontal key light with minimal shadow fill, creating sharp facial contour definition against pure white."
+          },
+          {
+            "id": "002",
+            "text": "High-contrast electronic flash casting crisp, tight shadows beneath the nose, chin, and cheekbones."
+          },
+          {
+            "id": "003",
+            "text": "Brilliant overhead beauty key light emphasizing eye socket shadows and cheek structure with brilliant rim highlights."
+          },
+          {
+            "id": "004",
+            "text": "Even, high-key studio illumination surrounding the subject in an envelope of bright white space."
+          },
+          {
+            "id": "005",
+            "text": "Punchy directional hard light revealing raw skin texture, fine line details, and stark tonal transitions."
+          },
+          {
+            "id": "006",
+            "text": "Diffuse single key light producing smooth silver midtones while maintaining pitch-black shadows."
+          },
+          {
+            "id": "007",
+            "text": "Direct strobe lighting casting a sharp, dark shadow line along one side of the jaw and neck."
+          },
+          {
+            "id": "008",
+            "text": "Crisp side-profile key light rendering high-contrast highlights on features while shadowing half the face."
+          },
+          {
+            "id": "009",
+            "text": "Bare studio bulb light giving an authentic, unvarnished fashion portrait quality with deep shadow pockets."
+          },
+          {
+            "id": "010",
+            "text": "Symmetrical dual key light highlighting both sides of the face while isolating the subject against brilliant white."
+          }
+        ]
+      },
+      {
+        "title": "POSE_GROUP",
+        "options": [
+          {
+            "id": "011",
+            "text": "Direct, confronting head-on stance facing the camera dead-center with absolute poise."
+          },
+          {
+            "id": "012",
+            "text": "Dynamic mid-motion turn of the shoulders toward the lens with a sharp, inquisitive tilt of the head."
+          },
+          {
+            "id": "013",
+            "text": "Dramatic three-quarter profile pose with hands raised naturally near the chin or cheek."
+          },
+          {
+            "id": "014",
+            "text": "Full-length standing pose capturing a stark, graphic silhouette against the stark white background."
+          },
+          {
+            "id": "015",
+            "text": "Slightly bent torso leaning forward into the lens, creating an intimate, confrontational perspective."
+          },
+          {
+            "id": "016",
+            "text": "Asymmetrical shoulder drop with arms folded sharply across the chest in a classic studio portrait stance."
+          },
+          {
+            "id": "017",
+            "text": "Candid gesture with one hand touching the hair or collar, frozen mid-motion by high-speed flash."
+          },
+          {
+            "id": "018",
+            "text": "Exaggerated fashion tilt with elongated neck line and sharp angular elbow positioning."
+          },
+          {
+            "id": "019",
+            "text": "Tight close-up framing from chin to forehead, emphasizing eyes and mouth with minimal body context."
+          },
+          {
+            "id": "020",
+            "text": "Slightly off-balance movement pose, capturing a fleeting instance of uninhibited physical energy."
+          }
+        ]
+      },
+      {
+        "title": "EXPRESSION_GROUP",
+        "options": [
+          {
+            "id": "021",
+            "text": "Piercing, unblinking gaze that looks directly into the camera lens with psychological intensity."
+          },
+          {
+            "id": "022",
+            "text": "Slightly open-mouthed expression of vulnerable contemplation or quiet surprise."
+          },
+          {
+            "id": "023",
+            "text": "Unfiltered, joyous laugh captured in mid-exhalation with authentic facial creasing."
+          },
+          {
+            "id": "024",
+            "text": "Stoic, stern facial composure projecting deep personal authority and quiet strength."
+          },
+          {
+            "id": "025",
+            "text": "Melancholic, introspective stare looking just slightly off-camera past the viewer."
+          },
+          {
+            "id": "026",
+            "text": "Intense furrowed brow with a focused, analytical gaze revealing inner tension."
+          },
+          {
+            "id": "027",
+            "text": "Subtle smirk of quiet wit or irony playing across one side of the mouth."
+          },
+          {
+            "id": "028",
+            "text": "Exhausted yet dignified vulnerability, stripping away performance for raw honesty."
+          },
+          {
+            "id": "029",
+            "text": "Ecstatic, theatrical emotion with mouth open wide in a moment of pure performance."
+          },
+          {
+            "id": "030",
+            "text": "Calm, serene facial stillness devoid of performative smiling or forced pose."
+          }
+        ]
+      },
+      {
+        "title": "AESTHETIC_FINISH_GROUP",
+        "options": [
+          {
+            "id": "031",
+            "text": "Ultra-sharp 8x10 film clarity with ultra-rich black density and pure white highlights."
+          },
+          {
+            "id": "032",
+            "text": "Classic silver gelatin print texture with smooth tonal gradations in skin midtones."
+          },
+          {
+            "id": "033",
+            "text": "High-contrast Tri-X black-and-white film grain with deep shadow crush and brilliant whites."
+          },
+          {
+            "id": "034",
+            "text": "Clean black photographic negative border around the perimeter of the frame."
+          },
+          {
+            "id": "035",
+            "text": "Deep velvet-black darks paired with crisp micro-contrast across garment fabrics and skin."
+          },
+          {
+            "id": "036",
+            "text": "Graphite-toned monochrome conversion with enhanced sharpness on hair and pupil catchlights."
+          },
+          {
+            "id": "037",
+            "text": "Minimalist high-key finish stripping all ambient context down to graphic black forms on white."
+          },
+          {
+            "id": "038",
+            "text": "Fine-art exhibition print aesthetic with extreme detail in textile weaves, tailoring, and skin."
+          },
+          {
+            "id": "039",
+            "text": "Vintage Kodak portrait film character with rich deep blacks, crisp whites, and neutral grays."
+          },
+          {
+            "id": "040",
+            "text": "Stark high-fashion editorial print finish with hard contrast edges and flawless tonal separation."
+          }
+        ]
+      }
+    ]
   }
 ]
