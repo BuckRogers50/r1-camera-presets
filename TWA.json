@@ -3525,9 +3525,283 @@
         ]
       }
     ]
+  },
+  {
+    "name": "CIGAR PAGE CHIMPO MASCOT EXPERIENCE",
+    "category": [
+      "POP CULTURE PARODY",
+      "MASCOT LIFESTYLE",
+      "RETRO CINEMATIC",
+      "HUMOROUS EDITORIAL"
+    ],
+    "message": "Take a picture and transform it into a bold, humorous, warm-toned commercial lifestyle scene featuring Chimpo, the iconic chimpanzee mascot of CigarPage.com. CORE TRANSFORMATION: Integrate Chimpo—wearing his signature helmet, aviator sunglasses, and chomping down on a premium cigar—directly into the scene alongside the main subject, setting them within rich, atmospheric, or iconic pop culture environments. IDENTITY PRESERVATION: Maintain the primary subject's exact facial features, anatomical structure, and skin texture while rendering Chimpo as a detailed, charismatic companion. COMPOSITION: Frame as a dynamic medium portrait or cinematic wide shot with rich environmental depth, warm key lighting, and soft ambient atmosphere. ADDITIONAL INSTRUCTIONS: Ensure Chimpo always retains his defining helmet, dark sunglasses, and lit cigar regardless of the setting or cosplay context. Emulate rich 35mm film or high-end editorial commercial photography with deep shadows, rich leather/earth tones, and drifting smoke wisps. NEGATIVE PROMPTS: Removing Chimpo's helmet, sunglasses, or cigar; oversaturated fluorescent hues; low-resolution textures; photorealistic uncanny human face swaps on the ape. RANDOMIZATION RECOMMENDATIONS: Pair vintage pop culture themes with warm, rich lounge or outdoor lighting and expressive companion interactions. CREATIVE STRATEGY: Blend tongue-in-cheek pop culture nostalgia with the warm, unpretentious, lounge-ready brand identity of Cigar Page. VISUAL DNA: Chimpo mascot (helmet, sunglasses, cigar), warm mahogany and amber tones, drifting blue-gray smoke wisps, tactile fabrics, and cinematic atmosphere.",
+    "randomizeOptions": true,
+    "optionGroups": [
+      {
+        "title": "ENVIRONMENT_GROUP",
+        "options": [
+          {
+            "id": "001",
+            "text": "Rich mahogany-paneled cigar lounge with deep leather armchairs where Chimpo sits comfortably in his helmet and sunglasses."
+          },
+          {
+            "id": "002",
+            "text": "Rustic brick courtyard patio at sunset, illuminated by warm fire pit glow, with Chimpo tending the embers."
+          },
+          {
+            "id": "003",
+            "text": "Vintage tobacco aging warehouse surrounded by cedar trays, with Chimpo inspecting curing leaves."
+          },
+          {
+            "id": "004",
+            "text": "Dimly lit speakeasy bar top with dark oak textures, where Chimpo rests his arm beside a crystal tumbler."
+          },
+          {
+            "id": "005",
+            "text": "Warmly lit executive study featuring brass floor lamps, with Chimpo perched on a leather club chair."
+          },
+          {
+            "id": "006",
+            "text": "High-altitude aviator lounge overlooking a runway, with Chimpo sporting his flight helmet and dark shades."
+          },
+          {
+            "id": "007",
+            "text": "Atmospheric humidor walk-in room lined with Spanish cedar, with Chimpo proudly showcasing rare tobacco boxes."
+          },
+          {
+            "id": "008",
+            "text": "Retro 1980s neon-lit bowling alley lounge, where Chimpo relaxes in his helmet and shades holding a cigar."
+          },
+          {
+            "id": "009",
+            "text": "Industrial-chic exposed brick studio with warm tungsten spotlights pointing toward Chimpo and the subject."
+          },
+          {
+            "id": "010",
+            "text": "Sun-drenched tropical resort balcony at golden hour, with Chimpo leaning back on a teak lounge chair."
+          }
+        ]
+      },
+      {
+        "title": "POSE_GROUP",
+        "options": [
+          {
+            "id": "011",
+            "text": "Reclined side-by-side in matching leather club chairs, with Chimpo adjusting his aviator sunglasses."
+          },
+          {
+            "id": "012",
+            "text": "Leaning forward over a dark wooden table, with Chimpo offering a warm light to the subject."
+          },
+          {
+            "id": "013",
+            "text": "Three-quarter standing pose with Chimpo casually slinging an arm around the subject's shoulder."
+          },
+          {
+            "id": "014",
+            "text": "Intimate waist-up shot framed through thin, drifting curls of cigar smoke between Chimpo and the subject."
+          },
+          {
+            "id": "015",
+            "text": "Casual cross-legged seating arrangement on a vintage sofa, with Chimpo gesturing animatedly."
+          },
+          {
+            "id": "016",
+            "text": "Profile stance looking off-camera into a warm hearth fire, with Chimpo standing stoically beside."
+          },
+          {
+            "id": "017",
+            "text": "Candid moment where Chimpo holds a triple-flame torch lighter ready for a smoke."
+          },
+          {
+            "id": "018",
+            "text": "Engaged conversational pose turned inward toward Chimpo, who nods sagely behind his shades."
+          },
+          {
+            "id": "019",
+            "text": "Dynamic shot leaning back against a rustic wooden bar, with Chimpo resting his elbows on the counter."
+          },
+          {
+            "id": "020",
+            "text": "Thoughtful seated pose with Chimpo carefully inspecting a custom-embossed Cigar Page foil band."
+          }
+        ]
+      },
+      {
+        "title": "EXPRESSION_GROUP",
+        "options": [
+          {
+            "id": "021",
+            "text": "Contented, relaxed grin reflecting quiet leisure, matching Chimpo's confident, cool demeanor."
+          },
+          {
+            "id": "022",
+            "text": "Contemplative, wise gaze looking slightly off-camera past drifting wisps of cigar smoke."
+          },
+          {
+            "id": "023",
+            "text": "Warm, welcoming expression projecting effortless camaraderie alongside Chimpo's heroic mascot presence."
+          },
+          {
+            "id": "024",
+            "text": "Subtle smirk of satisfaction caught mid-exhalation as smoke rises gracefully overhead."
+          },
+          {
+            "id": "025",
+            "text": "Focused, appreciative look evaluating the flawless burn line of a hand-rolled smoke."
+          },
+          {
+            "id": "026",
+            "text": "Convivial, joyful laugh during an engaging story shared with Chimpo in the lounge."
+          },
+          {
+            "id": "027",
+            "text": "Stoic, distinguished composure conveying quiet authority, humor, and timeless taste."
+          },
+          {
+            "id": "028",
+            "text": "Serene, unbothered expression showcasing the pure pleasure of taking time out to relax."
+          },
+          {
+            "id": "029",
+            "text": "Confident, direct eye contact toward the lens while Chimpo poses triumphantly."
+          },
+          {
+            "id": "030",
+            "text": "Amused, knowing grin highlighting a fun, adventurous, easygoing lifestyle attitude."
+          }
+        ]
+      },
+      {
+        "title": "AESTHETIC_FINISH_GROUP",
+        "options": [
+          {
+            "id": "031",
+            "text": "Rich amber color grading with warm mahogany tones, deep espresso shadows, and golden highlights."
+          },
+          {
+            "id": "032",
+            "text": "Tactile editorial finish highlighting rich leather grain, wood textures, and metallic helmet reflections."
+          },
+          {
+            "id": "033",
+            "text": "Soft analog film glow with organic fine grain and smooth shadow falloff into dark room corners."
+          },
+          {
+            "id": "034",
+            "text": "Warm tungsten key lighting combined with subtle cool blue rim illumination along Chimpo's silhouette."
+          },
+          {
+            "id": "035",
+            "text": "High dynamic range rendering of swirling smoke wisps catching warm directional light rays."
+          },
+          {
+            "id": "036",
+            "text": "Deep sepia-infused color palette emphasizing rustic copper, tobacco brown, and gold accents."
+          },
+          {
+            "id": "037",
+            "text": "Vintage 35mm photograph aesthetic with a soft warm vignette framing Chimpo and the subject."
+          },
+          {
+            "id": "038",
+            "text": "Crisp micro-contrast on tactile garment weaves and fur texture paired with soft background bokeh."
+          },
+          {
+            "id": "039",
+            "text": "Rich lifestyle catalog aesthetic with balanced warm skin tones and saturated earth-tone backdrops."
+          },
+          {
+            "id": "040",
+            "text": "Moody cinematic tone curve with lifted darks, glowing warm highlights, and deep shadow richness."
+          }
+        ]
+      },
+      {
+        "title": "POP_CULTURE_COSPLAY_GROUP",
+        "options": [
+          {
+            "id": "041",
+            "text": "1960s Star Trek Starfleet bridge scene with Chimpo wearing a classic blue Science officer uniform over his fur, keeping his helmet, pointy Vulcan ear adapters, sunglasses, and lit cigar."
+          },
+          {
+            "id": "042",
+            "text": "1969 Spaghetti Western desert duel with Chimpo dressed as The Man with No Name, complete with a dusty poncho, cowboy hat stacked over his helmet, aviator shades, and a cigar."
+          },
+          {
+            "id": "043",
+            "text": "1972 Godfather dark study scene with Chimpo wearing a tailored tuxedo and red rose, chomping a cigar while wearing his helmet and shades behind a massive oak desk."
+          },
+          {
+            "id": "044",
+            "text": "1977 Star Wars Mos Eisley Cantina booth with Chimpo wearing Han Solo's black vest and holster over his helmet and shades, holding his lit cigar like a blaster."
+          },
+          {
+            "id": "045",
+            "text": "1980 Empire Strikes Back Dagobah swamp with Chimpo wearing worn beige Jedi robes over his helmet and sunglasses, puffing his cigar while imparting ape wisdom."
+          },
+          {
+            "id": "046",
+            "text": "1981 Indiana Jones temple corridor with Chimpo wearing a leather bomber jacket and fedora perched on his helmet, shades on, holding a cigar in one hand and a golden idol in the other."
+          },
+          {
+            "id": "047",
+            "text": "1983 A-Team tactical van scene with Chimpo cosplaying as B.A. Baracus with heavy gold chains over his vest, keeping his helmet, aviators, and signature cigar."
+          },
+          {
+            "id": "048",
+            "text": "1985 Back to the Future Clocktower street with Chimpo wearing a bright orange puffer vest and aviator shades over his helmet, chomping his cigar beside a DeLorean."
+          },
+          {
+            "id": "049",
+            "text": "1986 Top Gun aircraft carrier flight deck with Chimpo wearing a green flight suit, aviator shades, flight helmet, and chomping a cigar while giving a thumbs-up."
+          },
+          {
+            "id": "050",
+            "text": "1988 Die Hard Nakatomi Plaza duct scene with Chimpo wearing a dirty white tank top over his helmet and shades, grinning around his lit cigar in a tight metal vent."
+          },
+          {
+            "id": "051",
+            "text": "1993 Jurassic Park control room with Chimpo wearing Dennis Nedry's yellow raincoat over his helmet and sunglasses, chomping a cigar in front of CRT computer screens."
+          },
+          {
+            "id": "052",
+            "text": "1994 Pulp Fiction diner booth with Chimpo cosplaying in a black suit and narrow tie, helmet and dark shades on, resting his lit cigar in an ashtray."
+          },
+          {
+            "id": "053",
+            "text": "1999 The Matrix green-tinted hallway with Chimpo wearing a full-length black leather trench coat, rimless sunglasses over his helmet, and a cigar in his mouth."
+          },
+          {
+            "id": "054",
+            "text": "2001 Lord of the Rings Rivendell council with Chimpo wearing flowing Elven robes and a crown fitted over his helmet, shades on, holding his lit cigar."
+          },
+          {
+            "id": "055",
+            "text": "2008 Iron Man garage lab with Chimpo wearing hot-rod red armor chest pieces over his helmet and shades, chomping a cigar while holding a glowing Arc Reactor."
+          },
+          {
+            "id": "056",
+            "text": "2014 Guardians of the Galaxy Milano cockpit with Chimpo cosplaying in space-bound leather armor, helmet and aviators intact, puffing his cigar."
+          },
+          {
+            "id": "057",
+            "text": "2015 Mad Max Fury Road desert convoy with Chimpo wearing spiked post-apocalyptic shoulder pads over his helmet and shades, holding a roaring cigar fire."
+          },
+          {
+            "id": "058",
+            "text": "2019 Stranger Things Starcourt Mall with Chimpo wearing a retro 80s colorful Hawaiian shirt, helmet, sunglasses, and chomping his cigar under neon signs."
+          },
+          {
+            "id": "059",
+            "text": "2021 The Mandalorian desert outpost with Chimpo wearing modified Beskar armor plates over his helmet and dark shades, holding his lit cigar."
+          },
+          {
+            "id": "060",
+            "text": "2026 Cyberpunk futuristic neon metropolis rooftop with Chimpo wearing high-tech glowing LED-rimmed aviators and a cyber-enhanced helmet, chomping an electric-glowing cigar."
+          }
+        ]
+      }
+    ]
   }
 ]
-
-
-
-
