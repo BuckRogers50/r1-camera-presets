@@ -3803,5 +3803,198 @@
         ]
       }
     ]
+  },
+  {
+    "name": "ONE SHOW-STYLE LONG-FORM ADVERTORIAL",
+    "category": [
+      "RETRO MAGAZINE ADVERTISING",
+      "EDITORIAL TYPOGRAPHY",
+      "PRINT MEDIA",
+      "LONG-FORM ADVERTORIAL"
+    ],
+    "message": "Take a picture and transform it into a classic, copy-heavy retro magazine advertorial spread inspired by mid-to-late 20th-century print advertising. CORE TRANSFORMATION: Reframe the scene into a high-density, multi-column print advertorial layout that balances narrative storytelling with rich typography. The original photograph must be seamlessly incorporated as a poignant editorial insert, centered hero image, or integrated visual anchor embedded within classic serif body copy, striking headlines, drop caps, and authentic magazine layout geometry. IDENTITY PRESERVATION: Preserve the subject's exact facial structure, eye alignment, natural skin texture, features, and expression without distortion or transformation. COMPOSITION: Structure the image as a complete magazine page or double-page spread with perfectly justified copy columns, generous margins, bold headline blocks, and classic editorial rule lines. ADDITIONAL INSTRUCTIONS: Emulate the tactile aesthetic of vintage print—incorporate soft paper yellowing, subtle ink absorption, warm matte paper stock finish, and period-accurate typography choices. NEGATIVE PROMPTS: Modern digital overlays, futuristic sans-serif UI, glossy mobile interfaces, distorted facial features, low-resolution artifacts, chaotic neon vectors. RANDOMIZATION RECOMMENDATIONS: Pair distinct voice styles (e.g., celebrity essays, witty commentaries, literary reflections) with varying multi-column layouts and vintage paper stocks. CREATIVE STRATEGY: Treat the image as a high-end photojournalistic or illustrative anchor framed by engaging long-form journalism. VISUAL DNA: Justified multi-column body copy, bold provocative headlines, drop caps, paper texture, authentic ink bleed, and structured editorial photography framing.",
+    "randomizeOptions": true,
+    "optionGroups": [
+      {
+        "title": "COPYWRITING_VOICE_GROUP",
+        "options": [
+          {
+            "id": "001",
+            "text": "1970s Dick Cavett-style witty 450-word conversational essay with sharp intellectual banter and elegant serif typography."
+          },
+          {
+            "id": "002",
+            "text": "Garrison Keillor-style nostalgic 300-word essay celebrating small-town craftsmanship, handwritten letters, and quiet reflection."
+          },
+          {
+            "id": "003",
+            "text": "David Ogilvy-style persuasive long-form advertorial with dense narrative columns and a bold, fact-driven headline."
+          },
+          {
+            "id": "004",
+            "text": "1980s New Yorker magazine style single-column literary essay with sophisticated intellectual commentary and dense body copy."
+          },
+          {
+            "id": "005",
+            "text": "Dry British humor column layout featuring sharp satirical commentary, crisp subheads, and justified three-column layout."
+          },
+          {
+            "id": "006",
+            "text": "Poetic 1970s luxury travelogue advertorial featuring personal reflections, oversized drop caps, and italicized sub-headers."
+          },
+          {
+            "id": "007",
+            "text": "Investigative photojournalism style advertorial spread with pull-quotes, sidebars, and multi-paragraph story columns."
+          },
+          {
+            "id": "008",
+            "text": "Warm autobiographical monologue advertorial with intimate personal storytelling and traditional editorial margins."
+          },
+          {
+            "id": "009",
+            "text": "1980s cultural commentary essay set in tight, sophisticated multi-column layout with bold provocative headlines."
+          },
+          {
+            "id": "010",
+            "text": "Philosophical artisan manifesto with centered bold title, dense classic serif body text, and subtle footer mark."
+          }
+        ]
+      },
+      {
+        "title": "LAYOUT_GEOMETRY_GROUP",
+        "options": [
+          {
+            "id": "011",
+            "text": "Classic three-column justified editorial grid with the original photograph centered top-half above a bold headline."
+          },
+          {
+            "id": "012",
+            "text": "Full-page photo illustration background with high-contrast text overlay blocks set inside semi-opaque cream paper panels."
+          },
+          {
+            "id": "013",
+            "text": "Two-column essay layout on the left page paired with a full-bleed framed photographic portrait on the facing page."
+          },
+          {
+            "id": "014",
+            "text": "Asymmetrical layout featuring a large central photo inset, oversized bold pull-quote, and wrapped multi-column copy."
+          },
+          {
+            "id": "015",
+            "text": "Horizontal top-half photo banner framed by thin rule lines over a structured four-column text grid."
+          },
+          {
+            "id": "016",
+            "text": "Centered circular photo portrait insert embedded within four tight columns of justified classic serif text."
+          },
+          {
+            "id": "017",
+            "text": "Minimalist single-column essay layout with wide generous margins and a small, delicate rectangular photo inset."
+          },
+          {
+            "id": "018",
+            "text": "Four-column newspaper-style advertorial grid with thin dividing rules, sub-headlines, and centered photo illustration."
+          },
+          {
+            "id": "019",
+            "text": "Diagonal text wrap layout integrating the photographic subject seamlessly alongside dense narrative text blocks."
+          },
+          {
+            "id": "020",
+            "text": "Double-page spread layout with a prominent headline spanning across both pages above multi-column body copy."
+          }
+        ]
+      },
+      {
+        "title": "TYPOGRAPHY_AND_MOOD_GROUP",
+        "options": [
+          {
+            "id": "021",
+            "text": "Bold Garamond headlines paired with clean Caslon body copy, radiating literary authority and warm intellectual mood."
+          },
+          {
+            "id": "022",
+            "text": "Striking ITC Benguiat large-set headline with warm condensed serif text for an authentic 1970s print feel."
+          },
+          {
+            "id": "023",
+            "text": "Classic Times New Roman newsprint typography with dense columns, prominent drop caps, and serious journalistic tone."
+          },
+          {
+            "id": "024",
+            "text": "Elegant Bodoni display headline paired with delicate italicized sub-captions and sophisticated high-fashion mood."
+          },
+          {
+            "id": "025",
+            "text": "Playful Souvenir bold title with cozy, friendly serif body text evoking mid-century lifestyle magazine charm."
+          },
+          {
+            "id": "026",
+            "text": "Sharp Avant Garde display sub-headers contrasted with traditional Bookman serif narrative body text."
+          },
+          {
+            "id": "027",
+            "text": "Provocative bold serif query headline with tight, multi-paragraph story text reflecting deep cultural contemplation."
+          },
+          {
+            "id": "028",
+            "text": "Understated small-caps headline structure with rich, expressive literary essay formatting and calm stoic atmosphere."
+          },
+          {
+            "id": "029",
+            "text": "Retro typewriter-style headers paired with classic editorial serif body blocks for an authentic draft-like tone."
+          },
+          {
+            "id": "030",
+            "text": "Dramatic high-contrast serif display font with oversized decorative initial cap and sophisticated urban energy."
+          }
+        ]
+      },
+      {
+        "title": "PAPER_AND_PRINT_FINISH_GROUP",
+        "options": [
+          {
+            "id": "031",
+            "text": "Premium matte uncoated print-stock finish with subtle paper grain and organic off-white tone."
+          },
+          {
+            "id": "032",
+            "text": "Warm cream newsprint texture with subtle vintage CMYK halftone dot patterns and soft ink absorption."
+          },
+          {
+            "id": "033",
+            "text": "Aged magazine page stock featuring subtle edge foxing, soft paper creases, and rich matte dark ink."
+          },
+          {
+            "id": "034",
+            "text": "1970s Kodachrome warm color photo reproduction embedded within textured ivory archival paper stock."
+          },
+          {
+            "id": "035",
+            "text": "High-contrast black-and-white photo print inset on raw offset press paper with crisp dark typography."
+          },
+          {
+            "id": "036",
+            "text": "Smooth satin magazine page finish with rich color saturation in the image insert and crisp black serif text."
+          },
+          {
+            "id": "037",
+            "text": "Desaturated vintage dye tone reproduction with visible paper fibers and warm retro tinting."
+          },
+          {
+            "id": "038",
+            "text": "Heavy stock rag paper texture with thin embossed border lines and crisp editorial typography printing."
+          },
+          {
+            "id": "039",
+            "text": "Faded 1980s gloss magazine page effect with gentle lighting reflections and authentic press grain."
+          },
+          {
+            "id": "040",
+            "text": "Archival sepia-toned print finish with subtle ink absorption texture, vintage page margins, and timeless patina."
+          }
+        ]
+      }
+    ]
   }
 ]
