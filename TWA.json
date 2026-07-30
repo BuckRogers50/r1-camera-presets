@@ -3996,5 +3996,198 @@
         ]
       }
     ]
+  },
+  {
+    "name": "REFRIGERATOR ITEM SCULPTURE PORTRAITURE",
+    "category": [
+      "FOUND OBJECT ART",
+      "SURREAL SCULPTURE",
+      "KITCHEN ASSEMBLAGE",
+      "EXPERIMENTAL PORTRAITURE"
+    ],
+    "message": "Take a picture and transform it into a striking, whimsical bust portrait sculpted entirely out of everyday food items, produce, condiments, and groceries retrieved directly from a domestic refrigerator. CORE TRANSFORMATION: Reconstruct the facial features, hair, neck, and clothing of the subject using creative arrangements of cold cuts, sliced vegetables, condiments, cheese blocks, leftover containers, fruits, and cold drinks. IDENTITY PRESERVATION: Maintain the subject's distinct facial proportions, head shape, hair volume, line of sight, and characteristic facial expression by carefully mapping specific food textures to anatomical features (e.g., woven pasta or lettuce for hair, olive slices for eyes, condiment drippings for contours, cheese blocks for jawlines). COMPOSITION: Frame as a dramatic studio portrait centered in the shot, isolated against a muted, high-end gallery wall or a dark, reflective kitchen tabletop setting. ADDITIONAL INSTRUCTIONS: Ensure realistic tactile food textures including frosted ice condensation, glossy condiment glazes, crisp vegetable surfaces, and rich dairy matte finishes, lit with crisp studio lighting to elevate everyday food into fine-art assemblage sculpture. NEGATIVE PROMPTS: Standard human skin, digital cartoon rendering, flat illustration, unorganized trash pile, unappetizing rot, messy smear, plain photographic portrait. RANDOMIZATION RECOMMENDATIONS: Pair varied culinary items (deli items vs. tropical produce vs. condiments) with distinct gallery lighting and textural finishes. CREATIVE STRATEGY: Combine playful domestic surrealism with high-end fine art sculptural aesthetics to turn household groceries into a recognizable human portrait. VISUAL DNA: Assemblage sculpture, refrigerator ingredients, tactile food textures, studio directional lighting, high contrast, fine art gallery display.",
+    "randomizeOptions": true,
+    "optionGroups": [
+      {
+        "title": "LIGHTING_GROUP",
+        "options": [
+          {
+            "id": "001",
+            "text": "Cool blue interior refrigerator light casting bright, dramatic glows and crisp highlights across all food surfaces."
+          },
+          {
+            "id": "002",
+            "text": "High-contrast dramatic side spotlight creating deep shadows and highlighting glossy condiment glazes."
+          },
+          {
+            "id": "003",
+            "text": "Warm top-down gallery spotlight illuminating the top contours of the food sculpture against a dark backdrop."
+          },
+          {
+            "id": "004",
+            "text": "Soft diffused studio light highlighting delicate frost droplets and fresh produce textures evenly."
+          },
+          {
+            "id": "005",
+            "text": "Harsh, direct strobe flash accentuating sharp edges of cheese blocks and shimmering moisture drops."
+          },
+          {
+            "id": "006",
+            "text": "Moody chiaroscuro lighting burying half the food bust in shadow for a dramatic Baroque fine-art effect."
+          },
+          {
+            "id": "007",
+            "text": "Crisp dual-rim lighting framing the silhouette of the food portrait with bright icy highlights."
+          },
+          {
+            "id": "008",
+            "text": "Natural morning kitchen sunlight streaming in, catching glossy sauces and translucent citrus slices."
+          },
+          {
+            "id": "009",
+            "text": "Low-key dramatic museum lighting isolating the colorful grocery sculpture against total blackness."
+          },
+          {
+            "id": "010",
+            "text": "Vibrant split lighting with cool fluorescent blue on one side and warm amber refrigerator light on the other."
+          }
+        ]
+      },
+      {
+        "title": "ARRANGEMENT_GROUP",
+        "options": [
+          {
+            "id": "011",
+            "text": "Hair constructed from layered curly kale and spaghetti, with facial features mapped in sliced deli meats."
+          },
+          {
+            "id": "012",
+            "text": "Facial structure built from carved cheddar cheese blocks, with olive slice eyes and a pepper stem nose."
+          },
+          {
+            "id": "013",
+            "text": "Hair composed of overlapping radish slices and berries, with cheekbones formed from halved avocados."
+          },
+          {
+            "id": "014",
+            "text": "Head built entirely from stacked cold cuts, salami wheels, and prosciutto folds with mustard accent lines."
+          },
+          {
+            "id": "015",
+            "text": "Portrait sculpted with vibrant tropical fruits, orange peels for hair, and grape clusters defining the collar."
+          },
+          {
+            "id": "016",
+            "text": "Cheeks and forehead formed from smooth yogurt drips, with hair made from cascading scallion ribbons."
+          },
+          {
+            "id": "017",
+            "text": "Features constructed from condiment bottles, egg cartons, and butter sticks built up like geometric blocks."
+          },
+          {
+            "id": "018",
+            "text": "Hair made of cold cooked noodles, eyes from blueberry halves, and lips sculpted from red bell pepper curves."
+          },
+          {
+            "id": "019",
+            "text": "Complex mosaic of diced colorful vegetables, sweet corn, and peas forming delicate facial shading."
+          },
+          {
+            "id": "020",
+            "text": "Sculptural torso and collar assembled from glass condiment jars, egg crates, and milk carton cardboard."
+          }
+        ]
+      },
+      {
+        "title": "EXPRESSION_GROUP",
+        "options": [
+          {
+            "id": "021",
+            "text": "Stoic, classical bust poise with a serene and commanding gaze rendered in sculpted ingredients."
+          },
+          {
+            "id": "022",
+            "text": "Wide open-mouthed expression formed by a carved melon segment or curved bell pepper slice."
+          },
+          {
+            "id": "023",
+            "text": "Subtle smirk created by a slyly curved chili pepper or angled slice of string cheese."
+          },
+          {
+            "id": "024",
+            "text": "Intense, serious gaze with eyebrows formed from arched pickle slices or dark bean pods."
+          },
+          {
+            "id": "025",
+            "text": "Whimsical, playful wink rendered with one open olive eye and one flattened cucumber slice."
+          },
+          {
+            "id": "026",
+            "text": "Pensive, downward-looking expression with a softly draped pasta noodle jawline."
+          },
+          {
+            "id": "027",
+            "text": "Surprised tilt of the head with exaggerated circular citrus-slice eyes."
+          },
+          {
+            "id": "028",
+            "text": "Regal, dignified stance with a high collar built from overlapping bay leaves or cabbage folds."
+          },
+          {
+            "id": "029",
+            "text": "Lively, laughing mouth showing rows of small white corn kernel teeth."
+          },
+          {
+            "id": "030",
+            "text": "Calm, contemplative expression with smooth, cleanly sliced block-cheese facial contours."
+          }
+        ]
+      },
+      {
+        "title": "SURFACE_FINISH_GROUP",
+        "options": [
+          {
+            "id": "031",
+            "text": "Coated in fine droplets of icy condensation fresh from the freezer shelf."
+          },
+          {
+            "id": "032",
+            "text": "Glossy ketchup, mustard, and sriracha drizzle highlights defining contours and shadows."
+          },
+          {
+            "id": "033",
+            "text": "Matte, powdery dusting of flour and starch over fresh raw vegetable surfaces."
+          },
+          {
+            "id": "034",
+            "text": "Polished, shiny fruit skin sheen with vivid pops of natural primary colors."
+          },
+          {
+            "id": "035",
+            "text": "Rich, glistening oil sheen over cured meats and marinated olive accents."
+          },
+          {
+            "id": "036",
+            "text": "Tactile contrast between rough leafy textures and silky smooth mayonnaise dollops."
+          },
+          {
+            "id": "037",
+            "text": "Clean, crisp knife-cut geometric edges on blocks of hard cheddar and swiss cheese."
+          },
+          {
+            "id": "038",
+            "text": "Fine art gallery pedestal presentation with a dark marble reflection underneath."
+          },
+          {
+            "id": "039",
+            "text": "Frosted glass background texture suggesting the sculpture is inside a brightly lit refrigerator."
+          },
+          {
+            "id": "040",
+            "text": "Hyper-detailed macro sharpness emphasizing seeds, juice droplets, and delicate food fibers."
+          }
+        ]
+      }
+    ]
   }
 ]
