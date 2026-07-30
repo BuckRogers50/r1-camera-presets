@@ -4189,5 +4189,198 @@
         ]
       }
     ]
+  },
+  {
+    "name": "1980S FORTUNE MAGAZINE PRINT ADVERTISING",
+    "category": [
+      "VINTAGE PRINT AD",
+      "EDITORIAL PHOTOGRAPHY",
+      "RETRO CORPORATE",
+      "ANALOG PRINT MEDIA"
+    ],
+    "message": "Take a picture and transform it into an iconic 1980s corporate magazine advertisement for FORTUNE Magazine. CORE TRANSFORMATION: Frame the primary subject as a high-stakes business executive or ambitious professional in a sharp 1980s corporate context. Integrate authentic, provocative, high-level corporate copywriting directly into the visual layout, matching the exact cynical, bold, and aspirational editorial tone of mid-1980s Fortune ads (e.g., lines like 'Keep your nose to the grindstone and all you'll get is a short nose', 'The headhunters will get you if you really use your brains', or 'We're all created equal. After that, baby, you're on your own.'). Feature the signature blocky red or black 'FORTUNE' magazine logo alongside the famous slogan 'How to succeed.' in bold corporate typography. IDENTITY PRESERVATION: Preserve the facial features, bone structure, and core identity of the subject while restyling hair, tailoring, and props into late-1970s or 1980s executive fashion (power suits, wide lapels, crisp neckties, vintage timepieces). COMPOSITION: Design as a full-page magazine spread or offset print layout with clean editorial grid structure, balance between dramatic photography and dense, justified multi-column ad copy blocks. ADDITIONAL INSTRUCTIONS: Emulate 1980s offset lithography magazine printing with subtle halftone dot structures, warm newsprint ink absorption, and realistic vintage paper sheen. NEGATIVE PROMPTS: Modern digital typography, flat vector graphics, contemporary smartphones or laptops, 2020s corporate aesthetic, soft romantic blur, low-resolution artifacts. RANDOMIZATION RECOMMENDATIONS: Pair dramatic corporate executive lighting with varied retro workplace settings, expressive power stances, and authentic vintage print finishes. CREATIVE STRATEGY: Blend high-contrast executive portraiture with sharp, competitive corporate advertising copy to evoke the ambition, drive, and prestige of 1980s high finance and business management. VISUAL DNA: 1980s corporate magazine layout, bold typography, FORTUNE logo with 'How to succeed.' tag, multi-column executive copywriting, halftone offset print paper texture, and power-suit executive aesthetic.",
+    "randomizeOptions": true,
+    "optionGroups": [
+      {
+        "title": "ENVIRONMENT_GROUP",
+        "options": [
+          {
+            "id": "001",
+            "text": "Corner executive office with floor-to-ceiling city skyline views and polished mahogany desk."
+          },
+          {
+            "id": "002",
+            "text": "Sleek 1980s corporate boardroom with a long walnut table, high-back leather chairs, and dim warm lighting."
+          },
+          {
+            "id": "003",
+            "text": "Bustling Wall Street trading floor atmosphere with blurry stock ticker displays in the background."
+          },
+          {
+            "id": "004",
+            "text": "Private airport tarmac beside a sleek vintage corporate jet at dusk."
+          },
+          {
+            "id": "005",
+            "text": "Minimalist high-contrast studio setting with dark dramatic shadows and a classic leather armchair."
+          },
+          {
+            "id": "006",
+            "text": "Downtown Manhattan street scene with yellow taxicabs and bustling commuters in trench coats."
+          },
+          {
+            "id": "007",
+            "text": "High-end corporate skyscraper lobby with marble walls and polished brass accents."
+          },
+          {
+            "id": "008",
+            "text": "Late-night office interior illuminated primarily by a desk lamp and distant city light glow."
+          },
+          {
+            "id": "009",
+            "text": "Exclusive private dining club lounge with plush velvet seating and dark wood paneling."
+          },
+          {
+            "id": "010",
+            "text": "Modernist corporate architecture courtyard with stark geometric shadows and granite pillars."
+          }
+        ]
+      },
+      {
+        "title": "COMPOSITION_GROUP",
+        "options": [
+          {
+            "id": "011",
+            "text": "Upper-body executive portrait with two wide columns of justified serif ad copy positioned directly beneath."
+          },
+          {
+            "id": "012",
+            "text": "Dramatic low-angle power pose with bold headline text running across the top margin above the subject."
+          },
+          {
+            "id": "013",
+            "text": "Three-quarter standing pose with advertisement body copy wrapped cleanly around the subject silhouette."
+          },
+          {
+            "id": "014",
+            "text": "Tight hero headshot occupying the upper half with a three-column retro print layout on the lower half."
+          },
+          {
+            "id": "015",
+            "text": "Asymmetrical layout featuring the subject on the right third and sharp editorial typography on the left."
+          },
+          {
+            "id": "016",
+            "text": "Full-length corporate stance centered with prominent FORTUNE logo and tagline at the bottom right."
+          },
+          {
+            "id": "017",
+            "text": "Candid desk-side perspective with large punchy headline copy overlapping the background shadow."
+          },
+          {
+            "id": "018",
+            "text": "Double-page magazine spread design featuring a wide environmental photograph and structured body text."
+          },
+          {
+            "id": "019",
+            "text": "Close-up eye-level perspective with strong vertical grid division between image and copywriting blocks."
+          },
+          {
+            "id": "020",
+            "text": "Dynamic framed portrait within a white magazine page border, complete with vintage publication margin details."
+          }
+        ]
+      },
+      {
+        "title": "EXPRESSION_GROUP",
+        "options": [
+          {
+            "id": "021",
+            "text": "Unflinching, intense stare projecting extreme ambition, razor-sharp focus, and corporate authority."
+          },
+          {
+            "id": "022",
+            "text": "Subtle, knowing smirk of competitive confidence and sharp business intellect."
+          },
+          {
+            "id": "023",
+            "text": "Stoic, serious facial composure representing high-stakes decision making and responsibility."
+          },
+          {
+            "id": "024",
+            "text": "Pensive, contemplative expression looking off-camera while strategizing long-range moves."
+          },
+          {
+            "id": "025",
+            "text": "Driven, energetic posture captured mid-sentence during a high-powered negotiation."
+          },
+          {
+            "id": "026",
+            "text": "Calm, formidable presence exuding understated power and total industry command."
+          },
+          {
+            "id": "027",
+            "text": "Slightly weary yet determined look, epitomizing the late-night hustle of the fast track."
+          },
+          {
+            "id": "028",
+            "text": "Bold, confrontational gaze directly into the lens, challenging the competitor."
+          },
+          {
+            "id": "029",
+            "text": "Polished, dignified executive grin reflecting major deal closure and market victory."
+          },
+          {
+            "id": "030",
+            "text": "Intense, analytical brow furrow while reviewing crucial corporate market figures."
+          }
+        ]
+      },
+      {
+        "title": "AESTHETIC_FINISH_GROUP",
+        "options": [
+          {
+            "id": "031",
+            "text": "1980s glossy magazine stock finish with warm vintage yellowing and subtle edge ink bleeding."
+          },
+          {
+            "id": "032",
+            "text": "Authentic offset press halftone dot grain with rich contrast Kodak color film reproduction."
+          },
+          {
+            "id": "033",
+            "text": "High-contrast corporate color photography with deep mahogany browns, muted navy blues, and rich reds."
+          },
+          {
+            "id": "034",
+            "text": "Classic vintage Kodachrome film look with crisp micro-contrast and film grain texture."
+          },
+          {
+            "id": "035",
+            "text": "Aged print advert aesthetic with light paper crease lines and authentic magazine staple alignment cues."
+          },
+          {
+            "id": "036",
+            "text": "Rich analog color separation finish with bold red FORTUNE logo and sharp black ITC Garamond body text."
+          },
+          {
+            "id": "037",
+            "text": "Slightly desaturated editorial color palette typical of mid-1980s high-end financial press ads."
+          },
+          {
+            "id": "038",
+            "text": "Crisp executive portraiture illumination with dark vignette edges and retro magazine page margins."
+          },
+          {
+            "id": "039",
+            "text": "Warm tungsten-balanced film aesthetic with brilliant highlight catchlights and deep black density."
+          },
+          {
+            "id": "040",
+            "text": "Authentic archival paper patina finish with matte ink density and high-grade 1980s typography styling."
+          }
+        ]
+      }
+    ]
   }
 ]
