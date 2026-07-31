@@ -4768,5 +4768,199 @@
         ]
       }
     ]
+  },
+  {
+    "name": "PETA ACTIVISM LOBSTER CAMPAIGN",
+    "category": [
+      "PROTEST ART",
+      "SURREAL CAMPAIGN",
+      "ADVOCACY",
+      "STREET PERFORMANCE",
+      "SATIRICAL EDITORIAL"
+    ],
+    "message": "Take a picture and transform it into a provocative, bold PETA-style advocacy street campaign installation. CORE TRANSFORMATION: Transform the subject into a human-lobster hybrid lying prone on a massive white serving plate set up on a sidewalk or public square. The subject's skin is painted vivid, glossy, cooked-lobster red, with realistic lobster claws replacing hands or attached at the arms, and subtle antennae extending from the head. IDENTITY PRESERVATION: Maintain the subject's key facial features, bone structure, and recognizable facial identity beneath the red body paint. COMPOSITION: High-angle bird's-eye or wide dynamic view looking down onto the circular plate display, which features realistic culinary props such as a large plastic lemon wedge, a clear glass of melted butter/citrus juice, and a bed of fresh green lettuce leaves. The rim of the giant plate prominently displays crisp, bold black and blue activist typography such as 'Try to Relate to Who's on Your Plate.' and 'GO VEGAN.'. ADDITIONAL INSTRUCTIONS: Capture an authentic outdoor street exhibition atmosphere, complete with pavement, curb edges, road signs, and background passersby in natural daylight. NEGATIVE PROMPTS: Cooked food textures on the human skin, gory slasher imagery, cartoonish CGI monster effects, indoor studio backgrounds, abstract fantasy worlds, low-resolution blurred text. RANDOMIZATION RECOMMENDATIONS: Pair various street lighting conditions (bright daylight vs. overcast diffuse illumination) with different emotional expressions on the subject's face (pleading, sorrowful, confronting). CREATIVE STRATEGY: Use shock-value visual satire and raw vulnerability to bridge human and animal perspectives in a high-impact public protest context. VISUAL DNA: Glossy red body paint, lobster claw extensions, oversized ceramic plate prop, lemon and butter accessories, bold advocacy text along the rim, outdoor sidewalk setting.",
+    "randomizeOptions": true,
+    "optionGroups": [
+      {
+        "title": "ENVIRONMENT_GROUP",
+        "options": [
+          {
+            "id": "001",
+            "text": "Bright, direct afternoon sunlight casting sharp shadows across a city park pavement installation."
+          },
+          {
+            "id": "002",
+            "text": "Overcast daylight providing soft, even illumination over a busy downtown pedestrian plaza."
+          },
+          {
+            "id": "003",
+            "text": "Urban roadside curb setting with blurred traffic and sidewalk concrete textures framing the plate."
+          },
+          {
+            "id": "004",
+            "text": "Public square setting surrounded by curious onlookers and background pedestrian legs."
+          },
+          {
+            "id": "005",
+            "text": "Crisp morning sunlight glistening off the glossy red body paint and glass prop details."
+          },
+          {
+            "id": "006",
+            "text": "Outdoor exhibition space with neutral gray pavement background contrasting against the bright red subject."
+          },
+          {
+            "id": "007",
+            "text": "Dappled sunlight filtering through tree branches onto the giant white plate installation."
+          },
+          {
+            "id": "008",
+            "text": "City sidewalk background featuring street signs, traffic cones, and asphalt road lines."
+          },
+          {
+            "id": "009",
+            "text": "Diffused outdoor daylight emphasizing the realistic wet sheen of the red body paint and fresh greens."
+          },
+          {
+            "id": "010",
+            "text": "High-noon overhead sun creating strong highlights on the oversized glass and lemon wedge props."
+          }
+        ]
+      },
+      {
+        "title": "POSE_GROUP",
+        "options": [
+          {
+            "id": "011",
+            "text": "Side-lying fetal curled pose across the plate with claws resting gently beside lettuce leaves."
+          },
+          {
+            "id": "012",
+            "text": "Prone position resting on elbows, reaching claw forward toward the edge of the plate."
+          },
+          {
+            "id": "013",
+            "text": "Reclining posture with one arm propping up the head, looking directly up at the viewer."
+          },
+          {
+            "id": "014",
+            "text": "Curled diagonal pose across the oversized serving dish, fitting precisely within the text rim."
+          },
+          {
+            "id": "015",
+            "text": "Subdued supine pose lying flat on the back with antennae pointing toward the plate margin."
+          },
+          {
+            "id": "016",
+            "text": "Asymmetrical pose with legs drawn up and giant lobster claws folded near the chest."
+          },
+          {
+            "id": "017",
+            "text": "Slightly twisted torso leaning away from the oversized butter glass prop in vulnerability."
+          },
+          {
+            "id": "018",
+            "text": "Graceful recline framing the face between red claw extensions and the lemon garnish."
+          },
+          {
+            "id": "019",
+            "text": "Dynamic angle with one claw draped over the rim of the oversized white serving dish."
+          },
+          {
+            "id": "020",
+            "text": "Compact defensive curl resting head-first on a bed of fresh green lettuce leaves."
+          }
+        ]
+      },
+      {
+        "title": "EXPRESSION_GROUP",
+        "options": [
+          {
+            "id": "021",
+            "text": "Direct, emotive gaze looking up at the camera, pleading for empathy and understanding."
+          },
+          {
+            "id": "022",
+            "text": "Melancholic, somber eyes reflecting quiet resignation and vulnerability."
+          },
+          {
+            "id": "023",
+            "text": "Intense, confronting stare challenging the viewer's choices directly."
+          },
+          {
+            "id": "024",
+            "text": "Slightly furrowed brow and parted lips conveying quiet desperation."
+          },
+          {
+            "id": "025",
+            "text": "Stoic, dignified facial expression rising above the surreal absurdity of the demonstration."
+          },
+          {
+            "id": "026",
+            "text": "Sorrowful glance directed just off-camera toward the passing public."
+          },
+          {
+            "id": "027",
+            "text": "Open-eyed, haunting expression emphasizing shared sentience and emotional awareness."
+          },
+          {
+            "id": "028",
+            "text": "Calm, serene composure juxtaposed against the urgent advocacy slogan text."
+          },
+          {
+            "id": "029",
+            "text": "Pained, empathetic look creating an undeniable human connection with the viewer."
+          },
+          {
+            "id": "030",
+            "text": "Pensive, searching gaze asking the viewer to reconsider what is on their plate."
+          }
+        ]
+      },
+      {
+        "title": "AESTHETIC_FINISH_GROUP",
+        "options": [
+          {
+            "id": "031",
+            "text": "Vibrant, high-saturation red body paint with realistic satin skin sheen and sharp contrast."
+          },
+          {
+            "id": "032",
+            "text": "Clean news editorial photojournalism aesthetic with crisp details and natural color grading."
+          },
+          {
+            "id": "033",
+            "text": "Bold graphic contrast between pure white ceramic plate, deep red paint, and verdant greens."
+          },
+          {
+            "id": "034",
+            "text": "Sharp typography rendering along the circular plate rim in crisp black and PETA blue fonts."
+          },
+          {
+            "id": "035",
+            "text": "Documentary-style street photography finish with subtle film grain and realistic sunlight."
+          },
+          {
+            "id": "036",
+            "text": "High-clarity commercial campaign look with punchy primary colors and vivid highlights."
+          },
+          {
+            "id": "037",
+            "text": "Realistic prop textures showing translucent yellow liquid in the glass and detailed lemon skin."
+          },
+          {
+            "id": "038",
+            "text": "Slightly desaturated background tones forcing full visual focus onto the vibrant red subject."
+          },
+          {
+            "id": "039",
+            "text": "Matte press-photo print finish capturing the tangible reality of an authentic outdoor protest event."
+          },
+          {
+            "id": "040",
+            "text": "Razor-sharp focal clarity on the subject's face, antennae, and primary claw extensions."
+          }
+        ]
+      }
+    ]
   }
 ]
