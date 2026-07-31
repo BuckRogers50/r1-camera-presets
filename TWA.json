@@ -5155,5 +5155,198 @@
         ]
       }
     ]
+  },
+  {
+    "name": "PETA CELEBRITY ADVOCACY CAMPAIGN V2",
+    "category": [
+      "BLACK AND WHITE",
+      "ADVOCACY CAMPAIGN",
+      "EDITORIAL PORTRAITURE",
+      "MINIMALIST MONOCHROME"
+    ],
+    "message": "Take a picture and transform it into an iconic PETA-style celebrity advocacy print ad campaign. CORE TRANSFORMATION: Transform the subject into an activist wearing simple, minimalist black activewear, a fitted tank top, or clean bodysuits, sitting or crouching against a textured studio backdrop. Overlaid across the image is bold, prominent graphic typography featuring activist slogans such as 'I'D RATHER GO VEGAN' or 'BE KIND TO ANIMALS' in striking pink font, accompanied by subtext like 'Be comfortable in your own skin, and let animals keep theirs.' and official activist organization branding. IDENTITY PRESERVATION: Preserve the subject's distinct facial features, facial structure, tattoos, skin characteristics, and recognizable physical identity. COMPOSITION: Studio portrait shot framed as a full-body or three-quarter seated pose set against a weathered grey or concrete wall background, with graphic typography prominently placed in the upper-left and bottom-right corners. ADDITIONAL INSTRUCTIONS: Ensure high-contrast monochrome tones on the subject while the promotional headline text pops in a bright signature pink. NEGATIVE PROMPTS: Nudity, exposed chest or waist, color photograph background, soft romantic lighting, low-contrast washed-out tones, digital artifacts, distorted typography. RANDOMIZATION RECOMMENDATIONS: Pair various seated activist poses with different emotional facial expressions ranging from joyful and empowered to solemn and confronting. CREATIVE STRATEGY: Use bold graphic typography and strong emotional connection to deliver a clear, impactful social advocacy message while adhering to clean editorial standards. VISUAL DNA: High-contrast black and white studio photography, simple black athletic apparel, visible body art, weathered studio wall backdrop, vibrant pink overlay typography.",
+    "randomizeOptions": true,
+    "optionGroups": [
+      {
+        "title": "ENVIRONMENT_GROUP",
+        "options": [
+          {
+            "id": "001",
+            "text": "Mottled grey plaster wall backdrop with subtle concrete studio texture."
+          },
+          {
+            "id": "002",
+            "text": "Weathered slate studio wall providing a dark, dramatic monochromatic backdrop."
+          },
+          {
+            "id": "003",
+            "text": "Smooth industrial concrete surface with soft directional studio light falloff."
+          },
+          {
+            "id": "004",
+            "text": "Distressed dark grey canvas backdrop highlighting subject contours."
+          },
+          {
+            "id": "005",
+            "text": "Minimalist monochrome studio background with soft rim lighting along the wall texture."
+          },
+          {
+            "id": "006",
+            "text": "Aged stone-texture studio backdrop with subtle tonal gradients."
+          },
+          {
+            "id": "007",
+            "text": "Raw cement wall backdrop creating an edgy, unpolished editorial mood."
+          },
+          {
+            "id": "008",
+            "text": "Neutral charcoal grey canvas backdrop with focused spotlighting on the subject."
+          },
+          {
+            "id": "009",
+            "text": "High-contrast textured grey backdrop emphasizing dramatic black and white tones."
+          },
+          {
+            "id": "010",
+            "text": "Soft matte grey seamless background setting off the vibrant pink text elements."
+          }
+        ]
+      },
+      {
+        "title": "POSE_GROUP",
+        "options": [
+          {
+            "id": "011",
+            "text": "Seated crouch hugging knees close to the chest in fitted black activewear while smiling back over the shoulder."
+          },
+          {
+            "id": "012",
+            "text": "Side-profile seated pose with arms wrapped around knees in a comfortable, relaxed posture."
+          },
+          {
+            "id": "013",
+            "text": "Cross-legged seated pose turning torso toward the camera with hands resting naturally on the lap."
+          },
+          {
+            "id": "014",
+            "text": "Full-body side angle sitting on the floor in a minimalist black tank top with chin resting lightly on raised knees."
+          },
+          {
+            "id": "015",
+            "text": "Dynamic seated stance looking directly forward over folded arms."
+          },
+          {
+            "id": "016",
+            "text": "Empowered seated position leaning back slightly with head tilted toward the light."
+          },
+          {
+            "id": "017",
+            "text": "Compact crouch pose in black studio apparel showcasing arm tattoos and strong posture."
+          },
+          {
+            "id": "018",
+            "text": "Three-quarter seated study with legs drawn up and shoulders angled toward the viewer."
+          },
+          {
+            "id": "019",
+            "text": "Casual side-sitting posture with a joyful backward glance toward the lens."
+          },
+          {
+            "id": "020",
+            "text": "Symmetrical seated pose hugging knees tightly, framed centrally against the backdrop."
+          }
+        ]
+      },
+      {
+        "title": "EXPRESSION_GROUP",
+        "options": [
+          {
+            "id": "021",
+            "text": "Broad, radiant smile looking over shoulder with confident, joyful energy."
+          },
+          {
+            "id": "022",
+            "text": "Empowered, playful laughter captured in a candid, uninhibited moment."
+          },
+          {
+            "id": "023",
+            "text": "Direct, serious gaze projecting determination and strong activist advocacy."
+          },
+          {
+            "id": "024",
+            "text": "Calm, comfortable expression conveying personal pride and self-assurance."
+          },
+          {
+            "id": "025",
+            "text": "Intense, earnest eye contact connecting directly with the viewer."
+          },
+          {
+            "id": "026",
+            "text": "Warm, genuine smile displaying authentic emotion and friendliness."
+          },
+          {
+            "id": "027",
+            "text": "Stoic and fierce facial composure projecting uncompromising conviction."
+          },
+          {
+            "id": "028",
+            "text": "Lighthearted, candid smile turned toward the camera lens."
+          },
+          {
+            "id": "029",
+            "text": "Serene, gentle expression reflecting inner comfort and peace."
+          },
+          {
+            "id": "030",
+            "text": "Bold, expressive grin filled with rebellious spirit and energy."
+          }
+        ]
+      },
+      {
+        "title": "AESTHETIC_FINISH_GROUP",
+        "options": [
+          {
+            "id": "031",
+            "text": "High-contrast black and white photography with bold magenta-pink headline overlays."
+          },
+          {
+            "id": "032",
+            "text": "Crisp editorial print campaign aesthetic with clean typography and punchy pink text contrast."
+          },
+          {
+            "id": "033",
+            "text": "Rich silver-toned monochrome photography accented by hot-pink activist slogan graphics."
+          },
+          {
+            "id": "034",
+            "text": "Dramatic studio key lighting casting defined shadows on muscle definition and body art."
+          },
+          {
+            "id": "035",
+            "text": "Classic magazine advocacy print style with distinct headline and subtext layout regions."
+          },
+          {
+            "id": "036",
+            "text": "Matte-finish black and white print look with soft highlights and vivid pink text."
+          },
+          {
+            "id": "037",
+            "text": "Sharp micro-contrast revealing detailed fabric weaves and intricate tattoo work."
+          },
+          {
+            "id": "038",
+            "text": "Grainless monochrome portrait clarity with graphic banner overlays in signature advocacy colors."
+          },
+          {
+            "id": "039",
+            "text": "Fine-art celebrity portrait finish with bold sans-serif activist typography."
+          },
+          {
+            "id": "040",
+            "text": "Stark contrast monochrome photography with crisp graphic branding logos in the corner."
+          }
+        ]
+      }
+    ]
   }
 ]
