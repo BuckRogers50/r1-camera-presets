@@ -4575,5 +4575,198 @@
         ]
       }
     ]
+  },
+  {
+    "name": "DOOM 1996 SITCOM RETRO FPS",
+    "category": [
+      "RETRO GAMING",
+      "1980S SITCOM",
+      "PIXEL ART FPS",
+      "VINTAGE CYBER-RETRO"
+    ],
+    "message": "Take a picture and transform it into a 1996 classic PC first-person shooter (FPS) video game screenshot, rendering the scene in low-resolution 2.5D ray-casted pixel graphics set within a nostalgic 1980s suburban sitcom interior. CORE TRANSFORMATION: Convert the subject and environment into digitized pixelated sprites and textures typical of id Tech 1 / Doom engine PC games from the mid-1990s. The setting must blend 1980s sitcom living room aesthetic—patterned wallpaper, plush sofas, wood-paneled console TVs, pastel carpets, brass floor lamps—with the retro HUD, pixelated monster/character sprites, and first-person weapon perspective of a classic shareware shooter. IDENTITY PRESERVATION: Translate the subject's distinct facial structure, hairstyle, and outfit into low-res 256-color palette pixel artwork while maintaining recognizable features. COMPOSITION: Frame from a strict first-person perspective, centered at eye level with a classic retro HUD overlay at the bottom of the screen displaying health percentage, ammo count, weapon icons, and a animated pixel face portrait. ADDITIONAL INSTRUCTIONS: Apply heavy pixelation, 256-color dithered shading, low-resolution texture mapping, flat sector lighting, and visible HUD stats. NEGATIVE PROMPTS: Modern 3D graphics, photorealism, ray tracing, smooth anti-aliased edges, high-resolution textures, modern UI, realistic depth of field, sleek contemporary lighting. RANDOMIZATION RECOMMENDATIONS: Pair various classic 80s sitcom living room sets (multi-cam studio stage layout, sunken living room, floral wallpapers) with pixelated retro HUD designs and low-poly 2.5D visual effects. CREATIVE STRATEGY: Merge the absurdity and warmth of 1980s prime-time television nostalgia with the gritty, low-bit pixel aesthetic of mid-90s shareware computer gaming. VISUAL DNA: 256-color palette, 320x200 pixelated resolution, 2.5D ray-casted geometry, bottom-screen HUD status bar, dithered shading, 1980s sitcom set design, digitized sprite character rendering.",
+    "randomizeOptions": true,
+    "optionGroups": [
+      {
+        "title": "ENVIRONMENT_GROUP",
+        "options": [
+          {
+            "id": "001",
+            "text": "Multi-camera sitcom living room set with wood-paneled walls, floral pattern sofa, and a background staircase."
+          },
+          {
+            "id": "002",
+            "text": "Cozy 1980s suburban kitchen featuring avocado green appliances, linoleum floors, and breakfast nook."
+          },
+          {
+            "id": "003",
+            "text": "Brightly lit studio-audience sitcom stage set with pastel walls, brass standing lamps, and plaid armchairs."
+          },
+          {
+            "id": "004",
+            "text": "Retro suburban basement hangout with exposed brick walls, vintage arcade cabinet in the corner, and shag carpet."
+          },
+          {
+            "id": "005",
+            "text": "1980s TV family dining room complete with heavy oak table, floral wallpaper, and framed family portraits."
+          },
+          {
+            "id": "006",
+            "text": "Classic prime-time hallway with multiple bedroom doors, patterned carpet runner, and vintage brass light fixtures."
+          },
+          {
+            "id": "007",
+            "text": "Sunken 80s living room with step-down seating area, glass coffee table, and large CRT console television."
+          },
+          {
+            "id": "008",
+            "text": "Suburban garage workbench environment filled with retro power tools, vintage lawnmower, and pegboard walls."
+          },
+          {
+            "id": "009",
+            "text": "Wood-trimmed 1980s home office set featuring a massive beige desktop PC, swivel chair, and filing cabinets."
+          },
+          {
+            "id": "010",
+            "text": "Prime-time sitcom foyer featuring double front doors, coat rack, stained glass transom window, and patterned rug."
+          }
+        ]
+      },
+      {
+        "title": "FPS_PERSPECTIVE_GROUP",
+        "options": [
+          {
+            "id": "011",
+            "text": "Centered first-person view holding a pixelated retro TV remote control raised in the middle of the frame."
+          },
+          {
+            "id": "012",
+            "text": "First-person perspective holding a chunky grey 1980s corded landline telephone pointed ahead like a weapon."
+          },
+          {
+            "id": "013",
+            "text": "FPS view pointing a oversized pixelated VHS tape straight down the center corridor of the sitcom set."
+          },
+          {
+            "id": "014",
+            "text": "Classic centered first-person camera angle holding a retro red plastic flashlight emitting low-res light."
+          },
+          {
+            "id": "015",
+            "text": "First-person hand perspective holding a pixelated cassette player with glowing LED meters centered at the bottom."
+          },
+          {
+            "id": "016",
+            "text": "Centered low-angle FPS perspective aiming a vintage plastic water gun toward the center of the living room."
+          },
+          {
+            "id": "017",
+            "text": "First-person perspective featuring pixelated knuckles gripping a retro TV guide magazine aimed forward."
+          },
+          {
+            "id": "018",
+            "text": "Centered FPS perspective holding a chunky pixelated video camera tripod leg as an improvised weapon."
+          },
+          {
+            "id": "019",
+            "text": "First-person view holding a glowing low-poly retro joystick controller raised dead-center."
+          },
+          {
+            "id": "020",
+            "text": "First-person perspective with bare pixelated gloved hands raised in a classic 90s FPS ready-stance."
+          }
+        ]
+      },
+      {
+        "title": "HUD_MOOD_GROUP",
+        "options": [
+          {
+            "id": "021",
+            "text": "Classic blue metal HUD status bar at screen bottom with red digital percentage counters and animated face portrait."
+          },
+          {
+            "id": "022",
+            "text": "Retro grey stone texture HUD overlay with green LED numbers for health/ammo and a pixelated avatar."
+          },
+          {
+            "id": "023",
+            "text": "Vintage CRT television overlay frame with scanlines, channel number display 'CH 03', and bottom status bar."
+          },
+          {
+            "id": "024",
+            "text": "Pixelated HUD status bar featuring '100% LAUGHTER' meter instead of health alongside ammo counters."
+          },
+          {
+            "id": "025",
+            "text": "High-contrast 1996 shareware UI border with yellow digital text displays and a changing facial expression graphic."
+          },
+          {
+            "id": "026",
+            "text": "Industrial grey pixel status bar with armor/health indicators and retro weapon inventory icons across the bottom."
+          },
+          {
+            "id": "027",
+            "text": "Retro PC game overlay with custom 'RATINGS %' status tracker and pixelated character portrait head."
+          },
+          {
+            "id": "028",
+            "text": "Low-res status bar featuring 'SMILE 100%' meter, retro keycard indicators, and chunky digital numbers."
+          },
+          {
+            "id": "029",
+            "text": "Dark metallic engine HUD frame with red digital health readout, ammo counters, and pixel portrait."
+          },
+          {
+            "id": "030",
+            "text": "Minimalist 1990s shareware screen overlay with scanline effects and bright green status numbers at bottom left."
+          }
+        ]
+      },
+      {
+        "title": "AESTHETIC_FINISH_GROUP",
+        "options": [
+          {
+            "id": "031",
+            "text": "Authentic 320x200 pixelated resolution with 256-color VGA palette and distinct pixel dithering."
+          },
+          {
+            "id": "032",
+            "text": "Classic CRT monitor aesthetic with subtle curve distortion, scanlines, and RGB phosphor glow."
+          },
+          {
+            "id": "033",
+            "text": "Low-resolution texture mapping with visible pixel grid patterns and flat sector ambient lighting."
+          },
+          {
+            "id": "034",
+            "text": "Retro PC DOS gaming finish with crunchy pixel edges, limited color palette, and high-contrast shadows."
+          },
+          {
+            "id": "035",
+            "text": "Digitized 1990s sprite aesthetic with billboarded 2D character graphics in a 2.5D ray-casted room."
+          },
+          {
+            "id": "036",
+            "text": "Chunky 8-bit color quantization with dithered gradient transitions across background walls and furniture."
+          },
+          {
+            "id": "037",
+            "text": "Classic shareware demo graphics look with sharp pixel borders, intense primary colors, and zero anti-aliasing."
+          },
+          {
+            "id": "038",
+            "text": "Vintage MS-DOS gaming aesthetic featuring pixelated lighting falloff and sector-based shadow stepping."
+          },
+          {
+            "id": "039",
+            "text": "Retro 1996 3D engine render style with low-poly wall geometry and pixel-art texture maps."
+          },
+          {
+            "id": "040",
+            "text": "Pixelated VHS capture aesthetic combining CRT scanlines, 256-color VGA graphics, and subtle color bleed."
+          }
+        ]
+      }
+    ]
   }
 ]
