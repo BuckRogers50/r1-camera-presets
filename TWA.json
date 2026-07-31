@@ -5927,5 +5927,198 @@
         ]
       }
     ]
+  },
+  {
+    "name": "EDITORIAL MONOCHROME CAMPAIGN PORTRAIT",
+    "category": [
+      "BLACK AND WHITE",
+      "EDITORIAL CAMPAIGN",
+      "FINE ART PORTRAITURE",
+      "GRAPHIC MONOCHROME"
+    ],
+    "message": "Take a picture and transform it into a bold, high-contrast monochrome studio editorial campaign portrait inspired by iconic advocacy photography. CORE TRANSFORMATION: Transform the subject into a crisp, high-key black-and-white photograph set against a seamless gray or white studio backdrop. The subject wears a form-fitting tan-colored body stocking, styled to present a sleek, minimalist silhouette. Overlay two bold red horizontal banner bars across the torso containing white uppercase sans-serif typographic text. IDENTITY PRESERVATION: Preserve precise facial structure, bone proportions, hair texture, and distinct anatomical features while capturing an empowering, confident pose. COMPOSITION: Frame as a full-length or three-quarter vertical portrait centered in the frame, emphasizing strong graphic symmetry, vertical posture, and expressive gesture. ADDITIONAL INSTRUCTIONS: Replicate soft studio strobe lighting with gentle shadow drop-off on the backdrop. Overlay crisp red rectangular text banners that obscure parts of the torso while maintaining focus on the subject's face and expression. Include minimal campaign metadata typography in the bottom corner. NEGATIVE PROMPTS: Color photograph (except for red banners), busy outdoor background, chaotic lighting, low contrast, cluttered props, nude skin exposure, heavy digital blur. RANDOMIZATION RECOMMENDATIONS: Combine dynamic overhead arm poses with intense or serene facial expressions and varied banner typography angles. CREATIVE STRATEGY: Blend classic studio portraiture with high-impact graphic design elements to create an iconic editorial campaign aesthetic. VISUAL DNA: Seamless studio backdrop, tan body stocking, sharp black-and-white photography, bold red graphic typographic banners, high vertical posture, and campaign layout.",
+    "randomizeOptions": true,
+    "optionGroups": [
+      {
+        "title": "LIGHTING_GROUP",
+        "options": [
+          {
+            "id": "001",
+            "text": "Soft key light from directly overhead casting subtle downward shadows on the subject in a tan body stocking against a smooth gray seamless backdrop."
+          },
+          {
+            "id": "002",
+            "text": "Diffuse front beauty softbox creating even skin tones and clean highlight reflections across the tan body stocking fabric."
+          },
+          {
+            "id": "003",
+            "text": "Dual studio strobes illuminating both sides of the subject evenly, separating the tan body stocking silhouette cleanly from the background."
+          },
+          {
+            "id": "004",
+            "text": "High-key studio strobe setup enveloping the entire frame in bright white light with soft gray gradients behind the subject."
+          },
+          {
+            "id": "005",
+            "text": "Punchy side directional light highlighting muscle definition and fabric contour lines along the tan body stocking."
+          },
+          {
+            "id": "006",
+            "text": "Subtle hair rim light creating a glowing outline around textured locks against a medium gray backdrop."
+          },
+          {
+            "id": "007",
+            "text": "Classic butterfly key lighting positioned slightly above eye level, creating structured cheekbone shadows."
+          },
+          {
+            "id": "008",
+            "text": "Single large umbrella modifier producing smooth tonal transitions across the monochrome portrait."
+          },
+          {
+            "id": "009",
+            "text": "Hard studio flash producing crisp catchlights in the eyes and sharp contrast along the subject's posture."
+          },
+          {
+            "id": "010",
+            "text": "Balanced key and fill lighting creating a timeless, commercial fashion editorial atmosphere."
+          }
+        ]
+      },
+      {
+        "title": "POSE_GROUP",
+        "options": [
+          {
+            "id": "011",
+            "text": "Full-length standing pose in a tan body stocking with both arms raised straight up overhead and hands gracefully crossed."
+          },
+          {
+            "id": "012",
+            "text": "Asymmetrical standing posture in a tan body stocking with one leg slightly bent and hips angled toward the camera."
+          },
+          {
+            "id": "013",
+            "text": "Three-quarter editorial pose with one arm bent overhead and the other resting near the waist."
+          },
+          {
+            "id": "014",
+            "text": "Empowered vertical stance in a tan body stocking with chin raised slightly and shoulders pushed back."
+          },
+          {
+            "id": "015",
+            "text": "Dynamic full-length pose leaning subtly to one side, creating a serpentine fluid line with the body."
+          },
+          {
+            "id": "016",
+            "text": "Symmetrical standing pose in a tan body stocking with hands placed on the hips and elbows flared wide."
+          },
+          {
+            "id": "017",
+            "text": "High-fashion pose with head turned over one shoulder while torso remains facing forward in the body stocking."
+          },
+          {
+            "id": "018",
+            "text": "Candid mid-motion pose in a tan body stocking with fingers gently running through tousled hair."
+          },
+          {
+            "id": "019",
+            "text": "Full-length studio stance with tiptoes engaged, elongating the overall vertical frame."
+          },
+          {
+            "id": "020",
+            "text": "Classic studio fashion posture with arms resting behind the head, framing the facial features."
+          }
+        ]
+      },
+      {
+        "title": "EXPRESSION_GROUP",
+        "options": [
+          {
+            "id": "021",
+            "text": "Confident, direct gaze with a subtle, serene expression looking straight into the lens."
+          },
+          {
+            "id": "022",
+            "text": "Intense, captivating gaze with slightly parted lips projecting strength and conviction."
+          },
+          {
+            "id": "023",
+            "text": "Spontaneous, joyful expression capturing a genuine, uninhibited moment."
+          },
+          {
+            "id": "024",
+            "text": "Stoic, empowered facial composure with calm eyes staring past the camera frame."
+          },
+          {
+            "id": "025",
+            "text": "Playful, energetic expression with tousled hair framing a lighthearted smile."
+          },
+          {
+            "id": "026",
+            "text": "Defiant, bold facial expression with chin lifted high and eyes focused intently."
+          },
+          {
+            "id": "027",
+            "text": "Soft, contemplative expression with relaxed facial features and gentle gaze."
+          },
+          {
+            "id": "028",
+            "text": "High-fashion sultry glance with eyes half-lidded toward the key light source."
+          },
+          {
+            "id": "029",
+            "text": "Authentic, candid laugh frozen mid-motion for an inviting campaign look."
+          },
+          {
+            "id": "030",
+            "text": "Focused, serious expression conveying purpose and clear intent."
+          }
+        ]
+      },
+      {
+        "title": "AESTHETIC_FINISH_GROUP",
+        "options": [
+          {
+            "id": "031",
+            "text": "Two bold solid red horizontal banners with white bold sans-serif text layered across the upper and lower torso."
+          },
+          {
+            "id": "032",
+            "text": "Vivid scarlet red graphic bars obscuring portions of the tan body stocking with clean, sharp edges."
+          },
+          {
+            "id": "033",
+            "text": "Slightly angled crimson banner stripes containing uppercase campaign typography across the midsection."
+          },
+          {
+            "id": "034",
+            "text": "High-contrast monochrome studio photograph with iconic bright red graphic text overlays."
+          },
+          {
+            "id": "035",
+            "text": "Fine grain 35mm black-and-white film texture paired with flat, crisp red pop-art graphic elements."
+          },
+          {
+            "id": "036",
+            "text": "Minimalist campaign poster layout with small white corner credits and bold red headline banners."
+          },
+          {
+            "id": "037",
+            "text": "Rich silver gelatin monochrome tones on the subject with vibrant crimson text overlays across the body stocking."
+          },
+          {
+            "id": "038",
+            "text": "Graphic red typographic bars layered in front of the subject, creating depth between text and background."
+          },
+          {
+            "id": "039",
+            "text": "High-fashion magazine ad aesthetic with stark red graphic bars and subtle film grain."
+          },
+          {
+            "id": "040",
+            "text": "Clean, modern editorial finish combining crisp gray studio gradients with eye-catching red typography."
+          }
+        ]
+      }
+    ]
   }
 ]
