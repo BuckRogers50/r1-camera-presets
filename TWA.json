@@ -5541,5 +5541,198 @@
         ]
       }
     ]
+  },
+  {
+    "name": "EXPRESSIVE EDITORIAL MONOCHROME WITH PAINTED TEXT",
+    "category": [
+      "FINE ART PORTRAITURE",
+      "EDITORIAL CAMPAIGN",
+      "GRAPHIC MONOCHROME",
+      "TYPOGRAPHIC ART"
+    ],
+    "message": "Take a picture and transform it into a striking, high-contrast monochrome studio portrait overlaid with expressive, hand-painted typography. CORE TRANSFORMATION: Convert the subject into a crisp, high-key black-and-white photograph set against a seamless, pale gray or pure white backdrop. Layer bold, hand-lettered brushstroke text in a vivid accent color across the composition, partially overlapping the subject's body while preserving facial features. IDENTITY PRESERVATION: Maintain precise facial proportions, bone structure, and hair texture while capturing an energetic, authentic expression. COMPOSITION: Center or studio-frame the subject with dramatic graphic presence, balancing human form with bold, dynamic brushwork lettering. ADDITIONAL INSTRUCTIONS: Replicate studio flash illumination with deep blacks, high-key whites, and sharp detail in hair and skin. Overlay tactile acrylic or ink brushstroke text with visible paint texture and natural wet-brush edges. NEGATIVE PROMPTS: Soft romantic blur, natural outdoor scenery, dull gray contrast, flat digital text overlay, low contrast, messy digital smudges. RANDOMIZATION RECOMMENDATIONS: Pair energetic poses with dynamic typography placements and expressive facial emotions. CREATIVE STRATEGY: Combine raw fine-art portrait photography with vivid graphic editorial design. VISUAL DNA: High-key studio backdrop, crisp black-and-white portrait, vibrant hand-painted brush typography, expressive emotion, and clean graphic contrast.",
+    "randomizeOptions": true,
+    "optionGroups": [
+      {
+        "title": "LIGHTING_GROUP",
+        "options": [
+          {
+            "id": "001",
+            "text": "Bright, direct studio strobe casting sharp shadows and creating high-key highlights against a pale background."
+          },
+          {
+            "id": "002",
+            "text": "Overhead beauty key light creating crisp catchlights in the eyes and sculpted cheekbone shadows."
+          },
+          {
+            "id": "003",
+            "text": "Symmetrical double-key lighting illuminating both sides of the figure against a clean white drop."
+          },
+          {
+            "id": "004",
+            "text": "Punchy side strobe accentuating skin texture and graphic lines along the jaw and shoulders."
+          },
+          {
+            "id": "005",
+            "text": "High-contrast ring light illumination producing soft facial fills with deep perimeter shadows."
+          },
+          {
+            "id": "006",
+            "text": "Diffuse overhead softbox lighting generating smooth gray midtones with brilliant white highlights."
+          },
+          {
+            "id": "007",
+            "text": "Direct camera-mounted flash creating flat, raw fashion-editorial lighting with dark edge outlines."
+          },
+          {
+            "id": "008",
+            "text": "Stark key light paired with subtle bounce fill, highlighting expressive facial contortions."
+          },
+          {
+            "id": "009",
+            "text": "Hard directional spotlight isolating the upper torso against a seamless light gray backdrop."
+          },
+          {
+            "id": "010",
+            "text": "Clean, high-key studio illumination enveloping the subject with minimal background drop-off."
+          }
+        ]
+      },
+      {
+        "title": "POSE_GROUP",
+        "options": [
+          {
+            "id": "011",
+            "text": "Frontal, open-armed studio pose with hands covering the chest in an authentic, expressive gesture."
+          },
+          {
+            "id": "012",
+            "text": "Dynamic mid-laugh turn with shoulders angled slightly toward the camera lens."
+          },
+          {
+            "id": "013",
+            "text": "Three-quarter standing pose with hands positioned strategically, creating sharp elbow angles."
+          },
+          {
+            "id": "014",
+            "text": "Tight close-up shot focusing on neck, face, and expressive hair texture."
+          },
+          {
+            "id": "015",
+            "text": "Playful posture with head tilted back and arms folded across the torso."
+          },
+          {
+            "id": "016",
+            "text": "Full-length vertical study emphasizing body contours and dramatic silhouette."
+          },
+          {
+            "id": "017",
+            "text": "Asymmetrical pose leaning slightly forward with an engaging, direct gaze."
+          },
+          {
+            "id": "018",
+            "text": "Exaggerated fashion tilt with elongated neck and natural, unposed arm positioning."
+          },
+          {
+            "id": "019",
+            "text": "Candid upper-body pose with hands brought near the face or neck."
+          },
+          {
+            "id": "020",
+            "text": "Spontaneous, energetic stance capturing movement in curly or textured hair."
+          }
+        ]
+      },
+      {
+        "title": "EXPRESSION_GROUP",
+        "options": [
+          {
+            "id": "021",
+            "text": "Exuberant, open-mouthed laugh exuding genuine joy and high energy."
+          },
+          {
+            "id": "022",
+            "text": "Piercing, direct stare with a confident, slight smirk playing on the lips."
+          },
+          {
+            "id": "023",
+            "text": "Playful, vocal expression captured mid-shout or mid-exclamation."
+          },
+          {
+            "id": "024",
+            "text": "Serene, subtle smile with soft eyes looking directly into the camera lens."
+          },
+          {
+            "id": "025",
+            "text": "Defiant, empowered facial expression displaying strength and vulnerability."
+          },
+          {
+            "id": "026",
+            "text": "Intense, captivating gaze with wide eyes and open facial posture."
+          },
+          {
+            "id": "027",
+            "text": "Whimsical, lighthearted grin with natural crinkles around the eyes."
+          },
+          {
+            "id": "028",
+            "text": "Uninhibited, theatrical facial expression reflecting spontaneous passion."
+          },
+          {
+            "id": "029",
+            "text": "Calm, knowing look with relaxed facial muscles and grounded confidence."
+          },
+          {
+            "id": "030",
+            "text": "Dynamic, expressive smile with animated, laughing eyes."
+          }
+        ]
+      },
+      {
+        "title": "AESTHETIC_FINISH_GROUP",
+        "options": [
+          {
+            "id": "031",
+            "text": "Hot-pink, thick acrylic paint brushstroke typography painted boldly across the black-and-white photo."
+          },
+          {
+            "id": "032",
+            "text": "Vibrant magenta wet-brush lettering layered over the subject's torso with realistic paint bristles."
+          },
+          {
+            "id": "033",
+            "text": "Electric-pink calligraphic script overlay with textured paint drips and brush stroke edges."
+          },
+          {
+            "id": "034",
+            "text": "Bold neon-pink painted slogan across the foreground with crisp high-contrast silver portraiture."
+          },
+          {
+            "id": "035",
+            "text": "Tactile gouache brushwork text in brilliant fuchsia spanning from top to bottom of the frame."
+          },
+          {
+            "id": "036",
+            "text": "Saturated hot-pink ink lettering with raw paint splatters overlapping a clean monochrome background."
+          },
+          {
+            "id": "037",
+            "text": "Expressive painted text overlay with heavy paint impasto texture and high-gloss finish."
+          },
+          {
+            "id": "038",
+            "text": "Vivid pink paint brush typography layered with small editorial campaign logos in the lower corner."
+          },
+          {
+            "id": "039",
+            "text": "Hand-lettered paint strokes in vibrant pink contrast sharply against rich velvet blacks and whites."
+          },
+          {
+            "id": "040",
+            "text": "High-fashion magazine poster aesthetic with bold pink handwritten graphics over medium-format film portraiture."
+          }
+        ]
+      }
+    ]
   }
 ]
