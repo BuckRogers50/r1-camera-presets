@@ -4382,5 +4382,198 @@
         ]
       }
     ]
+  },
+  {
+    "name": "CARNIVAL TRIUMPH POOP CRUISE DISASTER",
+    "category": [
+      "DISASTER HUMOR",
+      "FOUND FOOTAGE",
+      "RETRO NEWS",
+      "CHAOTIC REALISM"
+    ],
+    "message": "Take a picture and transform it into a hilarious, chaotic photo from the infamous 2013 Carnival Triumph 'Poop Cruise' crisis, captured mid-disaster aboard a stranded ocean liner. CORE TRANSFORMATION: Place the primary subject on a dark, power-starved cruise ship deck or hallway amidst the total breakdown of maritime luxury. Surround them with authentic, absurd crisis elements: improvised sheet-tents on the Lido deck, backed-up plumbing hazards, red Coast Guard emergency drop boxes, flickering emergency lights, and passengers wearing life vests over resort wear. IDENTITY PRESERVATION: Preserve the facial features, bone structure, and core identity of the subject while expressing extreme realization, disgust, or resigned survivalism. COMPOSITION: Frame as an candid amateur smartphone or snapshot photograph, captured from an awkward, handheld perspective with natural tilt, cluttered background chaos, and realistic environmental distress. ADDITIONAL INSTRUCTIONS: Emulate early 2010s digital camera phone aesthetics with harsh flash overexposure, high ISO noise, compression artifacts, and humid maritime lens haze. NEGATIVE PROMPTS: Pristine luxury cruise interiors, bright clear swimming pool water, modern 2020s smartphones, polished studio lighting, clean glossy surfaces, high-end cinema color grading, neat orderly settings. RANDOMIZATION RECOMMENDATIONS: Combine chaotic deck conditions with Coast Guard relief drops, improvised bedding, distressed passenger reactions, and dark power-outage atmospheres. CREATIVE STRATEGY: Merge high-stakes maritime emergency conditions with absurd, unglamorous vacation survival to capture the viral snapshot humor of a tropical getaway turned total disaster. VISUAL DNA: Stranded cruise ship deck, emergency flash lighting, backed-up plumbing cues, Coast Guard relief crates, makeshift sheet tents, 2010s digital noise, and absurd survival comedy.",
+    "randomizeOptions": true,
+    "optionGroups": [
+      {
+        "title": "ENVIRONMENT_GROUP",
+        "options": [
+          {
+            "id": "001",
+            "text": "Pitch-black interior hallway illuminated only by harsh flashlight beams and glowing red emergency exit signs."
+          },
+          {
+            "id": "002",
+            "text": "Crowded Lido deck covered in makeshift bedsheet tents and scattered lawn chairs under a hazy sun."
+          },
+          {
+            "id": "003",
+            "text": "Stairwell area with orange Coast Guard emergency relief crates and bottled water pallets stacked high."
+          },
+          {
+            "id": "004",
+            "text": "Dim, humid buffet lounge with non-functioning food stations and long lines for cold cereal."
+          },
+          {
+            "id": "005",
+            "text": "Open upper deck overlooking calm ocean waters as a US Coast Guard helicopter hovers overhead dropping cables."
+          },
+          {
+            "id": "006",
+            "text": "Slightly tilted ocean-view cabin with backed-up bathroom plumbing tape warnings on the door."
+          },
+          {
+            "id": "007",
+            "text": "Drafty ship stern at dusk with industrial towing cables stretched taut behind large ocean tugboats."
+          },
+          {
+            "id": "008",
+            "text": "Muster station deck packed with weary tourists wearing bulky yellow life jackets over Hawaiian shirts."
+          },
+          {
+            "id": "009",
+            "text": "Glitzy atrium lounge with dead chandeliers and improvised clotheslines strung between gold pillars."
+          },
+          {
+            "id": "010",
+            "text": "Soggy poolside bar area littered with melting ice buckets, plastic cups, and red emergency hazard buckets."
+          }
+        ]
+      },
+      {
+        "title": "COMPOSITION_GROUP",
+        "options": [
+          {
+            "id": "011",
+            "text": "Candid handheld eye-level snapshot with direct, harsh camera flash overexposing the foreground subject."
+          },
+          {
+            "id": "012",
+            "text": "Low-angle wide shot capturing the subject standing in front of a sprawling sea of makeshift deck tents."
+          },
+          {
+            "id": "013",
+            "text": "Awkward selfie perspective showing the subject in the foreground with chaotic deck activity blurry behind."
+          },
+          {
+            "id": "014",
+            "text": "Slightly tilted horizon angle emphasizing the dead, drifting ship motionless on the open sea."
+          },
+          {
+            "id": "015",
+            "text": "Medium close-up shot framed tightly on the subject holding a makeshift paper sign or emergency ration."
+          },
+          {
+            "id": "016",
+            "text": "High-angle perspective looking down from a balcony deck onto a cluttered, towel-covered walkway."
+          },
+          {
+            "id": "017",
+            "text": "Off-center candid photo with dramatic shadow lines cast by a single battery-powered lantern."
+          },
+          {
+            "id": "018",
+            "text": "Wide environmental shot framing the subject beside a giant Coast Guard supply drop crate."
+          },
+          {
+            "id": "019",
+            "text": "Tight hallway perspective highlighting the narrow, dark passage cluttered with luggage and mattresses."
+          },
+          {
+            "id": "020",
+            "text": "Documentary-style snapshot with a tilted frame capturing sudden movement and ambient panic."
+          }
+        ]
+      },
+      {
+        "title": "EXPRESSION_GROUP",
+        "options": [
+          {
+            "id": "021",
+            "text": "Shocked, wide-eyed stare of total disgust at an unseen plumbing disaster off-camera."
+          },
+          {
+            "id": "022",
+            "text": "Resigned, deadpan expression holding a soggy paper plate of emergency spam and crackers."
+          },
+          {
+            "id": "023",
+            "text": "Exaggerated grimace holding two fingers tightly over the nose to block out severe ship odors."
+          },
+          {
+            "id": "024",
+            "text": "Triumphant, hysterical laugh while waving an improvised red distress towel toward the sky."
+          },
+          {
+            "id": "025",
+            "text": "Exhausted, hollow-eyed stare slouched against a hallway wall after four days without air conditioning."
+          },
+          {
+            "id": "026",
+            "text": "Determined survivalist grin while wearing three mismatched Hawaiian shirts and a life vest."
+          },
+          {
+            "id": "027",
+            "text": "Panicked, mid-shout face pointing toward an approaching ocean tugboat on the horizon."
+          },
+          {
+            "id": "028",
+            "text": "Ironic thumbs-up gesture while sitting on a pile of pool towels in a pitch-black corridor."
+          },
+          {
+            "id": "029",
+            "text": "Bewildered, squinting expression trying to read a hand-lettered daily cruise schedule update."
+          },
+          {
+            "id": "030",
+            "text": "Dramatically traumatized gaze holding a single precious bottle of relief-ship water."
+          }
+        ]
+      },
+      {
+        "title": "AESTHETIC_FINISH_GROUP",
+        "options": [
+          {
+            "id": "031",
+            "text": "Early 2010s iPhone camera quality with heavy compression artifacts and blown-out flash highlights."
+          },
+          {
+            "id": "032",
+            "text": "Grainy low-light digital photo texture with prominent sensor noise and green emergency light tint."
+          },
+          {
+            "id": "033",
+            "text": "Humid maritime lens fog effect with soft halo blooms around flashlight beams and lanterns."
+          },
+          {
+            "id": "034",
+            "text": "Harsh, uncorrected tungsten lighting tint with deep black shadows in unlit ship compartments."
+          },
+          {
+            "id": "035",
+            "text": "Muted, desaturated color palette reflecting power loss, stale humidity, and salty ocean air."
+          },
+          {
+            "id": "036",
+            "text": "Slightly blurred motion exposure capturing the frantic shake of a handheld emergency photo."
+          },
+          {
+            "id": "037",
+            "text": "Warm afternoon sun glare mixed with harsh digital sharpening typical of 2013 mobile uploaded photos."
+          },
+          {
+            "id": "038",
+            "text": "Flash-exposed snapshot style with intense foreground brightness and a pitch-black background abyss."
+          },
+          {
+            "id": "039",
+            "text": "Slightly smudged lens camera aesthetic with lens flare streaks from Coast Guard helicopter searchlights."
+          },
+          {
+            "id": "040",
+            "text": "Authentic news broadcast photo feel with raw digital ISO noise and rugged, unpolished contrast."
+          }
+        ]
+      }
+    ]
   }
 ]
