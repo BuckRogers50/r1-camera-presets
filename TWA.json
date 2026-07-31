@@ -5734,5 +5734,198 @@
         ]
       }
     ]
+  },
+  {
+    "name": "RICHARD AVEDON HIGH-CONTRAST PORTRAITURE",
+    "category": [
+      "BLACK AND WHITE",
+      "FINE ART PORTRAITURE",
+      "ICONIC FASHION",
+      "MINIMALIST MONOCHROME"
+    ],
+    "message": "Take a picture and transform it into a stark, emotionally raw black-and-white portrait in the signature photography style of Richard Avedon. CORE TRANSFORMATION: Isolate the subject against a seamless, brilliant white backdrop with no horizon line or extraneous environmental distractions. The subject is always wearing a form-fitting tan-colored body stocking that acts as a minimalist canvas for the portrait. Render the image in crisp, rich monochrome with deep blacks, bright whites, and refined midtone detail. IDENTITY PRESERVATION: Maintain the subject's precise facial feature proportions, facial bone structure, skin texture, and unique anatomical characteristics while capturing an intimate, vulnerable, or striking psychological moment. COMPOSITION: Frame as a tight headshot, three-quarter portrait, or full-length standing study with strong graphic lines, sharp contrast, and an unvarnished human presence. ADDITIONAL INSTRUCTIONS: Emulate medium-format or large-format film clarity (like an 8x10 view camera) with razor-sharp micro-contrast, crisp shadows under facial features, and the subtle black edge border of a negative frame. Ensure the tan-colored body stocking retains smooth fabric texture, subtle seams, and natural light contours. NEGATIVE PROMPTS: Color photography, cluttered or naturalistic background scenery, heavy bokeh blur, soft romantic diffusion, over-retouched smooth skin, dramatic color gels, low-contrast gray tones, bare skin torso, nudity. RANDOMIZATION RECOMMENDATIONS: Pair various stark lighting styles (bare beauty dish vs. punchy key light) with unposed, expressive physical gestures and deep emotional expressions. CREATIVE STRATEGY: Strip away theatrical props to focus entirely on human character, psychological truth, graphic visual clarity, and the sleek outline of the tan body stocking. VISUAL DNA: Seamless white backdrop, tan body stocking, intense grainless monochrome contrast, unvarnished human expression, graphic silhouette, and medium-format negative frame edges.",
+    "randomizeOptions": true,
+    "optionGroups": [
+      {
+        "title": "LIGHTING_GROUP",
+        "options": [
+          {
+            "id": "001",
+            "text": "Stark frontal key light with minimal shadow fill, creating sharp facial contour definition and highlighting the sleek fabric of the tan body stocking against pure white."
+          },
+          {
+            "id": "002",
+            "text": "High-contrast electronic flash casting crisp, tight shadows beneath the nose, chin, and cheekbones, emphasizing the form of the tan body stocking."
+          },
+          {
+            "id": "003",
+            "text": "Brilliant overhead beauty key light emphasizing eye socket shadows and cheek structure with brilliant rim highlights along the shoulders of the tan body stocking."
+          },
+          {
+            "id": "004",
+            "text": "Even, high-key studio illumination surrounding the subject and their tan body stocking in an envelope of bright white space."
+          },
+          {
+            "id": "005",
+            "text": "Punchy directional hard light revealing raw skin texture, fine line details, and stark tonal transitions across the tan body stocking."
+          },
+          {
+            "id": "006",
+            "text": "Diffuse single key light producing smooth silver midtones while maintaining pitch-black shadows along the edges of the tan body stocking."
+          },
+          {
+            "id": "007",
+            "text": "Direct strobe lighting casting a sharp, dark shadow line along one side of the jaw, neck, and torso of the tan body stocking."
+          },
+          {
+            "id": "008",
+            "text": "Crisp side-profile key light rendering high-contrast highlights on features while shadowing half the face and the tan body stocking."
+          },
+          {
+            "id": "009",
+            "text": "Bare studio bulb light giving an authentic, unvarnished fashion portrait quality with deep shadow pockets along the tan body stocking folds."
+          },
+          {
+            "id": "010",
+            "text": "Symmetrical dual key light highlighting both sides of the face while isolating the subject in the tan body stocking against brilliant white."
+          }
+        ]
+      },
+      {
+        "title": "POSE_GROUP",
+        "options": [
+          {
+            "id": "011",
+            "text": "Direct, confronting head-on stance in a tan body stocking, facing the camera dead-center with absolute poise."
+          },
+          {
+            "id": "012",
+            "text": "Dynamic mid-motion turn of the shoulders toward the lens in a tan body stocking with a sharp, inquisitive tilt of the head."
+          },
+          {
+            "id": "013",
+            "text": "Dramatic three-quarter profile pose in a tan body stocking with hands raised naturally near the chin or cheek."
+          },
+          {
+            "id": "014",
+            "text": "Full-length standing pose capturing a stark, graphic silhouette in a tan body stocking against the stark white background."
+          },
+          {
+            "id": "015",
+            "text": "Slightly bent torso in a tan body stocking leaning forward into the lens, creating an intimate, confrontational perspective."
+          },
+          {
+            "id": "016",
+            "text": "Asymmetrical shoulder drop with arms folded sharply across the chest of the tan body stocking in a classic studio portrait stance."
+          },
+          {
+            "id": "017",
+            "text": "Candid gesture with one hand touching the neckline of the tan body stocking, frozen mid-motion by high-speed flash."
+          },
+          {
+            "id": "018",
+            "text": "Exaggerated fashion tilt in a sleek tan body stocking with elongated neck line and sharp angular elbow positioning."
+          },
+          {
+            "id": "019",
+            "text": "Tight close-up framing from chin to forehead, emphasizing eyes and mouth with the collar of the tan body stocking visible."
+          },
+          {
+            "id": "020",
+            "text": "Slightly off-balance movement pose in a tan body stocking, capturing a fleeting instance of uninhibited physical energy."
+          }
+        ]
+      },
+      {
+        "title": "EXPRESSION_GROUP",
+        "options": [
+          {
+            "id": "021",
+            "text": "Piercing, unblinking gaze that looks directly into the camera lens with psychological intensity."
+          },
+          {
+            "id": "022",
+            "text": "Slightly open-mouthed expression of vulnerable contemplation or quiet surprise."
+          },
+          {
+            "id": "023",
+            "text": "Unfiltered, joyous laugh captured in mid-exhalation with authentic facial creasing."
+          },
+          {
+            "id": "024",
+            "text": "Stoic, stern facial composure projecting deep personal authority and quiet strength."
+          },
+          {
+            "id": "025",
+            "text": "Melancholic, introspective stare looking just slightly off-camera past the viewer."
+          },
+          {
+            "id": "026",
+            "text": "Intense furrowed brow with a focused, analytical gaze revealing inner tension."
+          },
+          {
+            "id": "027",
+            "text": "Subtle smirk of quiet wit or irony playing across one side of the mouth."
+          },
+          {
+            "id": "028",
+            "text": "Exhausted yet dignified vulnerability, stripping away performance for raw honesty."
+          },
+          {
+            "id": "029",
+            "text": "Ecstatic, theatrical emotion with mouth open wide in a moment of pure performance."
+          },
+          {
+            "id": "030",
+            "text": "Calm, serene facial stillness devoid of performative smiling or forced pose."
+          }
+        ]
+      },
+      {
+        "title": "AESTHETIC_FINISH_GROUP",
+        "options": [
+          {
+            "id": "031",
+            "text": "Ultra-sharp 8x10 film clarity with ultra-rich black density, pure white highlights, and crisp definition on the tan body stocking."
+          },
+          {
+            "id": "032",
+            "text": "Classic silver gelatin print texture with smooth tonal gradations across skin midtones and the tan body stocking fabric."
+          },
+          {
+            "id": "033",
+            "text": "High-contrast Tri-X black-and-white film grain with deep shadow crush, brilliant whites, and detailed body stocking weave."
+          },
+          {
+            "id": "034",
+            "text": "Clean black photographic negative border around the perimeter framing the subject in the tan body stocking."
+          },
+          {
+            "id": "035",
+            "text": "Deep velvet-black darks paired with crisp micro-contrast across the tan body stocking fabric and skin."
+          },
+          {
+            "id": "036",
+            "text": "Graphite-toned monochrome conversion with enhanced sharpness on hair, pupil catchlights, and body stocking contours."
+          },
+          {
+            "id": "037",
+            "text": "Minimalist high-key finish stripping all ambient context down to graphic black forms and the tan body stocking on white."
+          },
+          {
+            "id": "038",
+            "text": "Fine-art exhibition print aesthetic with extreme detail in the tan body stocking textile weave, tailoring, and skin."
+          },
+          {
+            "id": "039",
+            "text": "Vintage Kodak portrait film character with rich deep blacks, crisp whites, and neutral grays defining the tan body stocking."
+          },
+          {
+            "id": "040",
+            "text": "Stark high-fashion editorial print finish with hard contrast edges and flawless tonal separation of the tan body stocking."
+          }
+        ]
+      }
+    ]
   }
 ]
