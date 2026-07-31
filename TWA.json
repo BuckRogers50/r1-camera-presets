@@ -6120,5 +6120,198 @@
         ]
       }
     ]
+  },
+  {
+    "name": "INTIMATE AFTERGLOW IPHONE PORTRAIT",
+    "category": [
+      "INTIMATE PORTRAITURE",
+      "CASUAL SNAPSHOT",
+      "ATMOSPHERIC REALISM",
+      "BEDROOM AESTHETIC"
+    ],
+    "message": "Take a picture and transform it into an intimate, photorealistic bedroom portrait captured from the point-of-view of an iPhone 12 camera during a post-intimacy afterglow moment. CORE TRANSFORMATION: Position the subject lying in bed on soft, rumpled sheets, bathed in natural ambient indoor lighting. Render the atmosphere as warm, private, and deeply personal. IDENTITY PRESERVATION: Retain the subject's exact facial structure, skin characteristics, hair texture, and natural feature proportions while adding subtle flushed undertones, gentle disheveled hair, and authentic skin shine. COMPOSITION: Establish an intimate first-person perspective as if looking down at a partner lying beside you. Frame the subject in bed, gazing slightly off-center from the camera lens to convey an indirect, endearing connection toward the unseen photographer. Capture a playful yet longing expression with a subtle lip bite conveying adoration and desire. ADDITIONAL INSTRUCTIONS: Emulate authentic iPhone 12 computational photography traits including slight wide-angle lens distortion at close range, natural digital sensor grain in low-light shadows, soft focus falloff, real-world skin texture with slight flushing, and warm indoor color balance. NEGATIVE PROMPTS: Studio flash lighting, professional DSLR bokeh rendering, studio backdrops, staged poses, harsh flash highlights, polished editorial retouching, heavy makeup, glamor photography style, cold digital tones. RANDOMIZATION RECOMMENDATIONS: Mix soft morning window light with cozy ambient lamp tones, alter sheet textures, and adjust subtle body poses to emphasize relaxed vulnerability. CREATIVE STRATEGY: Ground the image in authentic digital snapshot realism to make the emotional intimacy and spontaneous connection feel raw and completely unscripted. VISUAL DNA: iPhone 12 lens perspective, rumpled bed linens, soft ambient light, warm skin flush, adoration gaze, subtle lip bite, intimate bedroom atmosphere.",
+    "randomizeOptions": true,
+    "optionGroups": [
+      {
+        "title": "LIGHTING_GROUP",
+        "options": [
+          {
+            "id": "001",
+            "text": "Soft morning sunlight filtering through sheer curtains, casting warm golden highlights across the sheets and skin."
+          },
+          {
+            "id": "002",
+            "text": "Dim bedside lamp glow delivering a warm, amber-toned ambiance with soft, deep shadows across the pillows."
+          },
+          {
+            "id": "003",
+            "text": "Overcast window light creating cool, diffused midtones balanced by warm skin highlights in a cozy bedroom."
+          },
+          {
+            "id": "004",
+            "text": "Golden hour sunlight slanting across the mattress, highlighting skin texture and disheveled hair strands."
+          },
+          {
+            "id": "005",
+            "text": "Subtle moonlight combined with soft hallway light spill, casting an intimate low-light tone over the scene."
+          },
+          {
+            "id": "006",
+            "text": "Diffused afternoon daylight washing evenly over the bed, creating clean and gentle skin tones."
+          },
+          {
+            "id": "007",
+            "text": "Warm Edison bulb light spilling softly from a nightstand, illuminating one side of the face and neck."
+          },
+          {
+            "id": "008",
+            "text": "Dusk ambient twilight filtering into the bedroom, creating quiet blue shadows contrasting with warm skin."
+          },
+          {
+            "id": "009",
+            "text": "Soft bounce-light from white bedsheets reflecting gentle illumination under the chin and eyes."
+          },
+          {
+            "id": "010",
+            "text": "Dappled sunlight through tree leaves outside the window, scattering soft light spots across the duvet."
+          }
+        ]
+      },
+      {
+        "title": "POSE_GROUP",
+        "options": [
+          {
+            "id": "011",
+            "text": "Lying flat on the back with one hand tucked casually beneath the pillow and head tilted slightly toward the lens."
+          },
+          {
+            "id": "012",
+            "text": "Resting on one side, cradled in soft white linens, pulling the duvet loosely toward the chest."
+          },
+          {
+            "id": "013",
+            "text": "Reclining at an angle on propped-up pillows, shoulders bare with hair spread loosely across the fabric."
+          },
+          {
+            "id": "014",
+            "text": "Lying diagonally across the bed, one arm extended resting near the unseen photographer's position."
+          },
+          {
+            "id": "015",
+            "text": "Curled relaxed on a side, looking up toward the camera with shoulders slightly slouched in deep comfort."
+          },
+          {
+            "id": "016",
+            "text": "Propped up on one elbow, looking down slightly before catching the camera's angle with an affectionate glance."
+          },
+          {
+            "id": "017",
+            "text": "Lying on the stomach with chin rested on folded hands, gazing up gently into the camera viewpoint."
+          },
+          {
+            "id": "018",
+            "text": "Sprawled comfortably amidst messy blankets, head buried partially in a plush pillow."
+          },
+          {
+            "id": "019",
+            "text": "Slightly turned away from the center of the frame, chin tilted up gently toward the upper camera angle."
+          },
+          {
+            "id": "020",
+            "text": "Reclining lazily with head resting on an arm, showing a relaxed, unposed collarbone and shoulder."
+          }
+        ]
+      },
+      {
+        "title": "EXPRESSION_GROUP",
+        "options": [
+          {
+            "id": "021",
+            "text": "Gazing just past the lens with a gentle lip bite, conveying warm adoration and quiet lingering desire."
+          },
+          {
+            "id": "022",
+            "text": "Subtle, playful lip bite paired with soft, heavy-lidded eyes brimming with affection and intimacy."
+          },
+          {
+            "id": "023",
+            "text": "Soft smile breaking past a tender lip bite, looking up with fond, adoration-filled eyes."
+          },
+          {
+            "id": "024",
+            "text": "Flushed, radiant expression biting the lower lip playfully while maintaining a shy, loving gaze."
+          },
+          {
+            "id": "025",
+            "text": "Warm, affectionate stare looking slightly off-camera with a subtle lip bite and relaxed facial posture."
+          },
+          {
+            "id": "026",
+            "text": "Dreamy, afterglow gaze with eyes softly focused near the lens and a tender lip-biting smile."
+          },
+          {
+            "id": "027",
+            "text": "Captivating, intimate expression with a soft lip bite and eyes radiating post-intimacy closeness."
+          },
+          {
+            "id": "028",
+            "text": "Gentle, enamored look with a subtle bite of the lower lip, reflecting deep personal warmth and affection."
+          },
+          {
+            "id": "029",
+            "text": "Flushed cheeks paired with a tender, wanting gaze looking up toward the photographer with a slight lip bite."
+          },
+          {
+            "id": "030",
+            "text": "Quiet afterglow contentment with an adoring glance directed just past the lens and a subtle, playful lip bite."
+          }
+        ]
+      },
+      {
+        "title": "AESTHETIC_FINISH_GROUP",
+        "options": [
+          {
+            "id": "031",
+            "text": "Authentic iPhone 12 camera processing with Smart HDR warmth, subtle sensor noise in shadows, and natural skin detail."
+          },
+          {
+            "id": "032",
+            "text": "Casual smartphone snapshot aesthetic featuring slight close-range lens perspective and soft natural edge focus."
+          },
+          {
+            "id": "033",
+            "text": "Warm digital sensor color tuning with rich organic skin flush, soft highlight clipping, and shadow detail."
+          },
+          {
+            "id": "034",
+            "text": "Unedited mobile photo look with natural indoor white balance, subtle ISO grain, and raw, unpolished realism."
+          },
+          {
+            "id": "035",
+            "text": "Cozy bedroom snapshot finish with soft computational depth blurring background pillows and bedframes."
+          },
+          {
+            "id": "036",
+            "text": "Slight handheld smartphone movement blur, enhancing the candid, split-second authenticity of the capture."
+          },
+          {
+            "id": "037",
+            "text": "Warm-toned camera phone aesthetic with gentle lens flare from nearby lighting and realistic skin sheen."
+          },
+          {
+            "id": "038",
+            "text": "First-person perspective camera feel with natural focus falloff from the face to the bedsheets."
+          },
+          {
+            "id": "039",
+            "text": "Subtle mobile photo processing with realistic low-light noise reduction artifacts and warm tungsten tones."
+          },
+          {
+            "id": "040",
+            "text": "Photorealistic 26mm smartphone wide-angle rendition with authentic optical character and realistic human textures."
+          }
+        ]
+      }
+    ]
   }
 ]
