@@ -6313,5 +6313,198 @@
         ]
       }
     ]
+  },
+  {
+    "name": "1980S TIMBERLAND VINTAGE PRINT AD",
+    "category": [
+      "VINTAGE ADVERTISING",
+      "EDITORIAL ADVERTISEMENT",
+      "RETRO PRINT",
+      "COPYWRITING & GRAPHIC DESIGN"
+    ],
+    "message": "Take a picture and transform it into an iconic 1980s print advertisement for Timberland. CORE TRANSFORMATION: Transform the image into a classic vintage magazine ad with a bold, high-impact headline in tall, heavy black serif typography dominating the top half of the page[cite: 1]. Below the headline, include detailed, witty, and intelligent multi-column body copy written in Timberland's classic 1980s voice—dry, technical, humorous, and deeply committed to rugged quality[cite: 1]. The body copy must organically weave in details, subjects, and context from the user's uploaded photo, explaining why Timberland gear is essential for that specific scene[cite: 1]. Incorporate realistic product diagrams, cutaways, or technical boot illustrations around or alongside the main image[cite: 1]. Finish with the classic Timberland tree logo at the bottom right[cite: 1]. IDENTITY PRESERVATION: Keep the original subject's core features intact while recontextualizing them into a monochrome or warm vintage print photo within the ad page. COMPOSITION: Full-page print layout featuring a dominant headline, multi-column body text wrapped around technical boot callouts, and the Timberland branding footer[cite: 1]. NEGATIVE PROMPTS: Modern digital layouts, neon graphics, futuristic UI, colorful vector art, low-quality modern web ads. RANDOMIZATION RECOMMENDATIONS: Pair various print textures with distinct vintage typography arrangements and technical boot diagram callouts. CREATIVE STRATEGY: Merge dry, high-brow copywriting with rugged outdoor utility to create an authentic 1980s magazine print aesthetic. VISUAL DNA: High-contrast headline typography, newsprint/magazine texture, multi-column editorial copy, technical leather and boot cutaways, classic Timberland logo[cite: 1].",
+    "randomizeOptions": true,
+    "optionGroups": [
+      {
+        "title": "LAYOUT_STYLE_GROUP",
+        "options": [
+          {
+            "id": "001",
+            "text": "Classic two-column newsprint layout with giant, ultra-bold black serif headline spanning four lines at the top[cite: 1]."
+          },
+          {
+            "id": "002",
+            "text": "Full-bleed monochrome photographic center with dense editorial body text and technical boot callouts wrapped along the margins[cite: 1]."
+          },
+          {
+            "id": "003",
+            "text": "High-contrast 1980s magazine page featuring a massive bold headline, detailed anatomical boot diagrams, and a small Timberland logo footer[cite: 1]."
+          },
+          {
+            "id": "004",
+            "text": "Three-column editorial style with warm off-white newsprint paper texture and dark charcoal typography[cite: 1]."
+          },
+          {
+            "id": "005",
+            "text": "Vintage magazine back-cover style with prominent headline, technical leather layer breakdown, and dense narrative text[cite: 1]."
+          },
+          {
+            "id": "006",
+            "text": "Minimalist graphic print layout featuring bold condensed serif headlines and crisp product cutaway diagrams[cite: 1]."
+          },
+          {
+            "id": "007",
+            "text": "Retro newspaper ad style with slightly aged paper tone, fine halftone dot printing, and sharp black body text[cite: 1]."
+          },
+          {
+            "id": "008",
+            "text": "Technical manual style print ad with labeled boot cross-sections integrated directly into the photo narrative[cite: 1]."
+          },
+          {
+            "id": "009",
+            "text": "High-brow narrative layout with large headline typography occupying the top third and dense copy filling the lower half[cite: 1]."
+          },
+          {
+            "id": "010",
+            "text": "Authentic 1985 editorial display ad with textured paper grain, high-contrast monochrome tones, and classic logo placement[cite: 1]."
+          }
+        ]
+      },
+      {
+        "title": "ILLUSTRATION_CALLOUT_GROUP",
+        "options": [
+          {
+            "id": "011",
+            "text": "Anatomical cross-section of a boot showing Gore-Tex and Thinsulate insulation layers labeled with small technical leader lines[cite: 1]."
+          },
+          {
+            "id": "012",
+            "text": "Detailed ink illustration of the internal removable bootie insert positioned beside the main photo[cite: 1]."
+          },
+          {
+            "id": "013",
+            "text": "Diagram of lug sole construction showing dual-density polyurethane traction pads[cite: 1]."
+          },
+          {
+            "id": "014",
+            "text": "Detailed pencil sketch of double-padded collar construction for ankle protection and warmth[cite: 1]."
+          },
+          {
+            "id": "015",
+            "text": "Exploded view diagram of waterproof leather layers, silicone impregnation, and sealed latex seams[cite: 1]."
+          },
+          {
+            "id": "016",
+            "text": "Cutaway graphic of the boot's steel shank providing arch and ankle rigidity[cite: 1]."
+          },
+          {
+            "id": "017",
+            "text": "Close-up technical drawing of roller cinch lace hooks and brass eyelet hardware[cite: 1]."
+          },
+          {
+            "id": "018",
+            "text": "Diagram of Cambrelle moisture-wicking lining and insulation layers[cite: 1]."
+          },
+          {
+            "id": "019",
+            "text": "Pair of classic Timberland yellow waterproof boots rendered in detailed stipple-ink drawing style[cite: 1]."
+          },
+          {
+            "id": "020",
+            "text": "Cross-sectional graphic showing cup stiffeners at the heel and toe guard sections[cite: 1]."
+          }
+        ]
+      },
+      {
+        "title": "COPYWRITING_TONE_GROUP",
+        "options": [
+          {
+            "id": "021",
+            "text": "Witty, pragmatic tone poking fun at harsh weather and severe environmental conditions[cite: 1]."
+          },
+          {
+            "id": "022",
+            "text": "Dry, highly technical tone detailing medical anatomy, joint physics, and material science."
+          },
+          {
+            "id": "023",
+            "text": "Understated, sarcastic tone highlighting human physical limitations versus engineering excellence[cite: 1]."
+          },
+          {
+            "id": "024",
+            "text": "Unforgiving wilderness narrative emphasizing survival, extreme cold, and relentless durability[cite: 1]."
+          },
+          {
+            "id": "025",
+            "text": "Humorous New England regional pride contrasting tough locals with soft city dwellers."
+          },
+          {
+            "id": "026",
+            "text": "Obsessive craftsmanship voice talking about waterproofing standards and double-stitching techniques[cite: 1]."
+          },
+          {
+            "id": "027",
+            "text": "Quietly confident tone warning the reader against settling for inferior footwear[cite: 1]."
+          },
+          {
+            "id": "028",
+            "text": "Philosophical outdoor voice treating gear as an essential defense system for human anatomy[cite: 1]."
+          },
+          {
+            "id": "029",
+            "text": "Direct, conversational copy filled with dry humor and medical or geographic trivia[cite: 1]."
+          },
+          {
+            "id": "030",
+            "text": "Bold, punchy copywriting contrasting bodily vulnerability with rugged leather protection[cite: 1]."
+          }
+        ]
+      },
+      {
+        "title": "PRINT_FINISH_GROUP",
+        "options": [
+          {
+            "id": "031",
+            "text": "Aged 1980s magazine paper texture with slight yellowing and visible print halftone grain[cite: 1]."
+          },
+          {
+            "id": "032",
+            "text": "High-contrast monochrome print finish with sharp jet-black ink inks on off-white paper[cite: 1]."
+          },
+          {
+            "id": "033",
+            "text": "Subtle newsprint paper grain with slight ink absorption bleed on fine typography edges[cite: 1]."
+          },
+          {
+            "id": "034",
+            "text": "Matte vintage print stock appearance with authentic crease lines and soft edge wear[cite: 1]."
+          },
+          {
+            "id": "035",
+            "text": "Warm sepia-tinged black-and-white photo conversion with high-density blacks[cite: 1]."
+          },
+          {
+            "id": "036",
+            "text": "Classic lithographic print texture with ultra-clear type rendering and fine line art[cite: 1]."
+          },
+          {
+            "id": "037",
+            "text": "Slightly faded black ink on archival cream paper with subtle halftone screen artifacts[cite: 1]."
+          },
+          {
+            "id": "038",
+            "text": "Crisp editorial print finish matching mid-80s outdoor equipment catalog pages[cite: 1]."
+          },
+          {
+            "id": "039",
+            "text": "Vintage magazine scan aesthetic with delicate ink density variations across large headlines[cite: 1]."
+          },
+          {
+            "id": "040",
+            "text": "Clean, heavy-weight print stock look with razor-sharp serif typography and sharp diagram lines[cite: 1]."
+          }
+        ]
+      }
+    ]
   }
 ]
