@@ -6506,5 +6506,198 @@
         ]
       }
     ]
+  },
+  {
+    "name": "1990S SEGA NEXT LEVEL PRINT AD",
+    "category": [
+      "VINTAGE ADVERTISING",
+      "RETRO GAMING",
+      "90S EDITORIAL PRINT",
+      "COPYWRITING & GRAPHIC DESIGN"
+    ],
+    "message": "Take a picture and transform it into an iconic early-1990s SEGA magazine print advertisement from the 'Welcome to the Next Level' campaign[cite: 1, 2]. CORE TRANSFORMATION: Turn the user's uploaded image into a high-attitude 1990s gaming magazine spread featuring bold, irreverent layout design[cite: 1, 2]. Include the signature 'WELCOME TO THE NEXT LEVEL' black rectangular badge at the top[cite: 1, 2]. On the left or right margin, place a vertical, snarky side-headline written in bold black text (e.g., 'T.V. sucks.', 'Drugs are bad.', 'Sex can kill you.', 'Unlike his wife, you'll appreciate...') that seamlessly bridges into bold multi-line text running down the page[cite: 1, 2]. In the main body section, feature a detailed Q&A interview styled body copy format with bold Q questions and descriptive A answers[cite: 1, 2]. CRITICAL REQUIREMENT: The Q&A copywriting must be fresh, highly customized, and dynamically derived from the provided photo—incorporating every character, object, color, action, and setting in the original image into a witty, aggressive 90s SEGA marketing story explaining how SEGA CD or Genesis technology renders that exact scene[cite: 1, 2]. Overlay floating, tilted CRT television screen cutouts displaying colorful pixelated game screenshots relevant to the scene[cite: 1, 2]. Finish with the iconic SEGA logo in the lower corner[cite: 1, 2]. IDENTITY PRESERVATION: Keep the main subject's core traits visible while transforming the lighting, background texture, and color grading into a gritty, flash-lit 1990s editorial photograph[cite: 1, 2]. COMPOSITION: Magazine page composition featuring side margin text, floating TV screenshot cutouts, interview format body text, and classic SEGA branding[cite: 1, 2]. NEGATIVE PROMPTS: Clean modern UI, 3D flat vector graphics, minimal modern sans-serif layouts, futuristic minimalist designs, generic AI text filler. RANDOMIZATION RECOMMENDATIONS: Pair varied gritty background textures with floating television screen placements and snarky vertical margin text setups[cite: 1, 2]. CREATIVE STRATEGY: Combine aggressive 90s gaming attitude with high-density contextual copywriting that directly adapts the subject matter of the input image[cite: 1, 2]. VISUAL DNA: 'WELCOME TO THE NEXT LEVEL' badge, snarky vertical margins, Q&A interview format copy, floating pixelated CRT screen cutouts, gritty 90s magazine paper texture, classic SEGA logo[cite: 1, 2].",
+    "randomizeOptions": true,
+    "optionGroups": [
+      {
+        "title": "LAYOUT_STYLE_GROUP",
+        "options": [
+          {
+            "id": "001",
+            "text": "Classic two-column magazine spread with black 'WELCOME TO THE NEXT LEVEL' header and vertical margin text[cite: 1, 2]."
+          },
+          {
+            "id": "002",
+            "text": "Upside-down or angled photo layout with floating CRT gaming screen cutouts and side-margin snarky typography[cite: 1, 2]."
+          },
+          {
+            "id": "003",
+            "text": "High-contrast 1990s editorial page layout featuring interview-style body copy wrapped around floating game screens[cite: 1, 2]."
+          },
+          {
+            "id": "004",
+            "text": "Center-focused subject portrait flanked by floating television screens displaying 16-bit gameplay graphics[cite: 1, 2]."
+          },
+          {
+            "id": "005",
+            "text": "Gritty floor-perspective wide shot with Q&A developer copy filling the bottom half of the page[cite: 1, 2]."
+          },
+          {
+            "id": "006",
+            "text": "Asymmetrical multi-column print design with heavy black accent blocks and raw newsprint texture[cite: 1, 2]."
+          },
+          {
+            "id": "007",
+            "text": "Full-page gaming magazine scan with sharp side-headline copy and small SEGA hardware cutouts[cite: 1, 2]."
+          },
+          {
+            "id": "008",
+            "text": "Flash-lit environmental portrait surrounded by flying pixelated CRT game display monitors[cite: 1, 2]."
+          },
+          {
+            "id": "009",
+            "text": "90s gaming monthly back-cover layout with prominent blue SEGA logo and bold Q&A typography[cite: 1, 2]."
+          },
+          {
+            "id": "010",
+            "text": "Dynamic diagonal layout with layered screenshot windows, textured paper grain, and dark bold headers[cite: 1, 2]."
+          }
+        ]
+      },
+      {
+        "title": "SCREENSHOT_ELEMENTS_GROUP",
+        "options": [
+          {
+            "id": "011",
+            "text": "Tilted floating CRT television screens showcasing 16-bit platformer levels and pixelated sprites[cite: 1, 2]."
+          },
+          {
+            "id": "012",
+            "text": "Multiple curved TV monitor cutouts featuring full-motion video clips from 90s SEGA CD titles[cite: 1, 2]."
+          },
+          {
+            "id": "013",
+            "text": "Floating glowing CRT displays showing arcade racing gameplay and scaling sprite graphics[cite: 1, 2]."
+          },
+          {
+            "id": "014",
+            "text": "Glow-edged television screens showing sports simulation graphics and digital scoreboard HUDs[cite: 1, 2]."
+          },
+          {
+            "id": "015",
+            "text": "Array of tiny TV screens hovering around the subject, displaying cinematic film-noir video game stills[cite: 1, 2]."
+          },
+          {
+            "id": "016",
+            "text": "Angled CRT monitors displaying high-speed side-scrolling action and vibrant 90s color palettes[cite: 1, 2]."
+          },
+          {
+            "id": "017",
+            "text": "Sega CD hardware unit held by the subject with pixelated game footage floating above it[cite: 1, 2]."
+          },
+          {
+            "id": "018",
+            "text": "Layered game screen cutouts with subtle scanlines and red/blue RGB phosphor television glow[cite: 1, 2]."
+          },
+          {
+            "id": "019",
+            "text": "Floating gameplay windows showing scaling 3D Batmobile driving sequences and arcade HUDs[cite: 1, 2]."
+          },
+          {
+            "id": "020",
+            "text": "Pair of CRT TV cutouts displaying interactive music video editing software interface buttons[cite: 1, 2]."
+          }
+        ]
+      },
+      {
+        "title": "COPYWRITING_TONE_GROUP",
+        "options": [
+          {
+            "id": "021",
+            "text": "Aggressive, rebellious 90s attitude making fun of boring TV and competitor video game consoles[cite: 1, 2]."
+          },
+          {
+            "id": "022",
+            "text": "Dry, sarcastic tone highlighting extreme technical hardware specs like 500 megabytes of CD storage[cite: 1, 2]."
+          },
+          {
+            "id": "023",
+            "text": "Irreverent Q&A developer interview voice full of gamer slang, deadpan humor, and technical boasts[cite: 1, 2]."
+          },
+          {
+            "id": "024",
+            "text": "Edgy, high-energy marketing copy contrasting mundane real life with intense digital video gameplay[cite: 1, 2]."
+          },
+          {
+            "id": "025",
+            "text": "Bold, cheeky personality calling out soft competitors while praising CD-quality digital sound[cite: 1, 2]."
+          },
+          {
+            "id": "026",
+            "text": "Snarky margin commentary poking fun at adult responsibilities, pocket protectors, or boring jobs[cite: 1, 2]."
+          },
+          {
+            "id": "027",
+            "text": "Confident 16-bit processing swagger detailing rotation, zooming, scaling, and interactive real-life video[cite: 1, 2]."
+          },
+          {
+            "id": "028",
+            "text": "Over-the-top 1993 gaming hype boasting about $300 worth of free pack-in games and mind-blowing tech[cite: 1, 2]."
+          },
+          {
+            "id": "029",
+            "text": "Direct, edgy Q&A style asking provocative questions about controlling real live actors on screen[cite: 1, 2]."
+          },
+          {
+            "id": "030",
+            "text": "Unfiltered 90s anti-establishment voice framing SEGA CD as the ultimate escape from reality[cite: 1, 2]."
+          }
+        ]
+      },
+      {
+        "title": "AESTHETIC_FINISH_GROUP",
+        "options": [
+          {
+            "id": "031",
+            "text": "Aged 1990s glossy gaming magazine page print texture with subtle halftone dot patterns[cite: 1, 2]."
+          },
+          {
+            "id": "032",
+            "text": "Gritty, direct-flash photography look with harsh shadows on concrete or carpet backgrounds[cite: 1, 2]."
+          },
+          {
+            "id": "033",
+            "text": "Slightly yellowed paper stock finish with authentic ink bleed on heavy black serif text headers[cite: 1, 2]."
+          },
+          {
+            "id": "034",
+            "text": "High-contrast editorial scan aesthetic with rich black borders and vivid 16-bit game screen colors[cite: 1, 2]."
+          },
+          {
+            "id": "035",
+            "text": "Warm 90s photo color grading with visible film grain and direct harsh flash lighting[cite: 1, 2]."
+          },
+          {
+            "id": "036",
+            "text": "Authentic magazine fold creases and edge wear over sharp multi-column interview text[cite: 1, 2]."
+          },
+          {
+            "id": "037",
+            "text": "Cool shadow tones paired with punchy warm highlights on background concrete or wall textures[cite: 1, 2]."
+          },
+          {
+            "id": "038",
+            "text": "Retro print catalog texture with clear typography and saturated CRT video monitor glow effects[cite: 1, 2]."
+          },
+          {
+            "id": "039",
+            "text": "Vintage magazine press finish with subtle misaligned color plate registration artifacts[cite: 1, 2]."
+          },
+          {
+            "id": "040",
+            "text": "Slightly offset print lithograph texture featuring sharp black text blocks and vibrant SEGA branding[cite: 1, 2]."
+          }
+        ]
+      }
+    ]
   }
 ]
