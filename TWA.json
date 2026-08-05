@@ -6699,5 +6699,198 @@
         ]
       }
     ]
+  },
+  {
+    "name": "RETRO PRINT AD COPYWRITER",
+    "category": [
+      "VINTAGE ADVERTISING",
+      "PRINT CAMPAIGN",
+      "ICONIC BRANDS",
+      "EDITORIAL COPYWRITING"
+    ],
+    "message": "Take a picture and transform it into an iconic, full-page vintage print advertisement in the classic, witty 1980s-1990s agency style (inspired by legendary Martin Agency and Ogilvy long-copy campaigns). CORE TRANSFORMATION: Format the entire frame as a published print ad featuring a central graphic black-and-white woodcut or ink illustration derived from the source image, surrounded by a bold, punchy multi-line headline, a multi-column body paragraph of smart, conversational long-copy, and a distinct call-to-action block at the bottom. IDENTITY PRESERVATION: Adapt the core subjects, characters, objects, or scenario from the source photo directly into the visual focal point of the advertisement, integrating its specific details, setting, or emotional tone seamlessly into the product story. COMPOSITION: Structured editorial print grid with headline on top or side, custom ink-line/woodcut product or scenario illustration in the center, 2-3 columns of body text in classic serif typography (Garamond or Caslon), a small logo block, and a phone number/address coupon footer. COPYWRITING INTEGRATION: Generate completely original, witty, and clever advertising copy tailored to the user's selected iconic brand/product that directly references, reacts to, and weaves in specific elements, items, or mood seen in the user's uploaded photo. ADDITIONAL INSTRUCTIONS: The tone of the copy must be dry, persuasive, pragmatic, and remarkably smart—talking up to the reader with sharp humor and compelling narrative logic. NEGATIVE PROMPTS: Modern digital vector art, low-resolution fuzzy text, missing headlines, generic boilerplate placeholder text, photo-realistic rendering without print layout, colorful 3D graphics, contemporary social media overlays. RANDOMIZATION RECOMMENDATIONS: Pair various classic heritage brands with distinct layout columns, woodcut illustration densities, and punchy headline hooks. CREATIVE STRATEGY: Treat every user photo as an authentic real-world problem or humorous situation that only this iconic product can solve or elevate. VISUAL DNA: Vintage newspaper or magazine print paper texture, black woodcut/engraving artwork style, serif editorial typography, multi-column long-form copy layout, vintage corporate logo, and structured coupon footer.",
+    "randomizeOptions": true,
+    "optionGroups": [
+      {
+        "title": "BRAND_PRODUCT_GROUP",
+        "options": [
+          {
+            "id": "001",
+            "text": "VOLKSWAGEN BEETLE: Headline and copy framing whatever subject or situation is in the photo as an example of over-engineering, unnecessary luxury, or clutter, contrasting it with the simple, indestructible, honest logic of a classic VW Beetle."
+          },
+          {
+            "id": "002",
+            "text": "THE POTATO PROJECT / FOOD BANK: Headline and copy highlighting how the everyday objects or scene in the photo represent untapped potential, surplus value, or simple human solutions to massive societal problems."
+          },
+          {
+            "id": "003",
+            "text": "APPLE MACINTOSH (1984): Headline and copy positioning the photo's subject as a symbol of rigid status quo or complex bureaucracy, celebrating how personal creative power breaks the mold."
+          },
+          {
+            "id": "004",
+            "text": "GUINNESS STOUT: Headline and copy musing philosophically on the time, patience, and unhurried character visible in the image, connecting it to the perfection of a proper slow pour."
+          },
+          {
+            "id": "005",
+            "text": "PORSCHE 911: Headline and copy taking the high-energy or intense elements of the image and contrasting them with the pure, unadulterated performance and precise engineering of a German sports car."
+          },
+          {
+            "id": "006",
+            "text": "LEVI'S 501 JEANS: Headline and copy finding rugged authenticity, real history, and honest wear in the photo's scene, celebrating things that get better with age and hard use."
+          },
+          {
+            "id": "007",
+            "text": "L.L. BEAN MAINE HUNTING SHOE: Headline and copy focusing on the durability, weatherproofing, or practical survival instincts implied in the photo, praising stuff built for real life."
+          },
+          {
+            "id": "008",
+            "text": "AVIS CAR RENTAL: Headline and copy channeling the famous 'We Try Harder' spirit, analyzing the effort or hustle seen in the photo to explain why number two works harder than number one."
+          },
+          {
+            "id": "009",
+            "text": "ROLEX SUBMARINER: Headline and copy treating the moment captured in the photo as a high-stakes test of endurance, precision, and unwavering reliability under extreme conditions."
+          },
+          {
+            "id": "010",
+            "text": "THE ECONOMIST: Headline and copy delivering a razor-sharp, sarcastic, intellectual commentary on the scene in the photo, proving that sharp minds see what others miss."
+          }
+        ]
+      },
+      {
+        "title": "ARTWORK_STYLE_GROUP",
+        "options": [
+          {
+            "id": "011",
+            "text": "High-contrast vintage woodcut engraving with fine cross-hatching, rendering the source photo as a classic 19th-century newspaper print illustration."
+          },
+          {
+            "id": "012",
+            "text": "Detailed stipple ink-dot drawing technique reminiscent of traditional Wall Street Journal hedge-fund portraits and vintage catalog art."
+          },
+          {
+            "id": "013",
+            "text": "Bold, graphic linocut print style with thick black outline strokes, heavy dark shadow blocks, and stark white highlights."
+          },
+          {
+            "id": "014",
+            "text": "Grainy black-and-white editorial press photo effect with visible halftone newsprint dot matrix patterns."
+          },
+          {
+            "id": "015",
+            "text": "Classic pen-and-ink architectural rendering style with precise parallel hatch lines and clean monochrome contrast."
+          },
+          {
+            "id": "016",
+            "text": "Vintage charcoal sketch illustration with smudged midtones and heavy graphite shading contours."
+          },
+          {
+            "id": "017",
+            "text": "Minimalist single-line ink contour drawing stripping the photo down to its essential visual skeleton."
+          },
+          {
+            "id": "018",
+            "text": "Mid-century scratchboard art technique where white lines are etched out of solid black ink backgrounds."
+          },
+          {
+            "id": "019",
+            "text": "Coarse lithographic print texture with distressed ink transfer edges and authentic vintage printing press imperfection."
+          },
+          {
+            "id": "020",
+            "text": "Etched copperplate engraving look featuring micro-fine curved lines following the 3D volume of the subject."
+          }
+        ]
+      },
+      {
+        "title": "COPYWRITING_TONE_GROUP",
+        "options": [
+          {
+            "id": "021",
+            "text": "Dry, pragmatic, and self-deprecating wit that turns an apparent flaw in the image into a brilliant engineering triumph."
+          },
+          {
+            "id": "022",
+            "text": "Urgent, compassionate, and practical call-to-action that cuts through red tape with common-sense solutions."
+          },
+          {
+            "id": "023",
+            "text": "Philosophical and contemplative prose that finds deep human meaning and quiet dignity in everyday, unglamorous moments."
+          },
+          {
+            "id": "024",
+            "text": "Bold, rebellious, and counter-cultural manifesto challenging conventional wisdom and institutional routine."
+          },
+          {
+            "id": "025",
+            "text": "Unapologetically ambitious and high-performance perspective celebrating precision craftsmanship over mass production."
+          },
+          {
+            "id": "026",
+            "text": "Understated, laconic story-telling that lets plain facts and rugged durability speak for themselves."
+          },
+          {
+            "id": "027",
+            "text": "Relentlessly hard-working and humble attitude that values grit, preparation, and honest service over flash."
+          },
+          {
+            "id": "028",
+            "text": "Authoritative, timeless, and prestigious narrative framing the photo's subject as an heirloom built to outlast generations."
+          },
+          {
+            "id": "029",
+            "text": "Witty, bite-sized intellectual satire that delivers a punchy punchline in under three concise sentences."
+          },
+          {
+            "id": "030",
+            "text": "Warm, storytelling journalism recounting a specific true event or mini-case study inspired by the uploaded scene."
+          }
+        ]
+      },
+      {
+        "title": "LAYOUT_PAPER_FINISH_GROUP",
+        "options": [
+          {
+            "id": "031",
+            "text": "Aged newsprint background with subtle off-white yellowing, light ink bleed, and crisp 3-column serif text alignment."
+          },
+          {
+            "id": "032",
+            "text": "Slick 1980s magazine full-page layout with heavy black headline banners, clean margins, and a prominent 1-800 toll-free order box."
+          },
+          {
+            "id": "033",
+            "text": "Classic two-column editorial print layout featuring a large centered illustration, drop-cap opening letter, and cut-out reply mail coupon."
+          },
+          {
+            "id": "034",
+            "text": "Minimalist Scandinavian print aesthetic with generous negative space, bold centered headline, and tight double-column body text."
+          },
+          {
+            "id": "035",
+            "text": "Vintage trade journal advertisement with high text density, small caption callouts with pointers, and corporate sponsor credit line."
+          },
+          {
+            "id": "036",
+            "text": "Textured heavy-stock paper finish with deckled edges, bold serif typography, and a prominent embossed-style logo mark."
+          },
+          {
+            "id": "037",
+            "text": "Retro newspaper Sunday supplement layout with asymmetrical headline placement, side-bar quote callouts, and postal address block."
+          },
+          {
+            "id": "038",
+            "text": "Clean corporate annual report style with crisp rule lines separating headline, illustration, long-form copy columns, and footnote."
+          },
+          {
+            "id": "039",
+            "text": "Slightly yellowed archival paper texture with crisp black ink impression marks, side captions, and classic P.O. Box mailing address."
+          },
+          {
+            "id": "040",
+            "text": "High-contrast black-and-white magazine page featuring a stark graphic border, punchy three-line headline, and compact twin text blocks."
+          }
+        ]
+      }
+    ]
   }
 ]
