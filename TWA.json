@@ -7512,5 +7512,198 @@
         ]
       }
     ]
+  },
+  {
+    "name": "A24 CINEMATIC MOVIE POSTER AESTHETIC",
+    "category": [
+      "CINEMATIC FILM POSTER",
+      "A24 HOUSE STYLE",
+      "HIGH CONCEPT ART",
+      "INDIE CINEMA"
+    ],
+    "message": "Take a picture and transform it into an iconic, high-concept cinematic poster in the signature visual style of prestigious A24 film releases. CORE TRANSFORMATION: Reframe and re-render the subject into a stylized, emotionally resonant film poster design featuring bold graphic compositions, surreal visual metaphors, and distinctive typography placement reminiscent of modern indie cinema classics. IDENTITY PRESERVATION: Retain key facial structure, anatomical features, and core character traits of the subject while seamlessly integrating them into thematic artistic alterations, eerie lighting, or avant-garde visual effects. COMPOSITION: Structure as a dramatic, movie-poster framing—utilizing cinematic aspect ratios, strong central graphic weight, asymmetrical minimalism, or surreal surrealist focal points suitable for print artwork. ADDITIONAL INSTRUCTIONS: Incorporate tactile film textures, atmospheric lighting, high-contrast color grading, subtle film grain, and clean typography elements where appropriate to evoke authentic movie studio promotional art. NEGATIVE PROMPTS: Boring snapshot lighting, flat casual phone photo look, plain unstyled portraiture, over-saturated cartoonish filter, low-resolution JPEG artifacts, generic stock photography aesthetics. RANDOMIZATION RECOMMENDATIONS: Pair various iconic A24 film visual aesthetics with striking lighting styles, atmospheric environments, and dramatic visual textures. CREATIVE STRATEGY: Transform ordinary portraiture into a memorable, art-house film narrative poster that evokes tension, wonder, horror, or deep psychological drama. VISUAL DNA: Avant-garde composition, moody color palettes, cinematic film grain, striking visual metaphors, high-concept symbolism, and minimalist indie film poster layouts.",
+    "randomizeOptions": true,
+    "optionGroups": [
+      {
+        "title": "LIGHTING_GROUP",
+        "options": [
+          {
+            "id": "001",
+            "text": "Eerie neon rim lighting with deep volumetric shadows and cool ambient glow."
+          },
+          {
+            "id": "002",
+            "text": "Golden hour sunburst breaking through atmospheric haze with soft golden lens flare."
+          },
+          {
+            "id": "003",
+            "text": "Stark high-contrast chiaroscuro key light isolating facial details in pitch darkness."
+          },
+          {
+            "id": "004",
+            "text": "Saturated magenta and electric blue gel lights casting dual-tone shadows across the subject."
+          },
+          {
+            "id": "005",
+            "text": "Diffused overcast skylight with pale, muted silver tones and subtle shadow gradients."
+          },
+          {
+            "id": "006",
+            "text": "Harsh top-down spotlight creating dramatic facial shadows and high graphic contrast."
+          },
+          {
+            "id": "007",
+            "text": "Warm, flickering candlelight ambiance with rich amber highlights and deep warmth."
+          },
+          {
+            "id": "008",
+            "text": "Surreal crimson red backlight silhouette against atmospheric smoke and haze."
+          },
+          {
+            "id": "009",
+            "text": "Under-water caustic light reflections shimmering across skin and clothing."
+          },
+          {
+            "id": "010",
+            "text": "Fluorescent overhead lighting with pale green tint and cold, clinical shadows."
+          }
+        ]
+      },
+      {
+        "title": "CAMERA_ANGLE_GROUP",
+        "options": [
+          {
+            "id": "011",
+            "text": "Extreme low-angle heroic shot looking straight up at the subject against a vast sky."
+          },
+          {
+            "id": "012",
+            "text": "Tight close-up macro framing focusing intently on eyes and facial expression."
+          },
+          {
+            "id": "013",
+            "text": "Symmetrical Dutch angle tilt conveying psychological disorientation and tension."
+          },
+          {
+            "id": "014",
+            "text": "High-angle bird's-eye perspective looking directly down from above."
+          },
+          {
+            "id": "015",
+            "text": "Centered Wes Anderson-style flat orthographic framing with clean graphic lines."
+          },
+          {
+            "id": "016",
+            "text": "Cinematic wide-angle environmental framing placing the subject small in a vast landscape."
+          },
+          {
+            "id": "017",
+            "text": "Over-the-shoulder perspective with shallow depth of field and soft background blur."
+          },
+          {
+            "id": "018",
+            "text": "Profile silhouette shot framed against a bright, textured architectural background."
+          },
+          {
+            "id": "019",
+            "text": "Intimate waist-up three-quarter portrait shot with dynamic leading lines."
+          },
+          {
+            "id": "020",
+            "text": "Unsettling eye-level confrontation staring directly through the camera frame."
+          }
+        ]
+      },
+      {
+        "title": "ATMOSPHERE_GROUP",
+        "options": [
+          {
+            "id": "021",
+            "text": "Haunting psychological horror tension with unsettling ambient stillness."
+          },
+          {
+            "id": "022",
+            "text": "Melancholic indie drama feeling with quiet, reflective emotional warmth."
+          },
+          {
+            "id": "023",
+            "text": "Surreal multiverse chaos with dizzying visual energy and unexpected elements."
+          },
+          {
+            "id": "024",
+            "text": "Folkloric gothic dread mixed with naturalistic, earthy textures and ancient mystery."
+          },
+          {
+            "id": "025",
+            "text": "Vibrant retro 1970s sun-drenched nostaliga with vibrant pastels and film grain."
+          },
+          {
+            "id": "026",
+            "text": "Gritty urban neo-noir thriller atmosphere filled with neon reflections and damp asphalt."
+          },
+          {
+            "id": "027",
+            "text": "Ethereal dreamcore fantasy atmosphere with floating light specks and soft focus."
+          },
+          {
+            "id": "028",
+            "text": "Absurdist dark comedy aesthetic with quirky visual irony and bold staging."
+          },
+          {
+            "id": "029",
+            "text": "Claustrophobic thrill with heavy shadows and tightly constrained visual space."
+          },
+          {
+            "id": "030",
+            "text": "Monochrome dramatic reverence with stark contrasts and timeless dignity."
+          }
+        ]
+      },
+      {
+        "title": "A24_POSTER_STYLE_GROUP",
+        "options": [
+          {
+            "id": "031",
+            "text": "Inspired by 'Everything Everywhere All at Once': Surreal, vibrant maximalist poster design bursting with multiverse graphics, googly eyes, and vivid rainbow color overlays."
+          },
+          {
+            "id": "032",
+            "text": "Inspired by 'Pearl': 1930s Technicolor cinematic poster aesthetic with rich saturated reds, dramatic typography, and vintage Hollywood psychological melodrama vibes."
+          },
+          {
+            "id": "033",
+            "text": "Inspired by 'Talk To Me': Dark, modern horror poster aesthetic featuring haunting hand-shaped visual motifs, high-contrast shadows, and eerie neon undertones."
+          },
+          {
+            "id": "034",
+            "text": "Inspired by 'Midsommar': Folk-horror aesthetic drenched in bright daylight, adorned with vibrant floral crowns, pastel colors, and pagan geometric symbolism."
+          },
+          {
+            "id": "035",
+            "text": "Inspired by 'The Tragedy of Macbeth': Minimalist black-and-white stark architectural poster style with sharp shadows, high contrast, and graphic geometric clarity."
+          },
+          {
+            "id": "036",
+            "text": "Inspired by 'The Florida Project': Pastel sun-drenched aesthetic with bright purple, pink, and sky blue hues reminiscent of vibrant suburban Americana."
+          },
+          {
+            "id": "037",
+            "text": "Inspired by 'Uncut Gems' / 'Diamond Grading Chart': High-gloss metallic shine, crystalline lens flares, and technical graphic overlay elements with tense energy."
+          },
+          {
+            "id": "038",
+            "text": "Inspired by 'Lamb': Eerie naturalistic pastoral horror aesthetic featuring misty Icelandic mountain landscapes and calm yet unsettling animal-human motifs."
+          },
+          {
+            "id": "039",
+            "text": "Inspired by 'Beef': Contemporary art-house graphic style featuring bold painterly textures, expressive brushstrokes, and intense emotive color contrast."
+          },
+          {
+            "id": "040",
+            "text": "Inspired by 'Dream Scenario': Surrealist psychological poster look with floating ambient elements, soft dreamlike film grain, and quirky visual juxtaposition."
+          }
+        ]
+      }
+    ]
   }
 ]
