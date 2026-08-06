@@ -7125,5 +7125,199 @@
         ]
       }
     ]
+  },
+  {
+    "name": "PIRANESI ETCHING PRISON ARCHITECTURE",
+    "category": [
+      "FINE ART ETCHING",
+      "ARCHITECTURAL NOIR",
+      "MONOCHROME ENGRAVING",
+      "DARK ACADEMIA",
+      "CLASSICAL FANTASY"
+    ],
+    "message": "Take a picture and transform it into a monumental, subterranean architectural etching in the dark, visionary style of Giovanni Battista Piranesi's 'Carceri d'invenzione'. CORE TRANSFORMATION: Convert the scene into an intricate copperplate etching filled with colossal, impossible stone arches, towering vaults, suspended wooden catwalks, massive iron chains, and labyrinthine staircases scaling immeasurable heights. Render everything in fine cross-hatched ink lines, rich sepia-black tones, and dramatic, dusty light beams breaking through cavernous shadows. IDENTITY PRESERVATION: Translate the subject's primary form, facial features, or key structural contours into etched line work while dressing them in draped classical or worn industrial garments, keeping their original pose and identity intact within the vast space. COMPOSITION: Frame with an overwhelming sense of scale, using dramatic low or high wide angles, deep linear perspective, and towering architectural elements that dwarf human figures. ADDITIONAL INSTRUCTIONS: Emulate 18th-century antique paper texture with subtle age spots, heavy plate ink pressing, and razor-sharp cross-hatching details that define atmospheric depth and rugged masonry textures. NEGATIVE PROMPTS: Modern color photography, smooth digital rendering, sleek futuristic materials, photorealistic skin, saturated colors, neon lighting, clean modern architecture, minimal composition. RANDOMIZATION RECOMMENDATIONS: Combine various dramatic lighting setups (shafts of sunlight vs. torchlit shadows) with vast spatial arrangements and atmospheric cross-hatching density. CREATIVE STRATEGY: Strip away modern context to reimagine the subject inside an awe-inspiring, infinite architectural labyrinth defined by classical grandeur and melancholic scale. VISUAL DNA: Copperplate cross-hatching, subterranean arches, towering staircases, massive iron chains, dramatic chiaroscuro, aged parchment texture, monumental scale.",
+    "randomizeOptions": true,
+    "optionGroups": [
+      {
+        "title": "LIGHTING_GROUP",
+        "options": [
+          {
+            "id": "001",
+            "text": "Dramatic chiaroscuro with piercing beams of dusty sunlight breaking through distant overhead vaults."
+          },
+          {
+            "id": "002",
+            "text": "Flickering, warm torchlight from wall-mounted braziers casting long, jagged shadows across rough masonry."
+          },
+          {
+            "id": "003",
+            "text": "High-contrast rim lighting outlining gigantic stone pillars against pitch-black subterranean abysses."
+          },
+          {
+            "id": "004",
+            "text": "Soft, diffused atmospheric haze illuminated from high clerestory openings deep within the cavernous interior."
+          },
+          {
+            "id": "005",
+            "text": "Harsh, low-angle key light projecting massive geometric shadows of chains and catwalks onto distant arches."
+          },
+          {
+            "id": "006",
+            "text": "Dual light sources combining cold upper daylight with hot lower brazier glow for complex cross-hatching shadows."
+          },
+          {
+            "id": "007",
+            "text": "Moody, silhouetted illumination with the main light source hidden completely behind towering stone piers."
+          },
+          {
+            "id": "008",
+            "text": "Radiant spotlight effect focusing sharply on the central figure while surrounding architecture fades into dense line shadow."
+          },
+          {
+            "id": "009",
+            "text": "Subdued, overcast light filtering down through multi-tiered stone archways and suspended timber beams."
+          },
+          {
+            "id": "010",
+            "text": "Stark directional lighting creating razor-sharp tonal separation between illuminated stone faces and cross-hatched darks."
+          }
+        ]
+      },
+      {
+        "title": "ENVIRONMENT_GROUP",
+        "options": [
+          {
+            "id": "011",
+            "text": "Endless multi-tiered stone staircases crisscrossing impossible chasms and massive vaulted arches."
+          },
+          {
+            "id": "012",
+            "text": "Colossal underground prison hall lined with iron-ringed pillars, heavy ropes, and suspended wooden gantry bridges."
+          },
+          {
+            "id": "013",
+            "text": "Towering classical ruins fused with medieval scaffolding, pulleys, and gargantuan stone-carved friezes."
+          },
+          {
+            "id": "014",
+            "text": "Labyrinthine subterranean aqueduct system with soaring archways spanning deep, shadowy abysses."
+          },
+          {
+            "id": "015",
+            "text": "Monumental stone courtyard surrounded by impossibly tall fortress walls and high, winding walkways."
+          },
+          {
+            "id": "016",
+            "text": "Vast subterranean chamber filled with gigantic spiked iron wheels, thick chains, and suspended cages."
+          },
+          {
+            "id": "017",
+            "text": "Cavernous cathedral-like vault with crumbling classical columns and endless receding archways."
+          },
+          {
+            "id": "018",
+            "text": "High-altitude stone platform suspended over an endless abyss of crisscrossing bridges and pulleys."
+          },
+          {
+            "id": "019",
+            "text": "Claustrophobic stone passageway opening up into a colossal multi-level gallery with monumental statuary."
+          },
+          {
+            "id": "020",
+            "text": "Grand subterranean rotunda with broken stone domes, dangling iron lanterns, and towering buttresses."
+          }
+        ]
+      },
+      {
+        "title": "MOOD_GROUP",
+        "options": [
+          {
+            "id": "021",
+            "text": "Awe-inspiring, melancholic grandeur reflecting the monumental scale of ancient human endeavor."
+          },
+          {
+            "id": "022",
+            "text": "Dark, claustrophobic psychological tension within an inescapable architectural labyrinth."
+          },
+          {
+            "id": "023",
+            "text": "Stoic, contemplative isolation amidst towering stone monuments and quiet, cavernous spaces."
+          },
+          {
+            "id": "024",
+            "text": "Dramatic, theatrical intensity filled with brooding shadows and high-stakes spatial scale."
+          },
+          {
+            "id": "025",
+            "text": "Mysterious, ancient academic intrigue suggestive of hidden forgotten chambers and lost history."
+          },
+          {
+            "id": "026",
+            "text": "Spiritual, transcendent solemnity created by vast atmospheric depth and ethereal light shafts."
+          },
+          {
+            "id": "027",
+            "text": "Restless, dizzying vertigo induced by impossible angles, heights, and endless stairways."
+          },
+          {
+            "id": "028",
+            "text": "Grim, unyielding industrial strength anchored by heavy stone blocks, chains, and iron machinery."
+          },
+          {
+            "id": "029",
+            "text": "Poetic, romantic ruin decay highlighting the march of time against colossal stone structures."
+          },
+          {
+            "id": "030",
+            "text": "Brooding, visionary madness blending classical precision with feverish, impossible fantasy."
+          }
+        ]
+      },
+      {
+        "title": "AESTHETIC_FINISH_GROUP",
+        "options": [
+          {
+            "id": "031",
+            "text": "Intricate fine-line copperplate engraving with dense cross-hatching defining deep shadows."
+          },
+          {
+            "id": "032",
+            "text": "Aged 18th-century cream parchment paper texture with soft foxing spots and yellowed edges."
+          },
+          {
+            "id": "033",
+            "text": "Deep sepia and charcoal black ink impression with heavy plate tone and tactile paper grain."
+          },
+          {
+            "id": "034",
+            "text": "High-contrast monochrome print finish featuring razor-sharp etched line work and rich black density."
+          },
+          {
+            "id": "035",
+            "text": "Drypoint etching effect with rich, velvety burr marks along shadow contours and structural edges."
+          },
+          {
+            "id": "036",
+            "text": "Warm bistre-tinted ink wash overlay providing smooth tonal transitions over detailed cross-hatching."
+          },
+          {
+            "id": "037",
+            "text": "Fine-art museum exhibition print aesthetic with clear plate borders and deckled paper edges."
+          },
+          {
+            "id": "038",
+            "text": "Weathered vintage print look with subtle ink wipe streaks and authentic woodcut paper texture."
+          },
+          {
+            "id": "039",
+            "text": "Dark, moody chiaroscuro finish with heavily ink-saturated shadow pockets and crisp light contrast."
+          },
+          {
+            "id": "040",
+            "text": "Classic architectural master print character with sharp line clarity across masonry and atmospheric fog."
+          }
+        ]
+      }
+    ]
   }
 ]
