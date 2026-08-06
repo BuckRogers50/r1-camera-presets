@@ -7319,5 +7319,198 @@
         ]
       }
     ]
+  },
+  {
+    "name": "JEOPARDY TELEVISION STUDIO BROADCAST",
+    "category": [
+      "GAME SHOW",
+      "TELEVISION SET",
+      "STUDIO BROADCAST",
+      "RETRO BROADCAST"
+    ],
+    "message": "Take a picture and transform it into an iconic Jeopardy! game show broadcast environment. CORE TRANSFORMATION: Transport the subject onto a classic Jeopardy! studio set behind an illuminated contestant podium equipped with a digital score display and signaling device. Transform the surrounding background into the signature glowing grid backdrop, complete with blue geometric patterns and the iconic multi-row, column-based clue board displaying point values. IDENTITY PRESERVATION: Preserve the subject's exact facial structure, key anatomical proportions, facial expression, and distinct physical features while adapting their posture to fit naturally behind the contestant podium. COMPOSITION: Frame as a crisp television studio broadcast shot, ranging from a medium close-up contestant camera angle to a wider studio perspective including the podium layout and clue board in the background. ADDITIONAL INSTRUCTIONS: Replicate high-definition studio broadcast lighting with balanced key lights, subtle rim lighting to separate the subject from the glowing set elements, and sharp, vivid color fidelity matching classic game show television production. NEGATIVE PROMPTS: Low-resolution home video grain, cinematic film grain, dark horror lighting, natural outdoor scenery, muted desaturated colors, overexposed glare, organic textures, cluttered non-studio environments. RANDOMIZATION RECOMMENDATIONS: Pair varied podium illumination setups (active buzzer lights vs. gold score accents) with different camera frame angles and classic TV broadcast studio lighting moods. CREATIVE STRATEGY: Balance high-tech broadcast television sheen with the recognizable nostalgic design elements of America's Favorite Quiz Show. VISUAL DNA: Blue glowing grid backdrops, digit score displays, metallic contestant podiums with signaling buttons, multi-column video clue board, crisp studio key lighting, vibrant neon blue and gold accents.",
+    "randomizeOptions": true,
+    "optionGroups": [
+      {
+        "title": "LIGHTING_GROUP",
+        "options": [
+          {
+            "id": "001",
+            "text": "Bright, balanced studio broadcast key lighting casting clear, shadowless illumination across the subject and podium."
+          },
+          {
+            "id": "002",
+            "text": "Vibrant cobalt blue ambient LED background light glowing warmly from the grid panels behind the subject."
+          },
+          {
+            "id": "003",
+            "text": "Saturated golden-yellow podium accent lighting highlighting the contestant name display and score border."
+          },
+          {
+            "id": "004",
+            "text": "Crisp overhead studio spotlights casting clean rim highlights along the subject's hair and shoulders."
+          },
+          {
+            "id": "005",
+            "text": "Dramatic lighting shift with dimmed ambient background panels, isolating the active contestant under a sharp spotlight."
+          },
+          {
+            "id": "006",
+            "text": "High-key television lighting with soft fill, creating an inviting and vivid game show studio atmosphere."
+          },
+          {
+            "id": "007",
+            "text": "Pulsing white signaling light ring illuminated atop the podium frame during a buzz-in moment."
+          },
+          {
+            "id": "008",
+            "text": "Deep navy and royal blue glowing background gradients reflecting subtle cool tones on metallic set borders."
+          },
+          {
+            "id": "009",
+            "text": "Warm halogen broadcast key light paired with cool cyan gel backlighting for clear depth separation."
+          },
+          {
+            "id": "010",
+            "text": "High-contrast studio lighting highlighting the digital text of the clue board while maintaining balanced subject exposure."
+          }
+        ]
+      },
+      {
+        "title": "ENVIRONMENT_GROUP",
+        "options": [
+          {
+            "id": "011",
+            "text": "Behind a modern contestant podium featuring a handwritten digital name screen and red LED score readout."
+          },
+          {
+            "id": "012",
+            "text": "Center stage with the famous 36-monitored clue board visible in clear focus showing dollar amounts in the background."
+          },
+          {
+            "id": "013",
+            "text": "In the contestant row between two adjacent podiums against the signature blue translucent geometric wall panels."
+          },
+          {
+            "id": "014",
+            "text": "Wide view of the Sony Pictures Studios stage floor showing camera rigs, studio audience edges, and the glowing set."
+          },
+          {
+            "id": "015",
+            "text": "Classic 1990s-era Jeopardy! set featuring wood-trimmed podiums and blue grid backdrops with neon trim."
+          },
+          {
+            "id": "016",
+            "text": "Tournament of Champions set modification featuring sleek metallic columns and enhanced laser-cut background lighting."
+          },
+          {
+            "id": "017",
+            "text": "Podium view with a close-up on the signaling device held firmly in hand, set against the glowing backdrop."
+          },
+          {
+            "id": "018",
+            "text": "Front-and-center podium position during Final Jeopardy! with a glowing screen display in front."
+          },
+          {
+            "id": "019",
+            "text": "Retro 1980s broadcast set featuring pull-card style clue board textures and vibrant electric blue backgrounds."
+          },
+          {
+            "id": "020",
+            "text": "Sleek contemporary set featuring seamless high-resolution LED backdrop screens and metallic podium accents."
+          }
+        ]
+      },
+      {
+        "title": "EXPRESSION_GROUP",
+        "options": [
+          {
+            "id": "021",
+            "text": "Laser-focused, intensely alert expression with eyes fixed on the clue board, ready to press the buzzer."
+          },
+          {
+            "id": "022",
+            "text": "Confident, smiling demeanor posing for the contestant introduction camera turn."
+          },
+          {
+            "id": "023",
+            "text": "Tense, suspenseful expression during a high-stakes Daily Double wager reveal."
+          },
+          {
+            "id": "024",
+            "text": "Joyful, triumphant reaction celebrating a correct response with a quick nod."
+          },
+          {
+            "id": "025",
+            "text": "Thoughtful, contemplative gaze looking upward while formulating a response in the form of a question."
+          },
+          {
+            "id": "026",
+            "text": "Determined, competitive stance leaning slightly forward over the podium edge."
+          },
+          {
+            "id": "027",
+            "text": "Amused, cheerful smile reacting to a playful banter exchange with the host."
+          },
+          {
+            "id": "028",
+            "text": "Serious, calculating posture during the thirty-second Final Jeopardy! think music sequence."
+          },
+          {
+            "id": "029",
+            "text": "Exhilarated expression following a rapid streak of correct buzz-ins."
+          },
+          {
+            "id": "030",
+            "text": "Calm, collected composure displaying poise under bright studio broadcast lights."
+          }
+        ]
+      },
+      {
+        "title": "AESTHETIC_FINISH_GROUP",
+        "options": [
+          {
+            "id": "031",
+            "text": "Ultra-crisp 1080p HDTV broadcast signal fidelity with rich color saturation and clean digital clarity."
+          },
+          {
+            "id": "032",
+            "text": "Vintage 1980s NTSC analog television broadcast filter with soft scanlines and subtle color bleed."
+          },
+          {
+            "id": "033",
+            "text": "Polished high-definition studio camera finish with natural depth of field separating podium from backdrop."
+          },
+          {
+            "id": "034",
+            "text": "Vivid color-matched grading highlighting iconic Jeopardy! blue, gold, and vibrant white text contrast."
+          },
+          {
+            "id": "035",
+            "text": "Smooth 1990s broadcast videotape texture with warm skin tones and crisp set lighting highlights."
+          },
+          {
+            "id": "036",
+            "text": "Glossy high-tech studio sheen on polished surfaces, glass panels, and metallic podium trim."
+          },
+          {
+            "id": "037",
+            "text": "Subtle lens flare catching off the overhead studio lighting grid for an authentic live television feel."
+          },
+          {
+            "id": "038",
+            "text": "Clean digital photography look with optimized micro-details on clothing textiles and electronic displays."
+          },
+          {
+            "id": "039",
+            "text": "Retrospectively warm, nostaglic broadcast finish with gentle contrast and saturated neon blues."
+          },
+          {
+            "id": "040",
+            "text": "Modern 4K HDR television studio capture with vibrant color separation and razor-sharp graphic displays."
+          }
+        ]
+      }
+    ]
   }
 ]
