@@ -7705,5 +7705,198 @@
         ]
       }
     ]
+  },
+  {
+    "name": "1992 PARADISE VALLEY HIGH SCHOOL HIJINKS",
+    "category": [
+      "1990S NOSTALGIA",
+      "VINTAGE ANALOG PHOTOGRAPHY",
+      "HIGH SCHOOL LIFE",
+      "FOUND FOOTAGE CULT CLASSIC"
+    ],
+    "message": "Take a picture and transform it into a candid, zaney moment from 1992 at Horizon High School in Paradise Valley, Arizona, featuring early 90s teenagers engaging in off-the-wall high school hijinks without smartphones. CORE TRANSFORMATION: Convert the scene into an authentic early 1990s high school environment, filled with period-accurate fashion (oversized sweaters, graphic tees, high-waisted denim, neon windbreakers), vintage campus architecture, and wild teen antics. Include references to Horizon High School, such as the Horizon Huskies strong dog mascot, gym sporting events (wrestling, volleyball, badminton, bleachered stands), drama club theatrical chaos, science club experiments with bubbling beakers, or stadium shenanigans. IDENTITY PRESERVATION: Retain the facial structure, distinct features, age, and recognizable expressions of the primary subjects while seamlessly dressing them in authentic 1992 high school attire and placing them into the energetic scene. COMPOSITION: Frame as a candid, chaotic snapshot, capturing dynamic action, spontaneous laughter, or mid-hijink reactions with a wide or medium field of view. ADDITIONAL INSTRUCTIONS: Emulate analog media formats of 1992, including square Polaroid prints, color-shifting Kodak Disc camera snapshots, washed-out 35mm point-and-shoot prints, or scanline-heavy 360p VHS camcorder stills with date stamps ('09/24/92'). NEGATIVE PROMPTS: Modern smartphones, flat-screen monitors, post-2000s clothing or haircuts, modern digital camera clarity, 4K crispness, modern athletic gear, clean polished studio lighting. RANDOMIZATION RECOMMENDATIONS: Mix analog media textures (polaroid borders, VHS noise, flash bloom) with specific high school hijink locations (gym bleachers, science labs, hallway lockers, sports mats). CREATIVE STRATEGY: Focus on raw, unscripted energy, nostalgic 90s southwest suburban teenage freedom, and quirky school spirit. VISUAL DNA: 1992 Arizona high school aesthetic, Horizon Huskies mascot sightings, vintage media artifacts, flash photography glares, authentic non-digital teenage interactions.",
+    "randomizeOptions": true,
+    "optionGroups": [
+      {
+        "title": "CAMERA_FORMAT_GROUP",
+        "options": [
+          {
+            "id": "001",
+            "text": "Vintage Polaroid camera snapshot with thick white paper borders, soft focus, and warm faded color tones."
+          },
+          {
+            "id": "002",
+            "text": "1992 VHS 360p camcorder video frame capture with visible magnetic tape artifacts, scanlines, and a bright orange date stamp reading '10/16/92'."
+          },
+          {
+            "id": "003",
+            "text": "Kodak Disc camera photo featuring distinct heavy film grain, slight vignetting, edge chromatic aberration, and soft flash falloff."
+          },
+          {
+            "id": "004",
+            "text": "Disposable 35mm point-and-shoot camera photograph with harsh direct flash, oversaturated punchy primary colors, and deep background shadows."
+          },
+          {
+            "id": "005",
+            "text": "110 pocket film camera shot with noticeable grain, soft center focus, and muted early-90s pastel color shifts."
+          },
+          {
+            "id": "006",
+            "text": "Grainy 35mm color negative print with a classic glossy lab finish, slightly yellowed paper aging, and high contrast."
+          },
+          {
+            "id": "007",
+            "text": "Low-grade Handycam freeze-frame with analog tracking lines along the bottom frame and grainy low-light color noise."
+          },
+          {
+            "id": "008",
+            "text": "Direct-flash snapshot with heavy lens flare, red-eye artifacts, and high-key blown-out skin highlights typical of early 90s party pics."
+          },
+          {
+            "id": "009",
+            "text": "Kodak Gold 200 film texture with warm sun-drenched Arizona tones, rich shadows, and organic grain structure."
+          },
+          {
+            "id": "010",
+            "text": "Slightly motion-blurred 35mm photo capturing high-speed action with authentic analog motion trail blur and vibrant color."
+          }
+        ]
+      },
+      {
+        "title": "HIJINKS_SETTING_GROUP",
+        "options": [
+          {
+            "id": "011",
+            "text": "Crowded Horizon High School gym bleachers during a football rally, filled with cheering kids goofing off in oversized husky spirit tees."
+          },
+          {
+            "id": "012",
+            "text": "High school science lab amid a chaotic experiment gone wrong, surrounded by bubbling glass beakers, safety goggles, and smoke."
+          },
+          {
+            "id": "013",
+            "text": "High-energy gym court setting during a volleyball match with teenagers pulling off zaney, unscripted stunt dives over the net."
+          },
+          {
+            "id": "014",
+            "text": "Drama club backstage greenroom crammed with quirky theatrical costumes, mismatched props, paint cans, and intense mid-rehearsal antics."
+          },
+          {
+            "id": "015",
+            "text": "Horizon Huskies wrestling room mat, where the strong dog mascot is getting playfully tackled by students in full gear."
+          },
+          {
+            "id": "016",
+            "text": "Sunlit Paradise Valley outdoor quad during lunchtime, filled with teens hanging out on concrete benches, throwing frisbees, and laughing."
+          },
+          {
+            "id": "017",
+            "text": "Badminton court in the indoor gymnasium with stray shuttlecocks flying everywhere as students play upside-down or goofy poses."
+          },
+          {
+            "id": "018",
+            "text": "School hallway lined with tall metal lockers, decorated with 90s band posters, open locker doors, and students pulling off classic locker pranks."
+          },
+          {
+            "id": "019",
+            "text": "High school parking lot jammed with late 80s and early 90s sedan trunks open, kids sitting on hoods listening to boomboxes."
+          },
+          {
+            "id": "020",
+            "text": "School cafeteria during lunch hour with food trays, brown paper bags, chocolate milk cartons, and a spontaneous table-cheering frenzy."
+          }
+        ]
+      },
+      {
+        "title": "ACTION_AND_MASCOT_GROUP",
+        "options": [
+          {
+            "id": "021",
+            "text": "The muscular Horizon Huskies dog mascot striking a goofy bodybuilder pose next to smiling, laughing students."
+          },
+          {
+            "id": "022",
+            "text": "Science club member accidentally causing a foamy chemical overflow while wearing oversized 1990s protective goggles."
+          },
+          {
+            "id": "023",
+            "text": "Students balancing gym equipment on their noses or fingers while standing in the bleachers during halftime."
+          },
+          {
+            "id": "024",
+            "text": "Drama club student dramatically fainting onto a plush prop sofa while fellow actors burst into uncontrollable laughter."
+          },
+          {
+            "id": "025",
+            "text": "The husky mascot high-fiving a student wearing an iconic 1992 patterned windbreaker in mid-air high jump."
+          },
+          {
+            "id": "026",
+            "text": "Wrestlers in mid-match accidentally knocking over a bucket of water, causing a goofy slide across the rubber gym mats."
+          },
+          {
+            "id": "027",
+            "text": "Teenagers pulling off a synchronized funny face group shot for the school yearbook in front of a painted Huskies banner."
+          },
+          {
+            "id": "028",
+            "text": "Volleyball player enthusiastically celebrating a point by striking an exaggerated superhero pose on court."
+          },
+          {
+            "id": "029",
+            "text": "Badminton players attempting to hit three shuttlecocks at once with completely chaotic physical reactions."
+          },
+          {
+            "id": "030",
+            "text": "Student wearing oversized husky mascot paws while attempting to carefully measure liquid into a glass flask."
+          }
+        ]
+      },
+      {
+        "title": "STYLING_AND_AESTHETIC_GROUP",
+        "options": [
+          {
+            "id": "031",
+            "text": "1992 fashion aesthetic featuring high-waisted acid-wash jeans, slouch socks, oversized neon windbreakers, and mullet or big perm hairstyles."
+          },
+          {
+            "id": "032",
+            "text": "Sun-bleached Paradise Valley lighting with warm afternoon sunlight streaming through high gym windows, casting dusty sunbeams."
+          },
+          {
+            "id": "033",
+            "text": "Classic blue and gold Horizon High School spirit gear, featuring retro printed block lettering and vintage husky graphics."
+          },
+          {
+            "id": "034",
+            "text": "Overexposed vintage flash bulbs creating bright central highlights with dramatically dark falloff corners."
+          },
+          {
+            "id": "035",
+            "text": "Vintage physical print artifacts including slight thumbprints, light leaks along the left film margin, and subtle corner bends."
+          },
+          {
+            "id": "036",
+            "text": "Rich analog color palette dominated by warm golden desert tones, saturated blues, bright teals, and hot pinks."
+          },
+          {
+            "id": "037",
+            "text": "Early 90s grunge-lite street style mix: baggy flannel shirts over graphic tees, combat boots, and backwards baseball caps."
+          },
+          {
+            "id": "038",
+            "text": "Subtle chromatic scanlines and slight horizontal distortion reminiscent of a home VHS tape playing on a CRT television."
+          },
+          {
+            "id": "039",
+            "text": "High school yearbook photo style with slightly awkward positioning, warm backdrop grain, and candid spontaneous energy."
+          },
+          {
+            "id": "040",
+            "text": "Authentic physical photo print finish with matte texture, white borders, and hand-written date notes in blue ballpoint pen along the bottom."
+          }
+        ]
+      }
+    ]
   }
 ]
