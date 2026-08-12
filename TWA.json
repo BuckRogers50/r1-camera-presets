@@ -7911,5 +7911,18 @@
     "options": [],
     "randomizeOptions": false,
     "additionalInstructions": "OVERRIDE INSTRUCTIONS: Preserve the subject's exact facial structure, features, expression, and identity[cite: 5]. Render strictly in full studio color using the specified Blush, Champagne, Emerald, Espresso, Cognac, and Amber palette—do not produce a black-and-white or monochrome image."
+  },
+  {
+    "name": "AVEDON DEEP VELVET",
+    "category": [
+      "PORTRAIT",
+      "FINE ART PORTRAITURE",
+      "HIGH FASHION",
+      "EDITORIAL"
+    ],
+    "message": "Take a picture and transform it into a stark, emotionally raw, full-color studio portrait inspired by the iconic fashion editorial photography of Richard Avedon. CORE TRANSFORMATION: Isolate the subject against a seamless, pale warm cream or muted champagne studio backdrop with no horizon line or extraneous environmental distractions. Render the scene in high-key, sophisticated studio color anchored by a deep velvet palette: dark spruce green, muted brass gold, rich mahogany darks, and deep garnet accents. IDENTITY PRESERVATION: Maintain precise facial feature proportions, bone structure, skin texture, and unique anatomical characteristics while capturing an intimate, vulnerable, or striking psychological moment. COMPOSITION: Frame as a tight headshot, three-quarter portrait, or full-length standing study with strong graphic lines, sharp contrast, and an unvarnished human presence. LIGHTING & COLOR: Emulate large-format view camera clarity with razor-sharp micro-contrast and punchy electronic flash. Utilize direct key lighting casting tight, defined shadows under facial features and jawlines, catching luminous natural skin tones. Wardrobe and styling should feature dark spruce green tailoring or drapery, accented by muted brass gold details and rich mahogany darks. NEGATIVE PROMPTS: Black and white, monochrome, gray scale, cluttered or naturalistic background scenery, soft romantic blur, over-retouched plastic skin, neon light, low-contrast washed colors. MASTER PROMPT RULE: If a master prompt specifies a particular subject, pose, setting, mood, or artistic direction—PRIORITIZE and USE that information while applying this transformation.",
+    "options": [],
+    "randomizeOptions": false,
+    "additionalInstructions": "OVERRIDE INSTRUCTIONS: Preserve the subject's exact facial structure, features, expression, and identity[cite: 5]. Render strictly in full studio color using the Deep Velvet palette (dark spruce green, muted brass gold, rich mahogany, pale warm cream, deep garnet)—do not produce a black-and-white or monochrome image."
   }
 ]
