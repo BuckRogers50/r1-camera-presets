@@ -371,5 +371,198 @@
     "options": [],
     "randomizeOptions": false,
     "additionalInstructions": ""
+  },
+  {
+    "name": "1960S VINTAGE TOY ADVERTISEMENT CATALOG PRINT",
+    "category": [
+      "VINTAGE PRINT AD",
+      "MID-CENTURY ILLUSTRATION",
+      "RETRO TOY CATALOG",
+      "COMMERCIAL GRAPHIC ART"
+    ],
+    "message": "Take a picture and transform it into a authentic 1960s newsprint toy catalog print advertisement. CORE TRANSFORMATION: Convert the central subject into a classic mid-century commercial illustration featuring warm, hand-drawn lithographic line art, simplified ink contours, and flat gouache/watercolor halftone coloring. Surround the image with bold, energetic commercial copywriting in period-accurate typography, complete with dynamic angled headline text, dramatic red and black exclamation-filled subheads, sound-effect visual onomatopoeia lettering (e.g., 'BRAAP', 'ZAP', 'WHOOSH'), and a dense block of persuasive marketing copy in the lower corner. IDENTITY PRESERVATION: Preserve the fundamental posture, key clothing items, subject identity, and core structural elements of the input image while fully converting them into the stylized 1960s commercial illustration aesthetic. COMPOSITION: Frame as a full-page catalog or magazine advertisement with prominent top header text, the illustrated subject dynamic in action on the left or center, diagonal motion graphic arrows, and organized blocks of promotional body text with a circular red seal/logo in the bottom corner. ADDITIONAL INSTRUCTIONS: Apply realistic vintage paper aging, including a warm aged beige/tan newsprint background, subtle offset CMYK color misregistration, visible halftone dot screen textures, slight ink bleed, and subtle corner wear/folds. NEGATIVE PROMPTS: Modern photography, photorealism, modern digital typography, 3D render, glossy photo finish, ultra-crisp clean white paper, futuristic UI elements, modern neon colors. RANDOMIZATION RECOMMENDATIONS: Pair dynamic mid-century illustrative action poses with varied retro commercial color palettes, vintage typography arrangements, and sound-effect lettering styles. CREATIVE STRATEGY: Emulate the high-energy, persuasive commercial graphic design of 1960s Mattel and Hasbro print catalog advertisements. VISUAL DNA: Aged newsprint texture, hand-drawn commercial ink illustration, offset halftone printing, bold vintage bold headlines, sound effect visual text, red and black accent typography, vintage toy seal emblem.",
+    "randomizeOptions": true,
+    "optionGroups": [
+      {
+        "title": "COPYWRITING_AND_SOUND_EFFECTS_GROUP",
+        "options": [
+          {
+            "id": "001",
+            "text": "Dynamic red block sound-effect lettering ('BRAAP BRRA-AA-AP') radiating from the subject with angled pointing arrows."
+          },
+          {
+            "id": "002",
+            "text": "Bold, distressed yellow visual onomatopoeia ('BANG! ZAP!') with thin black outline accents and motion lines."
+          },
+          {
+            "id": "003",
+            "text": "Prominent italicized red headline with underlined key action verbs and double exclamation marks."
+          },
+          {
+            "id": "004",
+            "text": "Dense corner paragraph of enthusiastic 1960s sales copy highlighting authentic details and no-battery features."
+          },
+          {
+            "id": "005",
+            "text": "Large top banner headline in classic bold serif type with red accent lettering and drop shadows."
+          },
+          {
+            "id": "006",
+            "text": "Vintage call-out box with hand-lettered text boasting 'WOW! The most realistic action you've ever seen!'"
+          },
+          {
+            "id": "007",
+            "text": "Bottom tagline strip reading 'See and try it at your nearest toy store today!' in clean black sans-serif."
+          },
+          {
+            "id": "008",
+            "text": "Staggered sound effect text burst in shades of vermilion red and black with energy vibration lines."
+          },
+          {
+            "id": "009",
+            "text": "Persuasive bullet points in retro typewriter font detailing features like 'Solid blast!', 'Over 50 rounds!', and 'Never reload!'"
+          },
+          {
+            "id": "010",
+            "text": "Authentic manufacturer emblem in the bottom right corner with red scalloped circle edging and gold lettering."
+          }
+        ]
+      },
+      {
+        "title": "ILLUSTRATION_AND_POSE_GROUP",
+        "options": [
+          {
+            "id": "011",
+            "text": "Mid-century commercial illustration of a child in a wide stance, holding the subject with determined focus."
+          },
+          {
+            "id": "012",
+            "text": "Classic 1960s catalog pose with clean ink outlines, flat color washes, and dramatic side-profile action."
+          },
+          {
+            "id": "013",
+            "text": "Three-quarter hero stance featuring simplified hand-painted clothing textures and retro haircut styling."
+          },
+          {
+            "id": "014",
+            "text": "Dynamic crouched play pose with clear pencil contour sketching and vintage gouache shading."
+          },
+          {
+            "id": "015",
+            "text": "Action-oriented stance leaning forward with clear hand-drawn line art and solid color block fills."
+          },
+          {
+            "id": "016",
+            "text": "Retro commercial model pose holding the subject proudly toward the viewer, rendered in 1960s storybook ink style."
+          },
+          {
+            "id": "017",
+            "text": "Full-body standing illustration with exaggerated perspective lines pointing toward the primary object."
+          },
+          {
+            "id": "018",
+            "text": "Classic Sunday comics style illustration with crisp black line work and flat primary color shading."
+          },
+          {
+            "id": "019",
+            "text": "Hand-illustrated character rendering with soft pastel crayon highlights and bold black brush outlines."
+          },
+          {
+            "id": "020",
+            "text": "Enthusiastic action pose with speed lines radiating from the hands and subject."
+          }
+        ]
+      },
+      {
+        "title": "PALETTE_AND_PRINT_ATMOSPHERE_GROUP",
+        "options": [
+          {
+            "id": "021",
+            "text": "Aged yellowed newsprint paper tone with faded warm cream background and subtle foxing specks."
+          },
+          {
+            "id": "022",
+            "text": "Classic CMYK offset print palette featuring bright primary red, teal blue, mustard yellow, and charcoal ink."
+          },
+          {
+            "id": "023",
+            "text": "Slight misregistered color plate effect where blue and red inks shift slightly outside black outline bounds."
+          },
+          {
+            "id": "024",
+            "text": "Visible 1960s Ben-Day halftone dot pattern in skin tones and background gradient washes."
+          },
+          {
+            "id": "025",
+            "text": "Warm pulp magazine paper texture with gentle age staining along the borders and corners."
+          },
+          {
+            "id": "026",
+            "text": "Vintage Sears catalog color palette with muted terra cotta red, slate blue, and warm tan undertones."
+          },
+          {
+            "id": "027",
+            "text": "High-contrast two-color printing process look utilizing rich crimson red and dense black ink on cream stock."
+          },
+          {
+            "id": "028",
+            "text": "Slight ink bleed and feathering along fine typographic details characteristic of low-cost newsprint."
+          },
+          {
+            "id": "029",
+            "text": "Desaturated retro palette with warm olive greens, burnt orange, and faded cobalt blue highlights."
+          },
+          {
+            "id": "030",
+            "text": "Authentic vintage magazine patina with subtle page creases and slightly yellowed margin edges."
+          }
+        ]
+      },
+      {
+        "title": "GRAPHIC_LAYOUT_AND_FINISH_GROUP",
+        "options": [
+          {
+            "id": "031",
+            "text": "Full-page comic book back-cover advertisement layout with heavy top header text and bottom store locator."
+          },
+          {
+            "id": "032",
+            "text": "Vintage Sunday paper insert aesthetic complete with fine newsprint grain and subtle horizontal fold mark."
+          },
+          {
+            "id": "033",
+            "text": "Retro toy catalog page composition with diagonal action callouts and circular product feature seals."
+          },
+          {
+            "id": "034",
+            "text": "Clean 1960s magazine layout with distinct separation between primary illustration and block marketing copy."
+          },
+          {
+            "id": "035",
+            "text": "Framed print ad finish with thin black outer border line and small publisher copyright fine print at bottom."
+          },
+          {
+            "id": "036",
+            "text": "Pulp comic advertisement finish featuring heavy black ink contrast and vibrant spot-color highlights."
+          },
+          {
+            "id": "037",
+            "text": "Authentic lithograph print texture with flat ink distribution and subtle paper fibers visible throughout."
+          },
+          {
+            "id": "038",
+            "text": "Dynamic composition featuring oversized quote marks around punchy testimonial headlines."
+          },
+          {
+            "id": "039",
+            "text": "Slightly worn corner edges and paper yellowing consistent with a preserved 1960s magazine page."
+          },
+          {
+            "id": "040",
+            "text": "Classic commercial art studio finish combining hand-drawn line art, screen-tone shadows, and bold typography."
+          }
+        ]
+      }
+    ]
   }
 ]
