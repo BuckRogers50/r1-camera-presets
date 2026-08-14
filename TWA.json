@@ -1,5 +1,198 @@
 [
   {
+    "name": "SATIRICAL POP CARICATURE ENSEMBLE",
+    "category": [
+      "CARTOON ILLUSTRATION",
+      "POP ART",
+      "CHARACTER CARICATURE",
+      "RETRO COMMERCIAL GRAPHIC"
+    ],
+    "message": "Take a picture and transform it into a vibrant, dense ensemble of dozens of distinct cartoon caricatures of the recognized subject, inspired by retro promotional mascot poster collages. CORE TRANSFORMATION: Multiply the subject into a packed, overlapping crowd of diverse 2D illustrated caricatures, each dressed in unique, wacky occupational costumes, novelty disguises, and pop-culture outfits while sporting dark sunglasses, oversized toothy grins, and playful smoking cigars or retro accessories. IDENTITY PRESERVATION: Across every single variant in the ensemble, precisely preserve the subject's distinct facial structure, jawline, hair color, facial hair, wrinkles, nose shape, and key anatomical identifiers so their likeness is unmistakable in every character pose. COMPOSITION: A bustling, dynamic, multi-character crowd montage filling the frame against a flat solid background, with characters layered shoulder-to-shoulder in tiers from front to back. ADDITIONAL INSTRUCTIONS: Use clean, bold black vector outlines, vibrant flat color blocking with subtle cel-shading, playful retro apparel, and novelty headwear, echoing vintage screen-printed brand promo art. NEGATIVE PROMPTS: Single subject solo portrait, photorealism, 3D CGI render, non-caricature faces, realistic human skin tones without cartoon stylization, muted colors, realistic complex photographic backgrounds. RANDOMIZATION RECOMMENDATIONS: Mix varied themes of retro occupations, eccentric hobbyists, historical uniforms, and comedic disguises across the crowd. CREATIVE STRATEGY: Treat the subject as an iconic mascot clone army where each iteration possesses an eccentric alter-ego. VISUAL DNA: Solid bright backdrop, thick ink outlines, huge white toothy grins, dark cool shades, multi-tiered crowd composition, retro comic-strip charm.",
+    "randomizeOptions": true,
+    "optionGroups": [
+      {
+        "title": "ENSEMBLE_THEME_GROUP",
+        "options": [
+          {
+            "id": "001",
+            "text": "Eclectic occupational mix including retro astronauts, vintage detectives, firefighters, painters, and commando soldiers."
+          },
+          {
+            "id": "002",
+            "text": "Pop-culture montage featuring wild west gunslingers, 1970s disco icons, rock stars, and medieval monarchs."
+          },
+          {
+            "id": "003",
+            "text": "Sport and adventure themes including vintage racecar drivers, deep-sea divers, mountain climbers, and golfers."
+          },
+          {
+            "id": "004",
+            "text": "Retro military and aviator lineup featuring fighter pilots, naval captains, camo commandos, and tank commanders."
+          },
+          {
+            "id": "005",
+            "text": "Classic Americana collection with farmers in overalls, baseball players, cowboys, and backyard grill masters."
+          },
+          {
+            "id": "006",
+            "text": "Theatrical masquerade ensemble featuring circus ringmasters, tuxedo magicians, clowns, and caped royalty."
+          },
+          {
+            "id": "007",
+            "text": "Vintage vacation crowd sporting floral Hawaiian shirts, snorkel masks, safari explorer hats, and ski parkas."
+          },
+          {
+            "id": "008",
+            "text": "Academic and professional cast of tweed professors, mad scientists, corporate tycoons, and courtroom judges."
+          },
+          {
+            "id": "009",
+            "text": "Retro sci-fi crew featuring 1950s space cadets, raygun adventurers, cyber operatives, and robotic mech pilots."
+          },
+          {
+            "id": "010",
+            "text": "All-star novelty crossover featuring superhero capes, pirate buccaneers, secret agents, and street racers."
+          }
+        ]
+      },
+      {
+        "title": "CROWD_COMPOSITION_GROUP",
+        "options": [
+          {
+            "id": "011",
+            "text": "Dense multi-tiered group pyramid packed with overlapping caricature bodies looking outward at various angles."
+          },
+          {
+            "id": "012",
+            "text": "Wide panoramic crowd arrangement stretching from edge to edge with front-row full figures and back-row busts."
+          },
+          {
+            "id": "013",
+            "text": "Dynamic layered ensemble framing a central mascot caricature holding a promotional banner."
+          },
+          {
+            "id": "014",
+            "text": "Bustling collage of overlapping shoulder-to-shoulder caricatures bursting with energetic hand gestures."
+          },
+          {
+            "id": "015",
+            "text": "Stepped grandstand formation showcasing rows of distinct caricatured versions of the subject from top to bottom."
+          },
+          {
+            "id": "016",
+            "text": "Circular burst composition where caricatured personas radiate outward around a dominant central caricature."
+          },
+          {
+            "id": "017",
+            "text": "Horizontal lineup collage featuring alternating crouching, standing, and leaning caricatures across the foreground."
+          },
+          {
+            "id": "018",
+            "text": "Asymmetrical cluster arrangement with heavier character density on the flanks framing comedic action in the center."
+          },
+          {
+            "id": "019",
+            "text": "Full-bleed character mosaic with over two dozen unique caricature iterations filling every square inch."
+          },
+          {
+            "id": "020",
+            "text": "Staggered comic panel roster arrangement displaying diverse action poses and expressive character silhouettes."
+          }
+        ]
+      },
+      {
+        "title": "EXPRESSION_AND_PROPS_GROUP",
+        "options": [
+          {
+            "id": "021",
+            "text": "Universal wide toothy grins, dark black Wayfarer-style sunglasses, and smoking vintage cigars in varying grips."
+          },
+          {
+            "id": "022",
+            "text": "Mischievous smirks with round tinted spectacles, monocles, magnifying glasses, and playful winks."
+          },
+          {
+            "id": "023",
+            "text": "Exaggerated laugh mouths showing bright white teeth, reflective aviator shades, and comic smoke puffs."
+          },
+          {
+            "id": "024",
+            "text": "Cocky grins chomping on novelty cigars, paired with tilted fedoras, berets, baseball caps, and helmets."
+          },
+          {
+            "id": "025",
+            "text": "Confident smirks with wrap-around sport shades, thumbs-up signs, waving flags, and paint palettes."
+          },
+          {
+            "id": "026",
+            "text": "Cheeky open-mouthed expressions with retro shutter shades, gold medallions, and goofy oversized neckties."
+          },
+          {
+            "id": "027",
+            "text": "Smug grins behind oversized dark lenses, accompanied by props like artist easels, duck decoys, and royal scepters."
+          },
+          {
+            "id": "028",
+            "text": "Ecstatic smiling faces wearing retro VR headsets, earmuffs, crown headpieces, and firefighter helmets."
+          },
+          {
+            "id": "029",
+            "text": "Wry, knowing smiles with lowered shades, holding microphones, smoking pipes, and brandishing novelty gadgets."
+          },
+          {
+            "id": "030",
+            "text": "Bold cartoon grins with thick dark eyebrows, mirrored sunglasses, and cartoon smoke rings swirling overhead."
+          }
+        ]
+      },
+      {
+        "title": "AESTHETIC_AND_COLOR_GROUP",
+        "options": [
+          {
+            "id": "031",
+            "text": "Vibrant canary yellow flat background with crisp, heavy black vector outlines and saturated primary colors."
+          },
+          {
+            "id": "032",
+            "text": "Bright mustard yellow backdrop with clean pop-art cel-shading and retro screenprint merchandise aesthetics."
+          },
+          {
+            "id": "033",
+            "text": "Bold retro comic color blocking with fine hatch shading on fabrics and solid background contrast."
+          },
+          {
+            "id": "034",
+            "text": "Vintage promotional sticker sheet aesthetic with sharp graphic line weights and vivid flat tones."
+          },
+          {
+            "id": "035",
+            "text": "High-energy graphic pop palette on an electric gold background with crisp cut-out character edges."
+          },
+          {
+            "id": "036",
+            "text": "1980s novelty poster look with flat saturated fills, sharp outline definition, and warm background glow."
+          },
+          {
+            "id": "037",
+            "text": "Classic commercial cartoon finish with clean vector line weights and rich, non-gradient color separation."
+          },
+          {
+            "id": "038",
+            "text": "Retro silkscreen t-shirt graphic style with solid color flats, bold black contouring, and punchy contrast."
+          },
+          {
+            "id": "039",
+            "text": "Bright novelty merchandise design with crisp black ink strokes, solid fills, and playful visual punch."
+          },
+          {
+            "id": "040",
+            "text": "Vibrant flat-art cartoon collage aesthetic with sharp edge definition against a solid sunburst yellow field."
+          }
+        ]
+      }
+    ]
+  }, 
+  {
     "name": "HIGH-FASHION MENSWEAR RUNWAY EDITORIAL",
     "category": [
       "FASHION RUNWAY",
