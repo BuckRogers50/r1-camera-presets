@@ -1,5 +1,199 @@
 [
   {
+    "name": "HIGH-FASHION MENSWEAR RUNWAY EDITORIAL",
+    "category": [
+      "FASHION RUNWAY",
+      "EDITORIAL LOOKBOOK",
+      "AVANT-GARDE MENSWEAR",
+      "HAUTE COUTURE",
+      "STUDIO EDITORIAL"
+    ],
+    "message": "Take a picture and transform it into a high-end luxury menswear runway and lookbook editorial in the distinct aesthetic of contemporary European fashion week presentations. CORE TRANSFORMATION: Restyle the subject in avant-garde designer tailoring, experimental layered silhouettes, luxury outerwear, structured coats, textured knits, or sleek leather garments. Place them against high-fashion runway catwalk backdrops—such as clean sky-blue gradient sets, neutral studio partitions, parquet wooden floors, or minimalist industrial architectural spaces. IDENTITY PRESERVATION: Maintain 100% of the subject's precise facial structure, bone proportions, ethnicity, eye shape, and distinct features while adopting an editorial, deadpan, or stoic runway demeanor with high-fashion grooming. COMPOSITION: Full-length standing runway stride, mid-thigh editorial crop, or sharp vertical lookbook frame with clean vertical lines and crisp perspective. ADDITIONAL INSTRUCTIONS: Emulate crisp digital and medium-format fashion photography with refined telephoto compression, balanced runway flash lighting, rich fabric textural fidelity (suede, shearling, patent vinyl, wool plaid, glazed leather), and authentic fashion presentation clarity. NEGATIVE PROMPTS: Casual snapshots, messy composition, blown-out highlights, distorted facial anatomy, oversaturated cartoonish colors, low-resolution artifacts, unnatural skin smoothing. RANDOMIZATION RECOMMENDATIONS: Pair bold tailored garments (boxy blazers, oversized trench coats, glossy vinyl pants) with minimalist runway backdrops and deadpan editorial expressions. CREATIVE STRATEGY: Treat the subject as a high-fashion runway model showcasing experimental contemporary tailoring with bold styling accents, structured silhouettes, and immaculate fabric detail. VISUAL DNA: High-fashion runway lighting, designer tailoring, textured textiles (shearling, patent leather, plaid wool, knitwear), minimalist runway set design, clean vertical framing, stoic editorial gaze.",
+    "randomizeOptions": true,
+    "optionGroups": [
+      {
+        "title": "RUNWAY_ENVIRONMENT_GROUP",
+        "options": [
+          {
+            "id": "001",
+            "text": "Clean pale sky-blue gradient backdrop illuminated with soft, bright fashion-show overhead lighting."
+          },
+          {
+            "id": "002",
+            "text": "Minimalist beige studio wall with soft natural floor reflections and clean directional fill."
+          },
+          {
+            "id": "003",
+            "text": "Polished hardwood parquet catwalk floor with dark architectural walls and crisp runway spotlights."
+          },
+          {
+            "id": "004",
+            "text": "Moody, dimly lit industrial concrete runway with sharp overhead focused beam lighting."
+          },
+          {
+            "id": "005",
+            "text": "Neutral off-white partitioned gallery runway space with smooth diffused ambient illumination."
+          },
+          {
+            "id": "006",
+            "text": "Sleek monochromatic grey catwalk with subtle vertical architectural pillars in the background."
+          },
+          {
+            "id": "007",
+            "text": "High-end luxury salon setting with understated cream paneling and warm runway rim light."
+          },
+          {
+            "id": "008",
+            "text": "Futuristic minimalist runway with a pure white luminous floor and cool-toned ambient light."
+          },
+          {
+            "id": "009",
+            "text": "Understated dark slate-grey runway stage with subtle background spectator silhouettes."
+          },
+          {
+            "id": "010",
+            "text": "Crisp editorial fashion lookbook studio with a seamless pale stone backdrop and clean dual strobes."
+          }
+        ]
+      },
+      {
+        "title": "SILHOUETTE_AND_STYLING_GROUP",
+        "options": [
+          {
+            "id": "011",
+            "text": "Monogrammed brown suede shearling-collar jacket with tailored trousers and a crossbody miniature trunk bag."
+          },
+          {
+            "id": "012",
+            "text": "Long camel-wool tailored overcoat layered over an elongated pinstripe collared shirt and tailored slacks."
+          },
+          {
+            "id": "013",
+            "text": "Oversized camel cardigan with geometric graphic block patches over a crisp white collared shirt and wide-leg trousers."
+          },
+          {
+            "id": "014",
+            "text": "Oversized double-breasted grey glen plaid wool blazer paired with relaxed technical cargo pants."
+          },
+          {
+            "id": "015",
+            "text": "Acid-wash charcoal denim tailored suit jacket with distressed matching straight-leg denim jeans."
+          },
+          {
+            "id": "016",
+            "text": "Dark charcoal textured rib-knit sweater with a high satin neckband and glossy deep-blue vinyl wet-look trousers."
+          },
+          {
+            "id": "017",
+            "text": "Floor-length black tailored coat with bold red edge lining worn over a high-waisted cummerbund and unbuttoned white silk shirt."
+          },
+          {
+            "id": "018",
+            "text": "Rich burnished brown leather zip-up suit with structured leather jacket, matching trousers, and a wide-brim leather bucket hat."
+          },
+          {
+            "id": "019",
+            "text": "Vibrant scarlet-red structured tailored single-button suit over a white graphic typographic tee and high-rise zipped trousers."
+          },
+          {
+            "id": "020",
+            "text": "Beige windowpane check minimalist tailored utility jacket with a layered knit vest and matching wide-leg check trousers."
+          }
+        ]
+      },
+      {
+        "title": "MODEL_STANCE_AND_EXPRESSION_GROUP",
+        "options": [
+          {
+            "id": "021",
+            "text": "Deadpan, intense forward runway gaze with a poised, confident walking stride toward the camera."
+          },
+          {
+            "id": "022",
+            "text": "Sharp, angular head turn with a cold, haughty high-fashion editorial stare."
+          },
+          {
+            "id": "023",
+            "text": "Stoic, poised posture facing directly center with relaxed hands resting along tailored seams."
+          },
+          {
+            "id": "024",
+            "text": "Brooding, low-eyebrow runway focus with a measured, deliberate mid-stride posture."
+          },
+          {
+            "id": "025",
+            "text": "Subtly detached, cool gaze looking slightly past the lens with shoulders squared."
+          },
+          {
+            "id": "026",
+            "text": "Confident, upright catwalk poise with hands naturally brushing jacket pockets."
+          },
+          {
+            "id": "027",
+            "text": "Avant-garde stoicism with a sleek, slicked-back hairstyle and piercing unblinking eyes."
+          },
+          {
+            "id": "028",
+            "text": "Dynamic mid-walk pacing with coat tails caught with subtle motion and steady head leveling."
+          },
+          {
+            "id": "029",
+            "text": "Slight three-quarter head tilt showcasing strong jawline definition and high-fashion composure."
+          },
+          {
+            "id": "030",
+            "text": "Serene, minimalist facial neutrality capturing the essence of European luxury runway shows."
+          }
+        ]
+      },
+      {
+        "title": "FABRIC_FINISH_AND_COLOR_GROUP",
+        "options": [
+          {
+            "id": "031",
+            "text": "High-tactile fabric rendering emphasizing brushed suede, plush shearling, and matte wool twill."
+          },
+          {
+            "id": "032",
+            "text": "High-gloss lacquered sheen on vinyl textiles contrasting against soft matte knitwear."
+          },
+          {
+            "id": "033",
+            "text": "Ultra-rich saturated scarlet red contrast against crisp neutral studio tones."
+          },
+          {
+            "id": "034",
+            "text": "Refined earth-tone palette of camel, sand, ochre, and warm cognac leather tones."
+          },
+          {
+            "id": "035",
+            "text": "Crisp micro-contrast on tailored houndstooth, windowpane checks, and raw denim weaves."
+          },
+          {
+            "id": "036",
+            "text": "Sleek monochromatic charcoal, jet black, and optic white tailored color blocking."
+          },
+          {
+            "id": "037",
+            "text": "Glazed, distressed leather patina with deep specular highlights and rich brown tones."
+          },
+          {
+            "id": "038",
+            "text": "Clean, modern editorial color grading with true-to-life skin tones and balanced contrast."
+          },
+          {
+            "id": "039",
+            "text": "Fine tailored wool drape with immaculate seam stitching and sharp pressed creases."
+          },
+          {
+            "id": "040",
+            "text": "Vogue Runway style high-definition telephoto capture with crisp edge separation and luxury color balance."
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "70S INDUSTRIAL STUDIO PORTRAIT",
     "category": [
       "VINTAGE EDITORIAL",
