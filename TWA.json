@@ -1,5 +1,198 @@
 [
   {
+    "name": "70S INDUSTRIAL STUDIO PORTRAIT",
+    "category": [
+      "VINTAGE EDITORIAL",
+      "70S STUDIO PORTRAIT",
+      "WARM ANALOG FILM",
+      "RETRO FASHION"
+    ],
+    "message": "Take a picture and transform it into a warm, muted 1970s analog studio portrait set inside a high-ceilinged industrial loft space[span_0](start_span)[span_0](end_span). CORE TRANSFORMATION: Place the subject in a sparse, off-white or cream industrial studio environment featuring subtle architectural elements like exposed timber beams, whitewashed walls, and neutral light concrete flooring[span_1](start_span)[span_1](end_span). Render the image with soft natural light, warm film color tones, low contrast, and earthy accent colors like rust, satin terra-cotta, and deep matte black[span_2](start_span)[span_2](end_span). IDENTITY PRESERVATION: Maintain 100% of the subject's original facial structure, bone proportions, facial features, skin texture, body shape, and hair layout accurately while styling them in relaxed, 1970s-inspired editorial attire (e.g., high-waisted wide-leg trousers, satin fabrics, platform block heels, crop tops)[span_3](start_span)[span_3](end_span). COMPOSITION: Frame as a casual, wide or medium portrait with ample negative space overhead, capturing the subject seated on a simple wooden stool or standing naturally[span_4](start_span)[span_4](end_span). ADDITIONAL INSTRUCTIONS: Replicate 35mm warm color film stock grain, subtle soft focus, slightly lifted black levels, and muted color saturation reminiscent of vintage 1970s fashion and lifestyle magazine editorials[span_5](start_span)[span_5](end_span). NEGATIVE PROMPTS: Modern high-contrast digital lighting, harsh LED highlights, oversaturated colors, neon tones, busy cluttered backgrounds, hyper-sharp digital textures, futuristic props[span_6](start_span)[span_6](end_span). RANDOMIZATION RECOMMENDATIONS: Pair subtle natural window light angles with casual relaxed poses and earthy 1970s color palettes[span_7](start_span)[span_7](end_span). CREATIVE STRATEGY: Emphasize effortless retro style, generous spatial composition, and organic analog film warmth[span_8](start_span)[span_8](end_span). VISUAL DNA: Cream whitewashed studio backdrop, wooden stool accent, rust-red satin trousers, muted analog color palette, fine 35mm film grain, soft directional daylight[span_9](start_span)[span_9](end_span).",
+    "randomizeOptions": true,
+    "optionGroups": [
+      {
+        "title": "LIGHTING_GROUP",
+        "options": [
+          {
+            "id": "001",
+            "text": "Soft, diffused directional daylight streaming from a high studio window casting gentle shadows."
+          },
+          {
+            "id": "002",
+            "text": "Warm golden-hour ambient studio fill creating smooth, low-contrast tonal transitions across the scene."
+          },
+          {
+            "id": "003",
+            "text": "Overcast natural studio light producing ultra-soft wrap-around illumination with zero harsh highlights."
+          },
+          {
+            "id": "004",
+            "text": "Subtle side-lit natural window glow highlighting facial features and garment textures with warm undertones."
+          },
+          {
+            "id": "005",
+            "text": "Warm vintage tungsten ambient light bounce softening background contrast and adding cream tones."
+          },
+          {
+            "id": "006",
+            "text": "Muted morning daylight illuminating the off-white studio walls with a gentle matte finish."
+          },
+          {
+            "id": "007",
+            "text": "Diffused overhead loft light creating soft downward shadows beneath the chin and stool frame."
+          },
+          {
+            "id": "008",
+            "text": "Late afternoon sun haze filtering into the room, infusing the shadows with warm amber tones."
+          },
+          {
+            "id": "009",
+            "text": "Flat, muted indoor studio lighting characteristic of 1970s catalog and fashion photography."
+          },
+          {
+            "id": "010",
+            "text": "Soft key light with organic bounce, preserving rich detail in satin fabrics and dark footwear."
+          }
+        ]
+      },
+      {
+        "title": "POSE_GROUP",
+        "options": [
+          {
+            "id": "011",
+            "text": "Relaxed casual perch on a simple wooden stool with knees open and hands resting naturally."
+          },
+          {
+            "id": "012",
+            "text": "Seated low-angle posture looking directly forward into the lens with quiet confidence."
+          },
+          {
+            "id": "013",
+            "text": "Effortless 70s fashion stance leaning against an off-white wall with one foot turned out."
+          },
+          {
+            "id": "014",
+            "text": "Wide-stance seated posture emphasizing the dramatic silhouette of wide-leg trousers."
+          },
+          {
+            "id": "015",
+            "text": "Slight forward torso lean on a minimalist wooden stool, creating an intimate connection."
+          },
+          {
+            "id": "016",
+            "text": "Candid side-seated pose with head turned toward the camera and soft natural arm rest."
+          },
+          {
+            "id": "017",
+            "text": "Casual floor-seated pose near the base of the whitewashed studio corner with legs crossed."
+          },
+          {
+            "id": "018",
+            "text": "Asymmetrical pose perched on the edge of the seat, displaying platform heels and tall stance."
+          },
+          {
+            "id": "019",
+            "text": "Unposed, relaxed moment looking off-camera with shoulders soft and posture natural."
+          },
+          {
+            "id": "020",
+            "text": "Full-length standing pose positioned centrally in the spacious industrial loft room."
+          }
+        ]
+      },
+      {
+        "title": "EXPRESSION_GROUP",
+        "options": [
+          {
+            "id": "021",
+            "text": "Calm, neutral stare with a serene and effortless retro fashion aura."
+          },
+          {
+            "id": "022",
+            "text": "Subtle, relaxed direct gaze into the lens projecting candid vulnerability."
+          },
+          {
+            "id": "023",
+            "text": "Introspective, quiet expression looking slightly past the camera into natural light."
+          },
+          {
+            "id": "024",
+            "text": "Slight, confident smirk capturing a nonchalant 1970s editorial mood."
+          },
+          {
+            "id": "025",
+            "text": "Thoughtful, gentle gaze with relaxed facial muscles and natural lip alignment."
+          },
+          {
+            "id": "026",
+            "text": "Poised, sophisticated expression with an understated air of quiet strength."
+          },
+          {
+            "id": "027",
+            "text": "Soft, dreamlike facial tone capturing a fleeting, authentic moment between poses."
+          },
+          {
+            "id": "028",
+            "text": "Focused yet soft gaze highlighting retro bangs and natural makeup aesthetics."
+          },
+          {
+            "id": "029",
+            "text": "Warm, subtle half-smile with a relaxed and inviting eyes-to-camera contact."
+          },
+          {
+            "id": "030",
+            "text": "Stoic, artistic studio expression emphasizing high fashion detachment and grace."
+          }
+        ]
+      },
+      {
+        "title": "AESTHETIC_FINISH_GROUP",
+        "options": [
+          {
+            "id": "031",
+            "text": "Warm Kodachrome film stock emulation with earthy rust reds, warm creams, and matte blacks."
+          },
+          {
+            "id": "032",
+            "text": "Fine organic 35mm film grain with slightly softened contrast and warm paper-white highlights."
+          },
+          {
+            "id": "033",
+            "text": "Muted 1970s print magazine aesthetic with soft tonal fading and warm amber cast."
+          },
+          {
+            "id": "034",
+            "text": "Satin fabric sheen paired with matte concrete and raw wood textures in neutral tones."
+          },
+          {
+            "id": "035",
+            "text": "Lifted dark shadows and reduced digital sharpness for an authentic vintage analog feel."
+          },
+          {
+            "id": "036",
+            "text": "Desaturated background neutrals contrasting with rich terra-cotta and deep black apparel."
+          },
+          {
+            "id": "037",
+            "text": "Warm analog color grading with subtle edge softness and vintage lens bloom."
+          },
+          {
+            "id": "038",
+            "text": "Minimalist gallery print finish with smooth midtone transitions and organic matte texture."
+          },
+          {
+            "id": "039",
+            "text": "Classic Fujicolor look featuring soft warm skin tones, muted whites, and deep rust accents."
+          },
+          {
+            "id": "040",
+            "text": "Timeless 70s lookbook aesthetic with low-contrast warmth and generous architectural negative space."
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "SILVERHAWKS",
     "category": [
       "SCI-FI",
