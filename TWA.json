@@ -1,5 +1,244 @@
 [
   {
+    "name": "SUBVERSIVE GRAPHIC TEE & AUDACIOUS COPY",
+    "category": [
+      "GRAPHIC DESIGN",
+      "STREETWEAR AESTHETIC",
+      "VINTAGE SCREENPRINT",
+      "SATIRICAL POP ART",
+      "TYPOGRAPHY"
+    ],
+    "message": "Take a picture and transform it into a bold, provocative graphic tee design characterized by audacious copywriting, subversive satire, and edgy novelty apparel aesthetics. CORE TRANSFORMATION: Convert the subject and scene into a punchy screen-printed graphic art layout layered with bold, humorous slogan banners, distressed halftones, cracked plastisol inks, and unapologetic novelty typography. IDENTITY PRESERVATION: Maintain the subject's distinct facial proportions, silhouette, and posture while stylizing them into high-contrast screenprint vector contours, vibrant spot-color fills, and distressed pop-culture illustration styles. COMPOSITION: Center-dominant poster or streetwear graphic layout with the subject flanked or framed by aggressive headline typography, vintage emblem badges, distressed banner ribbons, and satirical callout boxes. ADDITIONAL INSTRUCTIONS: Emulate heavy cotton jersey fabric backdrop textures, CMYK screen-print misregistration, cracked vintage plastisol ink, worn rubberized finishes, and bold distressed block letter overlays. NEGATIVE PROMPTS: Soft atmospheric blur, corporate minimalism, generic modern pastel art, low-contrast photorealism, gentle watercolor, muted washed-out gradients, polite corporate stock imagery. RANDOMIZATION RECOMMENDATIONS: Pair direct flash studio lighting with irreverent deadpan or wildly theatrical facial expressions, cracked vintage ink textures, and audacious satirical punchlines. CREATIVE STRATEGY: Merge sharp satirical copywriting with raw vintage graphic tee aesthetics to create an unapologetically bold wearable art statement. VISUAL DNA: High-contrast ink separations, bold sans-serif and stencil lettering, cracked plastisol texture, raw pop-art satire, heavy cotton knit backdrop, and audacious novelty punchlines.",
+    "randomizeOptions": true,
+    "optionGroups": [
+      {
+        "title": "LIGHTING_GROUP",
+        "options": [
+          {
+            "id": "001",
+            "text": "Direct, unsoftened snapshot flash creating harsh outlines and punchy graphic reflections."
+          },
+          {
+            "id": "002",
+            "text": "High-contrast commercial screenprint studio lighting with sharp separation between ink layers."
+          },
+          {
+            "id": "003",
+            "text": "Dim underground basement club lighting with stark, colored neon rim highlights."
+          },
+          {
+            "id": "004",
+            "text": "Flat, stark catalogue illumination isolating the graphic against heavy black cotton fabric."
+          },
+          {
+            "id": "005",
+            "text": "Gritty street-level halogen glow casting aggressive, high-contrast urban shadows."
+          },
+          {
+            "id": "006",
+            "text": "Overexposed vintage flashbulb lighting producing blown-out highlights and saturated ink tones."
+          },
+          {
+            "id": "007",
+            "text": "Dual-tone punk zine lighting with harsh red and black duotone illumination."
+          },
+          {
+            "id": "008",
+            "text": "Stark overhead industrial fluorescent lighting with crisp hard-edged drop shadows."
+          },
+          {
+            "id": "009",
+            "text": "Punchy pop-art studio key light with vibrant primary color rim accents."
+          },
+          {
+            "id": "010",
+            "text": "Distressed darkroom exposure lighting with noticeable burn marks and vignetted borders."
+          }
+        ]
+      },
+      {
+        "title": "POSE_GROUP",
+        "options": [
+          {
+            "id": "011",
+            "text": "Deadpan, confrontational center-frame mugshot stance with arms crossed."
+          },
+          {
+            "id": "012",
+            "text": "Exaggerated retro mascot pose pointing aggressively outward toward the viewer."
+          },
+          {
+            "id": "013",
+            "text": "Dynamic low-angle skate photography perspective with bold upward-tilted posture."
+          },
+          {
+            "id": "014",
+            "text": "Ironic mock-serious catalog model pose wearing an unapologetically absurd expression."
+          },
+          {
+            "id": "015",
+            "text": "Three-quarter leaning posture framed inside a distressed circular graphic emblem."
+          },
+          {
+            "id": "016",
+            "text": "Graphic silhouette cut-out pose flanked by oversized, stacked bold typography."
+          },
+          {
+            "id": "017",
+            "text": "Mid-gesture candid action shot frozen with dynamic screen-print motion lines."
+          },
+          {
+            "id": "018",
+            "text": "Aggressive close-up framing focusing on facial smirk, framed by bold slogan banners."
+          },
+          {
+            "id": "019",
+            "text": "Vintage comic-book panel pose with dramatic foreshortened hand gestures."
+          },
+          {
+            "id": "020",
+            "text": "Relaxed slouching posture set against a bold, repeating retro background pattern."
+          }
+        ]
+      },
+      {
+        "title": "EXPRESSION_GROUP",
+        "options": [
+          {
+            "id": "021",
+            "text": "Wry, sarcastic smirk radiating pure irreverent confidence and subversive humor."
+          },
+          {
+            "id": "022",
+            "text": "Completely stone-faced, deadpan stare contrasting with wild graphic surroundings."
+          },
+          {
+            "id": "023",
+            "text": "Wild, manic open-mouthed grin channeling chaotic early-2000s punk energy."
+          },
+          {
+            "id": "024",
+            "text": "Mischievous, knowing wink paired with an unapologetic, sly grin."
+          },
+          {
+            "id": "025",
+            "text": "Mock-offended dramatic gasp with exaggerated theatrical facial expression."
+          },
+          {
+            "id": "026",
+            "text": "Unbothered, defiant side-eye glare with raised single eyebrow."
+          },
+          {
+            "id": "027",
+            "text": "Boisterous, unapologetic belly laugh frozen mid-cackle."
+          },
+          {
+            "id": "028",
+            "text": "Stoic vintage advertising mascot smile with uncanny, bold enthusiasm."
+          },
+          {
+            "id": "029",
+            "text": "Rebellious grimace with clenched jaw and intense graphic line detailing."
+          },
+          {
+            "id": "030",
+            "text": "Smug, triumphant grin radiating maximum satirical audacity."
+          }
+        ]
+      },
+      {
+        "title": "AESTHETIC_FINISH_GROUP",
+        "options": [
+          {
+            "id": "031",
+            "text": "Heavy cracked plastisol ink finish on vintage faded black ring-spun cotton jersey."
+          },
+          {
+            "id": "032",
+            "text": "Grungy 4-color CMYK screenprint dot halftone with deliberate print misregistration."
+          },
+          {
+            "id": "033",
+            "text": "High-contrast vector stencil art with distressed rubberized ink stamp texture."
+          },
+          {
+            "id": "034",
+            "text": "Bold distressed typography overlay in ultra-heavy impact font with distressed edges."
+          },
+          {
+            "id": "035",
+            "text": "Vibrant neon spot-color ink layers over dark heather gray fabric texture."
+          },
+          {
+            "id": "036",
+            "text": "Vintage bootleg merch aesthetic with abrasive sandpaper-worn distressing."
+          },
+          {
+            "id": "037",
+            "text": "Acid-wash tie-dye background blend with stark white graphic vector ink overlays."
+          },
+          {
+            "id": "038",
+            "text": "Thick glossy vinyl heat-press look with razor-sharp graphic contours and sheen."
+          },
+          {
+            "id": "039",
+            "text": "Underground punk zine Xerox xerography finish with crunchy bitmap grain."
+          },
+          {
+            "id": "040",
+            "text": "Subversive novelty tee finish with bold contrast, sharp line art, and cracked print patina."
+          }
+        ]
+      },
+      {
+        "title": "AUDACIOUS_COPYWRITING_GROUP",
+        "options": [
+          {
+            "id": "041",
+            "text": "Deadpan, misanthropic one-liner printed in giant all-caps sans-serif arching above the subject."
+          },
+          {
+            "id": "042",
+            "text": "Irreverent faux-inspirational quote with an aggressively absurd punchline subverting expectations."
+          },
+          {
+            "id": "043",
+            "text": "Mock corporate parody slogan twisted into dark, biting workplace satire with distressed lettering."
+          },
+          {
+            "id": "044",
+            "text": "Self-deprecating brag styled as a vintage athletic championship badge with weathered typography."
+          },
+          {
+            "id": "045",
+            "text": "Blatantly confrontational warning label text rendered in bright yellow hazard stencil font."
+          },
+          {
+            "id": "046",
+            "text": "Nihilistic party slogan paired with ironic cheerful bubble letters and cracked ink texture."
+          },
+          {
+            "id": "047",
+            "text": "Unapologetic anti-social declaration rendered across stacked, distressed impact lettering."
+          },
+          {
+            "id": "048",
+            "text": "Absurd existential crisis statement framed inside a faux vintage tourist souvenir ribbon."
+          },
+          {
+            "id": "049",
+            "text": "Sarcastic faux-medical diagnosis headline with bold warning subtext and distressed drop shadow."
+          },
+          {
+            "id": "050",
+            "text": "Satirical retro mascot disclaimer shouting an audacious, provocative quip in a comic speech bubble."
+          }
+        ]
+      }
+    ]
+  }, 
+  {
     "name": "SATIRICAL POP CARICATURE ENSEMBLE",
     "category": [
       "CARTOON ILLUSTRATION",
