@@ -1,5 +1,198 @@
 [
   {
+    "name": "VINTAGE YELLOW PAGES BUSINESS DIRECTORY",
+    "category": [
+      "RETRO PRINT",
+      "GRAPHIC DESIGN",
+      "VINTAGE ADVERTISING",
+      "COMMERCIAL EPHEMERA"
+    ],
+    "message": "Take a picture and transform it into a full-page authentic vintage Yellow Pages business directory print layout inspired by 1970s-1980s telephone books. CORE TRANSFORMATION: Convert the input subject into the overarching commercial theme of the directory page. Populate the page with a dense grid of boxed display advertisements, classified text columns, and coupon sections where every distinct business name, service, bad pun, and cheesy slogan is directly themed around the primary subject of the photograph. IDENTITY PRESERVATION: Translate the subject's distinct features, profession, object type, or persona into retro line-art illustrations, halftone black-ink spot drawings, clip-art logos, and thematic company names across all individual advertisements on the page. COMPOSITION: Multi-column phonebook page grid with thick black borders, header banner displaying category name and page number, vertical alphabetical tabs (A-Z) on the outer edge, and varied ad sizes (full banner, quarter-page box, micro business cards, multi-column listings). Include cheesy local business copy, addresses, business hours, fake 7-digit phone numbers with local area codes, and starburst discount badges. ADDITIONAL INSTRUCTIONS: Replicate authentic newsprint texture with pale yellow or aged goldenrod paper stock, slight ink bleeding, uneven black ink stamping, halftone dot patterns on line-art graphics, and slight page margin creasing. NEGATIVE PROMPTS: Modern digital layouts, glossy paper finish, clean sans-serif minimalism, colorful vector flat art, photorealistic full-color images, high-tech modern smartphone aesthetics. RANDOMIZATION RECOMMENDATIONS: Mix amateur desktop publishing layouts with varying typography styles, awkward small-business copywriting, cheesy rhyming slogans, and naive hand-drawn spot illustrations. CREATIVE STRATEGY: Emulate authentic small-business owner copywriting with earnest clunky slogans, all-caps emphasis, heavy use of exclamation points, and hyper-literal puns related to the subject. VISUAL DNA: Goldenrod yellow telephone directory paper, black offset ink, boxed display ads, alphabetical side margins, halftone line drawings, retro display typography, clunky commercial slogans.",
+    "randomizeOptions": true,
+    "optionGroups": [
+      {
+        "title": "PAGE_PRINT_CONDITION_GROUP",
+        "options": [
+          {
+            "id": "001",
+            "text": "Slightly faded, classic pale-yellow telephone book pulp paper with subtle black ink strike-through and grain."
+          },
+          {
+            "id": "002",
+            "text": "Deep goldenrod newsprint stock with visible ink bleed along thick border lines and heavy display type."
+          },
+          {
+            "id": "003",
+            "text": "Aged, sun-yellowed directory page showing faint corner dog-ears, thumb smudges, and minor edge wear."
+          },
+          {
+            "id": "004",
+            "text": "Crisp two-tone offset printing with stark black ink and an occasional pop of red spot-color ink in discount starbursts."
+          },
+          {
+            "id": "005",
+            "text": "Authentic coarse newsprint texture with visible paper fiber flecks and slight vertical scan misregistration."
+          },
+          {
+            "id": "006",
+            "text": "Vintage matte yellow directory sheet featuring coarse dot-matrix screen halftone line-art shading."
+          },
+          {
+            "id": "007",
+            "text": "Heavily referenced community phonebook page with subtle ballpoint pen circling and handwritten margin notes."
+          },
+          {
+            "id": "008",
+            "text": "Late 1970s era light canary-yellow newsprint with high-contrast dense black ink density on borders."
+          },
+          {
+            "id": "009",
+            "text": "Retro directory sheet with subtle ink smudging around large bold phone numbers and header banners."
+          },
+          {
+            "id": "010",
+            "text": "Clipped directory clipping format with scissor-cut angled edges laid against a slightly darker yellow ground."
+          }
+        ]
+      },
+      {
+        "title": "AD_LAYOUT_COMPOSITION_GROUP",
+        "options": [
+          {
+            "id": "011",
+            "text": "Grid of diverse ad modules: a top horizontal half-page banner, three middle vertical boxes, and bottom strip ads."
+          },
+          {
+            "id": "012",
+            "text": "Dense multi-ad layout packed with double-bordered coupon cutouts, bolded phone digits, and dotted-line margins."
+          },
+          {
+            "id": "013",
+            "text": "Two dominant quarter-page display boxes centered among dense single-line alphabetical directory listings."
+          },
+          {
+            "id": "014",
+            "text": "Asymmetrical magazine-style directory spread featuring oversized starburst discount badges and bold bulleted services."
+          },
+          {
+            "id": "015",
+            "text": "Collage of bold rectangular business cards stacked tightly with black borders and alphabetized header tabs."
+          },
+          {
+            "id": "016",
+            "text": "Top-heavy composition with an oversized prominent feature box boasting cheesy hand-drawn logo illustrations."
+          },
+          {
+            "id": "017",
+            "text": "Balanced 3x3 commercial ad matrix, each square framing a distinct themed shop with bold contact banners."
+          },
+          {
+            "id": "018",
+            "text": "Dense classified listing column on the left balanced by stacked illustrated commercial display ads on the right."
+          },
+          {
+            "id": "019",
+            "text": "Full directory page bordered by vertical A-Z search tabs, filled with varied horizontal banner advertisements."
+          },
+          {
+            "id": "020",
+            "text": "Scattered promotional layout featuring corner 'FREE ESTIMATE' callout boxes and bold uppercase headlines."
+          }
+        ]
+      },
+      {
+        "title": "COPYWRITING_SLOGAN_STYLE_GROUP",
+        "options": [
+          {
+            "id": "021",
+            "text": "Earnest amateur small-business slogans packed with clumsy puns, rhyming taglines, and excessive quotation marks."
+          },
+          {
+            "id": "022",
+            "text": "High-urgency commercial copy with ALL-CAPS promises: '24-HOUR EMERGENCY SERVICE!' and 'CALL BEFORE IT IS TOO LATE!'"
+          },
+          {
+            "id": "023",
+            "text": "Family-run business charm featuring 'Serving the Tri-County Area Since 1968' and 'Ask for Big Bob!' taglines."
+          },
+          {
+            "id": "024",
+            "text": "Hyper-literal, unvarnished value pitches: 'We Beat Anyone's Price!' and 'Quality Work at Sensible Rates!'"
+          },
+          {
+            "id": "025",
+            "text": "Clunky testimonial-style ad copy with self-proclaimed 'Number One Rated by Local Satisfied Customers!'"
+          },
+          {
+            "id": "026",
+            "text": "Cheesy small-town boast copy: 'Don't Fuss, Call Us!' and 'Your One-Stop Complete Neighborhood Solution!'"
+          },
+          {
+            "id": "027",
+            "text": "Overloaded service checklists with endless bulleted offerings, disclaimers, and 'No Job Too Small or Large!'"
+          },
+          {
+            "id": "028",
+            "text": "Direct, no-nonsense small-business headlines emphasizing seniority: 'Over 30 Years of Honest, Dependable Service!'"
+          },
+          {
+            "id": "029",
+            "text": "Playful colloquial slogans featuring mascot names: 'Let Our Friendly Crew Handle Your Every Need Today!'"
+          },
+          {
+            "id": "030",
+            "text": "Budget-focused ad claims: 'Senior Discounts Available!', 'Free Consultation With Ad!', and 'Low, Low Rates!'"
+          }
+        ]
+      },
+      {
+        "title": "TYPOGRAPHY_CLIPART_FINISH_GROUP",
+        "options": [
+          {
+            "id": "031",
+            "text": "Vintage woodblock and thick Cooper Black headline fonts paired with crude black line-art mascot illustrations."
+          },
+          {
+            "id": "032",
+            "text": "Stark 1970s transfer lettering aesthetic with bold serif display names and condensed sans-serif body copy."
+          },
+          {
+            "id": "033",
+            "text": "Halftone screen line drawings of subject-inspired icons, tools, and portraits framed inside thick ad borders."
+          },
+          {
+            "id": "034",
+            "text": "Heavy geometric sans display lettering mixed with playful script fonts for business owner signatures."
+          },
+          {
+            "id": "035",
+            "text": "Retro clip-art graphics with stippled shading, dashed coupon borders, and prominent pointing-finger fingerpost icons."
+          },
+          {
+            "id": "036",
+            "text": "Extra-bold slab serif telephone numbers with heavy black drop shadows and underlined business names."
+          },
+          {
+            "id": "037",
+            "text": "Classic phototypesetting display fonts with tight letter spacing and distressed black ink reproduction."
+          },
+          {
+            "id": "038",
+            "text": "Amateur commercial clip-art badges: ribbons, award seals, starburst bursts, and hand-drawn telephone receivers."
+          },
+          {
+            "id": "039",
+            "text": "Inverted black-box ad designs with bold white newsprint lettering and high-contrast line-drawn subject art."
+          },
+          {
+            "id": "040",
+            "text": "Period-correct dry-transfer graphic style with slightly imperfect typographic alignment and bold decorative rules."
+          }
+        ]
+      }
+    ]
+  }, 
+  {
     "name": "NO-SUNGLASSES POP CARICATURE",
     "category": [
       "CARTOON ILLUSTRATION",
