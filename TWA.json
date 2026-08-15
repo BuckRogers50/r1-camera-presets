@@ -1,5 +1,198 @@
 [
   {
+    "name": "HIERONYMUS BOSCH SURREAL TRIPTYCH OIL",
+    "category": [
+      "NORTHERN RENAISSANCE",
+      "SURREALISM",
+      "FINE ART PAINTING",
+      "ALLEGORICAL FANTASY"
+    ],
+    "message": "Take a picture and transform it into a complex, allegorical Northern Renaissance oil painting directly inspired by the visionary surrealism and triptych compositions of Hieronymus Bosch. CORE TRANSFORMATION: Reimagine the captured scene, subjects, and objects into a bustling Early Netherlandish panorama filled with hybrid monsters, bizarre biological-architectural apparatuses, allegorical symbols, and intricate moral narratives. Subjects from the source photo must be integrated as key central figures, penitents, or curious observers embedded seamlessly inside the surreal tableau. IDENTITY PRESERVATION: Maintain recognizable facial likeness, key expressions, and structural anatomy of the original subject while re-rendering them in late 15th-century oil-on-oak-panel glaze technique with period-accurate garments, drapery, or allegorical attire. COMPOSITION: Structure as an expansive landscape or multi-panel triptych (Edenic paradise, earthly garden of temptations, or fiery nocturnal hellscape) with deep atmospheric perspective and high horizon lines filled with micro-narratives. ADDITIONAL INSTRUCTIONS: Emulate luminous egg tempera and oil glazes, fine brushwork, craquelure fissures on aged oak wood panels, and authentic gold-leaf lettering or Gothic arched borders. NEGATIVE PROMPTS: Modern digital airbrushing, 3D CGI rendering, photographic lens bokeh, neon modern lighting, flat minimalism, anime aesthetics, plastic textures. RANDOMIZATION RECOMMENDATIONS: Mix bizarre organic-mechanical hybrid creatures with contrasting biblical or apocalyptic environmental backdrops across panel segments. CREATIVE STRATEGY: Balance Bosch's dark satirical wit, moral complexity, and grotesque whimsical iconography while celebrating the source image's focal subject. VISUAL DNA: Luminous oil-glaze finish, micro-detailed allegorical flora and fauna, hybrid chimera creatures, segmented triptych panels, and fine panel craquelure.",
+    "randomizeOptions": true,
+    "optionGroups": [
+      {
+        "title": "ENVIRONMENT_GROUP",
+        "options": [
+          {
+            "id": "001",
+            "text": "Expansive three-panel altarpiece triptych layout showing Eden, earthly delights, and a flaming apocalyptic abyss across arched wooden frames."
+          },
+          {
+            "id": "002",
+            "text": "Lush fantastical Garden of Delights with pastel-pink fleshy fountains, turquoise mineral pools, and giant surreal fruits."
+          },
+          {
+            "id": "003",
+            "text": "Apocalyptic nocturnal hellscape engulfed in black smoke, burning fortified towers, and glowing embers under a dark sky."
+          },
+          {
+            "id": "004",
+            "text": "Central astrological wheel of the Seven Deadly Sins with ornate circular vignettes framed by Gothic scrollwork banners."
+          },
+          {
+            "id": "005",
+            "text": "Rustic Flemish countryside featuring a towering golden haystack cart surrounded by swarming revelers, clerics, and demons."
+          },
+          {
+            "id": "006",
+            "text": "Dilapidated thatched stable shelter set against rolling Netherlandish hills and distant Renaissance city spires."
+          },
+          {
+            "id": "007",
+            "text": "Murky river marshland dotted with hollow tree trunks, floating wooden barrels, and grotesque waterborne chimeras."
+          },
+          {
+            "id": "008",
+            "text": "Gothic vaulted bedchamber with a tall arched entryway opening onto visions of cloaked spirits and wooden treasure chests."
+          },
+          {
+            "id": "009",
+            "text": "Open grassy knoll under soft atmospheric mist where a surreal medical pavilion and stone cure chair are erected."
+          },
+          {
+            "id": "010",
+            "text": "Overloaded drift boat crowned by a blooming leafy tree mast surrounded by dark pond waters and floating revelers."
+          }
+        ]
+      },
+      {
+        "title": "SPATIAL_COMPOSITION_GROUP",
+        "options": [
+          {
+            "id": "011",
+            "text": "Deep bird's-eye perspective showcasing vast panoramic terrain teeming with dozens of miniature allegorical vignettes."
+          },
+          {
+            "id": "012",
+            "text": "Symmetrical triptych framing with the source subject enthroned dead-center beneath a celestial glowing orb."
+          },
+          {
+            "id": "013",
+            "text": "Intimate circular tondo composition enclosed by intricate gold filigree calligraphy and Gothic script borders."
+          },
+          {
+            "id": "014",
+            "text": "Vertical arched panel focusing tightly on the kneeling subject in the foreground with bizarre beasts crawling into frame."
+          },
+          {
+            "id": "015",
+            "text": "Segmented multi-tier spatial arrangement dividing the scene cleanly between heaven above, earth midground, and infernal depths below."
+          },
+          {
+            "id": "016",
+            "text": "Dense, chaotic crowd composition encircling the main subject with overlapping bodies, ladders, and oversized musical instruments."
+          },
+          {
+            "id": "017",
+            "text": "High horizon line landscape with winding waterways carrying floating eggshells, fish-vessels, and translucent bubbles."
+          },
+          {
+            "id": "018",
+            "text": "Asymmetrical Dutch Renaissance stage setting with prominent architectural ruins on the left leading to open plains on the right."
+          },
+          {
+            "id": "019",
+            "text": "Close-up medical table arrangement with figures clustered closely around a centered wooden chair in natural outdoor light."
+          },
+          {
+            "id": "020",
+            "text": "Narrow vertical doorway framing creating layered depth from a dark stone archway toward distant burning ruins."
+          }
+        ]
+      },
+      {
+        "title": "ALLEGORICAL_ELEMENTS_GROUP",
+        "options": [
+          {
+            "id": "021",
+            "text": "Bizarre chimera hybrids including walking funnels, armored fish with human legs, and bird-headed demons in cloaks."
+          },
+          {
+            "id": "022",
+            "text": "Towering organic architectural towers crafted from pink coral, blue glass spheres, and spired botanical buds."
+          },
+          {
+            "id": "023",
+            "text": "Enormous musical instruments turned into surreal torture devices, including a giant wooden lute, harp, and hurdy-gurdy."
+          },
+          {
+            "id": "024",
+            "text": "Satirical ecclesiastical headwear like inverted pewter funnel hats, books balanced on veiled heads, and monk cowls."
+          },
+          {
+            "id": "025",
+            "text": "Oversized cracked eggshells and hollow fruit pods housing secretive human couples and mischievous imp creatures."
+          },
+          {
+            "id": "026",
+            "text": "Flying aerial creatures, including winged boats, airborne fish riders, and horned nocturnal insect demons in the sky."
+          },
+          {
+            "id": "027",
+            "text": "Skeletal specter of Death emerging quietly through a cracked doorway holding a thin javelin aimed at the central figure."
+          },
+          {
+            "id": "028",
+            "text": "Adoration scene motifs featuring elaborate golden gifts, ermine-lined robes, and humble wooden manger ruins."
+          },
+          {
+            "id": "029",
+            "text": "Floating translucent glass bubbles reflecting tiny distorted miniature landscapes and huddled human figures."
+          },
+          {
+            "id": "030",
+            "text": "Gluttonous feast motifs with roasted poultry impaled on branches, suspended bread loaves, and flagons of wine."
+          }
+        ]
+      },
+      {
+        "title": "AESTHETIC_FINISH_GROUP",
+        "options": [
+          {
+            "id": "031",
+            "text": "Aged 15th-century oil-on-oak panel texture with fine webbed craquelure varnish cracks across the entire surface."
+          },
+          {
+            "id": "032",
+            "text": "Rich Northern Renaissance palette of malachite green, vermilion red, lapis lazuli, and luminous ochre earth tones."
+          },
+          {
+            "id": "033",
+            "text": "Chiaroscuro nocturnal inferno lighting with hot fiery orange highlights cutting sharply through pitch-black soot."
+          },
+          {
+            "id": "034",
+            "text": "Luminous egg tempera underpainting layered with translucent oil glazes, providing deep jewel-like surface radiance."
+          },
+          {
+            "id": "035",
+            "text": "Heavy weathered wooden triptych frame borders with gilded inner bevels and authentic medieval joint marks."
+          },
+          {
+            "id": "036",
+            "text": "Delicate Flemish micro-detail rendering sharp folds in heavy wool garments, fur trims, and metallic armor reflections."
+          },
+          {
+            "id": "037",
+            "text": "Muted parchment and grisaille undertones emulating the closed outer wings of a classic Renaissance altarpiece."
+          },
+          {
+            "id": "038",
+            "text": "Aged museum gallery varnish with subtle warm amber patina and authentic edge wear around panel margins."
+          },
+          {
+            "id": "039",
+            "text": "Ornate Gothic calligraphic banners winding across the edges with illuminated gold-leaf Latin lettering."
+          },
+          {
+            "id": "040",
+            "text": "Soft atmospheric aerial perspective with cool hazy blue-green gradations fading smoothly into the far horizon."
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "VINTAGE YELLOW PAGES BUSINESS DIRECTORY",
     "category": [
       "RETRO PRINT",
