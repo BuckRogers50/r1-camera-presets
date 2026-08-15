@@ -1,5 +1,198 @@
 [
   {
+    "name": "WILD BIRTHDAY CARICATURE EXTRAVAGANZA",
+    "category": [
+      "CARTOON ILLUSTRATION",
+      "POP ART",
+      "BIRTHDAY CELEBRATION",
+      "CHARACTER CARICATURE"
+    ],
+    "message": "Take a picture and transform it into a vibrant, dense, celebratory cartoon caricature ensemble overflowing with wild birthday party energy, inspired by retro mascot poster collages. CORE TRANSFORMATION: Multiply the recognized subject into a packed, multi-tiered crowd of dozens of distinct 2D cartoon caricatures of themselves, each engaging in over-the-top birthday festivities, wearing colorful party hats, blowing noisemakers, holding festive treats, and wearing outrageous celebratory costumes against a cheerful, confetti-filled backdrop. IDENTITY PRESERVATION: Across every single caricatured clone in the ensemble, precisely preserve the subject's distinct facial structure, jawline, hair color, facial hair, nose shape, wrinkles, and recognizable facial features so their likeness is unmistakable throughout the entire party crowd. COMPOSITION: A chaotic, bustling, edge-to-edge multi-character crowd composition layered in tiers from full-body foreground antics to cheering background busts, framing celebratory focal points like giant multi-tiered birthday cakes and party banners. ADDITIONAL INSTRUCTIONS: Emulate bold retro commercial vector art with thick black ink outlines, flat saturated color blocking, floating balloons, ribbons, flying confetti bursts, and sparkling birthday sparklers. NEGATIVE PROMPTS: Somber or serious expressions, dark moody tones, photorealism, 3D CGI rendering, single-person solo portraits, desaturated colors, quiet or calm atmospheres, empty backgrounds. RANDOMIZATION RECOMMENDATIONS: Combine wacky celebratory props, customized birthday regalia, explosive party confetti, and dynamic comic poses across the entire crowd. CREATIVE STRATEGY: Treat the subject as an exuberant clone army dedicated entirely to celebrating their own epic birthday bash. VISUAL DNA: Saturated sunny background, heavy black line art, universal ecstatic grins, cone party hats, exploding confetti, birthday cakes, and multi-tiered cartoon crowd choreography.",
+    "randomizeOptions": true,
+    "optionGroups": [
+      {
+        "title": "PARTY_ATMOSPHERE_GROUP",
+        "options": [
+          {
+            "id": "001",
+            "text": "Golden yellow backdrop filled with exploding metallic confetti, floating colorful helium balloons, and curly streamers."
+          },
+          {
+            "id": "002",
+            "text": "Vibrant party scene illuminated by glowing multi-tiered birthday cake candles and sparkling handheld sparkler flares."
+          },
+          {
+            "id": "003",
+            "text": "Festive carnival backdrop with retro hanging pennant banners, oversized foil 'HAPPY BIRTHDAY' balloon letters, and party popper bursts."
+          },
+          {
+            "id": "004",
+            "text": "Electric pastel celebration sky rained over by thousands of falling multi-colored confetti dots and swirling ribbon coils."
+          },
+          {
+            "id": "005",
+            "text": "Nostalgic retro birthday hall decorated with giant crepe paper streamers, balloon arches, and hanging disco party lights."
+          },
+          {
+            "id": "006",
+            "text": "Joyful celebration atmosphere packed with bursting piñatas, flying wrapped candies, and shimmering party glitter."
+          },
+          {
+            "id": "007",
+            "text": "Bright canary backdrop framed by towering stacks of colorful wrapped gift boxes topped with oversized satin bows."
+          },
+          {
+            "id": "008",
+            "text": "High-energy festival setting featuring flashing stage party lights, champagne spray fountains, and floating star balloons."
+          },
+          {
+            "id": "009",
+            "text": "Classic novelty party environment with bursting party poppers showering metallic ribbons and festive confetti across the frame."
+          },
+          {
+            "id": "010",
+            "text": "Vivid graphic backdrop draped in massive striped birthday banners, glowing neon party signs, and floating cupcake motifs."
+          }
+        ]
+      },
+      {
+        "title": "CROWD_COMPOSITION_AND_POSING_GROUP",
+        "options": [
+          {
+            "id": "011",
+            "text": "Massive multi-tiered character pyramid with dozens of subject caricatures cheering and crowding around a giant centerpiece birthday cake."
+          },
+          {
+            "id": "012",
+            "text": "Wide panoramic crowd collage showing front-row caricatures crouching with party noisemakers and back rows waving festive flags."
+          },
+          {
+            "id": "013",
+            "text": "Dynamic layered ensemble featuring a central caricature hoisted triumphantly on the shoulders of other caricatured versions of the subject."
+          },
+          {
+            "id": "014",
+            "text": "Full-bleed caricature montage filling every square inch with varied celebratory poses, toasts, and dancing figures."
+          },
+          {
+            "id": "015",
+            "text": "Staggered grandstand crowd arrangement of caricatures popping party poppers, toasting flutes, and holding up birthday signs."
+          },
+          {
+            "id": "016",
+            "text": "Energetic semicircle lineup of caricatures leaning into the frame, high-fiving, and popping champagne corks together."
+          },
+          {
+            "id": "017",
+            "text": "Layered crowd dynamic featuring foreground caricatures blowing out glowing candles while background rows pop confetti cannons."
+          },
+          {
+            "id": "018",
+            "text": "Comic action cluster with caricatures balancing towering stacks of wrapped presents and marching in a festive conga line."
+          },
+          {
+            "id": "019",
+            "text": "Burst formation radiating from a central caricature blowing an oversized party horn outward toward the corners of the frame."
+          },
+          {
+            "id": "020",
+            "text": "Asymmetrical party composition framing a wild birthday toast with caricatures clinking glasses and raising dessert plates."
+          }
+        ]
+      },
+      {
+        "title": "EXPRESSIONS_AND_PARTY_GEAR_GROUP",
+        "options": [
+          {
+            "id": "021",
+            "text": "Ecstatic wide-mouthed laughing grins, striped cone party hats with pom-poms, and coiled party blowouts unfurling from lips."
+          },
+          {
+            "id": "022",
+            "text": "Cheeky celebratory smirks wearing golden birthday crowns, holding oversized slices of frosted cake on novelty plates."
+          },
+          {
+            "id": "023",
+            "text": "Delighted singing expressions with puffed cheeks blowing out a glowing candelabra atop an enormous chocolate cake."
+          },
+          {
+            "id": "024",
+            "text": "Mischievous winks paired with oversized novelty glitter party tiaras, feather boas, and smoking party sparklers."
+          },
+          {
+            "id": "025",
+            "text": "Enthusiastic open-mouthed cheering with polka-dot party hats, wielding balloon animals and confetti cannons."
+          },
+          {
+            "id": "026",
+            "text": "Smug birthday-boss smirks wearing 'BIRTHDAY VIP' satin sashes and holding smoking vintage celebration cigars."
+          },
+          {
+            "id": "027",
+            "text": "Joyful toothy grins covered in comic icing smears, wearing foil party party headbands and shaking cocktail shakers."
+          },
+          {
+            "id": "028",
+            "text": "Excited celebratory gasps wearing propeller party beanies and raising oversized foaming root beer or champagne mugs."
+          },
+          {
+            "id": "029",
+            "text": "Broad cartoon beams wearing metallic party cone hats, tooting kazoos, and holding bouquets of giant smiley-face balloons."
+          },
+          {
+            "id": "030",
+            "text": "Rowdy festive grins with arms raised in victory, wearing birthday boy or girl badges and ringing celebration cowbells."
+          }
+        ]
+      },
+      {
+        "title": "AESTHETIC_FINISH_AND_COLOR_GROUP",
+        "options": [
+          {
+            "id": "031",
+            "text": "Saturated canary yellow background with crisp, heavy black vector ink outlines and bold primary party colors."
+          },
+          {
+            "id": "032",
+            "text": "Bright pop-art finish with vibrant flat color fills, sharp graphic contrast, and retro silkscreen print aesthetics."
+          },
+          {
+            "id": "033",
+            "text": "Vintage comic-book color blocking with subtle halftone dot screening on party apparel and solid line weights."
+          },
+          {
+            "id": "034",
+            "text": "High-energy commercial mascot graphic style featuring bold black contour lines and punchy rainbow color separation."
+          },
+          {
+            "id": "035",
+            "text": "Festive sticker sheet aesthetic with clean cut-out character edges, solid fills, and playful visual punch."
+          },
+          {
+            "id": "036",
+            "text": "Vibrant 1980s novelty party poster aesthetic with saturated neon accents, sharp outlines, and flat background fields."
+          },
+          {
+            "id": "037",
+            "text": "Crisp 2D vector cartoon finish with rich, non-gradient color fills and clear silhouette definition on all figures."
+          },
+          {
+            "id": "038",
+            "text": "Retro silkscreen novelty t-shirt print style featuring sharp ink lines, clean flat tones, and festive contrast."
+          },
+          {
+            "id": "039",
+            "text": "Warm golden celebratory color palette with sharp black contouring and comic cel-shading highlights."
+          },
+          {
+            "id": "040",
+            "text": "Vivid flat-art cartoon collage aesthetic with sharp edge definition against a solid sunburst celebratory backdrop."
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "SUBVERSIVE GRAPHIC TEE & AUDACIOUS COPY",
     "category": [
       "GRAPHIC DESIGN",
