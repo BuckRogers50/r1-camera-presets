@@ -1,5 +1,198 @@
 [
   {
+    "name": "COASTAL MYSTERY ILLUSTRATED POSTER",
+    "category": [
+      "ILLUSTRATED CINEMA",
+      "COASTAL NOIR",
+      "ENSEMBLE POSTER ART",
+      "RETRO GOTHIC MYSTERY"
+    ],
+    "message": "Take a picture and transform it into a hand-painted cinematic ensemble poster in the style of retro mystery thrillers. CORE TRANSFORMATION: Render the subject as an illustrated key character integrated into a moody maritime mystery composition featuring stormy ocean vistas, rocky coastlines, and lighthouse imagery. IDENTITY PRESERVATION: Keep facial likeness, bone structure, and distinctive personal features while applying realistic gouache and acrylic painting textures. COMPOSITION: Multi-layered floating head and ensemble character montage anchored by dramatic coastal elements, crashing waves, and towering overcast skies. ADDITIONAL INSTRUCTIONS: Apply rich painterly brushwork, muted maritime tones, dramatic edge rim lighting, and vintage cinematic title card framing. NEGATIVE PROMPTS: Flat digital photography, clean vector graphics, neon glow, low contrast, oversaturated pop colors, 3D CGI rendering. RANDOMIZATION RECOMMENDATIONS: Pair stormy sea backdrops with intense psychological character expressions and textured oil/gouache finishes. CREATIVE STRATEGY: Emphasize maritime suspense, brooding island lore, and classic painted movie key art aesthetics. VISUAL DNA: Gouache brushwork, stormy slate-and-teal palette, lighthouse motifs, crashing surf, and tiered character hierarchy.",
+    "randomizeOptions": true,
+    "optionGroups": [
+      {
+        "title": "ATMOSPHERE_ENVIRONMENT_GROUP",
+        "options": [
+          {
+            "id": "001",
+            "text": "Stormy Atlantic bay with towering dark clouds and crashing foam over jagged coastal rocks."
+          },
+          {
+            "id": "002",
+            "text": "Dense sea fog rolling past an isolated stone lighthouse with a glowing amber beacon."
+          },
+          {
+            "id": "003",
+            "text": "Moody dusk harbor lined with weathered wooden docks and lobster boats under overcast skies."
+          },
+          {
+            "id": "004",
+            "text": "Ominous twilight sea cliff edge surrounded by pine trees and rising ocean mist."
+          },
+          {
+            "id": "005",
+            "text": "Pale moonlight breaking through heavy thunderclouds over turbulent dark waters."
+          },
+          {
+            "id": "006",
+            "text": "Rain-slicked coastal village street bathed in pale nautical twilight and misty shadows."
+          },
+          {
+            "id": "007",
+            "text": "Churning coastal surf breaking against barnacle-covered shoals beneath a brooding sky."
+          },
+          {
+            "id": "008",
+            "text": "Solitary fishing vessel cutting through icy, dark harbor swells in deep maritime fog."
+          },
+          {
+            "id": "009",
+            "text": "High vantage overlooking a rocky peninsula shrouded in low-hanging sea mist."
+          },
+          {
+            "id": "010",
+            "text": "Stark windswept shoreline with dried sea grass and ominous dark sea stacks."
+          }
+        ]
+      },
+      {
+        "title": "COMPOSITION_LAYOUT_GROUP",
+        "options": [
+          {
+            "id": "011",
+            "text": "Prominent central hero portrait looming above a tiered cluster of supporting character vignettes."
+          },
+          {
+            "id": "012",
+            "text": "Diagonal ensemble montage layered across turbulent ocean water and coastal scenery."
+          },
+          {
+            "id": "013",
+            "text": "Three-quarter cinematic character bust seamlessly fading into crashing shoreline waves below."
+          },
+          {
+            "id": "014",
+            "text": "Split-tier composition with a large brooding face above and a detailed coastal boat scene below."
+          },
+          {
+            "id": "015",
+            "text": "Classic pyramidal movie key-art layout with the subject flanked by maritime figures and scenery."
+          },
+          {
+            "id": "016",
+            "text": "Intimate foreground portrait framed by background vignettes of a lighthouse and fishing harbor."
+          },
+          {
+            "id": "017",
+            "text": "Dual profile juxtaposition blending subject features with stormy coastal horizon lines."
+          },
+          {
+            "id": "018",
+            "text": "Off-center lead portrait balanced by atmospheric sea squall and secondary character studies."
+          },
+          {
+            "id": "019",
+            "text": "Dynamic low-angle character framing emerging from painted waves and ocean mist."
+          },
+          {
+            "id": "020",
+            "text": "Full theatrical poster montage with deep perspective layers from shore to distant horizon."
+          }
+        ]
+      },
+      {
+        "title": "CHARACTER_MOOD_GROUP",
+        "options": [
+          {
+            "id": "021",
+            "text": "Brooding, vigilant gaze projecting quiet dread and unresolved mystery."
+          },
+          {
+            "id": "022",
+            "text": "Stern, weathered determination with furrowed brow and intense focused eyes."
+          },
+          {
+            "id": "023",
+            "text": "Haunted, introspective stare gazing just past the lens into the distance."
+          },
+          {
+            "id": "024",
+            "text": "Stoic island-sheriff composure carrying deep authority and underlying tension."
+          },
+          {
+            "id": "025",
+            "text": "Guarded, suspicious expression with tight jaw and sharp directional eye line."
+          },
+          {
+            "id": "026",
+            "text": "Somber, melancholic reflection evoking hidden secrets and personal loss."
+          },
+          {
+            "id": "027",
+            "text": "Hardened, sea-worn grit with wind-whipped intensity and unyielding focus."
+          },
+          {
+            "id": "028",
+            "text": "Anxious, calculating look hinting at uncovering a dark town conspiracy."
+          },
+          {
+            "id": "029",
+            "text": "Quietly defiant expression confronting imminent danger without fear."
+          },
+          {
+            "id": "030",
+            "text": "Mysterious, enigmatic half-turn with an unreadable, watchful countenance."
+          }
+        ]
+      },
+      {
+        "title": "ILLUSTRATION_FINISH_GROUP",
+        "options": [
+          {
+            "id": "031",
+            "text": "Rich gouache and acrylic painting texture with visible expressive brush strokes."
+          },
+          {
+            "id": "032",
+            "text": "Muted coastal palette of slate blues, storm grays, deep forest greens, and crimson accents."
+          },
+          {
+            "id": "033",
+            "text": "Classic 1970s and 1980s illustrated movie poster aesthetic with hand-rendered fidelity."
+          },
+          {
+            "id": "034",
+            "text": "Fine oil-on-canvas texture with sharp tonal contrast and dramatic edge highlights."
+          },
+          {
+            "id": "035",
+            "text": "Matte lithograph finish with subtle print grain and rich dark pigment density."
+          },
+          {
+            "id": "036",
+            "text": "Painterly realism with soft maritime color blending and crisp highlight definition."
+          },
+          {
+            "id": "037",
+            "text": "Vintage pulp thriller book cover finish with weathered paper texture and rich inks."
+          },
+          {
+            "id": "038",
+            "text": "High-contrast cinematic key-art treatment with textured ocean spray and paint flecks."
+          },
+          {
+            "id": "039",
+            "text": "Traditional casein paint look featuring deep velvety shadows and chalky highlights."
+          },
+          {
+            "id": "040",
+            "text": "Moody atmospheric scumbling technique across sky and sea with refined facial portraiture."
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "KESHA 2009 GLITTER PUNK POP ERA",
     "category": [
       "2000S NOSTALGIA",
