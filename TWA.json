@@ -1,5 +1,198 @@
 [
   {
+    "name": "WIDOW'S BAY POSTER",
+    "category": [
+      "ILLUSTRATED CINEMA",
+      "COASTAL NOIR",
+      "ENSEMBLE POSTER ART",
+      "RETRO GOTHIC MYSTERY"
+    ],
+    "message": "Take a picture and transform it into a hand-painted cinematic ensemble poster with dynamic character scaling. CORE TRANSFORMATION: Transform all recognized figures into an illustrated coastal mystery ensemble featuring tiered visual hierarchy, crashing waves, a stormy sky, and a remote lighthouse. IDENTITY PRESERVATION: Maintain exact facial structures, likenesses, and key features while translating everyone into gouache and acrylic textures. COMPOSITION & HIERARCHICAL WEIGHT: Establish an asymmetrical, tiered scale where characters occupy distinctly different proportions of the frame. Designate one prominent primary character to command the largest scale in the upper tier (looming over 40–50% of the composition), with secondary and tertiary figures rendered at progressively smaller scales (20%, 15%, 10%) clustered beneath or alongside them, anchored by coastal rocks, turbulent waters, and a dynamic title layout. ADDITIONAL INSTRUCTIONS: Apply painterly brushwork, stormy teal-and-slate palettes, dramatic rim lighting, and a fresh evocative title tailored to the scene. NEGATIVE PROMPTS: Equal character scaling, flat photographic cutouts, clean vector graphics, neon glow, low contrast, 3D CGI rendering. RANDOMIZATION RECOMMENDATIONS: Pair towering lead portraits with smaller clustered supporting figures across turbulent sea environments. CREATIVE STRATEGY: Emphasize psychological mystery through scale dominance and layered narrative key art. VISUAL DNA: Tiered character sizing, gouache texture, stormy maritime palette, lighthouse motif, and crashing surf.",
+    "randomizeOptions": true,
+    "optionGroups": [
+      {
+        "title": "ATMOSPHERE_ENVIRONMENT_GROUP",
+        "options": [
+          {
+            "id": "001",
+            "text": "Stormy Atlantic bay with towering dark clouds and crashing foam over jagged coastal rocks."
+          },
+          {
+            "id": "002",
+            "text": "Dense sea fog rolling past an isolated stone lighthouse with a glowing amber beacon."
+          },
+          {
+            "id": "003",
+            "text": "Moody dusk harbor lined with weathered wooden docks and lobster boats under overcast skies."
+          },
+          {
+            "id": "004",
+            "text": "Ominous twilight sea cliff edge surrounded by pine trees and rising ocean mist."
+          },
+          {
+            "id": "005",
+            "text": "Pale moonlight breaking through heavy thunderclouds over turbulent dark waters."
+          },
+          {
+            "id": "006",
+            "text": "Rain-slicked coastal village street bathed in pale nautical twilight and misty shadows."
+          },
+          {
+            "id": "007",
+            "text": "Churning coastal surf breaking against barnacle-covered shoals beneath a brooding sky."
+          },
+          {
+            "id": "008",
+            "text": "Solitary fishing vessel cutting through icy harbor swells in deep maritime fog."
+          },
+          {
+            "id": "009",
+            "text": "High vantage overlooking a rocky peninsula shrouded in low-hanging sea mist."
+          },
+          {
+            "id": "010",
+            "text": "Stark windswept shoreline with dried sea grass and ominous dark sea stacks."
+          }
+        ]
+      },
+      {
+        "title": "HIERARCHICAL_COMPOSITION_GROUP",
+        "options": [
+          {
+            "id": "011",
+            "text": "Dominant lead character looming large at the top center with three smaller supporting figures clustered below in graduated scale."
+          },
+          {
+            "id": "012",
+            "text": "Pyramidal layout with a large primary face dominating the upper half and progressively smaller secondary portraits flanking the base."
+          },
+          {
+            "id": "013",
+            "text": "Asymmetrical tiered montage where the main subject occupies half the frame, offset by two mid-scale and two miniature character vignettes."
+          },
+          {
+            "id": "014",
+            "text": "Oversized central protagonist portrait anchoring the scene, flanked by diminishing half-scale and quarter-scale character studies."
+          },
+          {
+            "id": "015",
+            "text": "Vertical hierarchy featuring an expansive upper hero bust fading into tight, compact character silhouettes near the bottom edge."
+          },
+          {
+            "id": "016",
+            "text": "Diagonal cascading scale with the primary subject in large three-quarter view tapering down to compact ensemble figures across the waves."
+          },
+          {
+            "id": "017",
+            "text": "Tiered theatrical key art placing a massive central gaze above stepped, unequal character busts emerging from sea spray."
+          },
+          {
+            "id": "018",
+            "text": "Large offset lead portrait balanced by a tight triangular cluster of distinctly smaller, unequal-sized secondary characters."
+          },
+          {
+            "id": "019",
+            "text": "Multi-scale ensemble structure with one towering focal figure overshadowing smaller mid-ground and foreground character portraits."
+          },
+          {
+            "id": "020",
+            "text": "Dramatic movie poster montage with a dominant hero face in the sky tier and varying small-scale cast members embedded in the rocky shoreline."
+          }
+        ]
+      },
+      {
+        "title": "CHARACTER_MOOD_GROUP",
+        "options": [
+          {
+            "id": "021",
+            "text": "Brooding, vigilant gaze projecting quiet dread and unresolved mystery across all characters."
+          },
+          {
+            "id": "022",
+            "text": "Stern, weathered determination with furrowed brows and intense, focused eyes."
+          },
+          {
+            "id": "023",
+            "text": "Haunted, introspective stares gazing just past the lens into the foggy distance."
+          },
+          {
+            "id": "024",
+            "text": "Stoic coastal composure carrying deep authority and underlying tension."
+          },
+          {
+            "id": "025",
+            "text": "Guarded, suspicious expressions with tight jaws and sharp directional eyelines."
+          },
+          {
+            "id": "026",
+            "text": "Somber, melancholic reflections evoking hidden secrets and personal loss."
+          },
+          {
+            "id": "027",
+            "text": "Hardened, sea-worn grit with wind-whipped intensity across the entire ensemble."
+          },
+          {
+            "id": "028",
+            "text": "Anxious, calculating looks hinting at uncovering an island-wide conspiracy."
+          },
+          {
+            "id": "029",
+            "text": "Defiant expressions confronting imminent danger from the surrounding storm."
+          },
+          {
+            "id": "030",
+            "text": "Enigmatic, watchful countenances with varying degrees of psychological suspense."
+          }
+        ]
+      },
+      {
+        "title": "AESTHETIC_FINISH_GROUP",
+        "options": [
+          {
+            "id": "031",
+            "text": "Rich gouache and acrylic painting texture with visible expressive brush strokes across figures and foam."
+          },
+          {
+            "id": "032",
+            "text": "Muted coastal palette of slate blues, storm grays, deep forest greens, and crimson accents."
+          },
+          {
+            "id": "033",
+            "text": "Classic illustrated movie key-art aesthetic with hand-rendered fidelity and soft edge blends."
+          },
+          {
+            "id": "034",
+            "text": "Fine oil-on-canvas texture with sharp tonal contrast and dramatic rim highlights on faces."
+          },
+          {
+            "id": "035",
+            "text": "Matte lithograph finish with subtle print grain and rich dark pigment density in shadows."
+          },
+          {
+            "id": "036",
+            "text": "Painterly realism with soft maritime color blending and crisp white highlight spray."
+          },
+          {
+            "id": "037",
+            "text": "Vintage pulp thriller book cover finish with weathered paper texture and rich saturated inks."
+          },
+          {
+            "id": "038",
+            "text": "High-contrast cinematic poster treatment with textured sea mist scumbling and paint flecks."
+          },
+          {
+            "id": "039",
+            "text": "Traditional casein paint appearance featuring deep velvety shadows and chalky overcast highlights."
+          },
+          {
+            "id": "040",
+            "text": "Moody atmospheric scumbling technique across sky and sea with refined, detailed portraiture."
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "COASTAL MYSTERY ILLUSTRATED POSTER",
     "category": [
       "ILLUSTRATED CINEMA",
