@@ -1,5 +1,200 @@
 [
   {
+    "name": "MEN'S ACTION NOVEL",
+    "category": [
+      "VINTAGE",
+      "PULP ILLUSTRATION",
+      "1970S",
+      "BOOK COVER",
+      "ACTION NOIR",
+      "RETRO PRINT"
+    ],
+    "message": "Take a picture and transform it into a complete, authentic 1970s vintage men's action paperback novel cover, executed in the bold, hand-painted pulp illustration style of classic mass-market adventure paperbacks (such as The Executioner, The Destroyer, and vintage Gold Medal or Pinnacle Books). The final output MUST be a finished front book cover layout, featuring a prominent, bold, campy 1970s action title across the top or middle, sensationalized promotional taglines, author byline, vintage publisher price stamps (e.g., '95¢' or '$1.25'), and realistic book cover paper-pocket wear.\n\nCORE TRANSFORMATION\nConvert the central subject into a rugged, hyper-masculine, or fearless 1970s action protagonist positioned within a dynamic, high-stakes scenario defined by {HERO_ACTION_AND_PERIL}. Reconstruct the surrounding environment into a gritty, danger-filled locale featuring {GRITTY_PULP_ENVIRONMENT}. Frame the scene using dramatic, high-energy {PAINTING_AND_COMPOSITION_STYLE}.\n\nTYPOGRAPHY & COVER GRAPHICS (CRITICAL & MANDATORY)\n• Must include a massive, embossed-style, kitschy 1970s pulp action book title (e.g., in bold display serifs, heavy sans, or stylized chrome/hazard lettering) chosen from or inspired by {KITSCHY_TITLE_AND_TAGLINE_HOOKS}.\n• Include 1-2 sensational, campy cover blurbs and taglines printed in contrasting yellow, red, or white text.\n• Add authentic vintage publishing details: a retro publisher logo/icon in the upper corner, a vintage paperback series number, and a classic 1970s price badge.\n\nADDITIONAL INSTRUCTIONS\nThe central artwork must look hand-painted in physical gouache, acrylic, and oil on illustration board—complete with visible brushwork, painterly anatomy, and dramatic rim lighting—never a digital filter or clean 3D render. The entire paperback cover must show the tangible, aged patina of a well-read 1970s mass-market book: soft corner creasing, subtle edge wear, yellowed paper stock, and realistic printing ink bleed.\n\nNEGATIVE PROMPT\nClean digital photography, modern 2020s design, minimalist corporate aesthetic, blank cover without text, missing title, missing taglines, clean borderless photo, 3D CGI render, flat vector art, modern smartphone graphics, photorealistic digital smoothing.\n\nRANDOMIZATION RECOMMENDATION\nYes, randomization across all 4 option groups is strongly recommended to generate endlessly varied, campy, high-octane 1970s action covers while preserving the unmistakable cover-to-cover paperback aesthetic.\n\nCREATIVE STRATEGY\nFour modular axes govern the cover generation: Action/Peril establishes the physical conflict, Gritty Environment sets the backdrop, Painting/Composition dictates the physical brush style and framing, and Kitschy Titles/Taglines injects the mandatory sensationalist pulp copy that locks in the genre's unmistakable personality.\n\nVISUAL DNA ANALYSIS\nCinematic Identity: 1970s grindhouse men's adventure paperback, vigilante pulp fiction.\nAtmosphere: Sweaty, dangerous, explosive, hyper-dramatic, and delightfully campy.\nFraming: Asymmetrical vertical book layout with dedicated title zones and diagonal action lines.\nMaterial Language: Gouache on illustration board, halftone mass-market newsprint, scuffed laminate cover gloss.\nColor Relationships: Blazing sunset oranges, hazardous mustard yellows, blood reds, and murky industrial cyans.",
+    "randomizeOptions": true,
+    "optionGroups": [
+      {
+        "title": "HERO_ACTION_AND_PERIL",
+        "options": [
+          {
+            "id": "001",
+            "text": "The hero dual-wielding heavy .44 Magnums mid-dive through a shattered plate-glass window, spent brass casings flying, shirt torn open, dripping with sweat and resolute fury."
+          },
+          {
+            "id": "002",
+            "text": "The protagonist clinging one-handed to the skid of a rising Bell Huey helicopter over an exploding warehouse complex, firing an automatic submachine gun downward."
+          },
+          {
+            "id": "003",
+            "text": "A knife-wielding close-quarters brawl on the hood of a speeding 1973 muscle car, sparks flying off the asphalt as headlights slice through swirling midnight fog."
+          },
+          {
+            "id": "004",
+            "text": "The battle-hardened hero emerging from a blazing swamp fireball carrying an oversized combat shotgun, bandoliers crisscrossing his chest, smoke curling off his bare shoulders."
+          },
+          {
+            "id": "005",
+            "text": "A tense standoff behind a crumbling concrete pillar, the hero reloading a smoking revolver while bullets chew through the wall millimeters from his rugged profile."
+          },
+          {
+            "id": "006",
+            "text": "The protagonist executing a lethal roundhouse kick over a roulette table in a chaotic casino raid, throwing henchmen into cascading towers of casino chips and champagne glasses."
+          },
+          {
+            "id": "007",
+            "text": "The hero navigating a high-speed speedboat pursuit across choppy waters, firing a flare gun directly into the windshield of an encroaching syndicate patrol craft."
+          },
+          {
+            "id": "008",
+            "text": "A gritty rooftop sniper stance in pouring rain, lightning flashing against the hero's aviator sunglasses as he scopes a fortified penthouse compound."
+          },
+          {
+            "id": "009",
+            "text": "The hero breaking free from heavy steel chains inside an underground torture den, smashing two masked syndicate enforcers together with raw muscular force."
+          },
+          {
+            "id": "010",
+            "text": "A desperate fistfight on top of a roaring subway train car as it enters a dark tunnel, sparks showering down from overhead electrical lines."
+          }
+        ]
+      },
+      {
+        "title": "GRITTY_PULP_ENVIRONMENT",
+        "options": [
+          {
+            "id": "011",
+            "text": "A rain-slicked Manhattan alleyway in 1975, surrounded by overflowing dumpster fires, flickering red neon motel signs, and crumbling fire escapes."
+          },
+          {
+            "id": "012",
+            "text": "A remote South American jungle guerrilla outpost with corrugated tin roofs, burning oil drums, and dense palm fronds silhouetted by secondary explosions."
+          },
+          {
+            "id": "013",
+            "text": "A decaying harbor shipyard at 3:00 AM, with rusty shipping containers, moored cargo freighters, and ominous deep-water oil slicks."
+          },
+          {
+            "id": "014",
+            "text": "A sun-scorched Mojave desert airstrip surrounded by abandoned aircraft hangars, cacti, and a heat-shimmering horizon of distant jagged bluffs."
+          },
+          {
+            "id": "015",
+            "text": "A luxurious but chaotic underground syndicate vault with cracked marble pillars, open safe doors spilling illicit contraband, and drifting tear gas."
+          },
+          {
+            "id": "016",
+            "text": "An industrial chemical refinery maze at dusk, featuring towering rusted pipes, roaring gas flares, and narrow catwalks suspended over bubbling vats."
+          },
+          {
+            "id": "017",
+            "text": "A crowded, neon-drenched Hong Kong dockside market, featuring hanging paper lanterns, steam from food carts, and dark labyrinthine alleyways."
+          },
+          {
+            "id": "018",
+            "text": "A secluded Alpine fortress chalet during a blizzard, with timber beams, roaring stone hearths, and blood tracks across pristine white snowbanks."
+          },
+          {
+            "id": "019",
+            "text": "A subterranean sewer tunnel complex beneath a major metropolis, with green stagnant water, exposed iron grating, and harsh floodlight beams."
+          },
+          {
+            "id": "020",
+            "text": "A gritty 1970s Miami beachside marina lined with vintage wooden yachts, towering palm trees, and stormy twilight skies bruised with purple and gold."
+          }
+        ]
+      },
+      {
+        "title": "PAINTING_AND_COMPOSITION_STYLE",
+        "options": [
+          {
+            "id": "021",
+            "text": "High-impact Gouache on Illustration Board: Opaque brushwork, razor-sharp edge highlights on chrome weapons, and intense primary color pops against dark shadows."
+          },
+          {
+            "id": "022",
+            "text": "Pulp Oil Glaze Action Style: Rich, oily textures with visible canvas tooth, thick paint impasto along explosive blast zones, and warm amber varnish tones."
+          },
+          {
+            "id": "023",
+            "text": "Sweeping Multi-Tiered Montage: A towering hero figure centered in the foreground, with secondary painted vignettes of exploding speedboats and henchmen below."
+          },
+          {
+            "id": "024",
+            "text": "Chiaroscuro Night Raid Painting: Deep velvet-black shadows carved by searing yellow-orange muzzle flashes and harsh spotlight beams."
+          },
+          {
+            "id": "025",
+            "text": "Dynamic Dutch Angle Brushwork: Tilted vertical composition emphasizing kinetic momentum, debris flying past the frame, and energetic paint splatters."
+          },
+          {
+            "id": "026",
+            "text": "Warm Newsstand Paperback Palette: Earthy ochres, burnt siennas, and military olive drabs punctuated by vivid crimson blood and fiery orange detonations."
+          },
+          {
+            "id": "027",
+            "text": "Classic Hard Case Realism: Meticulously rendered facial anatomy with sweaty brow sheen, rugged jawline stubble, and tactile clothing fiber weaves."
+          },
+          {
+            "id": "028",
+            "text": "Aggressive Palette Knife Texture: Thick, sculpted paint strokes creating rough concrete textures, splintered timber, and jagged glass shards."
+          },
+          {
+            "id": "029",
+            "text": "1970s Vintage Print Scuff: Authentic pocket-book cover wear including creased spine corners, faint laminate peeling, and edge shelf rubs."
+          },
+          {
+            "id": "030",
+            "text": "Split-Tone Exploitation Poster Grade: Contrasting fiery hot tungsten rim lights against cool midnight-blue background washes for extreme comic contrast."
+          }
+        ]
+      },
+      {
+        "title": "KITSCHY_TITLE_AND_TAGLINE_HOOKS",
+        "options": [
+          {
+            "id": "031",
+            "text": "Title: 'THE VENGEANCE FACTOR' with Tagline: 'THEY TOOK HIS TOWN. HE’S TAKING THEIR LIVES.' and a bold '95¢ #14 IN THE DEADLY ENFORCER SERIES' corner badge."
+          },
+          {
+            "id": "032",
+            "text": "Title: 'BLOOD RUN AT BAYOU CRACK' with Tagline: 'ONE MAN. ONE HUNDRED GUERRILLAS. ZERO SURVIVORS.' featuring a bright yellow starburst blurb: 'ALL-NEW ACTION THRILLER!'"
+          },
+          {
+            "id": "033",
+            "text": "Title: 'HOT LEAD CASINO MASSACRE' with Tagline: 'THE ODDS WERE DEAD AGAINST HIM—SO HE CASHED IN THEIR CHIPS IN BLOOD!' with a vintage red $1.25 price emblem."
+          },
+          {
+            "id": "034",
+            "text": "Title: 'THE EXTERMINATOR: CARIBBEAN CROSSFIRE' with Tagline: 'HE DOESN’T NEGOTIATE. HE RELOADS.' and top teaser: 'OVER 10 MILLION COPIES IN PRINT!'"
+          },
+          {
+            "id": "035",
+            "text": "Title: 'DEATH TOLL AT MIDNIGHT' with Tagline: 'WHEN THE SYNDICATE PUSHED HIM TOO FAR, HE PUSHED THEM INTO AN OPEN GRAVE!' in distressed yellow block lettering."
+          },
+          {
+            "id": "036",
+            "text": "Title: 'SLAUGHTER SQUADRON' with Tagline: 'NO LAW. NO JURY. JUST COLD STEEL AND RAW GUTS!' framed by a retro black-and-gold pulp publisher crest."
+          },
+          {
+            "id": "037",
+            "text": "Title: 'THE LIQUIDATOR: TOKYO PAYBACK' with Tagline: 'HE WENT TO JAPAN FOR PEACE. HE FOUND A WAR ONLY LEAD COULD FINISH!' with a vintage 1974 copyright stamp."
+          },
+          {
+            "id": "038",
+            "text": "Title: 'ASPHALT CARNAGE' with Tagline: 'FIVE HUNDRED HORSEPOWER OF UNSTOPPABLE REVENGE!' featuring an oversized vintage author byline in stylized red serif."
+          },
+          {
+            "id": "039",
+            "text": "Title: 'HELL-BENT ON IRON MOUNTAIN' with Tagline: 'THE MOB CALLED HIM RETIRED. HE CALLED THEM TARGETS.' stamped with an authentic drugstore circular price stamp."
+          },
+          {
+            "id": "040",
+            "text": "Title: 'BLAST-FURNACE VENDETTA' with Tagline: 'HE TURNS CRIMINALS INTO CORPSES!' featuring a bold top banner: 'A MAC SLATER MEN'S ACTION ADVENTURE NO. 7.'"
+          }
+        ]
+      }
+    ]
+  }, 
+  {
     "name": "WIDOW'S BAY POSTER",
     "category": [
       "ILLUSTRATED CINEMA",
