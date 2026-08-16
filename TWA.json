@@ -1,5 +1,198 @@
 [
   {
+    "name": "KESHA 2009 GLITTER PUNK POP ERA",
+    "category": [
+      "2000S NOSTALGIA",
+      "ELECTROPOP DANCE PUNK",
+      "GLITTER POP AESTHETIC",
+      "RETRO MUSIC VIDEO"
+    ],
+    "message": "Take a picture and transform it into a vibrant, high-energy 2009-era electropop music video scene styled after Kesha's breakthrough aesthetic. CORE TRANSFORMATION: Infuse the subject with signature late-2000s trash-glam style: textured blonde wavy bedhead hair, smeared body glitter, layered bohemian-rocker jewelry, graphic vintage tees, and rebellious party paraphernalia (such as dangling handcuffs or retro accessories). IDENTITY PRESERVATION: Keep the subject's distinct facial structure, features, and core expression recognizable while applying era-specific styling like smoky smeared eyeliner, bronzed party skin, and loose festival glitter. COMPOSITION: Capture wide-angle low-angle action shots popping out of car sunroofs, gritty house party backdrops, or dazzling festival stages bathed in golden hour haze or neon party lights. ADDITIONAL INSTRUCTIONS: Emulate late-2000s 35mm music video film stock with warm sun-drenched saturation, slight bloom around highlights, lens flares, and vibrant color-grading. NEGATIVE PROMPTS: Modern clean minimalism, desaturated dark tones, corporate attire, over-polished sterile studio lighting, pristine tidy hairstyles, monochrome. RANDOMIZATION RECOMMENDATIONS: Mix chaotic high-energy dance gestures with outdoor sunny convertible scenes, stage props, and chunky metallic accessories. CREATIVE STRATEGY: Balance rebellious punk attitude with joyful, uninhibited electropop euphoria. VISUAL DNA: Chunky stacked bangles, dangling handcuffs, graphic vintage tees, crimped/tousled blonde waves, heavy body glitter, direct California sun flare, and 2009 music video saturation.",
+    "randomizeOptions": true,
+    "optionGroups": [
+      {
+        "title": "LIGHTING_AND_ENVIRONMENT_GROUP",
+        "options": [
+          {
+            "id": "001",
+            "text": "Bright, sun-drenched midday California suburban street lighting with heavy lens flare[span_0](start_span)[span_0](end_span)."
+          },
+          {
+            "id": "002",
+            "text": "Late-afternoon golden hour backlighting through an open gold convertible sunroof[span_1](start_span)[span_1](end_span)."
+          },
+          {
+            "id": "003",
+            "text": "Flashing strobe lights and neon stage illumination with falling holographic confetti."
+          },
+          {
+            "id": "004",
+            "text": "Chaotic basement afterparty atmosphere lit by glowing blacklights and neon signs."
+          },
+          {
+            "id": "005",
+            "text": "Hazy sunrise light breaking through an open apartment window after an all-night rave."
+          },
+          {
+            "id": "006",
+            "text": "Punchy direct on-camera flash creating harsh party snapshot shadows."
+          },
+          {
+            "id": "007",
+            "text": "Outdoor desert festival stage bathed in warm sunset dust and colorful stage gels."
+          },
+          {
+            "id": "008",
+            "text": "Retro motel room lighting with warm tungsten lamp glow and vibrant wall reflections."
+          },
+          {
+            "id": "009",
+            "text": "Neon-soaked convenience store interior with crisp cool-toned fluorescent tubes."
+          },
+          {
+            "id": "010",
+            "text": "Overcast indie music video lighting with saturated streetscape billboards in the background[span_2](start_span)[span_2](end_span)."
+          }
+        ]
+      },
+      {
+        "title": "POSE_AND_CAMERA_ANGLE_GROUP",
+        "options": [
+          {
+            "id": "011",
+            "text": "Leaning out of a car sunroof with arms thrown in the air in wild celebration[span_3](start_span)[span_3](end_span)."
+          },
+          {
+            "id": "012",
+            "text": "Dynamic low-angle wide shot looking up at the subject dancing freely against the open sky[span_4](start_span)[span_4](end_span)."
+          },
+          {
+            "id": "013",
+            "text": "Candid mid-motion spin with wild tousled hair flying across the frame[span_5](start_span)[span_5](end_span)."
+          },
+          {
+            "id": "014",
+            "text": "Casual swagger pose resting against the hood of an old-school sedan."
+          },
+          {
+            "id": "015",
+            "text": "High-angle fisheye lens shot capturing chaotic dance moves in a crowded party."
+          },
+          {
+            "id": "016",
+            "text": "Mid-shot holding up dangling silver handcuffs with an energetic, carefree attitude[span_6](start_span)[span_6](end_span)."
+          },
+          {
+            "id": "017",
+            "text": "Close-up profile head tilt laughing spontaneously toward the lens[span_7](start_span)[span_7](end_span)."
+          },
+          {
+            "id": "018",
+            "text": "Rockstar power stance on stage with microphone gripped tightly."
+          },
+          {
+            "id": "019",
+            "text": "Slouching casually on a vintage sofa surrounded by party streamers and glitter."
+          },
+          {
+            "id": "020",
+            "text": "Energetic leap mid-air frozen by high shutter speed over an enthusiastic crowd."
+          }
+        ]
+      },
+      {
+        "title": "EXPRESSION_AND_STYLING_GROUP",
+        "options": [
+          {
+            "id": "021",
+            "text": "Carefree, wide grin with messy tousled blonde waves and smeared eyeliner[span_8](start_span)[span_8](end_span)."
+          },
+          {
+            "id": "022",
+            "text": "Cheeky wink and playful smirk adorned with star glitter decals on the cheekbone."
+          },
+          {
+            "id": "023",
+            "text": "Ecstatic party scream expressing pure, unfiltered adrenaline and pop energy."
+          },
+          {
+            "id": "024",
+            "text": "Rebellious pout wearing oversized mirrored sunglasses and metallic lip gloss."
+          },
+          {
+            "id": "025",
+            "text": "Distressed vintage graphic tee paired with heavy layered tribal and chain necklaces[span_9](start_span)[span_9](end_span)."
+          },
+          {
+            "id": "026",
+            "text": "Wrists stacked with chunky gold cuffs, bohemian bracelets, and black nail polish[span_10](start_span)[span_10](end_span)."
+          },
+          {
+            "id": "027",
+            "text": "Teased, crimped electropop hair with feathered clips and colorful hair chalk accents."
+          },
+          {
+            "id": "028",
+            "text": "Sparkling sequin jacket over ripped fishnets and denim cutoffs."
+          },
+          {
+            "id": "029",
+            "text": "Wild festival makeup featuring bold neon eyeshadow, body glitter, and face jewels."
+          },
+          {
+            "id": "030",
+            "text": "Sultry, confident gaze peering directly through a haze of golden glitter fallout."
+          }
+        ]
+      },
+      {
+        "title": "AESTHETIC_AND_FINISH_GROUP",
+        "options": [
+          {
+            "id": "031",
+            "text": "Saturated 2009 music video color grade with warm golden tones and vibrant sky blues[span_11](start_span)[span_11](end_span)."
+          },
+          {
+            "id": "032",
+            "text": "Lofi 35mm pop-punk film grain with punchy contrast and glowing highlight blooms[span_12](start_span)[span_12](end_span)."
+          },
+          {
+            "id": "033",
+            "text": "Cross-processed film look with electric magenta midtones and lime-tinted shadows."
+          },
+          {
+            "id": "034",
+            "text": "Glittering starburst filter effect shimmering across jewelry, sequins, and metallic cuffs[span_13](start_span)[span_13](end_span)."
+          },
+          {
+            "id": "035",
+            "text": "Y2K-to-2010s digital camera pop aesthetic with sharp highlights and rich color saturation."
+          },
+          {
+            "id": "036",
+            "text": "Vintage MTV broadcast tape texture with subtle scanlines and analog warmth."
+          },
+          {
+            "id": "037",
+            "text": "Sun-bleached festival Polaroid look with washed-out blacks and warm pastel highlights."
+          },
+          {
+            "id": "038",
+            "text": "Prismatic lens dispersion casting subtle rainbow flares along the edges of the frame."
+          },
+          {
+            "id": "039",
+            "text": "High-energy motion blur streaks trailing luminous glitter particles across the scene."
+          },
+          {
+            "id": "040",
+            "text": "Glossy magazine print finish with punchy micro-contrast and vivid pop-star styling."
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "HIERONYMUS BOSCH SURREAL TRIPTYCH OIL",
     "category": [
       "NORTHERN RENAISSANCE",
