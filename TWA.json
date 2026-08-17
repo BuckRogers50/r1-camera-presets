@@ -1,5 +1,198 @@
 [
   {
+    "name": "THREE-CAMERA SITCOM SOUNDSTAGE TAPING",
+    "category": [
+      "TELEVISION PRODUCTION",
+      "BEHIND THE SCENES",
+      "FOURTH WALL BREAK",
+      "STUDIO SOUNDSTAGE"
+    ],
+    "message": "Take a picture and transform it into a pulled-back, wide-angle behind-the-scenes view that proves the scene is taking place on the live soundstage of a classic multi-camera sitcom taped in front of a live studio audience. CORE TRANSFORMATION: Expand the frame beyond the focal action to reveal the artificial boundary of the sitcom set flat walls, exposed three-wall theatrical construction, concrete studio floor with taped camera marks, overhead lighting grids packed with Mole-Richardson Fresnels and scoop lights, heavy broadcast pedestal cameras (Ped A, B, C) operated by camera crew on headsets, telescoping boom microphones dangling into the shot, and tiered audience bleachers filled with a live studio audience laughing in the darkened bleachers. IDENTITY PRESERVATION: Keep the primary subjects and their core actions intact, but contextualize them as actors performing within the brightly lit three-wall set under harsh television studio key lights. COMPOSITION: Establish an expansive, wide off-axis perspective looking from the wings, the camera run, or high behind the production crew, cutting across the imaginary fourth wall to juxtapose the bright, colorful set against the dark, utilitarian soundstage surroundings. ADDITIONAL INSTRUCTIONS: Include practical production details such as illuminated red 'ON AIR' or 'APPLAUSE' signage, cue cards held by floor managers, thick bundles of black XLR and video snake cables taped to the floor, rolling teleprompter carts, and stagehands standing by in the wings. NEGATIVE PROMPTS: Seamless cinematic location realism, enclosed four-wall room, natural single-camera lighting, cinematic film grain, lack of production gear, invisible crew, modern CGI virtual set. RANDOMIZATION RECOMMENDATIONS: Pair various camera operator vantage points with distinct soundstage production activities, glowing audience signage, and vintage broadcast television color grading. CREATIVE STRATEGY: Puncture the illusion of cinematic reality by framing the subject as a rehearsed sitcom moment captured alongside the raw mechanics of prime-time television production. VISUAL DNA: Exposed three-wall flat set, heavy broadcast studio pedestal cameras, overhead pipe lighting grid, suspended boom mics, live audience risers, glowing applause signs, taped floor marks, and even multi-cam television stage lighting.",
+    "randomizeOptions": true,
+    "optionGroups": [
+      {
+        "title": "SET_ENVIRONMENT_GROUP",
+        "options": [
+          {
+            "id": "001",
+            "text": "Brightly lit living room sitcom flat with the top edge cut off to reveal heavy overhead pipe grids and hanging scoop lights."
+          },
+          {
+            "id": "002",
+            "text": "Kitchen sitcom set edge ending abruptly into unfinished plywood backs, sandbags, and studio soundstage staging wings."
+          },
+          {
+            "id": "003",
+            "text": "Overhead steel truss grid packed with hundreds of incandescent Fresnels, softboxes, and dangling audio cables illuminating the stage."
+          },
+          {
+            "id": "004",
+            "text": "Taped camera track lines (Cameras A, B, C) and colorful spike tape markings mapped out across the smooth grey concrete soundstage floor."
+          },
+          {
+            "id": "005",
+            "text": "Glowing red neon 'APPLAUSE' box sign mounted above the set edge flashing brightly toward the studio bleachers."
+          },
+          {
+            "id": "006",
+            "text": "Tiered studio audience bleachers in the foreground darkness, packed with spectators watching the brightly lit stage."
+          },
+          {
+            "id": "007",
+            "text": "Soundstage perimeter showing acoustic soundproofing baffling on the distant walls, fire doors, and rolling video monitor carts."
+          },
+          {
+            "id": "008",
+            "text": "Studio ceiling exposing giant air ducts, catwalks, numbered lighting dimmers, and rigged multi-directional floodlights."
+          },
+          {
+            "id": "009",
+            "text": "Adjacent swing set visible off to the side behind rolling theatrical flats, prepared for the next comedic scene."
+          },
+          {
+            "id": "010",
+            "text": "Director's video village console cart visible on the soundstage floor with stacked CRT broadcast preview monitors."
+          }
+        ]
+      },
+      {
+        "title": "CAMERA_PERSPECTIVE_GROUP",
+        "options": [
+          {
+            "id": "011",
+            "text": "Low-angle wide shot framed directly behind the shoulder of Camera B operator peering through the studio camera viewfinder."
+          },
+          {
+            "id": "012",
+            "text": "High crane angle looking downward over the lighting grid, capturing the full three-wall set box and the entire camera crew below."
+          },
+          {
+            "id": "013",
+            "text": "Off-axis side wing view looking past stage managers holding large printed cue cards and script clipboards."
+          },
+          {
+            "id": "014",
+            "text": "Wide fourth-wall frontal view with the silhouetted heads and shoulders of the front-row audience framing the bottom edge."
+          },
+          {
+            "id": "015",
+            "text": "Pulled-back three-camera array view showing three massive Vinten pedestal cameras simultaneously tracking the performance."
+          },
+          {
+            "id": "016",
+            "text": "Deep theatrical side perspective capturing the transition line where brightly lit faux wallpaper meets exposed raw studio scaffolding."
+          },
+          {
+            "id": "017",
+            "text": "Eye-level floor manager POV standing alongside thick bundled snake cables and rolling audio mixing pedestals."
+          },
+          {
+            "id": "018",
+            "text": "Extreme wide establishing angle framing the entire soundstage proscenium, overhead rigging, and tiered spectator risers."
+          },
+          {
+            "id": "019",
+            "text": "Dynamic diagonal angle slicing across the fourth wall boundary with a prominent boom pole dipping into the top third."
+          },
+          {
+            "id": "020",
+            "text": "Over-the-audience angle looking past laughing crowd silhouettes toward the vibrant, high-key illuminated sitcom interior."
+          }
+        ]
+      },
+      {
+        "title": "STAGE_ACTION_GROUP",
+        "options": [
+          {
+            "id": "021",
+            "text": "Fischer boom mic operator actively extending a long telescoping shotgun microphone over the main actors' heads."
+          },
+          {
+            "id": "022",
+            "text": "Floor manager wearing a clear-com headset and gesturing with a two-minute countdown finger cue from the set apron."
+          },
+          {
+            "id": "023",
+            "text": "Camera A operator smoothly dollying a heavy studio pedestal on pneumatic wheels along taped floor marks."
+          },
+          {
+            "id": "024",
+            "text": "Script supervisor perched on a high director's stool following along with an annotated, highlighted shooting script."
+          },
+          {
+            "id": "025",
+            "text": "Live audience laughing and clapping enthusiastically in the dimmed bleachers under low ambient bounce light."
+          },
+          {
+            "id": "026",
+            "text": "Stagehand in black crew attire holding a large cardboard cue card with dialogue lines written in thick black marker."
+          },
+          {
+            "id": "027",
+            "text": "Stand-in actor or costumer stepping in with lint rollers and makeup powder during a quick technical camera repositioning."
+          },
+          {
+            "id": "028",
+            "text": "Camera C operator panning sharply to track an actor hitting their mark beside the studio sofa."
+          },
+          {
+            "id": "029",
+            "text": "Lighting technician adjusting a barn door on a low fill light positioned just behind the camera line."
+          },
+          {
+            "id": "030",
+            "text": "Audio engineer adjusting a wireless transmitter beltpack clipped to an actor's waistband just off-camera."
+          }
+        ]
+      },
+      {
+        "title": "BROADCAST_AESTHETIC_GROUP",
+        "options": [
+          {
+            "id": "031",
+            "text": "Bright, even multi-camera studio high-key illumination with broad fill, crisp key lights, and sharp hair rim highlights."
+          },
+          {
+            "id": "032",
+            "text": "1990s broadcast videotape saturation with rich primary colors, subtle edge halos, and clean studio contrast."
+          },
+          {
+            "id": "033",
+            "text": "1970s warm analog video look with saturated oranges and browns, slight tube camera comet-tailing, and warm tungsten glow."
+          },
+          {
+            "id": "034",
+            "text": "Classic 1980s prime-time sitcom palette with punchy pastels, high-diffusion soft fill, and sparkling stage practicals."
+          },
+          {
+            "id": "035",
+            "text": "Modern high-definition studio taping clarity with razor-sharp set textures, vivid set dressing, and clean color separation."
+          },
+          {
+            "id": "036",
+            "text": "Dual lighting contrast separating the warm, high-key brightly lit set interior from the cool, deep blue-shadowed soundstage exterior."
+          },
+          {
+            "id": "037",
+            "text": "Studio CRT monitor feedback glow casting greenish-blue raster lines onto the dark floor manager console."
+          },
+          {
+            "id": "038",
+            "text": "Crisp multi-camera television gamma curve with elevated shadow midtones and zero dramatic falloff within the set."
+          },
+          {
+            "id": "039",
+            "text": "1960s three-camera black-and-white kinescope character with rich studio gray scales and glowing overhead key lights."
+          },
+          {
+            "id": "040",
+            "text": "Pristine multi-cam live broadcast fidelity featuring balanced front-fill, rim-lit hair separation, and vivid wardrobe color."
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "MEN'S ACTION NOVEL",
     "category": [
       "VINTAGE",
