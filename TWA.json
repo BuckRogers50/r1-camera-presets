@@ -1,5 +1,198 @@
 [
   {
+    "name": "OLD SPICE SMELL LIKE A MAN COMMERCIAL CAMPAIGN",
+    "category": [
+      "VINTAGE ADVERTISING",
+      "SURREAL HUMOR",
+      "COMMERCIAL EDITORIAL",
+      "HYPER-MASCULINE SATIRE"
+    ],
+    "message": "Take a picture and transform it into an iconic, hyper-confident, surreal print advertisement inspired by the classic Old Spice 'Smell Like a Man, Man' campaign. CORE TRANSFORMATION: Position the subject in an absurdly aspirational, luxurious, or over-the-top outdoor or studio scenario, draped in effortless swagger, wearing a crisp white bath towel wrapped around their waist or draped casually over one shoulder[cite: 1]. The subject deadpans at the camera while presenting vibrant red grooming bottles, handfuls of diamonds, or nautical props[cite: 1]. Include bold, glossy retro magazine ad layout styling with crisp commercial typography banners reading 'SMELL LIKE A MAN, MAN.'[cite: 1] IDENTITY PRESERVATION: Maintain the subject's exact facial feature proportions, ethnic identity, distinctive traits, and expressions while infusing them with suave, larger-than-life charisma. COMPOSITION: Frame as a punchy, mid-to-wide commercial print ad shot with saturated colors, sharp studio-quality daylight illumination, and dynamic spatial depth[cite: 1]. ADDITIONAL INSTRUCTIONS: Emulate glossy 2010s ad-campaign 35mm film stock, brilliant daylight fill-flash, and subtle print tear-sheet borders. NEGATIVE PROMPTS: Low contrast, muddy lighting, dour or moody atmosphere, amateur cell-phone quality, blurry props, disorganized layout, grim expressions. RANDOMIZATION RECOMMENDATIONS: Pair lavishly absurd vehicles or nautical mounts with deadpan smirks and vivid seaside or luxury backdrops. CREATIVE STRATEGY: Treat utter absurdity with straight-faced commercial seriousness, polished high-gloss advertising clarity, and effortless swagger[cite: 1]. VISUAL DNA: White bath towel attire, bright nautical daylight, vintage red bottle packaging, glossy commercial print layout, deadpan suave confidence[cite: 1].",
+    "randomizeOptions": true,
+    "optionGroups": [
+      {
+        "title": "ENVIRONMENT_GROUP",
+        "options": [
+          {
+            "id": "001",
+            "text": "Glossy wooden deck of a luxury speedboat cutting through crystal turquoise tropical waters under full sun."
+          },
+          {
+            "id": "002",
+            "text": "Sun-drenched, tranquil lake setting while sitting nonchalantly in a wooden rowboat with lush green pine banks[cite: 1]."
+          },
+          {
+            "id": "003",
+            "text": "Pristine white sand beach with turquoise waves gently lapping at the shore under a cloudless blue sky."
+          },
+          {
+            "id": "004",
+            "text": "Luxurious outdoor hot tub carved from solid granite, steaming gently atop a snow-capped alpine mountain peak."
+          },
+          {
+            "id": "005",
+            "text": "Lush tropical waterfall oasis with exotic parrots perched on mossy rocks in warm afternoon sunshine."
+          },
+          {
+            "id": "006",
+            "text": "Opulent mid-century wood-paneled salon with a crackling stone fireplace and velvet seating."
+          },
+          {
+            "id": "007",
+            "text": "Back of an open-top vintage sports car parked casually on a cliff overlooking the French Riviera."
+          },
+          {
+            "id": "008",
+            "text": "Pristine modern bathroom that seamlessly blends outdoors into an open ocean yacht deck."
+          },
+          {
+            "id": "009",
+            "text": "Championship equestrian polo field with impeccably manicured green turf under golden hour light."
+          },
+          {
+            "id": "010",
+            "text": "Helicopter skids hovering inches above an exotic island lagoon surrounded by sparkling azure mist."
+          }
+        ]
+      },
+      {
+        "title": "POSE_AND_PROP_GROUP",
+        "options": [
+          {
+            "id": "011",
+            "text": "Holding three bright red grooming bottles fan-style in one palm, towel over shoulder, looking dead-center[cite: 1]."
+          },
+          {
+            "id": "012",
+            "text": "Proudly seated backwards on a pristine white stallion with one hand resting casually on the hip."
+          },
+          {
+            "id": "013",
+            "text": "Open palm extended toward the camera overflowing with sparkling cut diamonds and gold tokens."
+          },
+          {
+            "id": "014",
+            "text": "Effortlessly balancing an ornate silver cocktail shaker on one index finger while wrapped in a crisp towel."
+          },
+          {
+            "id": "015",
+            "text": "Holding two tickets to that thing you love that magically morph into an iced tropical drink."
+          },
+          {
+            "id": "016",
+            "text": "Relaxing back with one arm casually resting on a wooden boat oar, thumb pointed back at self[cite: 1]."
+          },
+          {
+            "id": "017",
+            "text": "Casually presenting a red deodorant stick like an Olympic gold medal, standing tall and square-shouldered."
+          },
+          {
+            "id": "018",
+            "text": "Mid-stride walking on water with absolute nonchalance while balancing a tray of fresh oysters."
+          },
+          {
+            "id": "019",
+            "text": "Holding the reins of a majestic sea turtle with one hand while holding body wash in the other."
+          },
+          {
+            "id": "020",
+            "text": "Leaning against a solid gold anchor, chest puffed out, holding up a gleaming bar of red soap."
+          }
+        ]
+      },
+      {
+        "title": "EXPRESSION_GROUP",
+        "options": [
+          {
+            "id": "021",
+            "text": "Deadpan, unwavering direct gaze radiating utter, unshakeable self-confidence and suave charm."
+          },
+          {
+            "id": "022",
+            "text": "Subtle, knowing half-smirk with a single raised eyebrow aimed straight down the barrel of the camera."
+          },
+          {
+            "id": "023",
+            "text": "Charismatic, gleaming mega-watt commercial smile that practically twinkles with studio sheen."
+          },
+          {
+            "id": "024",
+            "text": "Earnest, intense eye contact delivering an absurd boast with completely straight-faced sincerity."
+          },
+          {
+            "id": "025",
+            "text": "Suave, smooth wink paired with a subtle, ultra-confident head tilt."
+          },
+          {
+            "id": "026",
+            "text": "Serene, effortless composure as if wrestling a bear was no more difficult than buttering toast."
+          },
+          {
+            "id": "027",
+            "text": "Playful, tongue-in-cheek intensity daring the viewer to question the sheer absurdity of the scene."
+          },
+          {
+            "id": "028",
+            "text": "Grounded, hyper-masculine gravitas mixed with breezy, lighthearted theatrical flair."
+          },
+          {
+            "id": "029",
+            "text": "Warm, inviting hero look inviting the audience to join the highest tier of gentlemanly excellence."
+          },
+          {
+            "id": "030",
+            "text": "Classic mid-century handsome grin radiating wholesome rugged appeal and comedic perfection."
+          }
+        ]
+      },
+      {
+        "title": "AESTHETIC_FINISH_GROUP",
+        "options": [
+          {
+            "id": "031",
+            "text": "Vibrant glossy magazine print look with punchy saturated reds, oceanic blues, and bright whites."
+          },
+          {
+            "id": "032",
+            "text": "Classic commercial studio punch light with crisp rim highlights and flawless, sun-bronzed skin tones."
+          },
+          {
+            "id": "033",
+            "text": "Subtle lower-third advertising banner typography with bold text reading 'SMELL LIKE A MAN, MAN.'[cite: 1]"
+          },
+          {
+            "id": "034",
+            "text": "Rich 35mm ad-campaign film stock with ultra-fine grain, saturated warm highlights, and clean contrast."
+          },
+          {
+            "id": "035",
+            "text": "High-gloss full-page magazine tear-sheet aesthetic with sharp edge-to-edge commercial clarity."
+          },
+          {
+            "id": "036",
+            "text": "Saturated nautical red, white, and navy color grading with vibrant outdoor sunshine."
+          },
+          {
+            "id": "037",
+            "text": "Crisp fill-flash aesthetic balancing brilliant noon sun with razor-sharp product and skin details."
+          },
+          {
+            "id": "038",
+            "text": "Subtle vintage halftone print dot micro-texture reminiscent of high-end Sunday newspaper glossy inserts."
+          },
+          {
+            "id": "039",
+            "text": "Pristine hyper-real commercial photography finish with deep saturated colors and studio-perfect specular glints."
+          },
+          {
+            "id": "040",
+            "text": "Retro-modern color grade with creamy warm highlights, oceanic cyan water, and trademark fire-engine red accents."
+          }
+        ]
+      }
+    ]
+  }, 
+  {
     "name": "THREE-CAMERA SITCOM SOUNDSTAGE ADAPTATION",
     "category": [
       "TELEVISION PRODUCTION",
