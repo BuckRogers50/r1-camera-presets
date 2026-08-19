@@ -1,5 +1,199 @@
 [
   {
+    "name": "THREE-CAMERA SITCOM SOUNDSTAGE ADAPTATION",
+    "category": [
+      "TELEVISION PRODUCTION",
+      "BEHIND THE SCENES",
+      "STUDIO SOUNDSTAGE",
+      "MULTI-CAMERA TAPING",
+      "FOURTH WALL BREAK"
+    ],
+    "message": "Take a picture and transform it into a ground-level medium shot from the studio floor of a live multi-camera sitcom soundstage, where the entire background environment, architecture, furniture, and backdrop from the original source image are 100% preserved and faithfully recreated as an authentic three-wall theatrical studio set. CORE TRANSFORMATION: Reconstruct every room element, wall color, window placement, furniture arrangement, and decorative backdrop from the source image into a fully realized sitcom stage flat that abruptly cuts off at the top and sides into the utilitarian infrastructure of a television soundstage. Position the perspective on the concrete studio floor among broadcast pedestal cameras (Ped A, B, C), displaying camera hoods, glowing red tally lights, teleprompter monitors, color-coded floor tape spikes, thick snake cables, and overhead lighting grids hung with Fresnels and scoop lights directly above the source-accurate set walls. IDENTITY PRESERVATION: Maintain exact facial proportions, physical features, wardrobe style, and human anatomical scale relative to the recreated environment props—ensuring the subject stands or sits naturally within the source-accurate set at true-to-life human scale rather than altered or distorted. COMPOSITION: Center-weighted medium floor shot framed from the camera trench directly facing the source-replicated set, capturing crisp focus on the subject and room architecture while foreground pedestal hardware, hanging shotgun boom mics, and peripheral, darkened live studio audience risers frame the scene without obstructing key details. ADDITIONAL INSTRUCTIONS: Ensure every structural element, doorway, wall art, and prop from the original image is 100% matched in position and structure as physical set pieces, flanked by exposed wooden flat bracing, sandbags, and stage manager cue stations in the wings. NEGATIVE PROMPTS: Changing or removing source background architecture, replacing source room layout, distorted human scaling, miniature or giant subjects, bird's-eye bleacher POVs, cinematic location filming, natural outdoor lighting, CGI virtual volume, single-camera film grading. RANDOMIZATION RECOMMENDATIONS: Pair precise camera trench floor angles with distinct multi-cam cueing actions, broadcast video color balances, and subtle lighting variations across the replicated set. CREATIVE STRATEGY: Transform the source photograph into undeniable physical television history by faithfully rebuilding its exact world as a physical sitcom soundstage set viewed directly from the working floor crew's vantage point. VISUAL DNA: 100% source-accurate background set architecture, exposed upper flat boundaries, heavy broadcast pedestal cameras in foreground, overhead boom microphone capsule, taped concrete floor marks, and soft peripheral audience bleacher shadows.",
+    "randomizeOptions": true,
+    "optionGroups": [
+      {
+        "title": "STAGE_ENVIRONMENT_GROUP",
+        "options": [
+          {
+            "id": "001",
+            "text": "Source-accurate background wall flats ending abruptly at the top edge beneath heavy overhead metal scaffolding and scoop lights."
+          },
+          {
+            "id": "002",
+            "text": "Smooth grey concrete studio floor marked with multi-colored spike tape and thick bundled black camera snake cables."
+          },
+          {
+            "id": "003",
+            "text": "Foreground broadcast pedestal viewfinder and teleprompter screen framing the lower left apron of the source-matched set."
+          },
+          {
+            "id": "004",
+            "text": "Flanking edge of the soundstage showing distant studio audience bleacher silhouettes under faint blue safety illumination."
+          },
+          {
+            "id": "005",
+            "text": "Telescoping boom pole with a deadcat shotgun mic hovering just above the upper boundary of the recreated set walls."
+          },
+          {
+            "id": "006",
+            "text": "Illuminated red tally light on a foreground studio camera indicating active live recording of the source-structured scene."
+          },
+          {
+            "id": "007",
+            "text": "Floor manager station visible just off the set apron with a script music stand, stopwatches, and cue clipboards."
+          },
+          {
+            "id": "008",
+            "text": "Side wing view revealing the raw plywood bracing and sandbags anchoring the exact source-replicated room flats."
+          },
+          {
+            "id": "009",
+            "text": "Overhead lighting batten packed with Mole-Richardson Fresnels and broad soft fills aimed squarely into the set interior."
+          },
+          {
+            "id": "010",
+            "text": "Rolling color confidence monitor cart parked along the camera line displaying live feed rasters of the exact scene."
+          }
+        ]
+      },
+      {
+        "title": "FLOOR_PERSPECTIVE_GROUP",
+        "options": [
+          {
+            "id": "011",
+            "text": "Straight-on medium shot framed down-center directly between the matte boxes of Camera A and Camera B."
+          },
+          {
+            "id": "012",
+            "text": "Eye-level waist-up framing captured just over the right shoulder of the seated camera pedestal operator."
+          },
+          {
+            "id": "013",
+            "text": "Slight low-angle floor perspective looking up at the actor perfectly proportioned against the source-accurate backdrop doors and walls."
+          },
+          {
+            "id": "014",
+            "text": "Center-aligned three-quarter shot anchored on the studio floor camera track with perfectly balanced architectural set scale."
+          },
+          {
+            "id": "015",
+            "text": "Over-the-teleprompter medium framing keeping the subject sharply focused at realistic life-size human proportions."
+          },
+          {
+            "id": "016",
+            "text": "Medium close-up framed squarely from the center camera pedestal with shallow depth falloff to the source-matched back wall."
+          },
+          {
+            "id": "017",
+            "text": "Slightly offset camera trench angle looking past a broadcast lens hood directly into the illuminated room flat."
+          },
+          {
+            "id": "018",
+            "text": "Direct frontal medium framing with the edge of an audience riser softly blurred in the deep lateral wing background."
+          },
+          {
+            "id": "019",
+            "text": "Waist-high studio floor POV capturing the actor naturally positioned amidst the source image's exact furniture layout."
+          },
+          {
+            "id": "020",
+            "text": "Balanced mid-shot framed from the center floor aisle between two heavy broadcast pedestals on pneumatic wheels."
+          }
+        ]
+      },
+      {
+        "title": "ACTOR_PERFORMANCE_GROUP",
+        "options": [
+          {
+            "id": "021",
+            "text": "Subject delivering comedic dialogue with expressive timing while holding focus along the center broadcast camera line."
+          },
+          {
+            "id": "022",
+            "text": "Camera operator hands resting on pan-and-tilt focus handles in the extreme lower foreground edge of the frame."
+          },
+          {
+            "id": "023",
+            "text": "Boom microphone operator subtly dipping the mic capsule closer overhead to capture dialogue delivery."
+          },
+          {
+            "id": "024",
+            "text": "Floor director in a clear-com headset raising a hand just out of frame to cue a physical comedic reaction."
+          },
+          {
+            "id": "025",
+            "text": "Actor reacting naturally to an unseen laugh track beat while staying precisely locked to their floor tape mark."
+          },
+          {
+            "id": "026",
+            "text": "Script supervisor sitting beside the camera run tracking dialogue line deliveries against an annotated shooting script."
+          },
+          {
+            "id": "027",
+            "text": "Subject executing a classic sitcom double-take reaction toward the source-matched doorway flat."
+          },
+          {
+            "id": "028",
+            "text": "Stagehand holding cue boards standing stationary just beyond the camera track boundary in the side wing."
+          },
+          {
+            "id": "029",
+            "text": "Actor performing a relaxed, natural standing gesture scaled seamlessly against the 8-foot theatrical flat walls."
+          },
+          {
+            "id": "030",
+            "text": "Camera assistant pulling focus smoothly on a side-mounted remote focus whip during the performance."
+          }
+        ]
+      },
+      {
+        "title": "BROADCAST_AESTHETIC_GROUP",
+        "options": [
+          {
+            "id": "031",
+            "text": "Classic high-key multi-cam lighting with ultra-crisp overhead key lights, broad fill, and rim-lit hair separation."
+          },
+          {
+            "id": "032",
+            "text": "1990s prime-time videotape saturation with rich set hues, clear skin tones, and bright frontal illumination."
+          },
+          {
+            "id": "033",
+            "text": "Warm multi-camera studio tungsten glow casting clean, soft shadows across the source-accurate set flooring."
+          },
+          {
+            "id": "034",
+            "text": "Bright, punchy 1980s sitcom color balance with even lighting across the entire three-wall living space."
+          },
+          {
+            "id": "035",
+            "text": "Modern crisp high-definition broadcast studio lighting with sharp textures and zero dramatic shadow falloff."
+          },
+          {
+            "id": "036",
+            "text": "Even studio fill paired with faint blue ambient falloff across the out-of-bounds floor and rigging areas."
+          },
+          {
+            "id": "037",
+            "text": "Sharp broadcast video gamma providing high contrast on wardrobe colors and vivid source-replicated textures."
+          },
+          {
+            "id": "038",
+            "text": "Tungsten key lights balanced with cool bounce from floor-level video monitors and glowing tally lights."
+          },
+          {
+            "id": "039",
+            "text": "Classic analog television warmth with balanced midtones, glowing practical lamps, and sharp key separation."
+          },
+          {
+            "id": "040",
+            "text": "Pristine multi-cam live broadcast finish with rich color fidelity, clean edges, and authentic soundstage depth."
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "THREE-CAMERA SITCOM FLOOR VIEW",
     "category": [
       "TELEVISION PRODUCTION",
