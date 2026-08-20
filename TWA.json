@@ -1,5 +1,83 @@
 [
   {
+    "name": "SME AI CONTENT GENERATION PIPELINE",
+    "category": [
+      "WORKFLOW ILLUSTRATION",
+      "PROCESS AUTOMATION",
+      "EDITORIAL PIPELINE",
+      "CORPORATE CONTENT CREATION"
+    ],
+    "message": "Take a picture and transform it into a sleek, modern isometric 3D visual illustration representing a key stage in an AI-assisted Subject Matter Expert (SME) content creation pipeline. CORE TRANSFORMATION: Convert the input visual into a polished, high-tech conceptual vector graphic with clean lines, vivid accent colors, and clear workflow iconography. IDENTITY PRESERVATION: Maintain key contextual symbols of human subject matter expertise, regulatory knowledge, and artificial intelligence interaction. COMPOSITION: Frame as a centered isometric perspective or structured editorial diagram with balanced visual hierarchy and minimalist graphic background elements. ADDITIONAL INSTRUCTIONS: Apply bright modern studio lighting, subtle ambient shadows, crisp edge definition, and glowing digital accent lines. NEGATIVE PROMPTS: Photorealism, dark dingy atmosphere, cluttered messy text, low-contrast grays, blurry rendering, hand-drawn roughness. RANDOMIZATION RECOMMENDATIONS: Cycle through the workflow step options to generate a cohesive series of step-by-step presentation illustrations. CREATIVE STRATEGY: Represent data ingestion, custom GPT generation, SME interview, transcript conversion, multi-document prompt synthesis, editorial polishing, and leadership review. VISUAL DNA: Vibrant teal and royal blue accents, crisp white backdrop, floating 3D glassmorphism panels, glowing data streams, vector finish.",
+    "randomizeOptions": true,
+    "optionGroups": [
+      {
+        "title": "PROCESS_STEPS_GROUP",
+        "options": [
+          {
+            "id": "001",
+            "text": "Step 01 - Topic Selection: A floating 3D spreadsheet interface highlighting Row 5 in the 'Minimal Risk Research' tab, representing Carol's topic entry."
+          },
+          {
+            "id": "002",
+            "text": "Step 02 - Custom GPT Ingestion: Raw text data streams from Topic, Carol's Notes, and Jess's Notes flowing into a custom AI engine node labeled 'The Carol Sadorra Experiment'."
+          },
+          {
+            "id": "003",
+            "text": "Step 03 - Interview Guide Creation: A custom GPT outputting ten generated questions, transforming into a structured document icon compiled by Greg."
+          },
+          {
+            "id": "004",
+            "text": "Step 04 - Guide Distribution: A digital document flying across a network connection node from Greg directly to Carol's workspace."
+          },
+          {
+            "id": "005",
+            "text": "Step 05 - SME Interview Execution: Carol at a desk following the structured interview guide during an active remote interview recording session."
+          },
+          {
+            "id": "006",
+            "text": "Step 06 - Audio-to-Transcript Conversion: A raw Zoom video/audio wave file processing through ClipChamp to generate a clean text transcript file."
+          },
+          {
+            "id": "007",
+            "text": "Step 07 - Prompt Initialization: Mike opening a fresh ChatGPT session and loading the specialized article generation master prompt."
+          },
+          {
+            "id": "008",
+            "text": "Step 08 - Persona Customization: A profile module for 'Director, Regulatory' locking into place within the customized prompt frame."
+          },
+          {
+            "id": "009",
+            "text": "Step 09 - Meta-Prompt Architecture Reference: A glowing golden blueprint graphic floating above the workflow as an overarching prompt template reference."
+          },
+          {
+            "id": "010",
+            "text": "Step 10 - Multi-Document Attachment: Three labeled document icons—transcript.docx, structure.docx, and questions.docx—uploading simultaneously into ChatGPT."
+          },
+          {
+            "id": "011",
+            "text": "Step 11 - AI Draft Synthesis: ChatGPT processing multi-file context to generate the article 'NHSR, Exempt, Expedited, or Full Board?'"
+          },
+          {
+            "id": "012",
+            "text": "Step 12 - Editorial First Draft: Mike reviewing the raw AI draft, applying refined editorial polish, and sharing Draft 1 with Carol."
+          },
+          {
+            "id": "013",
+            "text": "Step 13 - SME Review & Final Polish: Carol annotating feedback on Draft 1, which Mike integrates into the polished article text."
+          },
+          {
+            "id": "014",
+            "text": "Step 14 - Leadership Socialization: The completed article draft presented at a central round table surrounded by IRB leadership team review avatars."
+          },
+          {
+            "id": "015",
+            "text": "Step 15 - Process Endpoint & Milestone: A glowing checkmark milestone node on a timeline track marking successful process completion."
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "DIESELSPICE",
     "category": [
       "DIESELPUNK"
