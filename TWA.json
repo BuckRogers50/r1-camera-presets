@@ -1,5 +1,198 @@
 [
   {
+    "name": "CREATIVE EDITORIAL WORKFLOW",
+    "category": [
+      "ILLUSTRATIVE EDITORIAL",
+      "WORKFLOW NARRATIVE",
+      "COMMERCIAL ART",
+      "CHARACTER IN ACTION"
+    ],
+    "message": "Take a picture and transform it into a polished, high-end editorial digital illustration depicting the subject actively engaged in a dedicated step of a rigorous thought-leadership content creation workflow. CORE TRANSFORMATION: Place the subject in a modern workspace, executing a specific analytical or writing task with intense cognitive diligence. Render the scene with crisp linework, rich textural depth, and balanced environmental lighting. IDENTITY PRESERVATION: Accurately maintain the subject's distinct facial structure, bone proportions, hairstyle, and anatomical likeness from the original photo while translating their appearance into an expressive, stylized illustrative character. COMPOSITION: Frame as a balanced medium workspace shot, dynamic desk action study, or profile portrait showcasing both the character's nuanced facial expression and their physical interaction with documents, screens, and peripherals. ADDITIONAL INSTRUCTIONS: Emulate contemporary New Yorker or high-end tech publication editorial art with clean silhouettes, tactile surface textures, and dynamic display and paper illumination. NEGATIVE PROMPTS: Photorealistic 3D render, generic corporate clip art, distorted hands, illegible low-resolution screens, blank or emotionless faces, muddy coloring. RANDOMIZATION RECOMMENDATIONS: Pair the core workflow action with distinct spatial perspectives, authentic facial tensions, and textured illustration styles. CREATIVE STRATEGY: Treat each step as a key story beat where the subject's eyes, posture, and facial micro-tensions convey deep cognitive absorption and craft. VISUAL DNA: High-end vector-editorial styling, articulate hands, focused gaze, authentic digital workspace screens, soft ambient glow, and narrative diligence.",
+    "randomizeOptions": true,
+    "optionGroups": [
+      {
+        "title": "WORKFLOW_STEP_GROUP",
+        "options": [
+          {
+            "id": "001",
+            "text": "Reviewing data in an XLSX spreadsheet on a modern monitor with dense cells and charts visible."
+          },
+          {
+            "id": "002",
+            "text": "Drafting a numbered list of ten targeted interview questions in a clean desktop text editor."
+          },
+          {
+            "id": "003",
+            "text": "Composing and sending the ten questions to the SME via an active desktop email client interface."
+          },
+          {
+            "id": "004",
+            "text": "Receiving an email notification containing a shared link to the SME's recorded Zoom interview session."
+          },
+          {
+            "id": "005",
+            "text": "Reviewing and annotating a timestamped text transcript of the SME's recorded Zoom discussion on screen."
+          },
+          {
+            "id": "006",
+            "text": "Drafting the initial thought-leadership blog post in a Word document inspired by the transcript insights."
+          },
+          {
+            "id": "007",
+            "text": "Sharing the completed first draft document back to the SME for initial review and feedback via email."
+          },
+          {
+            "id": "008",
+            "text": "Polishing the document by integrating SME track changes and margin notes into a refined second draft."
+          },
+          {
+            "id": "009",
+            "text": "Sharing the second draft with institutional review leadership inside a collaborative cloud workspace."
+          },
+          {
+            "id": "010",
+            "text": "Resolving all remaining feedback comments and markups to finalize a polished, publish-ready blog post."
+          }
+        ]
+      },
+      {
+        "title": "SPATIAL_FRAMING_GROUP",
+        "options": [
+          {
+            "id": "011",
+            "text": "Dynamic over-the-shoulder medium shot balancing the subject's profile with the illuminated desk display."
+          },
+          {
+            "id": "012",
+            "text": "Direct eye-level medium close-up centering the subject at the desk with expressive facial micro-tensions."
+          },
+          {
+            "id": "013",
+            "text": "Cinematic three-quarters perspective highlighting focused facial concentration and active typing hands."
+          },
+          {
+            "id": "014",
+            "text": "Slight low-angle view lending an authoritative, commanding presence to the creative drafting process."
+          },
+          {
+            "id": "015",
+            "text": "Subtle high-angle workspace angle framing the desk peripherals, screen layout, and subject harmoniously."
+          },
+          {
+            "id": "016",
+            "text": "Tight narrative crop framing from forehead to chest with hands resting attentively at the keyboard."
+          },
+          {
+            "id": "017",
+            "text": "Wide editorial shot capturing the full posture and spatial relationship between subject and studio desk."
+          },
+          {
+            "id": "018",
+            "text": "Side-profile tracking composition emphasizing the subject leaning forward in total cognitive absorption."
+          },
+          {
+            "id": "019",
+            "text": "Frontal framing centered cleanly between dual monitors, emphasizing a direct, locked-in gaze."
+          },
+          {
+            "id": "020",
+            "text": "Layered semi-profile composition with soft foreground workspace objects framing the subject in depth."
+          }
+        ]
+      },
+      {
+        "title": "EXPRESSION_INTENSITY_GROUP",
+        "options": [
+          {
+            "id": "021",
+            "text": "Squinting analytical eyes and a tight jaw projecting sharp scrutiny during complex data review."
+          },
+          {
+            "id": "022",
+            "text": "Furrowed brow and focused gaze reflecting deep concentration while formulating targeted questions."
+          },
+          {
+            "id": "023",
+            "text": "Determined, resolute expression with a firm set mouth and poised finger ready to hit send."
+          },
+          {
+            "id": "024",
+            "text": "Wide, energized eyes and slightly raised eyebrows showing intense curiosity and anticipation."
+          },
+          {
+            "id": "025",
+            "text": "Hand propping the chin with a contemplative, searching expression analyzing spoken nuance."
+          },
+          {
+            "id": "026",
+            "text": "Fierce, locked-in gaze and engaged posture capturing the raw momentum of creative writing flow."
+          },
+          {
+            "id": "027",
+            "text": "Measured, professional poise with calm, expectant eyes releasing the draft for critique."
+          },
+          {
+            "id": "028",
+            "text": "Critical problem-solving scowl and focused micro-expressions while reconciling tracked edits."
+          },
+          {
+            "id": "029",
+            "text": "Vigilant, upright composure with steady, unwavering eyes awaiting executive review."
+          },
+          {
+            "id": "030",
+            "text": "Quiet smirk of hard-earned triumph and satisfied relief beside the finalized document."
+          }
+        ]
+      },
+      {
+        "title": "ILLUSTRATIVE_AESTHETIC_GROUP",
+        "options": [
+          {
+            "id": "031",
+            "text": "Contemporary editorial vector style with fine stipple texturing, clean contours, and muted gouache tones."
+          },
+          {
+            "id": "032",
+            "text": "Crisp graphic novel aesthetic featuring rich cross-hatched shadows, bold ink lines, and vibrant accents."
+          },
+          {
+            "id": "033",
+            "text": "Digital risograph print finish with tactile paper grain, subtle misregistration, and semi-transparent inks."
+          },
+          {
+            "id": "034",
+            "text": "Modern architectural editorial rendering with clean geometric planes, soft gradients, and sharp clarity."
+          },
+          {
+            "id": "035",
+            "text": "Textured digital screenprint treatment with matte surfaces, chalky highlights, and deep indigo shadows."
+          },
+          {
+            "id": "036",
+            "text": "Painterly narrative concept art style with textured brushwork, controlled rim lighting, and cinematic mood."
+          },
+          {
+            "id": "037",
+            "text": "Minimalist Scandinavian design illustration with flat color blocking, precise silhouettes, and paper grain."
+          },
+          {
+            "id": "038",
+            "text": "High-contrast linocut-inspired digital rendering with decisive black accents and balanced warm undertones."
+          },
+          {
+            "id": "039",
+            "text": "Soft pastel digital editorial finish with velvety shadow transitions, chalk line accents, and screen glow."
+          },
+          {
+            "id": "040",
+            "text": "Polished commercial publication illustration with sharp vector precision, micro-grain shading, and clean lighting."
+          }
+        ]
+      }
+    ]
+  }, 
+  {
     "name": "SME AI CONTENT GENERATION PIPELINE",
     "category": [
       "WORKFLOW ILLUSTRATION",
