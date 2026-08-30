@@ -1,0 +1,389 @@
+[
+  {
+    "name": "TECHNICOLOR GOLDEN AGE GLAMOUR PORTRAIT",
+    "category": [
+      "PORTRAIT",
+      "FINE ART PHOTOGRAPHY",
+      "FASHION PHOTOGRAPHY",
+      "MID-CENTURY MODERN"
+    ],
+    "message": "Take a picture and transform it into a lush, saturated 1950s Hollywood studio portrait in the style of classic three-strip Technicolor cinematography, while preserving the subject's identity exactly. Create the feeling of a glamorous studio publicity still — the kind shot on a soundstage for a major star under contract to a golden-age studio.\n\nComposition: Tight head-and-shoulders or mid-torso portrait, subject fills most of the frame, direct or subtly angled eye contact with the camera, a poised, deliberately glamorous pose. The final image should feel intentional, theatrical, and richly colored — every element of light, pose, expression, and color grading working together as a single coherent studio-glamour decision, not a filter applied over a snapshot.\n\nADDITIONAL INSTRUCTIONS\nSubject's facial identity, proportions, and recognizable features must be preserved exactly — this is a lighting, pose, expression, and color-grading transformation, not a reimagining of the person. Skin tones should be smooth and luminous in the flattering studio-glamour tradition, but must retain natural texture rather than becoming plastic or artificial. Wardrobe and hair styling should read as period-appropriate 1950s glamour (curled or waved hairstyles, fabric drapes, gloves, pearls) adapted naturally from whatever the subject is wearing. Background should remain a simple, elegant studio backdrop or soft color wash so all visual weight stays on the face, light, and color.\n\nNEGATIVE PROMPT\ndesaturated, black and white, modern casual clothing, cluttered or busy background, harsh digital sharpening halos, plastic overly-smoothed skin, snapshot-casual framing, wide-angle distortion, contemporary makeup trends, visible logos or branding, low resolution, amateur flash photography, muted or naturalistic color grading.\n\nRANDOMIZATION RECOMMENDATION\nYes. Randomizing one selection from each of the four groups (Lighting, Pose, Expression, Color Palette) independently produces thousands of coherent, non-contradictory Technicolor-glamour variations, since each group governs a genuinely separate technical or performative axis of the image rather than overlapping with the others.\n\nCREATIVE STRATEGY\nFour internal variable axes, flattened into one options list per the app's actual schema: options 001–010 are LIGHTING (the physical light setup), 011–020 are POSE (body/head positioning), 021–030 are EXPRESSION (the emotional register of the face), and 031–040 are COLOR_PALETTE (the specific Technicolor grading treatment, replacing the prior preset's film-grain axis since color, not print texture, is the defining character here). The fixed, unchanging parameters are strict identity preservation, rich saturated Technicolor output, and tight glamour-studio framing. The variables are how the subject is lit, how they're positioned, what they're feeling, and which specific saturated color language dominates the frame.\n\nVISUAL DNA ANALYSIS\nCinematic Identity: Golden-age studio publicity photography — the visual language of a contract star's official studio portrait, evoking the era without replicating any specific real actor's likeness or a specific copyrighted film still.\nAtmosphere: Theatrical, luminous, larger-than-life, glamorous.\nFraming Tendencies: Tight, frame-filling, classically posed, symmetrical or gracefully asymmetrical.\nEmotional Tone: Ranges from radiant warmth to sultry allure to dramatic intensity, always polished and performative.\nMaterial Language: Satin and velvet drapes, curled and waved hair, pearls and gloves, soft diffused studio light, glossy skin luminosity.\nColor Relationships: Heightened, saturated primaries — ruby reds, jewel-tone blues and greens, warm golden skin tones — carrying the same emotional weight that pure black-and-white tonal range carried in the prior preset.\nVisual Storytelling: Color itself as spectacle — the specific post-war thrill of seeing a face rendered in impossibly rich, dreamlike Technicolor for the first time.",
+    "randomizeOptions": true,
+    "optionGroups": [
+      {
+        "title": "LIGHTING_GROUP",
+        "options": [
+          {
+            "id": "001",
+            "text": "Classic Glamour Butterfly Light: A single strong light directly above and in front of the face, small symmetrical shadow beneath the nose, the definitive golden-age beauty light."
+          },
+          {
+            "id": "002",
+            "text": "Soft Key with Fill: A large, soft key light balanced by gentle fill, minimal shadow, flawless even glow typical of a studio portrait sitting."
+          },
+          {
+            "id": "003",
+            "text": "Rim-Lit Star Glow: A bright rim light tracing the hairline and shoulders, separating the subject glowingly from a darker background."
+          },
+          {
+            "id": "004",
+            "text": "Hard Hollywood Spotlight: A tightly focused, slightly harder spotlight creating crisp, dramatic falloff, theatrical and posed."
+          },
+          {
+            "id": "005",
+            "text": "Diffused Soft-Focus Halo: Light passed through a diffusion filter or soft gauze, a gentle glowing halo around bright highlights and hair."
+          },
+          {
+            "id": "006",
+            "text": "Three-Point Studio Classic: Balanced key, fill, and rim light in the traditional Hollywood three-point configuration, polished and controlled."
+          },
+          {
+            "id": "007",
+            "text": "Warm Tungsten Wash: A warm, golden-toned overall wash of light typical of incandescent studio bulbs, cozy and rich."
+          },
+          {
+            "id": "008",
+            "text": "Venetian Blind Accent: Soft striped shadow patterns crossing the face or background from an implied window blind, adding a touch of noir glamour."
+          },
+          {
+            "id": "009",
+            "text": "Colored Gel Backlight: A saturated colored gel (rose, amber, or blue) washing the background behind the subject while the face remains naturally lit."
+          },
+          {
+            "id": "010",
+            "text": "Sparkle Catchlight Close: Lighting positioned to create a bright, prominent catchlight in the eyes, the defining \"movie star sparkle.\""
+          }
+        ]
+      },
+      {
+        "title": "POSE_GROUP",
+        "options": [
+          {
+            "id": "011",
+            "text": "Chin Lifted, Regal Profile: Chin raised, head turned to present a strong, classic profile line toward camera."
+          },
+          {
+            "id": "012",
+            "text": "Shoulder Drape Turn: Shoulders angled away, face turned back toward the lens, a fabric wrap or stole draping elegantly over one shoulder."
+          },
+          {
+            "id": "013",
+            "text": "Hand at the Jaw: One gloved or bare hand resting delicately along the jawline, fingers relaxed and elegant."
+          },
+          {
+            "id": "014",
+            "text": "Head Tilted, Swept Hairline: A gentle head tilt showing off a swept or curled hairstyle, one side of the neck exposed."
+          },
+          {
+            "id": "015",
+            "text": "Three-Quarter Studio Turn: Body at a classic three-quarter angle, face turned fully toward camera, a posed studio-sitting stance."
+          },
+          {
+            "id": "016",
+            "text": "Leaning on an Implied Pillar: Subject leaning gracefully against an unseen decorative surface, weight on one hip, relaxed elegance."
+          },
+          {
+            "id": "017",
+            "text": "Pearls or Fabric Touch: A hand lightly touching a string of pearls, a scarf, or a collar, adding a soft narrative gesture."
+          },
+          {
+            "id": "018",
+            "text": "Over-the-Shoulder Star Look: Body turned mostly away, head turned back over one shoulder in the classic pin-up-adjacent glance."
+          },
+          {
+            "id": "019",
+            "text": "Seated Poise: A seated three-quarter pose, hands folded gently in the lap, back straight, chin level."
+          },
+          {
+            "id": "020",
+            "text": "Wind-Swept Movement: Hair or a light scarf caught mid-movement as if by a soft studio fan, dynamic but controlled."
+          }
+        ]
+      },
+      {
+        "title": "EXPRESSION_GROUP",
+        "options": [
+          {
+            "id": "021",
+            "text": "Radiant Movie-Star Smile: A wide, warm, confident smile, eyes bright and fully engaged with the camera."
+          },
+          {
+            "id": "022",
+            "text": "Sultry Half-Smile: A soft, closed-lip smile with slightly lowered lids, an air of knowing allure."
+          },
+          {
+            "id": "023",
+            "text": "Wistful Longing: Eyes gazing just past the lens, lips slightly parted, a dreamy, romantic middle-distance look."
+          },
+          {
+            "id": "024",
+            "text": "Playful Wink-Adjacent Charm: Bright, mischievous eyes and a subtle asymmetrical smile, lighthearted and flirtatious."
+          },
+          {
+            "id": "025",
+            "text": "Elegant Composure: A serene, dignified expression, calm eyes holding the camera steadily."
+          },
+          {
+            "id": "026",
+            "text": "Dramatic Intensity: Slightly narrowed eyes and a firm set to the mouth, echoing a tense film-still moment."
+          },
+          {
+            "id": "027",
+            "text": "Delighted Laugh: A genuine, bright laugh captured mid-motion, eyes crinkled with real joy."
+          },
+          {
+            "id": "028",
+            "text": "Cool Sophistication: A composed, faintly amused expression, one eyebrow subtly lifted."
+          },
+          {
+            "id": "029",
+            "text": "Tender Softness: Gentle, warm eyes and a small genuine smile, an intimate and approachable warmth."
+          },
+          {
+            "id": "030",
+            "text": "Bold Star Power: Wide, fully open eyes holding the lens with unflinching, confident charisma."
+          }
+        ]
+      },
+      {
+        "title": "COLOR_PALETTE_GROUP",
+        "options": [
+          {
+            "id": "031",
+            "text": "Classic Three-Strip Saturation: Rich, heightened primary colors — deep reds, saturated blues, and warm skin tones — the hallmark of true Technicolor dye-transfer prints."
+          },
+          {
+            "id": "032",
+            "text": "Ruby Lip, Ivory Skin: A strong color emphasis on vivid red lips and smooth, luminous ivory skin tones against a softer background palette."
+          },
+          {
+            "id": "033",
+            "text": "Jewel-Tone Wardrobe Pop: A single saturated jewel tone (emerald, sapphire, or ruby) in the wardrobe or background, popping vividly against neutral skin tones."
+          },
+          {
+            "id": "034",
+            "text": "Golden Sunset Wash: An overall warm golden-amber color grade across the whole frame, evoking a studio backlot at magic hour."
+          },
+          {
+            "id": "035",
+            "text": "Cool Studio Blue Backdrop: A rich, deep blue or teal studio backdrop contrasting warmly against the subject's skin tones."
+          },
+          {
+            "id": "036",
+            "text": "Vintage Dye-Transfer Glow: Slightly soft, glowing highlights with rich, slightly bleeding color edges typical of early Technicolor dye-transfer printing."
+          },
+          {
+            "id": "037",
+            "text": "Candy-Bright Pastel Wardrobe: Soft but highly saturated pastel wardrobe tones (pink, mint, butter yellow) against neutral studio backgrounds."
+          },
+          {
+            "id": "038",
+            "text": "Deep Studio Red Velvet: A dominant deep red background or drape, rich and theatrical, framing the subject dramatically."
+          },
+          {
+            "id": "039",
+            "text": "Champagne and Gold Shimmer: Warm metallic gold and champagne tones throughout, evoking old-Hollywood luxury and glamour."
+          },
+          {
+            "id": "040",
+            "text": "High-Saturation Poster Color: Bold, poster-bright color throughout the entire frame, deliberately heightened beyond natural color for maximum visual impact."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "EDITORIAL FINE-ART BLACK & WHITE PORTRAIT",
+    "category": [
+      "PHOTOGRAPHY",
+      "PHOTOREALISM",
+      "PORTRAIT",
+      "FASHION",
+      "FASHION PHOTOGRAPHY"
+    ],
+    "message": "Take a picture and transform it into an ultra-premium editorial fine-art black-and-white portrait while preserving the subject's identity exactly. Create the feeling of a world-class fashion magazine cover shot photographed by an elite portrait photographer.\n\nComposition: Tight head-and-shoulders or mid-torso portrait, subject fills most of the frame, direct eye contact with the camera, natural asymmetrical pose. The final image should feel intentional, controlled, and expensive — every element of light, pose, expression, and print texture working together as a single coherent artistic decision, not a filter applied over a snapshot.\n\nADDITIONAL INSTRUCTIONS\nSubject's facial identity, proportions, and recognizable features must be preserved exactly — this is a lighting, pose, and print-treatment transformation, not a reimagining of the person. The image must read as genuinely premium and intentional: no visible AI artifacts, no uncanny skin smoothing, natural pore and hair texture retained. Background should remain simple and unobtrusive (seamless studio backdrop or softly out-of-focus) so all visual weight stays on the face and light.\n\nNEGATIVE PROMPT\ncolor, oversaturated, cartoonish, cheerful smiling, cluttered background, harsh digital sharpening halos, plastic skin, snapshot-casual framing, wide-angle distortion, busy patterned clothing, visible logos or branding, low resolution, amateur flash photography.\n\nRANDOMIZATION RECOMMENDATION\nYes. Randomizing one selection from each of the four groups (Lighting, Pose, Expression, Film/Texture) independently produces thousands of coherent, non-contradictory editorial portrait variations, since each group governs a genuinely separate technical or performative axis of the image rather than overlapping with the others.\n\nCREATIVE STRATEGY\nFour internal variable axes, flattened into one options list per the app's actual schema: options 001–010 are LIGHTING (the physical light setup), 011–020 are POSE (body/head positioning), 021–030 are EXPRESSION (the emotional register of the face), and 031–040 are FILM/TEXTURE (the print and grain character). The fixed, unchanging parameters are strict identity preservation, black-and-white output, and tight editorial framing. The variables are how the subject is lit, how they're positioned, what they're feeling, and how the final print itself is textured — four genuinely independent decisions a real portrait photographer and printer would make separately.\n\nVISUAL DNA ANALYSIS\nCinematic Identity: High-fashion editorial portraiture — the visual language of Annie Leibovitz-adjacent or Peter Lindbergh-adjacent black-and-white cover work, without replicating any specific photographer's copyrighted image.\nAtmosphere: Controlled, intentional, quietly powerful.\nFraming Tendencies: Tight, frame-filling, asymmetrical, direct.\nEmotional Tone: Ranges from cool detachment to fierce intensity to quiet vulnerability, always composed.\nMaterial Language: Skin texture, fabric grain, fine hair detail, the physical quality of light itself as a tactile subject.\nColor Relationships: Pure tonal range from deep black to bright white, no color information — contrast and gradation carry the entire emotional weight.\nVisual Storytelling: The face as the entire subject — nothing in the frame exists except what reveals character through light, pose, and expression.",
+    "randomizeOptions": true,
+    "optionGroups": [
+      {
+        "title": "LIGHTING_GROUP",
+        "options": [
+          {
+            "id": "001",
+            "text": "Rembrandt Light: A classic 45-degree key light creating a small triangle of light on the shadowed cheek, deep but detailed shadow on one side of the face."
+          },
+          {
+            "id": "002",
+            "text": "Split Lighting: Light falling on exactly half the face, the other half in dramatic, near-total shadow, a hard clean vertical division."
+          },
+          {
+            "id": "003",
+            "text": "Butterfly Light: A single light positioned directly above and in front of the face, casting a small symmetrical shadow beneath the nose, glamour-portrait classic."
+          },
+          {
+            "id": "004",
+            "text": "Hard Window Light: A single large, hard-edged shaft of directional light as if from an unseen window, sharp shadow lines across the face and shoulder."
+          },
+          {
+            "id": "005",
+            "text": "High-Key Minimal: Bright, even, almost shadowless lighting against a near-white background, delicate soft tonal gradations rather than deep blacks."
+          },
+          {
+            "id": "006",
+            "text": "Low-Key Dramatic: The subject emerging from near-total blackness, only a sliver of the face and one shoulder catching light, deep rich blacks dominating the frame."
+          },
+          {
+            "id": "007",
+            "text": "Rim Light Silhouette Edge: A strong backlight tracing a bright rim along the hair and shoulder line, the front of the face in soft controlled shadow."
+          },
+          {
+            "id": "008",
+            "text": "Soft Overcast Diffusion: Even, shadowless, cloud-diffused light quality, gentle tonal transitions, a quiet contemplative mood."
+          },
+          {
+            "id": "009",
+            "text": "Loop Lighting: A small, soft nose shadow looping toward the mouth, a flattering, classic studio-portrait light pattern."
+          },
+          {
+            "id": "010",
+            "text": "Hard Spotlight Isolation: A tightly focused single spotlight isolating the face against total darkness, theatrical and intense."
+          }
+        ]
+      },
+      {
+        "title": "POSE_GROUP",
+        "options": [
+          {
+            "id": "011",
+            "text": "Chin Dropped, Eyes Up: Chin tilted slightly down, eyes lifted directly to the lens, a classic intense editorial gaze."
+          },
+          {
+            "id": "012",
+            "text": "Shoulder Turned Away: Shoulders angled away from camera while the face turns back toward the lens, creating natural torsion through the neck."
+          },
+          {
+            "id": "013",
+            "text": "Hand Grazing Jawline: One hand resting lightly along the jaw or cheek, fingers relaxed, breaking the frame's symmetry."
+          },
+          {
+            "id": "014",
+            "text": "Head Tilted, Long Neck: A gentle head tilt elongating the neck line, one side of the collarbone or shoulder exposed."
+          },
+          {
+            "id": "015",
+            "text": "Chin Lifted, Proud Line: Chin raised slightly, a strong clean jawline presented confidently to camera."
+          },
+          {
+            "id": "016",
+            "text": "Three-Quarter Turn: Body at a three-quarter angle to camera, face turned fully toward the lens, weight visibly on one side."
+          },
+          {
+            "id": "017",
+            "text": "Collar or Fabric Grasp: A hand loosely gathering or adjusting a collar, lapel, or fabric near the shoulder, adding a candid editorial gesture."
+          },
+          {
+            "id": "018",
+            "text": "Leaning Into Frame: Subject leaning slightly forward into the camera, shoulders asymmetrical, an engaged, present energy."
+          },
+          {
+            "id": "019",
+            "text": "Over-the-Shoulder Glance: Body turned mostly away, head turned back over one shoulder toward the lens."
+          },
+          {
+            "id": "020",
+            "text": "Resting Against Unseen Surface: One shoulder or side of the head appearing to lean against an implied unseen wall or surface, casual asymmetry."
+          }
+        ]
+      },
+      {
+        "title": "EXPRESSION_GROUP",
+        "options": [
+          {
+            "id": "021",
+            "text": "Quiet Intensity: A calm, unblinking, direct gaze with no smile — controlled and self-possessed."
+          },
+          {
+            "id": "022",
+            "text": "Soft Confidence: Relaxed features, the faintest suggestion of a smile at the corners of the mouth, warm but composed."
+          },
+          {
+            "id": "023",
+            "text": "Cool Detachment: A neutral, almost unreadable expression, high-fashion editorial distance."
+          },
+          {
+            "id": "024",
+            "text": "Vulnerable Openness: Slightly parted lips, softer brow, an unguarded and emotionally open expression."
+          },
+          {
+            "id": "025",
+            "text": "Fierce Focus: Slightly narrowed eyes, a sense of coiled intensity and sharp attention."
+          },
+          {
+            "id": "026",
+            "text": "Wistful Middle Distance: Eyes not quite meeting the lens, a thoughtful, slightly melancholic middle-distance gaze."
+          },
+          {
+            "id": "027",
+            "text": "Regal Composure: Chin level, expression still and dignified, a sense of quiet authority."
+          },
+          {
+            "id": "028",
+            "text": "Playful Smirk: A slight asymmetrical smirk, one eyebrow subtly raised, knowing and confident."
+          },
+          {
+            "id": "029",
+            "text": "Bold Directness: Wide, fully engaged eyes holding the camera with unflinching directness."
+          },
+          {
+            "id": "030",
+            "text": "Serene Stillness: Fully relaxed facial muscles, slow breathing implied, a meditative calm."
+          }
+        ]
+      },
+      {
+        "title": "FILM_TEXTURE_GROUP",
+        "options": [
+          {
+            "id": "031",
+            "text": "Fine Grain Medium Format: Extremely fine, smooth grain structure typical of medium-format film, rich tonal depth from pure black to bright white."
+          },
+          {
+            "id": "032",
+            "text": "Classic Tri-X Grain: Visible, characterful 35mm grain typical of high-speed black-and-white film stock, gritty and textured."
+          },
+          {
+            "id": "033",
+            "text": "Ultra-Smooth Digital Fine Art: Clean, grain-free tonal gradation typical of a high-end digital fine-art print, glass-smooth transitions."
+          },
+          {
+            "id": "034",
+            "text": "Deep Matte Print: Rich, slightly compressed shadow detail and a matte, non-reflective print quality, gallery-wall feel."
+          },
+          {
+            "id": "035",
+            "text": "High-Contrast Punch: Strong separation between deep blacks and bright whites, minimal mid-tone detail, bold graphic quality."
+          },
+          {
+            "id": "036",
+            "text": "Soft Silver Gelatin: Warm-toned blacks and a gentle glow in the highlights, reminiscent of a hand-printed silver gelatin darkroom print."
+          },
+          {
+            "id": "037",
+            "text": "Subtle Vignette Fade: A gentle darkening toward the frame edges, drawing the eye naturally to the face."
+          },
+          {
+            "id": "038",
+            "text": "Sharp Modern Clarity: Crisp micro-detail in skin texture and hair, ultra-clean contemporary editorial sharpness."
+          },
+          {
+            "id": "039",
+            "text": "Muted Low-Contrast Fog: Slightly lifted blacks and softened whites, a hazy, dreamlike tonal range."
+          },
+          {
+            "id": "040",
+            "text": "Archival Fiber Paper Texture: A faint, fine paper-grain texture across the whole image, as if printed on textured fiber-based photographic paper."
+          }
+        ]
+      }
+    ]
+  }
+]
