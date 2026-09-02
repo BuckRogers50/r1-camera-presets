@@ -1,5 +1,18 @@
 [
   {
+    "name": "BACK IN THE DAY POSTER",
+    "category": [
+      "TRANSFORMATION",
+      "RETRO",
+      "NOSTALGIA",
+      "HISTORICAL"
+    ],
+    "message": "Take a picture and create a 'Back in the Day' commemorative poster featuring the subject. If an external master prompt specifies a year, USE THAT YEAR. If no year is specified, analyze the subject's apparent age and estimate their birth year (e.g., if they appear 40 years old, use a year approximately 40 years ago). Design a vintage poster with the subject's portrait centered, surrounded by a collage of iconic images from that specific year: major world events and news headlines, popular movies and TV shows, music albums and top songs, new inventions and technology, popular vehicles and cars, sports championships, fashion trends and cultural icons, and cost of living data. Title at top: 'BACK IN THE DAY - [YEAR]'. Use vintage newspaper/magazine aesthetic with 8-12 labeled images arranged around the central portrait. Period-appropriate fonts, color schemes, and nostalgic design that looks like an authentic gift shop commemorative poster. Photorealistic rendering.",
+    "options": [],
+    "randomizeOptions": false,
+    "additionalInstructions": ""
+  },
+  {
     "name": "AVEDON B&W HIGH-CONTRAST",
     "category": [
       "BLACK AND WHITE",
