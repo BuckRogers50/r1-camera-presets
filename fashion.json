@@ -1,5 +1,59 @@
 [
   {
+    "name": "DECADE STYLE",
+    "category": [
+      "RETRO",
+      "FASHION",
+      "HISTORY",
+      "NOSTALGIA"
+    ],
+    "message": "Take a picture and transform the subject to look like they're from a specific decade with authentic styling, fashion, and setting.\n\nTRANSFORM THE SUBJECT:\n• Hairstyle authentic to the decade\n• Fashion/clothing iconic to that era\n• Accessories and props from that time period\n• Setting/background appropriate (diner, disco, arcade, coffee shop, etc.)\n• Photo quality/filter matching the era (grainy for older decades, filtered for recent)\n• Body language and pose typical of decade's photography style\n\nINCLUDE DECADE MARKERS:\n• Iconic technology (rotary phone, transistor radio, boombox, flip phone, smartphone)\n• Cultural touchstones (movie posters, album covers, magazine covers)\n• Advertisements or signage from that era\n• Vehicles if relevant (hot rod, VW bus, DeLorean, SUV)\n\nSTYLE:\n• Photorealistic or period-appropriate photo quality\n• Color grading matching the decade (sepia/B&W for early, Kodachrome warmth for mid-century, Instagram filters for recent)\n• Authentic period detail - no anachronisms",
+    "options": [
+      {
+        "id": "001",
+        "text": "1920s (Roaring Twenties - flapper dresses, cloche hats, Art Deco, speakeasies, Charleston, jazz age, bootleggers, drop-waist dresses, feather boas, prohibition era)"
+      },
+      {
+        "id": "002",
+        "text": "1930s (Great Depression - fedoras, suspenders, breadlines, dustbowl, Hollywood glamour, bias-cut gowns, gangsters, swing dancing, Social Realism aesthetic)"
+      },
+      {
+        "id": "003",
+        "text": "1940s (WWII Era - military uniforms, victory rolls, pin-up style, USO shows, rationing posters, film noir aesthetic, wide-shoulder suits, victory gardens)"
+      },
+      {
+        "id": "004",
+        "text": "1950s (Post-War Boom - poodle skirts, leather jackets, diners, jukeboxes, sock hops, Greasers, rockabilly, suburban prosperity, tailfins, drive-ins)"
+      },
+      {
+        "id": "005",
+        "text": "1960s (Counterculture - hippies, mod fashion, go-go boots, Beatles influence, psychedelic patterns, civil rights era, mini skirts, peace signs, Woodstock vibes)"
+      },
+      {
+        "id": "006",
+        "text": "1970s (Disco Era - bell bottoms, platform shoes, afros, disco balls, Saturday Night Fever aesthetic, earth tones, macramé, Studio 54, leisure suits)"
+      },
+      {
+        "id": "007",
+        "text": "1980s (MTV Generation - neon colors, big hair, shoulder pads, leg warmers, boomboxes, arcade games, mall culture, Members Only jackets, Nagel-inspired fashion)"
+      },
+      {
+        "id": "008",
+        "text": "1990s (Grunge/Hip-Hop - flannel shirts, baggy jeans, chokers, bucket hats, CD players, boy bands, skateboard culture, Friends aesthetic, inflatable furniture)"
+      },
+      {
+        "id": "009",
+        "text": "2000s (Y2K/Emo - low-rise jeans, Von Dutch trucker hats, flip phones, iPods, Myspace scene kids, velour tracksuits, frosted tips, trucker hats)"
+      },
+      {
+        "id": "010",
+        "text": "2010s (Social Media Era - hipster fashion, Instagram aesthetic, smartphones everywhere, athleisure, man buns, craft beer culture, selfie sticks, beards)"
+      }
+    ],
+    "randomizeOptions": true,
+    "additionalInstructions": "FINAL RESULT:\nThe image should look like an authentic photograph taken during that decade, with the subject fully integrated into the era's fashion, culture, and aesthetic. Every element must be period-accurate \u2014 photography technique, fashion, styling, pose, and presentation. The subject must be recognizable despite the era-appropriate styling. The image should feel genuinely from the period, not a costume party photo."
+  },
+  {
     "name": "BIOSHOCK",
     "category": [
       "GAMING",
