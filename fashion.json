@@ -1,5 +1,93 @@
 [
   {
+    "name": "GOTH",
+    "category": [
+      "STYLE",
+      "SUBCULTURE",
+      "FASHION",
+      "DARK"
+    ],
+    "message": "Take a picture and transform the subject into goth subculture style.\nSUBJECT TRANSFORMATION:\n• Subject in full goth aesthetic for selected style\n• Face recognizable but styled dramatically\n• Complete goth makeover\n• Authentic to subculture\n• Not costume - lifestyle fashion\n\nMAKEUP & FACE (CRITICAL):\n• Pale foundation or powder (ghostly white skin)\n• Heavy black eyeliner (thick, dramatic, winged)\n• Dark eyeshadow (black, purple, deep red)\n• Black lipstick OR deep purple/burgundy/blood red\n• Contoured cheekbones (dramatic)\n• White face powder (porcelain skin)\n• Smokey eyes intense\n• Eyebrows dark and defined\n• Optional: Drawn-on beauty marks, occult symbols\n\nHAIR:\n• Black hair (dyed jet black) OR\n• Unnatural colors (deep red, purple, blue, white)\n• Styles:\n  - Teased and backcombed (traditional)\n  - Long and straight (romantic)\n  - Colored synthetic dreads (cyber)\n  - Victorian updos (romantic/vampire)\n  - Asymmetrical cuts (nu goth)\n  - Elaborate styling with accessories\n• Hair accessories: Flowers, bows, clips, headbands (all black or dark)\n\nCLOTHING (Style-specific):\n\n**Traditional Goth:**\n• Black lace, fishnet, leather\n• Band t-shirts (Bauhaus, Sisters of Mercy, The Cure)\n• Ripped fishnets and tights\n• Leather jackets with studs\n• Pointy boots (winklepickers)\n\n**Romantic Goth:**\n• Victorian corsets and bustiers\n• Velvet dresses and capes\n• Lace gloves and parasols\n• Long flowing skirts\n• Cameo jewelry\n\n**Cyber Goth:**\n• Neon synthetic dreads\n• Platform boots (massive)\n• PVC and reflective materials\n• UV reactive clothing\n• Goggles and gas masks\n• Industrial straps and buckles\n\n**Vampire Goth:**\n• Dramatic capes\n• Victorian clothing\n• Fangs visible\n• Blood-red accents\n• Gothic horror aesthetic\n\n**Pastel Goth:**\n• Pink, purple, mint, lavender WITH black\n• Creepy cute graphics (skulls with bows)\n• Platform shoes\n• Kawaii accessories\n• Inverted cross jewelry\n\n**Nu Goth:**\n• Minimalist all-black\n• Occult symbols (pentagram, moon phases)\n• Clean lines, modern cut\n• Grunge influence\n• Chokers and body harnesses\n\n**Deathrock:**\n• Torn clothing\n• Skeletal face paint\n• Spiky hair\n• Horror imagery\n• Punk meets goth\n\n**Gothic Lolita:**\n• Elaborate black dresses\n• Petticoats and bloomers\n• Mary Jane shoes\n• Bows and ribbons (black)\n• Victorian doll aesthetic\n\n**Mall Goth:**\n• Band t-shirts and hoodies\n• Striped arm warmers\n• Skinny jeans (black)\n• Studded belts\n• Converse or Vans\n• Chain wallet\n\nACCESSORIES:\n• Chokers (velvet, spiked, lace)\n• Silver jewelry (crosses, pentacles, ankhs, bats)\n• Rings (multiple, ornate)\n• Belts (studded, chains)\n• Bags (coffin-shaped, bat-shaped)\n• Parasols or umbrellas (black)\n• Gloves (lace, fishnet, leather)\n• Collar necklaces\n• Occult symbols\n\nFOOTWEAR:\n• Platform boots (Doc Martens, New Rocks)\n• Pointed boots (winklepickers)\n• Victorian boots (lace-up)\n• Creepers\n• Combat boots\n• Mary Janes (for lolita)\n• All black\n\nCOLOR PALETTE:\n• Primarily BLACK\n• Accents: Deep red, purple, burgundy, dark blue\n• White or pale for contrast\n• Silver jewelry (not gold)\n• Dark jewel tones\n• Pastels ONLY for pastel goth\n• Neon ONLY for cyber goth\n\nBODY MODIFICATIONS:\n• Piercings (nose, lip, eyebrow, multiple ear)\n• Tattoos (occult, bats, roses, skulls)\n• Stretched ears (gauges)\n• Black nail polish (long nails)\n\nPOSE & EXPRESSION:\n• Serious, brooding expression\n• Dramatic pose\n• Melancholic or mysterious\n• Arms crossed or hands posed artistically\n• Not smiling (unless ironic)\n• Intense gaze\n• Theatrical energy\n\nSETTING:\n• Gothic architecture (cemetery, cathedral, old building)\n• Dark room with candles\n• Abandoned location\n• Goth club or venue\n• Victorian interior\n• Graveyard (tasteful, not disrespectful)\n• Dark forest\n• Urban decay\n\nLIGHTING:\n• Low-key, dramatic lighting\n• Candlelight\n• Moonlight\n• High contrast (dark shadows)\n• Moody atmosphere\n• Purple or blue lighting (clubs)\n• Minimal lighting for mystery\n\nATMOSPHERE:\n• Dark, mysterious, romantic\n• Melancholic beauty\n• Gothic aesthetic throughout\n• Death-positive culture\n• Victorian mourning influence\n• Dark romanticism\n• Subcultural authenticity\n\nSYMBOLS & IMAGERY:\n• Crosses (inverted or traditional)\n• Pentagrams, occult symbols\n• Bats, ravens, crows\n• Skulls and bones\n• Roses (black or red)\n• Moon phases\n• Ankhs\n• Spiders and webs\n• Coffins\n\nMUSIC/CULTURAL REFERENCES:\n• Band imagery (The Cure, Bauhaus, Siouxsie, etc.)\n• Gothic literature references\n• Horror movie aesthetic\n• Victorian mourning culture\n• Occult and witchcraft themes\n\nSTYLE:\n• Photorealistic goth fashion photography\n• Editorial goth magazine quality\n• Subculture authenticity\n• Not Halloween costume - real lifestyle\n• Professional alternative fashion",
+    "options": [
+      {
+        "id": "001",
+        "text": "Traditional Goth (1980s) - teased hair, Robert Smith makeup, Siouxsie style, black lace, crosses"
+      },
+      {
+        "id": "002",
+        "text": "Romantic Goth - Victorian clothing, corsets, velvet, lace, period costume, elegant dark"
+      },
+      {
+        "id": "003",
+        "text": "Cyber Goth - neon dreads, goggles, platform boots, UV reactive, industrial rave"
+      },
+      {
+        "id": "004",
+        "text": "Vampire Goth - fangs, pale skin, Victorian vampire aesthetic, dramatic cape, Gothic horror"
+      },
+      {
+        "id": "005",
+        "text": "Corporate Goth - office attire in all black, professional but dark, business goth"
+      },
+      {
+        "id": "006",
+        "text": "Pastel Goth - pink/purple/mint with black, kawaii meets dark, creepy cute"
+      },
+      {
+        "id": "007",
+        "text": "Nu Goth - modern minimalist black, occult symbols, contemporary dark fashion"
+      },
+      {
+        "id": "008",
+        "text": "Deathrock - horror punk, skeletal makeup, torn fishnets, Misfits aesthetic"
+      },
+      {
+        "id": "009",
+        "text": "Gothic Lolita - Japanese lolita fashion, black Victorian dress, elaborate, princess goth"
+      },
+      {
+        "id": "010",
+        "text": "Steampunk Goth - Victorian industrial, goggles, gears, brass, neo-Victorian"
+      },
+      {
+        "id": "011",
+        "text": "Bubble Goth - platform shoes, colorful hair with black, club kid meets goth"
+      },
+      {
+        "id": "012",
+        "text": "Medieval Goth - Renaissance faire meets goth, medieval clothing, dark ages aesthetic"
+      },
+      {
+        "id": "013",
+        "text": "Glam Goth - glitter, makeup dramatic, androgynous, 1970s glam rock meets goth"
+      },
+      {
+        "id": "014",
+        "text": "Hippie Goth - flowing black clothes, patchouli, occult jewelry, dark bohemian"
+      },
+      {
+        "id": "015",
+        "text": "Mall Goth (2000s) - Hot Topic era, band t-shirts, chains, striped arm warmers, emo influence"
+      }
+    ],
+    "randomizeOptions": true,
+    "additionalInstructions": "NOT ALLOWED:\n• Generic Halloween witch costume\n• Cheap spirit store goth\n• Cartoonish exaggeration\n• Disrespectful cemetery behavior\n• Cultural appropriation of death customs\n\nFINAL RESULT:\nThe image should show the subject transformed into authentic goth subculture style in the selected variation - with dramatic pale makeup, dark clothing, silver jewelry, black or dyed hair, and moody atmospheric setting - appearing as a genuine member of the goth subculture with professional alternative fashion photography quality, culturally authentic details, and that distinctive dark romantic aesthetic that defines goth culture."
+  },
+  {
+    "name": "GOTHIC MEDIEVAL ART",
+    "category": [
+      "ART",
+      "PAINTING",
+      "MEDIEVAL",
+      "GOTHIC",
+      "ILLUSTRATION"
+    ],
+    "message": "Take a picture and transform the subject into a Gothic medieval-style artwork. Render the subject with elongated, dramatic proportions, stylized drapery, intricate patterns, and muted, earthy colors typical of 12th–15th century Gothic art. Include characteristic elements such as pointed arches, cathedral-like backgrounds, stained glass windows, ornate borders, and symbolic motifs.\n\nUse flat or slightly sculptural lighting with subtle gold leaf accents, emphasizing solemnity and reverence. Preserve the subject’s facial features and expression while adapting them to the medieval aesthetic.\n\nInclude a simple decorative frame, text banners, or illuminated manuscript-style captions if relevant, ensuring all elements are fully visible in the final composition. The final image should feel like a historical Gothic painting, dramatic and atmospheric, clearly readable on small screens, and fully contained within the frame.",
+    "options": [],
+    "randomizeOptions": false,
+    "additionalInstructions": ""
+  },
+  {
     "name": "FASHION EDITORIAL (DECADE)",
     "category": [
       "FASHION",
