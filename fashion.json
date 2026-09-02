@@ -1,5 +1,17 @@
 [
   {
+    "name": "DRAG ME",
+    "category": [
+      "HUMOR",
+      "TRANSFORMATION",
+      "GLAMOUR"
+    ],
+    "message": "Take a picture and transform the subject into a fabulous, over-the-top drag queen persona.\n\nCRITICAL - PRESERVE SUBJECT IDENTITY:\n• This is the SUBJECT in drag, NOT a generic drag queen\n• Subject's facial structure MUST remain clearly recognizable\n• Subject's eyes, nose shape, jawline, and unique features preserved\n• Do NOT replace the subject with a stock drag queen image\n• Apply drag makeup and styling TO the subject's actual face\n• Someone should be able to identify the subject underneath the drag\n• This is a transformation of the subject, not a different person\n\nDRAG MAKEUP (Applied to subject's face):\n• Dramatic contouring that enhances subject's bone structure\n• Bold eye makeup with exaggerated lashes and colorful eyeshadow\n• Sculpted cheekbones (on subject's actual cheeks)\n• Overdrawn lips with glossy or matte finish (subject's mouth shape enhanced)\n• Flawlessly blended foundation matching subject's skin tone\n• Heavy highlight and contour\n• Subject's facial features visible under the makeup\n• Eyebrows: blocked out and redrawn higher, or dramatically shaped\n\nDRAG WIG:\n• Show-stopping theatrical wig\n• Big hair with volume, height, or dramatic styling\n• Vibrant colors or natural tones\n• Curls, waves, straight, teased, or avant-garde\n• Wig complements subject's face shape\n• Theatrical and attention-grabbing\n\nDRAG ATTIRE:\n• Glamorous drag outfit\n• Options: sequined gowns, feather boas, rhinestone garments\n• Platform heels or dramatic boots\n• Bold jewelry and accessories\n• Avant-garde fashion pieces\n• Over-the-top fabulous styling\n• Confident, unapologetic glamour\n\nPOSE & EXPRESSION:\n• Fierce and confident\n• Sassy and playful, OR elegantly commanding\n• Star power and charisma\n• Hand on hip, dramatic gesture, or runway pose\n• Subject's personality shining through the drag persona\n\nLIGHTING & SETTING:\n• Stage-quality theatrical lighting\n• Dramatic glamour lighting\n• Background: runway, stage, club, or dramatic backdrop\n• Spotlights and theatrical atmosphere\n• Professional drag performance aesthetic\n\nSTYLE:\n• Photorealistic drag transformation\n• Professional drag artistry\n• Respectful celebration of drag culture\n• Humorous and fabulous\n• High-quality drag queen aesthetic\n• Subject as the star of their own drag show",
+    "options": [],
+    "randomizeOptions": false,
+    "additionalInstructions": "FINAL RESULT:\nThe image should show the subject - CLEARLY RECOGNIZABLE as themselves - transformed into a fabulous drag queen with dramatic makeup applied to their actual face, a show-stopping wig, glamorous drag attire, and confident fierce energy - celebrating drag artistry with respect, humor, and unforgettable fabulousness while preserving the subject's unique facial features and identity."
+  },
+  {
     "name": "DECADE STYLE",
     "category": [
       "RETRO",
