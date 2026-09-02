@@ -1,5 +1,87 @@
 [
   {
+    "name": "FASHION EDITORIAL (DECADE)",
+    "category": [
+      "FASHION",
+      "PHOTOGRAPHY",
+      "EDITORIAL",
+      "HISTORICAL",
+      "STYLE"
+    ],
+    "message": "Take a picture and transform the subject into a high-fashion editorial photograph from a specific decade \u2014 capturing not just the clothing but the entire photographic style, makeup, hair, pose conventions, and cultural attitude of that era's fashion photography. The image should look like it was torn from the pages of Vogue, Harper's Bazaar, or a cutting-edge fashion magazine of the chosen decade. Every element should be period-authentic: the film stock/processing, the lighting style, the model's pose and expression, the set design, and the overall mood.",
+    "optionGroups": [
+      {
+        "id": "DECADE",
+        "label": "Fashion Decade",
+        "options": [
+          {
+            "id": "001",
+            "text": "1950s \u2014 Avedon elegance, New Look silhouettes, pearls, gloves, architectural poses, studio perfection"
+          },
+          {
+            "id": "002",
+            "text": "1960s \u2014 Mod revolution, Twiggy eyes, geometric cuts, pop art influence, youth quake energy"
+          },
+          {
+            "id": "003",
+            "text": "1970s \u2014 Helmut Newton drama, Studio 54 glamour, flowing fabrics, sexual liberation, warm film tones"
+          },
+          {
+            "id": "004",
+            "text": "1980s \u2014 power shoulders, excess, Patrick Demarchelier style, bold color, supermodel era begins"
+          },
+          {
+            "id": "005",
+            "text": "1990s \u2014 heroin chic minimalism, Kate Moss era, stripped back, raw, Corinne Day intimacy"
+          },
+          {
+            "id": "006",
+            "text": "2000s \u2014 digital perfection, Terry Richardson flash, Y2K futurism, glossy and provocative"
+          }
+        ],
+        "randomizeOptions": true
+      },
+      {
+        "id": "MOOD",
+        "label": "Editorial Mood",
+        "options": [
+          {
+            "id": "101",
+            "text": "High glamour \u2014 aspirational luxury, perfect lighting, untouchable beauty"
+          },
+          {
+            "id": "102",
+            "text": "Avant-garde \u2014 experimental, challenging, pushing boundaries of beauty and form"
+          },
+          {
+            "id": "103",
+            "text": "Intimate/candid \u2014 behind-the-scenes feel, natural moments, vulnerability"
+          },
+          {
+            "id": "104",
+            "text": "Narrative/cinematic \u2014 telling a story, character-driven, location-specific"
+          }
+        ],
+        "randomizeOptions": true
+      }
+    ],
+    "randomizeOptions": true,
+    "additionalInstructions": "The photographic style must be authentic to the decade \u2014 correct film stock look, lighting conventions, and post-processing. Fashion, hair, and makeup must be period-accurate. The subject must be recognizable while transformed into a fashion model of the era."
+  },
+  {
+    "name": "FASHION SKETCH",
+    "category": [
+      "ART",
+      "FASHION",
+      "ILLUSTRATION",
+      "DESIGN"
+    ],
+    "message": "Take a picture and transform the subject into a high-fashion illustration sketch in the style of fashion designers' croquis drawings. Elongate the subject's proportions to the exaggerated 9-10 head-height fashion illustration standard. Render using loose, confident ink strokes with selective watercolor washes for color. The subject's clothing should be reimagined as haute couture — dramatic silhouettes, exaggerated proportions, and avant-garde design elements. Include fashion sketch conventions: fabric swatches pinned to the corner, handwritten notes about materials and construction details, color palette dots, and the designer's signature. The pose should be a classic fashion illustration stance — one hip cocked, elongated legs, and an attitude of effortless elegance. Use a mix of fine-line pen work for details and broad marker strokes for shadows. The sketch should appear on high-quality illustration paper with visible paper texture.",
+    "options": [],
+    "randomizeOptions": false,
+    "additionalInstructions": "FINAL RESULT:\nA professional fashion illustration with elongated proportions, loose ink and watercolor technique, fabric swatches, designer notes, and haute couture reimagining of the subject's outfit."
+  },
+  {
     "name": "DRAG ME",
     "category": [
       "HUMOR",
