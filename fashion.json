@@ -1,5 +1,18 @@
 [
   {
+    "name": "BEAUTY PHOTOGRAPHY CLOSE-UP",
+    "category": [
+      "PHOTOGRAPHY",
+      "FASHION",
+      "BEAUTY",
+      "PORTRAIT"
+    ],
+    "message": "Take a picture and transform it into a high-end beauty photography close-up — the ultra-detailed, perfectly-lit facial portrait used in cosmetics and skincare advertising. The subject's face should fill the frame with flawless, luminous skin, precise makeup application visible in extraordinary detail, and the kind of controlled studio lighting that makes every texture and color sing.",
+    "options": [],
+    "randomizeOptions": false,
+    "additionalInstructions": "VISUAL REQUIREMENTS:\n• Extreme close-up framing: face fills entire frame\n• Flawless, luminous skin with visible healthy texture (not plastic)\n• Precise, editorial makeup visible in fine detail\n• Multiple light sources creating dimension without harsh shadows\n• Catchlights in eyes creating life and sparkle\n• Every eyelash, pore, and lip texture rendered in sharp detail\n• Clean, simple background (white, gradient, or colored)\n• Color accuracy critical for skin tones and makeup colors\n• Reference photographers: Mario Testino, Patrick Demarchelier, Solve Sundsbo (beauty work)"
+  },
+  {
     "name": "BARBIE OR KEN DOLL",
     "category": [
       "DOLL",
